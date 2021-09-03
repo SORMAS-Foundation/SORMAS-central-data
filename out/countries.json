@@ -1,0 +1,2191 @@
+[
+  {
+    "key": "39403eae-a9d3-5dac-b3d9-3ea5ae675270",
+    "value": {
+      "isoCode": "AFG",
+      "defaultName": "Afghanistan",
+      "subcontinent": "Southern Asia",
+      "externalId": "21000212",
+      "unoCode": "4",
+      "uuid": "39403eae-a9d3-5dac-b3d9-3ea5ae675270"
+    }
+  },
+  {
+    "key": "0af800fc-19cf-5cce-868b-99e7eb234e9b",
+    "value": {
+      "isoCode": "ALB",
+      "defaultName": "Albanien",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000125",
+      "unoCode": "8",
+      "uuid": "0af800fc-19cf-5cce-868b-99e7eb234e9b"
+    }
+  },
+  {
+    "key": "9ad7c433-c59a-5f67-8f5f-b6e545a768c8",
+    "value": {
+      "isoCode": "DZA",
+      "defaultName": "Algerien",
+      "subcontinent": "Northwest Africa",
+      "externalId": "21000352",
+      "unoCode": "12",
+      "uuid": "9ad7c433-c59a-5f67-8f5f-b6e545a768c8"
+    }
+  },
+  {
+    "key": "3f9f628c-ed0a-50ea-8032-58f3e9ed0d61",
+    "value": {
+      "isoCode": "AND",
+      "defaultName": "Andorra",
+      "subcontinent": "Western Europe",
+      "externalId": "21000130",
+      "unoCode": "20",
+      "uuid": "3f9f628c-ed0a-50ea-8032-58f3e9ed0d61"
+    }
+  },
+  {
+    "key": "18dd0b44-e1ac-5110-8015-191af71ebbe3",
+    "value": {
+      "isoCode": "AGO",
+      "defaultName": "Angola",
+      "subcontinent": "Southwest Africa",
+      "externalId": "21000395",
+      "unoCode": "24",
+      "uuid": "18dd0b44-e1ac-5110-8015-191af71ebbe3"
+    }
+  },
+  {
+    "key": "727eff31-2369-5562-b430-ad5a5e0e5dab",
+    "value": {
+      "isoCode": "ATG",
+      "defaultName": "Antigua und Barbuda",
+      "subcontinent": "Central America",
+      "externalId": "21000441",
+      "unoCode": "28",
+      "uuid": "727eff31-2369-5562-b430-ad5a5e0e5dab"
+    }
+  },
+  {
+    "key": "cc859e6a-a551-5915-8c8f-1a77250c8d12",
+    "value": {
+      "isoCode": "AZE",
+      "defaultName": "Aserbaidschan",
+      "subcontinent": "Middle East",
+      "externalId": "21000253",
+      "unoCode": "31",
+      "uuid": "cc859e6a-a551-5915-8c8f-1a77250c8d12"
+    }
+  },
+  {
+    "key": "2e7b6603-ac72-5a7c-a72d-d0be933d9865",
+    "value": {
+      "isoCode": "ARG",
+      "defaultName": "Argentinien",
+      "subcontinent": "South America",
+      "externalId": "21000415",
+      "unoCode": "32",
+      "uuid": "2e7b6603-ac72-5a7c-a72d-d0be933d9865"
+    }
+  },
+  {
+    "key": "9c87286e-5192-55b2-8d7f-37c4cd732c1a",
+    "value": {
+      "isoCode": "AUS",
+      "defaultName": "Australien",
+      "subcontinent": "Australia (Subcontinent)",
+      "externalId": "21000501",
+      "unoCode": "36",
+      "uuid": "9c87286e-5192-55b2-8d7f-37c4cd732c1a"
+    }
+  },
+  {
+    "key": "c1fded94-afd9-543c-b258-f30ad990f755",
+    "value": {
+      "isoCode": "AUT",
+      "defaultName": "Österreich",
+      "subcontinent": "Central Europe",
+      "externalId": "21000110",
+      "unoCode": "40",
+      "uuid": "c1fded94-afd9-543c-b258-f30ad990f755"
+    }
+  },
+  {
+    "key": "33270f71-7c4f-57bf-b19d-3a9608587c59",
+    "value": {
+      "isoCode": "BHS",
+      "defaultName": "Bahamas",
+      "subcontinent": "Central America",
+      "externalId": "21000436",
+      "unoCode": "44",
+      "uuid": "33270f71-7c4f-57bf-b19d-3a9608587c59"
+    }
+  },
+  {
+    "key": "69f8fcc4-8b68-527b-9e0c-af7dedd64445",
+    "value": {
+      "isoCode": "BHR",
+      "defaultName": "Bahrain",
+      "subcontinent": "Southwest Asia",
+      "externalId": "21000249",
+      "unoCode": "48",
+      "uuid": "69f8fcc4-8b68-527b-9e0c-af7dedd64445"
+    }
+  },
+  {
+    "key": "b74bbc5c-33b6-5ae9-a730-cbc442011511",
+    "value": {
+      "isoCode": "BGD",
+      "defaultName": "Bangladesch",
+      "subcontinent": "Southern Asia",
+      "externalId": "21000246",
+      "unoCode": "50",
+      "uuid": "b74bbc5c-33b6-5ae9-a730-cbc442011511"
+    }
+  },
+  {
+    "key": "40924095-a5fd-5826-a343-f73450f89608",
+    "value": {
+      "isoCode": "ARM",
+      "defaultName": "Armenien",
+      "subcontinent": "Middle East",
+      "externalId": "21000252",
+      "unoCode": "51",
+      "uuid": "40924095-a5fd-5826-a343-f73450f89608"
+    }
+  },
+  {
+    "key": "013a2df4-fdfd-5744-b736-4d51b02a920d",
+    "value": {
+      "isoCode": "BRB",
+      "defaultName": "Barbados",
+      "subcontinent": "Central America",
+      "externalId": "21000434",
+      "unoCode": "52",
+      "uuid": "013a2df4-fdfd-5744-b736-4d51b02a920d"
+    }
+  },
+  {
+    "key": "f32e8ba1-4109-5b89-9100-dc69ae5a52e5",
+    "value": {
+      "isoCode": "BEL",
+      "defaultName": "Belgien",
+      "subcontinent": "Western Europe",
+      "externalId": "21000131",
+      "unoCode": "56",
+      "uuid": "f32e8ba1-4109-5b89-9100-dc69ae5a52e5"
+    }
+  },
+  {
+    "key": "60e36550-6dc5-57d3-b8d8-ff6335c105bc",
+    "value": {
+      "isoCode": "BTN",
+      "defaultName": "Bhutan",
+      "subcontinent": "Southern Asia",
+      "externalId": "21000214",
+      "unoCode": "64",
+      "uuid": "60e36550-6dc5-57d3-b8d8-ff6335c105bc"
+    }
+  },
+  {
+    "key": "10301546-5b70-59ad-ad74-4ecbb4a019fc",
+    "value": {
+      "isoCode": "BOL",
+      "defaultName": "Bolivien (Plurinationaler Staat von)",
+      "subcontinent": "South America",
+      "externalId": "21000418",
+      "unoCode": "68",
+      "uuid": "10301546-5b70-59ad-ad74-4ecbb4a019fc"
+    }
+  },
+  {
+    "key": "702bb40d-b3b3-596d-9b34-8d39ca7d36a1",
+    "value": {
+      "isoCode": "BIH",
+      "defaultName": "Bosnien und Herzegowina",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000118",
+      "unoCode": "70",
+      "uuid": "702bb40d-b3b3-596d-9b34-8d39ca7d36a1"
+    }
+  },
+  {
+    "key": "e03e678d-7a75-5ac7-aaff-2e0135d40d9a",
+    "value": {
+      "isoCode": "BWA",
+      "defaultName": "Botswana",
+      "subcontinent": "Southern Africa",
+      "externalId": "21000347",
+      "unoCode": "72",
+      "uuid": "e03e678d-7a75-5ac7-aaff-2e0135d40d9a"
+    }
+  },
+  {
+    "key": "c0bd56a6-63ee-5c51-8076-005701920e2b",
+    "value": {
+      "isoCode": "BRA",
+      "defaultName": "Brasilien",
+      "subcontinent": "South America",
+      "externalId": "21000416",
+      "unoCode": "76",
+      "uuid": "c0bd56a6-63ee-5c51-8076-005701920e2b"
+    }
+  },
+  {
+    "key": "54ee884a-8b2a-5086-a1bd-b770554904a0",
+    "value": {
+      "isoCode": "BLZ",
+      "defaultName": "Belize",
+      "subcontinent": "Central America",
+      "externalId": "21000429",
+      "unoCode": "84",
+      "uuid": "54ee884a-8b2a-5086-a1bd-b770554904a0"
+    }
+  },
+  {
+    "key": "0c0275e5-1871-542e-9819-2a34db821ed2",
+    "value": {
+      "isoCode": "SLB",
+      "defaultName": "Salomonen",
+      "subcontinent": "Oceania",
+      "externalId": "21000512",
+      "unoCode": "90",
+      "uuid": "0c0275e5-1871-542e-9819-2a34db821ed2"
+    }
+  },
+  {
+    "key": "93a3e5aa-3b11-5d52-8a64-dae9ab071db5",
+    "value": {
+      "isoCode": "BRN",
+      "defaultName": "Brunei Darussalam",
+      "subcontinent": "Southern Asia",
+      "externalId": "21000225",
+      "unoCode": "96",
+      "uuid": "93a3e5aa-3b11-5d52-8a64-dae9ab071db5"
+    }
+  },
+  {
+    "key": "63d8b7d4-a9f5-549d-916b-43325a5715d4",
+    "value": {
+      "isoCode": "BGR",
+      "defaultName": "Bulgarien",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000111",
+      "unoCode": "100",
+      "uuid": "63d8b7d4-a9f5-549d-916b-43325a5715d4"
+    }
+  },
+  {
+    "key": "fefd4bd6-b30f-58d7-9774-cb192dcd703d",
+    "value": {
+      "isoCode": "MMR",
+      "defaultName": "Myanmar",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000224",
+      "unoCode": "104",
+      "uuid": "fefd4bd6-b30f-58d7-9774-cb192dcd703d"
+    }
+  },
+  {
+    "key": "40c8b57d-1939-52c2-821b-508ec8a64c97",
+    "value": {
+      "isoCode": "BDI",
+      "defaultName": "Burundi",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000321",
+      "unoCode": "108",
+      "uuid": "40c8b57d-1939-52c2-821b-508ec8a64c97"
+    }
+  },
+  {
+    "key": "13df8174-7aee-5718-bfa2-34f59b25bb50",
+    "value": {
+      "isoCode": "BLR",
+      "defaultName": "Belarus",
+      "subcontinent": "Eastern Europe",
+      "externalId": "21000148",
+      "unoCode": "112",
+      "uuid": "13df8174-7aee-5718-bfa2-34f59b25bb50"
+    }
+  },
+  {
+    "key": "7cea6358-ed9f-5456-b231-b19df907a3bd",
+    "value": {
+      "isoCode": "KHM",
+      "defaultName": "Kambodscha",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000234",
+      "unoCode": "116",
+      "uuid": "7cea6358-ed9f-5456-b231-b19df907a3bd"
+    }
+  },
+  {
+    "key": "0717be42-9fc5-5c48-b515-0ee9753150bd",
+    "value": {
+      "isoCode": "CMR",
+      "defaultName": "Kamerun",
+      "subcontinent": "Central Africa",
+      "externalId": "21000322",
+      "unoCode": "120",
+      "uuid": "0717be42-9fc5-5c48-b515-0ee9753150bd"
+    }
+  },
+  {
+    "key": "f8fd5b51-6e6a-59d1-a8f1-5fd33db8fa22",
+    "value": {
+      "isoCode": "CAN",
+      "defaultName": "Kanada",
+      "subcontinent": "North America",
+      "externalId": "21000401",
+      "unoCode": "124",
+      "uuid": "f8fd5b51-6e6a-59d1-a8f1-5fd33db8fa22"
+    }
+  },
+  {
+    "key": "edb121bf-8488-539b-bee5-8a16d86249da",
+    "value": {
+      "isoCode": "CPV",
+      "defaultName": "Kap Verde",
+      "subcontinent": "Western Africa",
+      "externalId": "21000396",
+      "unoCode": "132",
+      "uuid": "edb121bf-8488-539b-bee5-8a16d86249da"
+    }
+  },
+  {
+    "key": "1d0be641-f1ab-5c34-9988-312d733a524a",
+    "value": {
+      "isoCode": "CAF",
+      "defaultName": "Zentralafrikanische Republik",
+      "subcontinent": "Central Africa",
+      "externalId": "21000323",
+      "unoCode": "140",
+      "uuid": "1d0be641-f1ab-5c34-9988-312d733a524a"
+    }
+  },
+  {
+    "key": "c8135a45-8538-544b-a4f5-dd7d47b6d10c",
+    "value": {
+      "isoCode": "LKA",
+      "defaultName": "Sri Lanka",
+      "subcontinent": "Southern Asia",
+      "externalId": "21000235",
+      "unoCode": "144",
+      "uuid": "c8135a45-8538-544b-a4f5-dd7d47b6d10c"
+    }
+  },
+  {
+    "key": "167a4292-d372-59bd-9161-f97557559b24",
+    "value": {
+      "isoCode": "TCD",
+      "defaultName": "Tschad",
+      "subcontinent": "Central Africa",
+      "externalId": "21000344",
+      "unoCode": "148",
+      "uuid": "167a4292-d372-59bd-9161-f97557559b24"
+    }
+  },
+  {
+    "key": "65a44126-7268-5cb6-9068-1dcb62ee695a",
+    "value": {
+      "isoCode": "CHL",
+      "defaultName": "Chile",
+      "subcontinent": "South America",
+      "externalId": "21000417",
+      "unoCode": "152",
+      "uuid": "65a44126-7268-5cb6-9068-1dcb62ee695a"
+    }
+  },
+  {
+    "key": "5f938244-ae55-55af-8c8d-ff8991c385db",
+    "value": {
+      "isoCode": "CHN",
+      "defaultName": "China",
+      "subcontinent": "Eastern Asia",
+      "externalId": "21000216",
+      "unoCode": "156",
+      "uuid": "5f938244-ae55-55af-8c8d-ff8991c385db"
+    }
+  },
+  {
+    "key": "3cf9bc58-0a81-52a6-bcbb-1daf712d4458",
+    "value": {
+      "isoCode": "COL",
+      "defaultName": "Kolumbien",
+      "subcontinent": "South America",
+      "externalId": "21000419",
+      "unoCode": "170",
+      "uuid": "3cf9bc58-0a81-52a6-bcbb-1daf712d4458"
+    }
+  },
+  {
+    "key": "80c6038f-910b-5c13-a619-8c98cac8dca9",
+    "value": {
+      "isoCode": "COM",
+      "defaultName": "Komoren",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000397",
+      "unoCode": "174",
+      "uuid": "80c6038f-910b-5c13-a619-8c98cac8dca9"
+    }
+  },
+  {
+    "key": "0e643f78-270b-5c75-ad81-69f17590c9ff",
+    "value": {
+      "isoCode": "COG",
+      "defaultName": "Kongo (Brazzaville)",
+      "subcontinent": "Central Africa",
+      "externalId": "21000324",
+      "unoCode": "178",
+      "uuid": "0e643f78-270b-5c75-ad81-69f17590c9ff"
+    }
+  },
+  {
+    "key": "d8894855-2851-529a-a1c4-dfa159f55f0e",
+    "value": {
+      "isoCode": "COD",
+      "defaultName": "Demokratische Republik Kongo",
+      "subcontinent": "Central Africa",
+      "externalId": "21000312",
+      "unoCode": "180",
+      "uuid": "d8894855-2851-529a-a1c4-dfa159f55f0e"
+    }
+  },
+  {
+    "key": "f8de6c2c-2a5a-582c-b284-af5028f1aab1",
+    "value": {
+      "isoCode": "COK",
+      "defaultName": "Cookinseln",
+      "subcontinent": "Oceania",
+      "externalId": "21000528",
+      "unoCode": "184",
+      "uuid": "f8de6c2c-2a5a-582c-b284-af5028f1aab1"
+    }
+  },
+  {
+    "key": "2468f3eb-ca69-574f-92a6-4e13edbe996c",
+    "value": {
+      "isoCode": "CRI",
+      "defaultName": "Costa Rica",
+      "subcontinent": "Central America",
+      "externalId": "21000406",
+      "unoCode": "188",
+      "uuid": "2468f3eb-ca69-574f-92a6-4e13edbe996c"
+    }
+  },
+  {
+    "key": "fd1a19e4-473b-5600-957a-948498d56256",
+    "value": {
+      "isoCode": "HRV",
+      "defaultName": "Kroatien",
+      "subcontinent": "Southern Europe",
+      "externalId": "21000119",
+      "unoCode": "191",
+      "uuid": "fd1a19e4-473b-5600-957a-948498d56256"
+    }
+  },
+  {
+    "key": "02e71dbb-f0ec-5bb1-bfb9-479cb48c97fa",
+    "value": {
+      "isoCode": "CUB",
+      "defaultName": "Kuba",
+      "subcontinent": "Central America",
+      "externalId": "21000407",
+      "unoCode": "192",
+      "uuid": "02e71dbb-f0ec-5bb1-bfb9-479cb48c97fa"
+    }
+  },
+  {
+    "key": "dbde06ac-f4dd-5c0f-b079-92ca6ee4bcba",
+    "value": {
+      "isoCode": "CYP",
+      "defaultName": "Zypern",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000209",
+      "unoCode": "196",
+      "uuid": "dbde06ac-f4dd-5c0f-b079-92ca6ee4bcba"
+    }
+  },
+  {
+    "key": "34981396-a94a-5316-a4a2-8de2f5438ebf",
+    "value": {
+      "isoCode": "CZE",
+      "defaultName": "Tschechische Republik",
+      "subcontinent": "Central Europe",
+      "externalId": "21000116",
+      "unoCode": "203",
+      "uuid": "34981396-a94a-5316-a4a2-8de2f5438ebf"
+    }
+  },
+  {
+    "key": "fbd039b9-cff7-5a8f-9549-202d67c8e754",
+    "value": {
+      "isoCode": "BEN",
+      "defaultName": "Benin",
+      "subcontinent": "Western Africa",
+      "externalId": "21000327",
+      "unoCode": "204",
+      "uuid": "fbd039b9-cff7-5a8f-9549-202d67c8e754"
+    }
+  },
+  {
+    "key": "6b37f2ff-70cb-5679-9fdb-92b510e82ee7",
+    "value": {
+      "isoCode": "DNK",
+      "defaultName": "Dänemark",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000101",
+      "unoCode": "208",
+      "uuid": "6b37f2ff-70cb-5679-9fdb-92b510e82ee7"
+    }
+  },
+  {
+    "key": "e761aa7a-039a-5421-aa1f-37d285fdcdb2",
+    "value": {
+      "isoCode": "DMA",
+      "defaultName": "Dominica",
+      "subcontinent": "Central America",
+      "externalId": "21000438",
+      "unoCode": "212",
+      "uuid": "e761aa7a-039a-5421-aa1f-37d285fdcdb2"
+    }
+  },
+  {
+    "key": "b741ed8c-a9ec-5c4e-916f-8c88a9a6e732",
+    "value": {
+      "isoCode": "DOM",
+      "defaultName": "Dominikanische Republik",
+      "subcontinent": "Central America",
+      "externalId": "21000408",
+      "unoCode": "214",
+      "uuid": "b741ed8c-a9ec-5c4e-916f-8c88a9a6e732"
+    }
+  },
+  {
+    "key": "e7997ca3-b194-54dd-afcd-9a78ae51b433",
+    "value": {
+      "isoCode": "ECU",
+      "defaultName": "Ecuador",
+      "subcontinent": "South America",
+      "externalId": "21000420",
+      "unoCode": "218",
+      "uuid": "e7997ca3-b194-54dd-afcd-9a78ae51b433"
+    }
+  },
+  {
+    "key": "6cbeb982-c5e1-576f-8bb9-3f6cf3536b91",
+    "value": {
+      "isoCode": "SLV",
+      "defaultName": "El Salvador",
+      "subcontinent": "Central America",
+      "externalId": "21000414",
+      "unoCode": "222",
+      "uuid": "6cbeb982-c5e1-576f-8bb9-3f6cf3536b91"
+    }
+  },
+  {
+    "key": "00e47d2c-40ce-53db-8f43-14ac176d8f54",
+    "value": {
+      "isoCode": "GNQ",
+      "defaultName": "Äquatorialguinea",
+      "subcontinent": "Central Africa",
+      "externalId": "21000314",
+      "unoCode": "226",
+      "uuid": "00e47d2c-40ce-53db-8f43-14ac176d8f54"
+    }
+  },
+  {
+    "key": "8494853e-895e-53f2-a370-ffb221e327f1",
+    "value": {
+      "isoCode": "ETH",
+      "defaultName": "Äthiopien",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000315",
+      "unoCode": "231",
+      "uuid": "8494853e-895e-53f2-a370-ffb221e327f1"
+    }
+  },
+  {
+    "key": "5b7749e7-32bb-5369-9895-328c27259c11",
+    "value": {
+      "isoCode": "ERI",
+      "defaultName": "Eritrea",
+      "subcontinent": "Northeast Africa",
+      "externalId": "21000317",
+      "unoCode": "232",
+      "uuid": "5b7749e7-32bb-5369-9895-328c27259c11"
+    }
+  },
+  {
+    "key": "f7a74036-195a-5224-8ccc-72796dc4d3d9",
+    "value": {
+      "isoCode": "EST",
+      "defaultName": "Estland",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000106",
+      "unoCode": "233",
+      "uuid": "f7a74036-195a-5224-8ccc-72796dc4d3d9"
+    }
+  },
+  {
+    "key": "f7fb5bcc-1805-578c-98e0-3b4fdb144f6f",
+    "value": {
+      "isoCode": "FJI",
+      "defaultName": "Fidschi",
+      "subcontinent": "Oceania",
+      "externalId": "21000508",
+      "unoCode": "242",
+      "uuid": "f7fb5bcc-1805-578c-98e0-3b4fdb144f6f"
+    }
+  },
+  {
+    "key": "d7bc691f-e70b-5e90-aa12-e2562dacdc17",
+    "value": {
+      "isoCode": "FIN",
+      "defaultName": "Finnland",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000105",
+      "unoCode": "246",
+      "uuid": "d7bc691f-e70b-5e90-aa12-e2562dacdc17"
+    }
+  },
+  {
+    "key": "1a182c0e-24ce-5e5d-b02e-e684673bc665",
+    "value": {
+      "isoCode": "FRA",
+      "defaultName": "Frankreich",
+      "subcontinent": "Western Europe",
+      "externalId": "21000150",
+      "unoCode": "250",
+      "uuid": "1a182c0e-24ce-5e5d-b02e-e684673bc665"
+    }
+  },
+  {
+    "key": "e2e10cb6-bf64-589d-b4b8-429f5e540b80",
+    "value": {
+      "isoCode": "DJI",
+      "defaultName": "Dschibuti",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000399",
+      "unoCode": "262",
+      "uuid": "e2e10cb6-bf64-589d-b4b8-429f5e540b80"
+    }
+  },
+  {
+    "key": "8407bf12-276c-5050-a8a9-441ab2b01198",
+    "value": {
+      "isoCode": "GAB",
+      "defaultName": "Gabun",
+      "subcontinent": "Central Africa",
+      "externalId": "21000328",
+      "unoCode": "266",
+      "uuid": "8407bf12-276c-5050-a8a9-441ab2b01198"
+    }
+  },
+  {
+    "key": "912d80ef-8c57-5395-b653-ef97801f6c70",
+    "value": {
+      "isoCode": "GEO",
+      "defaultName": "Georgien",
+      "subcontinent": "Middle East",
+      "externalId": "21000255",
+      "unoCode": "268",
+      "uuid": "912d80ef-8c57-5395-b653-ef97801f6c70"
+    }
+  },
+  {
+    "key": "86e98b75-e577-5d4c-b241-233887e9002d",
+    "value": {
+      "isoCode": "GMB",
+      "defaultName": "Gambia",
+      "subcontinent": "Western Africa",
+      "externalId": "21000304",
+      "unoCode": "270",
+      "uuid": "86e98b75-e577-5d4c-b241-233887e9002d"
+    }
+  },
+  {
+    "key": "4b972336-3d98-539d-b362-435862681fc6",
+    "value": {
+      "isoCode": "PSE",
+      "defaultName": "Palästina",
+      "subcontinent": "Middle East",
+      "externalId": "21000261",
+      "unoCode": "275",
+      "uuid": "4b972336-3d98-539d-b362-435862681fc6"
+    }
+  },
+  {
+    "key": "379192d0-34f0-55fc-bb9f-389e7453c145",
+    "value": {
+      "isoCode": "DEU",
+      "defaultName": "Deutschland",
+      "subcontinent": "Western Europe",
+      "externalId": "21000109",
+      "unoCode": "276",
+      "uuid": "379192d0-34f0-55fc-bb9f-389e7453c145"
+    }
+  },
+  {
+    "key": "0e8f7aa2-8728-5cac-9f56-ab0d2edd62cd",
+    "value": {
+      "isoCode": "GHA",
+      "defaultName": "Ghana",
+      "subcontinent": "Western Africa",
+      "externalId": "21000329",
+      "unoCode": "288",
+      "uuid": "0e8f7aa2-8728-5cac-9f56-ab0d2edd62cd"
+    }
+  },
+  {
+    "key": "be288b68-79e1-5bb9-a82e-0b272148ef1a",
+    "value": {
+      "isoCode": "KIR",
+      "defaultName": "Kiribati",
+      "subcontinent": "Oceania",
+      "externalId": "21000513",
+      "unoCode": "296",
+      "uuid": "be288b68-79e1-5bb9-a82e-0b272148ef1a"
+    }
+  },
+  {
+    "key": "105e3454-c467-5a73-8ce1-1a2ec2135d98",
+    "value": {
+      "isoCode": "GRC",
+      "defaultName": "Griechenland",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000126",
+      "unoCode": "300",
+      "uuid": "105e3454-c467-5a73-8ce1-1a2ec2135d98"
+    }
+  },
+  {
+    "key": "68102786-c44a-518b-9371-7263c122161b",
+    "value": {
+      "isoCode": "GRL",
+      "defaultName": "Grönland",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000430",
+      "unoCode": "304",
+      "uuid": "68102786-c44a-518b-9371-7263c122161b"
+    }
+  },
+  {
+    "key": "28adaefe-c21f-5215-82f4-869f336ee212",
+    "value": {
+      "isoCode": "GRD",
+      "defaultName": "Grenada",
+      "subcontinent": "Central America",
+      "externalId": "21000435",
+      "unoCode": "308",
+      "uuid": "28adaefe-c21f-5215-82f4-869f336ee212"
+    }
+  },
+  {
+    "key": "999ae772-1a4a-54f8-9d36-38050c5df1b4",
+    "value": {
+      "isoCode": "GTM",
+      "defaultName": "Guatemala",
+      "subcontinent": "Central America",
+      "externalId": "21000409",
+      "unoCode": "320",
+      "uuid": "999ae772-1a4a-54f8-9d36-38050c5df1b4"
+    }
+  },
+  {
+    "key": "03f45651-e213-5039-a570-9bb5de6accec",
+    "value": {
+      "isoCode": "GIN",
+      "defaultName": "Guinea",
+      "subcontinent": "Western Africa",
+      "externalId": "21000330",
+      "unoCode": "324",
+      "uuid": "03f45651-e213-5039-a570-9bb5de6accec"
+    }
+  },
+  {
+    "key": "48ae6e96-c94c-5223-aec9-3559e159df1a",
+    "value": {
+      "isoCode": "GUY",
+      "defaultName": "Guyana",
+      "subcontinent": "South America",
+      "externalId": "21000428",
+      "unoCode": "328",
+      "uuid": "48ae6e96-c94c-5223-aec9-3559e159df1a"
+    }
+  },
+  {
+    "key": "8e0585e1-448e-51e9-b5d5-93df2f021562",
+    "value": {
+      "isoCode": "HTI",
+      "defaultName": "Haiti",
+      "subcontinent": "Central America",
+      "externalId": "21000410",
+      "unoCode": "332",
+      "uuid": "8e0585e1-448e-51e9-b5d5-93df2f021562"
+    }
+  },
+  {
+    "key": "d3078fda-d098-5bc4-8ee7-b4ab5ae6c0ba",
+    "value": {
+      "isoCode": "VAT",
+      "defaultName": "Vatikanstadt",
+      "subcontinent": "Southern Europe",
+      "externalId": "21000129",
+      "unoCode": "336",
+      "uuid": "d3078fda-d098-5bc4-8ee7-b4ab5ae6c0ba"
+    }
+  },
+  {
+    "key": "7adfeac8-50e7-5d73-bbc6-abaeb77a4822",
+    "value": {
+      "isoCode": "HND",
+      "defaultName": "Honduras",
+      "subcontinent": "Central America",
+      "externalId": "21000411",
+      "unoCode": "340",
+      "uuid": "7adfeac8-50e7-5d73-bbc6-abaeb77a4822"
+    }
+  },
+  {
+    "key": "3a0450fc-b219-5bb6-95b4-6654db78149e",
+    "value": {
+      "isoCode": "HUN",
+      "defaultName": "Ungarn",
+      "subcontinent": "Central Europe",
+      "externalId": "21000112",
+      "unoCode": "348",
+      "uuid": "3a0450fc-b219-5bb6-95b4-6654db78149e"
+    }
+  },
+  {
+    "key": "d25515a4-0109-5e1d-aec0-970d367f767b",
+    "value": {
+      "isoCode": "ISL",
+      "defaultName": "Island",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000102",
+      "unoCode": "352",
+      "uuid": "d25515a4-0109-5e1d-aec0-970d367f767b"
+    }
+  },
+  {
+    "key": "c0f29f07-d0c2-577e-9f8e-85dd1e9970e2",
+    "value": {
+      "isoCode": "IND",
+      "defaultName": "Indien",
+      "subcontinent": "Middle East",
+      "externalId": "21000223",
+      "unoCode": "356",
+      "uuid": "c0f29f07-d0c2-577e-9f8e-85dd1e9970e2"
+    }
+  },
+  {
+    "key": "194b7a41-25b0-5ec3-894a-2ba9e04d971a",
+    "value": {
+      "isoCode": "IDN",
+      "defaultName": "Indonesien",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000231",
+      "unoCode": "360",
+      "uuid": "194b7a41-25b0-5ec3-894a-2ba9e04d971a"
+    }
+  },
+  {
+    "key": "c0d7acc2-9ca6-5204-be0e-c47f49c1e512",
+    "value": {
+      "isoCode": "IRN",
+      "defaultName": "Iran (Islamische Republik)",
+      "subcontinent": "Middle East",
+      "externalId": "21000204",
+      "unoCode": "364",
+      "uuid": "c0d7acc2-9ca6-5204-be0e-c47f49c1e512"
+    }
+  },
+  {
+    "key": "9b8db1b3-5fcf-5ffc-a30c-17f261faeeaf",
+    "value": {
+      "isoCode": "IRQ",
+      "defaultName": "Irak",
+      "subcontinent": "Middle East",
+      "externalId": "21000203",
+      "unoCode": "368",
+      "uuid": "9b8db1b3-5fcf-5ffc-a30c-17f261faeeaf"
+    }
+  },
+  {
+    "key": "3087d83f-969b-5e55-8783-816366c0741e",
+    "value": {
+      "isoCode": "IRL",
+      "defaultName": "Irland",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000136",
+      "unoCode": "372",
+      "uuid": "3087d83f-969b-5e55-8783-816366c0741e"
+    }
+  },
+  {
+    "key": "3240b413-4c1b-5b70-a06a-001dbf7bff67",
+    "value": {
+      "isoCode": "ISR",
+      "defaultName": "Israel",
+      "subcontinent": "Middle East",
+      "externalId": "21000207",
+      "unoCode": "376",
+      "uuid": "3240b413-4c1b-5b70-a06a-001dbf7bff67"
+    }
+  },
+  {
+    "key": "3c6e4752-ed20-54a6-a479-7552952a2d4d",
+    "value": {
+      "isoCode": "ITA",
+      "defaultName": "Italien",
+      "subcontinent": "Southern Europe",
+      "externalId": "21000127",
+      "unoCode": "380",
+      "uuid": "3c6e4752-ed20-54a6-a479-7552952a2d4d"
+    }
+  },
+  {
+    "key": "7e14306e-b64e-5209-8a27-e0431a147162",
+    "value": {
+      "isoCode": "CIV",
+      "defaultName": "Elfenbeinküste (Côte d'Ivoire )",
+      "subcontinent": "Western Africa",
+      "externalId": "21000326",
+      "unoCode": "384",
+      "uuid": "7e14306e-b64e-5209-8a27-e0431a147162"
+    }
+  },
+  {
+    "key": "1518add1-60c3-5c15-a9dd-f1ee34f89760",
+    "value": {
+      "isoCode": "JAM",
+      "defaultName": "Jamaika",
+      "subcontinent": "Central America",
+      "externalId": "21000426",
+      "unoCode": "388",
+      "uuid": "1518add1-60c3-5c15-a9dd-f1ee34f89760"
+    }
+  },
+  {
+    "key": "dee7935c-61cb-51a4-a232-22f404bc00c4",
+    "value": {
+      "isoCode": "JPN",
+      "defaultName": "Japan",
+      "subcontinent": "Eastern Asia",
+      "externalId": "21000217",
+      "unoCode": "392",
+      "uuid": "dee7935c-61cb-51a4-a232-22f404bc00c4"
+    }
+  },
+  {
+    "key": "1ebc7aa6-fa96-510c-9c4a-ce3a515e3d87",
+    "value": {
+      "isoCode": "KAZ",
+      "defaultName": "Kasachstan",
+      "subcontinent": "Central Asia",
+      "externalId": "21000256",
+      "unoCode": "398",
+      "uuid": "1ebc7aa6-fa96-510c-9c4a-ce3a515e3d87"
+    }
+  },
+  {
+    "key": "7f24b7db-09ae-5814-b3c7-e57e23f90330",
+    "value": {
+      "isoCode": "JOR",
+      "defaultName": "Jordanien",
+      "subcontinent": "Middle East",
+      "externalId": "21000222",
+      "unoCode": "400",
+      "uuid": "7f24b7db-09ae-5814-b3c7-e57e23f90330"
+    }
+  },
+  {
+    "key": "96e6413c-f19b-5649-8426-2540380ae836",
+    "value": {
+      "isoCode": "KEN",
+      "defaultName": "Kenia",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000332",
+      "unoCode": "404",
+      "uuid": "96e6413c-f19b-5649-8426-2540380ae836"
+    }
+  },
+  {
+    "key": "5b4db744-15c9-5f6b-9061-1c9e4b7ffdb1",
+    "value": {
+      "isoCode": "PRK",
+      "defaultName": "Nordkorea (Demokratische Volksrepublik Korea)",
+      "subcontinent": "Eastern Asia",
+      "externalId": "21000238",
+      "unoCode": "408",
+      "uuid": "5b4db744-15c9-5f6b-9061-1c9e4b7ffdb1"
+    }
+  },
+  {
+    "key": "cad8264d-f36d-59f0-8de1-4449182356e2",
+    "value": {
+      "isoCode": "KOR",
+      "defaultName": "Südkorea (Republik Korea) ",
+      "subcontinent": "Eastern Asia",
+      "externalId": "21000239",
+      "unoCode": "410",
+      "uuid": "cad8264d-f36d-59f0-8de1-4449182356e2"
+    }
+  },
+  {
+    "key": "b99b1b12-cb10-59c9-bb1c-bb3adc7cb3af",
+    "value": {
+      "isoCode": "KWT",
+      "defaultName": "Kuwait",
+      "subcontinent": "Middle East",
+      "externalId": "21000240",
+      "unoCode": "414",
+      "uuid": "b99b1b12-cb10-59c9-bb1c-bb3adc7cb3af"
+    }
+  },
+  {
+    "key": "b80a9fc2-92ff-52d6-981e-4336be039cff",
+    "value": {
+      "isoCode": "KGZ",
+      "defaultName": "Kirgisistan",
+      "subcontinent": "Central Asia",
+      "externalId": "21000257",
+      "unoCode": "417",
+      "uuid": "b80a9fc2-92ff-52d6-981e-4336be039cff"
+    }
+  },
+  {
+    "key": "d3ae8d27-5396-51a4-8bad-62877b667a31",
+    "value": {
+      "isoCode": "LAO",
+      "defaultName": "Laos, Volksdemokratische Republik",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000241",
+      "unoCode": "418",
+      "uuid": "d3ae8d27-5396-51a4-8bad-62877b667a31"
+    }
+  },
+  {
+    "key": "56fd95d3-1949-5327-93e7-91f90ab68dc3",
+    "value": {
+      "isoCode": "LBN",
+      "defaultName": "Libanon",
+      "subcontinent": "Middle East",
+      "externalId": "21000205",
+      "unoCode": "422",
+      "uuid": "56fd95d3-1949-5327-93e7-91f90ab68dc3"
+    }
+  },
+  {
+    "key": "1ba1e3dd-6db6-5fa8-a99d-bc14da0e50ec",
+    "value": {
+      "isoCode": "LSO",
+      "defaultName": "Lesotho",
+      "subcontinent": "Southern Africa",
+      "externalId": "21000348",
+      "unoCode": "426",
+      "uuid": "1ba1e3dd-6db6-5fa8-a99d-bc14da0e50ec"
+    }
+  },
+  {
+    "key": "947b9bdc-3e59-5cc1-9152-3b6cbde320b6",
+    "value": {
+      "isoCode": "LVA",
+      "defaultName": "Lettland",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000107",
+      "unoCode": "428",
+      "uuid": "947b9bdc-3e59-5cc1-9152-3b6cbde320b6"
+    }
+  },
+  {
+    "key": "ddd5fd4f-729f-5ea3-b381-571454e2c08d",
+    "value": {
+      "isoCode": "LBR",
+      "defaultName": "Liberia",
+      "subcontinent": "Western Africa",
+      "externalId": "21000302",
+      "unoCode": "430",
+      "uuid": "ddd5fd4f-729f-5ea3-b381-571454e2c08d"
+    }
+  },
+  {
+    "key": "0bff2a3f-b24c-5d87-b391-2eba66083f27",
+    "value": {
+      "isoCode": "LBY",
+      "defaultName": "Libyen",
+      "subcontinent": "Northern Africa",
+      "externalId": "21000316",
+      "unoCode": "434",
+      "uuid": "0bff2a3f-b24c-5d87-b391-2eba66083f27"
+    }
+  },
+  {
+    "key": "c69030f4-ec42-57aa-87ae-4b1c9fd38b47",
+    "value": {
+      "isoCode": "LIE",
+      "defaultName": "Liechtenstein",
+      "subcontinent": "Central Europe",
+      "externalId": "21000113",
+      "unoCode": "438",
+      "uuid": "c69030f4-ec42-57aa-87ae-4b1c9fd38b47"
+    }
+  },
+  {
+    "key": "b6c00e2f-bf5a-5d4d-972c-78aab6f95c3a",
+    "value": {
+      "isoCode": "LTU",
+      "defaultName": "Litauen",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000108",
+      "unoCode": "440",
+      "uuid": "b6c00e2f-bf5a-5d4d-972c-78aab6f95c3a"
+    }
+  },
+  {
+    "key": "a2b6d972-ff8e-572c-86d5-5007f14579f3",
+    "value": {
+      "isoCode": "LUX",
+      "defaultName": "Luxemburg",
+      "subcontinent": "Western Europe",
+      "externalId": "21000137",
+      "unoCode": "442",
+      "uuid": "a2b6d972-ff8e-572c-86d5-5007f14579f3"
+    }
+  },
+  {
+    "key": "847a58a1-2c9a-5955-9f05-a12fa76bac2e",
+    "value": {
+      "isoCode": "MDG",
+      "defaultName": "Madagaskar",
+      "subcontinent": "Southeast Africa",
+      "externalId": "21000333",
+      "unoCode": "450",
+      "uuid": "847a58a1-2c9a-5955-9f05-a12fa76bac2e"
+    }
+  },
+  {
+    "key": "6054845b-a972-5173-88fe-0dec6c504139",
+    "value": {
+      "isoCode": "MWI",
+      "defaultName": "Malawi",
+      "subcontinent": "Southeast Africa",
+      "externalId": "21000334",
+      "unoCode": "454",
+      "uuid": "6054845b-a972-5173-88fe-0dec6c504139"
+    }
+  },
+  {
+    "key": "0d064f2c-1e15-593a-aa10-345a7db45636",
+    "value": {
+      "isoCode": "MYS",
+      "defaultName": "Malaysia",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000227",
+      "unoCode": "458",
+      "uuid": "0d064f2c-1e15-593a-aa10-345a7db45636"
+    }
+  },
+  {
+    "key": "f00ebcc0-f778-53ec-a0f8-21285fb48093",
+    "value": {
+      "isoCode": "MDV",
+      "defaultName": "Malediven",
+      "subcontinent": "Southern Asia",
+      "externalId": "21000229",
+      "unoCode": "462",
+      "uuid": "f00ebcc0-f778-53ec-a0f8-21285fb48093"
+    }
+  },
+  {
+    "key": "1c705aa1-a7a4-5acd-9cd0-8a9cdf0766a1",
+    "value": {
+      "isoCode": "MLI",
+      "defaultName": "Mali",
+      "subcontinent": "Western Africa",
+      "externalId": "21000335",
+      "unoCode": "466",
+      "uuid": "1c705aa1-a7a4-5acd-9cd0-8a9cdf0766a1"
+    }
+  },
+  {
+    "key": "4355c892-5549-58c9-8d8c-6d219a317f57",
+    "value": {
+      "isoCode": "MLT",
+      "defaultName": "Malta",
+      "subcontinent": "Southern Europe",
+      "externalId": "21000144",
+      "unoCode": "470",
+      "uuid": "4355c892-5549-58c9-8d8c-6d219a317f57"
+    }
+  },
+  {
+    "key": "37c4d799-6ffd-5de5-b27b-243935e5b95a",
+    "value": {
+      "isoCode": "MRT",
+      "defaultName": "Mauretanien",
+      "subcontinent": "Northwest Africa",
+      "externalId": "21000336",
+      "unoCode": "478",
+      "uuid": "37c4d799-6ffd-5de5-b27b-243935e5b95a"
+    }
+  },
+  {
+    "key": "58bc4d3c-e0b8-5fbe-847b-9b87e0d479de",
+    "value": {
+      "isoCode": "MUS",
+      "defaultName": "Mauritius",
+      "subcontinent": "Southeast Africa",
+      "externalId": "21000390",
+      "unoCode": "480",
+      "uuid": "58bc4d3c-e0b8-5fbe-847b-9b87e0d479de"
+    }
+  },
+  {
+    "key": "1aff4718-eb6a-5185-8399-7359ba72dc4b",
+    "value": {
+      "isoCode": "MEX",
+      "defaultName": "Mexiko",
+      "subcontinent": "North America",
+      "externalId": "21000405",
+      "unoCode": "484",
+      "uuid": "1aff4718-eb6a-5185-8399-7359ba72dc4b"
+    }
+  },
+  {
+    "key": "b7e50a63-2f4c-5cf2-aa9e-437d3f5b38a5",
+    "value": {
+      "isoCode": "MCO",
+      "defaultName": "Monaco",
+      "subcontinent": "Southern Europe",
+      "externalId": "21000138",
+      "unoCode": "492",
+      "uuid": "b7e50a63-2f4c-5cf2-aa9e-437d3f5b38a5"
+    }
+  },
+  {
+    "key": "a73cec72-a886-5bb6-a672-7b52a93e1230",
+    "value": {
+      "isoCode": "MNG",
+      "defaultName": "Mongolei",
+      "subcontinent": "Central Asia",
+      "externalId": "21000242",
+      "unoCode": "496",
+      "uuid": "a73cec72-a886-5bb6-a672-7b52a93e1230"
+    }
+  },
+  {
+    "key": "76683a0c-7947-5747-aab9-db65e2cb1fb0",
+    "value": {
+      "isoCode": "MDA",
+      "defaultName": "Republik Moldau",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000151",
+      "unoCode": "498",
+      "uuid": "76683a0c-7947-5747-aab9-db65e2cb1fb0"
+    }
+  },
+  {
+    "key": "6b76f8b5-21f7-59c1-8186-159b99cda55a",
+    "value": {
+      "isoCode": "MNE",
+      "defaultName": "Montenegro",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000158",
+      "unoCode": "499",
+      "uuid": "6b76f8b5-21f7-59c1-8186-159b99cda55a"
+    }
+  },
+  {
+    "key": "14a0e3ae-cca3-5d28-85e6-e2017f5d72f4",
+    "value": {
+      "isoCode": "MAR",
+      "defaultName": "Marokko",
+      "subcontinent": "Northwest Africa",
+      "externalId": "21000350",
+      "unoCode": "504",
+      "uuid": "14a0e3ae-cca3-5d28-85e6-e2017f5d72f4"
+    }
+  },
+  {
+    "key": "b0b7cd30-dfad-5e6a-9f53-36edd56d0976",
+    "value": {
+      "isoCode": "MOZ",
+      "defaultName": "Mosambik",
+      "subcontinent": "Southeast Africa",
+      "externalId": "21000393",
+      "unoCode": "508",
+      "uuid": "b0b7cd30-dfad-5e6a-9f53-36edd56d0976"
+    }
+  },
+  {
+    "key": "a528913d-3864-5740-9959-b51e952e0941",
+    "value": {
+      "isoCode": "OMN",
+      "defaultName": "Oman",
+      "subcontinent": "Southwest Asia",
+      "externalId": "21000250",
+      "unoCode": "512",
+      "uuid": "a528913d-3864-5740-9959-b51e952e0941"
+    }
+  },
+  {
+    "key": "ad1546e9-0824-59f4-a5c2-8ca0926db4b6",
+    "value": {
+      "isoCode": "NAM",
+      "defaultName": "Namibia",
+      "subcontinent": "Southern Africa",
+      "externalId": "21000311",
+      "unoCode": "516",
+      "uuid": "ad1546e9-0824-59f4-a5c2-8ca0926db4b6"
+    }
+  },
+  {
+    "key": "6abd35cd-ae03-5f01-a7f2-a9b048a7e255",
+    "value": {
+      "isoCode": "NRU",
+      "defaultName": "Nauru",
+      "subcontinent": "Oceania",
+      "externalId": "21000507",
+      "unoCode": "520",
+      "uuid": "6abd35cd-ae03-5f01-a7f2-a9b048a7e255"
+    }
+  },
+  {
+    "key": "6e2931cc-f203-59d9-b915-de3db6d8edfd",
+    "value": {
+      "isoCode": "NPL",
+      "defaultName": "Nepal",
+      "subcontinent": "Southern Asia",
+      "externalId": "21000215",
+      "unoCode": "524",
+      "uuid": "6e2931cc-f203-59d9-b915-de3db6d8edfd"
+    }
+  },
+  {
+    "key": "edc19032-d8e8-5e16-af04-2f320d64cdf5",
+    "value": {
+      "isoCode": "NLD",
+      "defaultName": "Niederlande",
+      "subcontinent": "Western Europe",
+      "externalId": "21000135",
+      "unoCode": "528",
+      "uuid": "edc19032-d8e8-5e16-af04-2f320d64cdf5"
+    }
+  },
+  {
+    "key": "d56df5ec-bd41-51eb-9bf8-ec75638c7196",
+    "value": {
+      "isoCode": "NCL",
+      "defaultName": "Neukaledonien",
+      "subcontinent": "Oceania",
+      "externalId": "21000518",
+      "unoCode": "540",
+      "uuid": "d56df5ec-bd41-51eb-9bf8-ec75638c7196"
+    }
+  },
+  {
+    "key": "50989796-9d06-5095-b602-6a81852ac14e",
+    "value": {
+      "isoCode": "VUT",
+      "defaultName": "Vanuatu",
+      "subcontinent": "Oceania",
+      "externalId": "21000514",
+      "unoCode": "548",
+      "uuid": "50989796-9d06-5095-b602-6a81852ac14e"
+    }
+  },
+  {
+    "key": "7761fd74-7284-50ce-b74c-2290ce5abb07",
+    "value": {
+      "isoCode": "NZL",
+      "defaultName": "Neuseeland",
+      "subcontinent": "Oceania",
+      "externalId": "21000502",
+      "unoCode": "554",
+      "uuid": "7761fd74-7284-50ce-b74c-2290ce5abb07"
+    }
+  },
+  {
+    "key": "55810a4f-2cc2-5b26-95fe-4c72e730560d",
+    "value": {
+      "isoCode": "NIC",
+      "defaultName": "Nicaragua",
+      "subcontinent": "Central America",
+      "externalId": "21000412",
+      "unoCode": "558",
+      "uuid": "55810a4f-2cc2-5b26-95fe-4c72e730560d"
+    }
+  },
+  {
+    "key": "f06763b9-61d9-5664-85df-1d50db95993a",
+    "value": {
+      "isoCode": "NER",
+      "defaultName": "Niger",
+      "subcontinent": "Western Africa",
+      "externalId": "21000337",
+      "unoCode": "562",
+      "uuid": "f06763b9-61d9-5664-85df-1d50db95993a"
+    }
+  },
+  {
+    "key": "1e11ed6c-5e10-5231-bcdd-e2aa117db5ee",
+    "value": {
+      "isoCode": "NGA",
+      "defaultName": "Nigeria",
+      "subcontinent": "Western Africa",
+      "externalId": "21000338",
+      "unoCode": "566",
+      "uuid": "1e11ed6c-5e10-5231-bcdd-e2aa117db5ee"
+    }
+  },
+  {
+    "key": "70b1b7e2-3d7f-5462-a900-11210e3e0d33",
+    "value": {
+      "isoCode": "NOR",
+      "defaultName": "Norwegen",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000103",
+      "unoCode": "578",
+      "uuid": "70b1b7e2-3d7f-5462-a900-11210e3e0d33"
+    }
+  },
+  {
+    "key": "82835897-b0e2-5a1c-9352-03af54b1c853",
+    "value": {
+      "isoCode": "FSM",
+      "defaultName": "Mikronesien (Föderierte Staaten von)",
+      "subcontinent": "Oceania",
+      "externalId": "21000516",
+      "unoCode": "583",
+      "uuid": "82835897-b0e2-5a1c-9352-03af54b1c853"
+    }
+  },
+  {
+    "key": "6091a1fb-6ee5-516b-82aa-1abe2abac352",
+    "value": {
+      "isoCode": "MHL",
+      "defaultName": "Marshallinseln",
+      "subcontinent": "Oceania",
+      "externalId": "21000515",
+      "unoCode": "584",
+      "uuid": "6091a1fb-6ee5-516b-82aa-1abe2abac352"
+    }
+  },
+  {
+    "key": "9b855c86-0f76-5b94-b926-6e16d5413649",
+    "value": {
+      "isoCode": "PLW",
+      "defaultName": "Palau",
+      "subcontinent": "Oceania",
+      "externalId": "21000517",
+      "unoCode": "585",
+      "uuid": "9b855c86-0f76-5b94-b926-6e16d5413649"
+    }
+  },
+  {
+    "key": "b215598f-b5cc-5d6e-950c-ca7f1b206d3f",
+    "value": {
+      "isoCode": "PAK",
+      "defaultName": "Pakistan",
+      "subcontinent": "Southern Asia",
+      "externalId": "21000213",
+      "unoCode": "586",
+      "uuid": "b215598f-b5cc-5d6e-950c-ca7f1b206d3f"
+    }
+  },
+  {
+    "key": "4ef42350-2097-589c-b4d8-22f5dbe7dca9",
+    "value": {
+      "isoCode": "PAN",
+      "defaultName": "Panama",
+      "subcontinent": "Central America",
+      "externalId": "21000413",
+      "unoCode": "591",
+      "uuid": "4ef42350-2097-589c-b4d8-22f5dbe7dca9"
+    }
+  },
+  {
+    "key": "f0db58f4-2bf3-57c8-8b7a-a70084230bd8",
+    "value": {
+      "isoCode": "PNG",
+      "defaultName": "Papua-Neuguinea",
+      "subcontinent": "Oceania",
+      "externalId": "21000510",
+      "unoCode": "598",
+      "uuid": "f0db58f4-2bf3-57c8-8b7a-a70084230bd8"
+    }
+  },
+  {
+    "key": "00795885-dbcd-59ac-bd46-f87779815c71",
+    "value": {
+      "isoCode": "PRY",
+      "defaultName": "Paraguay",
+      "subcontinent": "South America",
+      "externalId": "21000421",
+      "unoCode": "600",
+      "uuid": "00795885-dbcd-59ac-bd46-f87779815c71"
+    }
+  },
+  {
+    "key": "015b5262-112a-50b9-8174-69ada280f47e",
+    "value": {
+      "isoCode": "PER",
+      "defaultName": "Peru",
+      "subcontinent": "South America",
+      "externalId": "21000422",
+      "unoCode": "604",
+      "uuid": "015b5262-112a-50b9-8174-69ada280f47e"
+    }
+  },
+  {
+    "key": "35f1cf75-5160-5781-9f58-c684140162d2",
+    "value": {
+      "isoCode": "PHL",
+      "defaultName": "Philippinen",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000220",
+      "unoCode": "608",
+      "uuid": "35f1cf75-5160-5781-9f58-c684140162d2"
+    }
+  },
+  {
+    "key": "99b80aa3-d69c-57ba-9304-23100c77fe7b",
+    "value": {
+      "isoCode": "POL",
+      "defaultName": "Polen",
+      "subcontinent": "Eastern Europe",
+      "externalId": "21000122",
+      "unoCode": "616",
+      "uuid": "99b80aa3-d69c-57ba-9304-23100c77fe7b"
+    }
+  },
+  {
+    "key": "023b3af0-fe18-547a-a247-2500baf5e342",
+    "value": {
+      "isoCode": "PRT",
+      "defaultName": "Portugal",
+      "subcontinent": "Western Europe",
+      "externalId": "21000139",
+      "unoCode": "620",
+      "uuid": "023b3af0-fe18-547a-a247-2500baf5e342"
+    }
+  },
+  {
+    "key": "39ae2db5-af19-599e-8fb8-9f423b1d6da7",
+    "value": {
+      "isoCode": "GNB",
+      "defaultName": "Guinea-Bissau",
+      "subcontinent": "Western Africa",
+      "externalId": "21000392",
+      "unoCode": "624",
+      "uuid": "39ae2db5-af19-599e-8fb8-9f423b1d6da7"
+    }
+  },
+  {
+    "key": "44303ff7-3f28-5a9d-b7a6-7ad12b8e49a1",
+    "value": {
+      "isoCode": "TLS",
+      "defaultName": "Osttimor",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000538",
+      "unoCode": "626",
+      "uuid": "44303ff7-3f28-5a9d-b7a6-7ad12b8e49a1"
+    }
+  },
+  {
+    "key": "6521f6f2-a23b-59a7-b65b-d725d89d045e",
+    "value": {
+      "isoCode": "QAT",
+      "defaultName": "Katar",
+      "subcontinent": "Southern Asia",
+      "externalId": "21000248",
+      "unoCode": "634",
+      "uuid": "6521f6f2-a23b-59a7-b65b-d725d89d045e"
+    }
+  },
+  {
+    "key": "cb4a9772-b94c-583b-a308-8f3d0913f1e0",
+    "value": {
+      "isoCode": "ROU",
+      "defaultName": "Rumänien",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000114",
+      "unoCode": "642",
+      "uuid": "cb4a9772-b94c-583b-a308-8f3d0913f1e0"
+    }
+  },
+  {
+    "key": "e03770a0-453e-514a-8281-df1c68f07dae",
+    "value": {
+      "isoCode": "RUS",
+      "defaultName": "Russische Föderation",
+      "subcontinent": "Northeast Europe",
+      "externalId": "21000123",
+      "unoCode": "643",
+      "uuid": "e03770a0-453e-514a-8281-df1c68f07dae"
+    }
+  },
+  {
+    "key": "2cd7a29f-140c-5350-a146-2c027ffcb565",
+    "value": {
+      "isoCode": "RWA",
+      "defaultName": "Ruanda",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000340",
+      "unoCode": "646",
+      "uuid": "2cd7a29f-140c-5350-a146-2c027ffcb565"
+    }
+  },
+  {
+    "key": "bb8bdd50-f39e-5dbe-a3db-dc7ee865d06e",
+    "value": {
+      "isoCode": "KNA",
+      "defaultName": "St. Kitts und Nevis",
+      "subcontinent": "Central America",
+      "externalId": "21000442",
+      "unoCode": "659",
+      "uuid": "bb8bdd50-f39e-5dbe-a3db-dc7ee865d06e"
+    }
+  },
+  {
+    "key": "b14ce5b5-e56f-5ebd-b0df-09f80e6e4f61",
+    "value": {
+      "isoCode": "LCA",
+      "defaultName": "St. Lucia",
+      "subcontinent": "Central America",
+      "externalId": "21000439",
+      "unoCode": "662",
+      "uuid": "b14ce5b5-e56f-5ebd-b0df-09f80e6e4f61"
+    }
+  },
+  {
+    "key": "c53f2bad-f42c-5561-9015-aa4a4b769687",
+    "value": {
+      "isoCode": "VCT",
+      "defaultName": "St. Vincent und die Grenadinen",
+      "subcontinent": "Central America",
+      "externalId": "21000440",
+      "unoCode": "670",
+      "uuid": "c53f2bad-f42c-5561-9015-aa4a4b769687"
+    }
+  },
+  {
+    "key": "55c0cd73-1348-5b68-baed-ca7c10227c20",
+    "value": {
+      "isoCode": "SMR",
+      "defaultName": "San Marino",
+      "subcontinent": "Southern Europe",
+      "externalId": "21000128",
+      "unoCode": "674",
+      "uuid": "55c0cd73-1348-5b68-baed-ca7c10227c20"
+    }
+  },
+  {
+    "key": "055ec241-1d42-595b-83df-d58f2ac8605a",
+    "value": {
+      "isoCode": "STP",
+      "defaultName": "São Tomé und Príncipe",
+      "subcontinent": "Southwest Africa",
+      "externalId": "21000394",
+      "unoCode": "678",
+      "uuid": "055ec241-1d42-595b-83df-d58f2ac8605a"
+    }
+  },
+  {
+    "key": "46d6a789-cb4d-5958-b5c6-07975b0822cd",
+    "value": {
+      "isoCode": "SAU",
+      "defaultName": "Saudi-Arabien",
+      "subcontinent": "Middle East",
+      "externalId": "21000201",
+      "unoCode": "682",
+      "uuid": "46d6a789-cb4d-5958-b5c6-07975b0822cd"
+    }
+  },
+  {
+    "key": "c133e8b7-d3ca-5f97-bb12-7fa4bfc65da1",
+    "value": {
+      "isoCode": "SEN",
+      "defaultName": "Senegal",
+      "subcontinent": "Western Africa",
+      "externalId": "21000341",
+      "unoCode": "686",
+      "uuid": "c133e8b7-d3ca-5f97-bb12-7fa4bfc65da1"
+    }
+  },
+  {
+    "key": "21dbe997-fe10-5a9a-b19f-48453eee5416",
+    "value": {
+      "isoCode": "SRB",
+      "defaultName": "Serbien",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000121",
+      "unoCode": "688",
+      "uuid": "21dbe997-fe10-5a9a-b19f-48453eee5416"
+    }
+  },
+  {
+    "key": "0fa2341c-6bec-5644-80eb-d534f6e3a3b0",
+    "value": {
+      "isoCode": "SYC",
+      "defaultName": "Seychellen",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000398",
+      "unoCode": "690",
+      "uuid": "0fa2341c-6bec-5644-80eb-d534f6e3a3b0"
+    }
+  },
+  {
+    "key": "c564dba0-5fb7-538f-a93a-81ee99818edf",
+    "value": {
+      "isoCode": "SLE",
+      "defaultName": "Sierra Leone",
+      "subcontinent": "Western Africa",
+      "externalId": "21000342",
+      "unoCode": "694",
+      "uuid": "c564dba0-5fb7-538f-a93a-81ee99818edf"
+    }
+  },
+  {
+    "key": "b096a89c-17db-52a4-98ce-08bc980c40c4",
+    "value": {
+      "isoCode": "SGP",
+      "defaultName": "Singapur",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000226",
+      "unoCode": "702",
+      "uuid": "b096a89c-17db-52a4-98ce-08bc980c40c4"
+    }
+  },
+  {
+    "key": "5eaedee9-3c50-57ff-a624-98df5a84a720",
+    "value": {
+      "isoCode": "SVK",
+      "defaultName": "Slowakei",
+      "subcontinent": "Central Europe",
+      "externalId": "21000117",
+      "unoCode": "703",
+      "uuid": "5eaedee9-3c50-57ff-a624-98df5a84a720"
+    }
+  },
+  {
+    "key": "ea0a7bed-9ba8-5245-b322-c826f23b989e",
+    "value": {
+      "isoCode": "VNM",
+      "defaultName": "Vietnam",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000243",
+      "unoCode": "704",
+      "uuid": "ea0a7bed-9ba8-5245-b322-c826f23b989e"
+    }
+  },
+  {
+    "key": "190d50f1-6297-5dcb-9acf-258e4b3f4bcc",
+    "value": {
+      "isoCode": "SVN",
+      "defaultName": "Slowenien",
+      "subcontinent": "Central Europe",
+      "externalId": "21000145",
+      "unoCode": "705",
+      "uuid": "190d50f1-6297-5dcb-9acf-258e4b3f4bcc"
+    }
+  },
+  {
+    "key": "b524f727-5e29-56e8-8f81-8ec44fc41566",
+    "value": {
+      "isoCode": "SOM",
+      "defaultName": "Somalia",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000318",
+      "unoCode": "706",
+      "uuid": "b524f727-5e29-56e8-8f81-8ec44fc41566"
+    }
+  },
+  {
+    "key": "c0c9d154-d800-5f3f-b673-20830b2ce6d8",
+    "value": {
+      "isoCode": "ZAF",
+      "defaultName": "Südafrika",
+      "subcontinent": "Southern Africa",
+      "externalId": "21000303",
+      "unoCode": "710",
+      "uuid": "c0c9d154-d800-5f3f-b673-20830b2ce6d8"
+    }
+  },
+  {
+    "key": "0d9eae19-200c-5c46-a116-468e6e0a36c7",
+    "value": {
+      "isoCode": "ZWE",
+      "defaultName": "Simbabwe",
+      "subcontinent": "Southern Africa",
+      "externalId": "21000310",
+      "unoCode": "716",
+      "uuid": "0d9eae19-200c-5c46-a116-468e6e0a36c7"
+    }
+  },
+  {
+    "key": "14041d33-0271-5d86-9d62-387296e9c398",
+    "value": {
+      "isoCode": "ESP",
+      "defaultName": "Spanien",
+      "subcontinent": "Southern Europe",
+      "externalId": "21000134",
+      "unoCode": "724",
+      "uuid": "14041d33-0271-5d86-9d62-387296e9c398"
+    }
+  },
+  {
+    "key": "45487ac3-c7b8-533f-9eb7-1ab2a40547da",
+    "value": {
+      "isoCode": "SSD",
+      "defaultName": "Südsudan",
+      "subcontinent": "Central Africa",
+      "externalId": "21000389",
+      "unoCode": "728",
+      "uuid": "45487ac3-c7b8-533f-9eb7-1ab2a40547da"
+    }
+  },
+  {
+    "key": "19af60f5-574a-5760-960d-22217a30db22",
+    "value": {
+      "isoCode": "SDN",
+      "defaultName": "Sudan",
+      "subcontinent": "Northeast Africa",
+      "externalId": "21000343",
+      "unoCode": "729",
+      "uuid": "19af60f5-574a-5760-960d-22217a30db22"
+    }
+  },
+  {
+    "key": "533c416f-d555-5eed-8d63-af05e27c9db3",
+    "value": {
+      "isoCode": "SUR",
+      "defaultName": "Suriname",
+      "subcontinent": "South America",
+      "externalId": "21000437",
+      "unoCode": "740",
+      "uuid": "533c416f-d555-5eed-8d63-af05e27c9db3"
+    }
+  },
+  {
+    "key": "d8935751-d4f8-5362-8e34-9cd662231501",
+    "value": {
+      "isoCode": "SWZ",
+      "defaultName": "Swasiland",
+      "subcontinent": "Southern Africa",
+      "externalId": "21000391",
+      "unoCode": "748",
+      "uuid": "d8935751-d4f8-5362-8e34-9cd662231501"
+    }
+  },
+  {
+    "key": "130b5066-24eb-5e5f-82bf-2c370be5f187",
+    "value": {
+      "isoCode": "SWE",
+      "defaultName": "Schweden",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000104",
+      "unoCode": "752",
+      "uuid": "130b5066-24eb-5e5f-82bf-2c370be5f187"
+    }
+  },
+  {
+    "key": "3c209e35-1fe2-5119-8c6a-a759612afe04",
+    "value": {
+      "isoCode": "CHE",
+      "defaultName": "Schweiz",
+      "subcontinent": "Central Europe",
+      "externalId": "21000140",
+      "unoCode": "756",
+      "uuid": "3c209e35-1fe2-5119-8c6a-a759612afe04"
+    }
+  },
+  {
+    "key": "29c31916-f330-5268-962a-051517ce47c9",
+    "value": {
+      "isoCode": "SYR",
+      "defaultName": "Syrische Arabische Republik",
+      "subcontinent": "Middle East",
+      "externalId": "21000206",
+      "unoCode": "760",
+      "uuid": "29c31916-f330-5268-962a-051517ce47c9"
+    }
+  },
+  {
+    "key": "a8778493-04d6-58cb-90c2-769914261e48",
+    "value": {
+      "isoCode": "TJK",
+      "defaultName": "Tadschikistan",
+      "subcontinent": "Central Asia",
+      "externalId": "21000254",
+      "unoCode": "762",
+      "uuid": "a8778493-04d6-58cb-90c2-769914261e48"
+    }
+  },
+  {
+    "key": "f617f466-2ea9-5ffa-b7f8-7aef365a7550",
+    "value": {
+      "isoCode": "THA",
+      "defaultName": "Thailand",
+      "subcontinent": "Southeast Asia",
+      "externalId": "21000219",
+      "unoCode": "764",
+      "uuid": "f617f466-2ea9-5ffa-b7f8-7aef365a7550"
+    }
+  },
+  {
+    "key": "67c0be23-4920-5095-98f6-e25cefb89b05",
+    "value": {
+      "isoCode": "TGO",
+      "defaultName": "Togo",
+      "subcontinent": "Western Africa",
+      "externalId": "21000345",
+      "unoCode": "768",
+      "uuid": "67c0be23-4920-5095-98f6-e25cefb89b05"
+    }
+  },
+  {
+    "key": "09216c2f-5584-5d21-bbca-d52a46a85208",
+    "value": {
+      "isoCode": "TON",
+      "defaultName": "Tonga",
+      "subcontinent": "Oceania",
+      "externalId": "21000509",
+      "unoCode": "776",
+      "uuid": "09216c2f-5584-5d21-bbca-d52a46a85208"
+    }
+  },
+  {
+    "key": "2b26196e-a43d-55e3-abe1-59f8bfb9362a",
+    "value": {
+      "isoCode": "TTO",
+      "defaultName": "Trinidad und Tobago",
+      "subcontinent": "Central America",
+      "externalId": "21000433",
+      "unoCode": "780",
+      "uuid": "2b26196e-a43d-55e3-abe1-59f8bfb9362a"
+    }
+  },
+  {
+    "key": "777e5263-8872-5715-a06e-eca92a3940b7",
+    "value": {
+      "isoCode": "ARE",
+      "defaultName": "Vereinigte Arabische Emirate",
+      "subcontinent": "Southwest Asia",
+      "externalId": "21000247",
+      "unoCode": "784",
+      "uuid": "777e5263-8872-5715-a06e-eca92a3940b7"
+    }
+  },
+  {
+    "key": "535bddb1-8438-55f8-abf0-f176fadc1310",
+    "value": {
+      "isoCode": "TUN",
+      "defaultName": "Tunesien",
+      "subcontinent": "Northern Africa",
+      "externalId": "21000351",
+      "unoCode": "788",
+      "uuid": "535bddb1-8438-55f8-abf0-f176fadc1310"
+    }
+  },
+  {
+    "key": "ff3dfb6b-4f32-5116-b1d8-e0299d910bc4",
+    "value": {
+      "isoCode": "TUR",
+      "defaultName": "Türkei",
+      "subcontinent": "Middle East",
+      "externalId": "21000208",
+      "unoCode": "792",
+      "uuid": "ff3dfb6b-4f32-5116-b1d8-e0299d910bc4"
+    }
+  },
+  {
+    "key": "e8f98196-16b9-54bf-a6c3-a47d4bfdbedf",
+    "value": {
+      "isoCode": "TKM",
+      "defaultName": "Turkmenistan",
+      "subcontinent": "Central Asia",
+      "externalId": "21000260",
+      "unoCode": "795",
+      "uuid": "e8f98196-16b9-54bf-a6c3-a47d4bfdbedf"
+    }
+  },
+  {
+    "key": "1f3f015b-b6c2-5883-9e1f-faf8c37b571a",
+    "value": {
+      "isoCode": "TUV",
+      "defaultName": "Tuvalu",
+      "subcontinent": "Oceania",
+      "externalId": "21000511",
+      "unoCode": "798",
+      "uuid": "1f3f015b-b6c2-5883-9e1f-faf8c37b571a"
+    }
+  },
+  {
+    "key": "49d7642a-08fc-57e8-8d84-f9a11409db21",
+    "value": {
+      "isoCode": "UGA",
+      "defaultName": "Uganda",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000339",
+      "unoCode": "800",
+      "uuid": "49d7642a-08fc-57e8-8d84-f9a11409db21"
+    }
+  },
+  {
+    "key": "78c376f2-756a-57ce-8a47-cd725329e592",
+    "value": {
+      "isoCode": "UKR",
+      "defaultName": "Ukraine",
+      "subcontinent": "Eastern Europe",
+      "externalId": "21000155",
+      "unoCode": "804",
+      "uuid": "78c376f2-756a-57ce-8a47-cd725329e592"
+    }
+  },
+  {
+    "key": "adc59be4-941f-5b99-89b5-38d6c5d49ef1",
+    "value": {
+      "isoCode": "MKD",
+      "defaultName": "Nordmazedonien",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000156",
+      "unoCode": "807",
+      "uuid": "adc59be4-941f-5b99-89b5-38d6c5d49ef1"
+    }
+  },
+  {
+    "key": "ff322d0b-bb87-59a9-b4a1-d1860142a86f",
+    "value": {
+      "isoCode": "EGY",
+      "defaultName": "Ägypten",
+      "subcontinent": "Northeast Africa",
+      "externalId": "21000301",
+      "unoCode": "818",
+      "uuid": "ff322d0b-bb87-59a9-b4a1-d1860142a86f"
+    }
+  },
+  {
+    "key": "38a34177-cf43-5d8b-bb71-725c8015272d",
+    "value": {
+      "isoCode": "GBR",
+      "defaultName": "Vereinigtes Königreich von Großbritannien und Nordirland",
+      "subcontinent": "Northern Europe",
+      "externalId": "21000132",
+      "unoCode": "826",
+      "uuid": "38a34177-cf43-5d8b-bb71-725c8015272d"
+    }
+  },
+  {
+    "key": "44065b8b-d606-5018-b6a4-eee783ebaf1c",
+    "value": {
+      "isoCode": "TZA",
+      "defaultName": "Vereinigte Republik Tansania",
+      "subcontinent": "Eastern Africa",
+      "externalId": "21000309",
+      "unoCode": "834",
+      "uuid": "44065b8b-d606-5018-b6a4-eee783ebaf1c"
+    }
+  },
+  {
+    "key": "57559d07-666e-5fb8-8229-5128afeb0f6f",
+    "value": {
+      "isoCode": "USA",
+      "defaultName": "Vereinigte Staaten von Amerika",
+      "subcontinent": "North America",
+      "externalId": "21000404",
+      "unoCode": "840",
+      "uuid": "57559d07-666e-5fb8-8229-5128afeb0f6f"
+    }
+  },
+  {
+    "key": "f7181173-55d8-5f04-989e-0925ef54631c",
+    "value": {
+      "isoCode": "BFA",
+      "defaultName": "Burkina Faso",
+      "subcontinent": "Western Africa",
+      "externalId": "21000331",
+      "unoCode": "854",
+      "uuid": "f7181173-55d8-5f04-989e-0925ef54631c"
+    }
+  },
+  {
+    "key": "1ca84493-6142-58ff-8a8d-25550ca5c53d",
+    "value": {
+      "isoCode": "URY",
+      "defaultName": "Uruguay",
+      "subcontinent": "South America",
+      "externalId": "21000423",
+      "unoCode": "858",
+      "uuid": "1ca84493-6142-58ff-8a8d-25550ca5c53d"
+    }
+  },
+  {
+    "key": "996cdb38-eec1-538d-a491-c0fac98ffc6b",
+    "value": {
+      "isoCode": "UZB",
+      "defaultName": "Usbekistan",
+      "subcontinent": "Central Asia",
+      "externalId": "21000258",
+      "unoCode": "860",
+      "uuid": "996cdb38-eec1-538d-a491-c0fac98ffc6b"
+    }
+  },
+  {
+    "key": "bbfec5a4-9395-534d-8abe-7924bb7b6a06",
+    "value": {
+      "isoCode": "VEN",
+      "defaultName": "Venezuela (Bolivarische Republik)",
+      "subcontinent": "South America",
+      "externalId": "21000424",
+      "unoCode": "862",
+      "uuid": "bbfec5a4-9395-534d-8abe-7924bb7b6a06"
+    }
+  },
+  {
+    "key": "542d7bea-a618-5853-b70f-2a6f549f86b8",
+    "value": {
+      "isoCode": "WSM",
+      "defaultName": "Samoa",
+      "subcontinent": "Oceania",
+      "externalId": "21000506",
+      "unoCode": "882",
+      "uuid": "542d7bea-a618-5853-b70f-2a6f549f86b8"
+    }
+  },
+  {
+    "key": "34809e4a-7681-554b-af5d-353919d2adac",
+    "value": {
+      "isoCode": "YEM",
+      "defaultName": "Jemen",
+      "subcontinent": "Middle East",
+      "externalId": "21000251",
+      "unoCode": "887",
+      "uuid": "34809e4a-7681-554b-af5d-353919d2adac"
+    }
+  },
+  {
+    "key": "2892b005-96ba-58ce-a7e4-0b093d4a14e2",
+    "value": {
+      "isoCode": "ZMB",
+      "defaultName": "Sambia",
+      "subcontinent": "Southern Africa",
+      "externalId": "21000346",
+      "unoCode": "894",
+      "uuid": "2892b005-96ba-58ce-a7e4-0b093d4a14e2"
+    }
+  },
+  {
+    "key": "a2e4974e-62d9-59bf-a0c1-7b7d6d0ec24e",
+    "value": {
+      "isoCode": "XXK",
+      "defaultName": "Kosovo",
+      "subcontinent": "Southeast Europe",
+      "externalId": "21000159",
+      "unoCode": "",
+      "uuid": "a2e4974e-62d9-59bf-a0c1-7b7d6d0ec24e"
+    }
+  }
+]

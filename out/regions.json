@@ -1,0 +1,194 @@
+[
+  {
+    "key": "18f19564-5e06-5043-9789-ffadef4d050f",
+    "value": {
+      "name": "Baden-Württemberg",
+      "epidCode": "DE-BW",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000008",
+      "country": "Germany",
+      "uuid": "18f19564-5e06-5043-9789-ffadef4d050f"
+    }
+  },
+  {
+    "key": "f5e2e50a-7f46-5e68-ba25-14f6511881d5",
+    "value": {
+      "name": "Bayern",
+      "epidCode": "DE-BY",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000009",
+      "country": "Germany",
+      "uuid": "f5e2e50a-7f46-5e68-ba25-14f6511881d5"
+    }
+  },
+  {
+    "key": "c2b9f9f0-79a0-577d-a802-c0a5cb900585",
+    "value": {
+      "name": "Brandenburg",
+      "epidCode": "DE-BB",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000012",
+      "country": "Germany",
+      "uuid": "c2b9f9f0-79a0-577d-a802-c0a5cb900585"
+    }
+  },
+  {
+    "key": "a82f567f-8b34-59b3-9dfe-040089e64035",
+    "value": {
+      "name": "Berlin",
+      "epidCode": "DE-BE",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000011",
+      "country": "Germany",
+      "uuid": "a82f567f-8b34-59b3-9dfe-040089e64035"
+    }
+  },
+  {
+    "key": "4c4c3f3f-b860-5da5-944d-1ae708567e75",
+    "value": {
+      "name": "Bremen",
+      "epidCode": "DE-HB",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000004",
+      "country": "Germany",
+      "uuid": "4c4c3f3f-b860-5da5-944d-1ae708567e75"
+    }
+  },
+  {
+    "key": "0c71f378-cf1c-5580-b8d8-4efb299f1283",
+    "value": {
+      "name": "Hamburg",
+      "epidCode": "DE-HH",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000002",
+      "country": "Germany",
+      "uuid": "0c71f378-cf1c-5580-b8d8-4efb299f1283"
+    }
+  },
+  {
+    "key": "e08a90db-94e0-573a-866e-395e32d57037",
+    "value": {
+      "name": "Hessen",
+      "epidCode": "DE-HE",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000006",
+      "country": "Germany",
+      "uuid": "e08a90db-94e0-573a-866e-395e32d57037"
+    }
+  },
+  {
+    "key": "230ee79c-0bce-5430-8fd4-b0d0c94abfef",
+    "value": {
+      "name": "Mecklenburg-Vorpommern",
+      "epidCode": "DE-MV",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000013",
+      "country": "Germany",
+      "uuid": "230ee79c-0bce-5430-8fd4-b0d0c94abfef"
+    }
+  },
+  {
+    "key": "a3604d49-4593-504c-b735-9b8542daca9f",
+    "value": {
+      "name": "Niedersachsen",
+      "epidCode": "DE-NI",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000003",
+      "country": "Germany",
+      "uuid": "a3604d49-4593-504c-b735-9b8542daca9f"
+    }
+  },
+  {
+    "key": "91a7a9ef-ed03-5ab9-8155-ebd6cdf0b678",
+    "value": {
+      "name": "Nordrhein-Westfalen",
+      "epidCode": "DE-NW",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000005",
+      "country": "Germany",
+      "uuid": "91a7a9ef-ed03-5ab9-8155-ebd6cdf0b678"
+    }
+  },
+  {
+    "key": "2d151c11-d9f6-58c8-8ef6-beba097e2d37",
+    "value": {
+      "name": "Rheinland-Pfalz",
+      "epidCode": "DE-RP",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000007",
+      "country": "Germany",
+      "uuid": "2d151c11-d9f6-58c8-8ef6-beba097e2d37"
+    }
+  },
+  {
+    "key": "6024a122-4d3b-55b8-a4d8-c453ae4405ae",
+    "value": {
+      "name": "Saarland",
+      "epidCode": "DE-SL",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000010",
+      "country": "Germany",
+      "uuid": "6024a122-4d3b-55b8-a4d8-c453ae4405ae"
+    }
+  },
+  {
+    "key": "d52034df-231c-5de4-a9b5-0fee626acb2e",
+    "value": {
+      "name": "Sachsen",
+      "epidCode": "DE-SN",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000014",
+      "country": "Germany",
+      "uuid": "d52034df-231c-5de4-a9b5-0fee626acb2e"
+    }
+  },
+  {
+    "key": "2d772021-edac-504b-80ac-8ab7486bab6d",
+    "value": {
+      "name": "Sachsen-Anhalt",
+      "epidCode": "DE-ST",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000015",
+      "country": "Germany",
+      "uuid": "2d772021-edac-504b-80ac-8ab7486bab6d"
+    }
+  },
+  {
+    "key": "835852b2-7d60-5c88-9e31-138225289543",
+    "value": {
+      "name": "Schleswig-Holstein",
+      "epidCode": "DE-SH",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000001",
+      "country": "Germany",
+      "uuid": "835852b2-7d60-5c88-9e31-138225289543"
+    }
+  },
+  {
+    "key": "b6fb52aa-b394-550d-b83d-36c402ccef24",
+    "value": {
+      "name": "Thüringen",
+      "epidCode": "DE-TH",
+      "growthRate": "0",
+      "archived": "0",
+      "externalID": "13000016",
+      "country": "Germany",
+      "uuid": "b6fb52aa-b394-550d-b83d-36c402ccef24"
+    }
+  }
+]
