@@ -1,47 +1,64 @@
 import csv
 import json
 import uuid
-from os import path
-
-# 1. download https://confluence.sormas-tools.de/download/attachments/14492867/sormas_infrastrukturdaten_master.zip?version=3&modificationDate=1625495830588&api=v2
-# 2. unzip to to 'import/csv/' RELATIVE to main.py
-# 3. create folder named 'out'
-# 4. run this script
-
-csv_files = {
-    'countries': 'sormas_laender_survnet.csv',
-    'regions': 'sormas_bundeslaender_master.csv',
-    'districts': 'sormas_landkreise_master.csv',
-    'communities': 'sormas_gemeinden_master.csv'
-}
 
 
-def get_external_id(line: dict):
-    if 'externalId' in line.keys():
-        return line['externalId']
-    else:
-        return line['externalID']
+def read_csv(path, delimiter=','):
+    with open(path, 'r') as f:
+        reader = csv.DictReader(f, delimiter=delimiter)
+        fieldnames = list(reader.fieldnames)
+        fieldnames.append('uuid')
+        result = list()
+        for line in reader:
+            keys = sorted(line.keys())
+            joined_values = ''.join([line[k] for k in keys])
+            _uuid = str(uuid.uuid5(uuid.NAMESPACE_URL, f'https://sormas.org/location/{joined_values}'))
+            line['uuid'] = _uuid
+            result.append({'key': _uuid, 'value': line})
+        return result, fieldnames
 
 
-def get_name(line: dict):
-    if 'name' in line.keys():
-        return line['name']
-    else:
-        return line['defaultName']
+def write_csv(out, path):
+    out, fieldnames = out
+    with open(path, 'w+', newline='') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for line in out:
+            writer.writerow(line['value'])
+
+
+def write_json(out, path):
+    out, fieldnames = out
+    with open(path, 'w+', encoding='utf8') as f:
+        json.dump(out, f, indent=2, ensure_ascii=False)
+
+
+def store(out, path):
+    write_json(out, path + '.json')
+    write_csv(out, path + '.csv')
 
 
 def main():
-    for item in csv_files.keys():
-        with open(path.join('import', 'csv', csv_files[item]), 'r') as f:
-            converted = list()
-            reader = csv.DictReader(f, delimiter=';')
-            for line in reader:
-                # don't mind the URL prefix, we just need something which is fixed
-                line['uuid'] = str(uuid.uuid5(uuid.NAMESPACE_URL,
-                                              f"https://de.central.sormas-oegd.de/{get_external_id(line)}/{get_name(line)}"))
-                converted.append({'key': line['uuid'], 'value': line})
-            with open(path.join('out', f'{item}.json'), 'w+', encoding='utf8') as out:
-                json.dump(converted, out, indent=2, ensure_ascii=False)
+    print("International data processing")
+    int_continents = read_csv('./import/csv/international/sormas_import_all_continents.csv', ',')
+    store(int_continents, './out/international/sormas_import_all_continents')
+    int_subcontinents = read_csv('./import/csv/international/sormas_import_all_subcontinents.csv', ',')
+    store(int_subcontinents, './out/international/sormas_import_all_subcontinents')
+    int_countries = read_csv('./import/csv/international/sormas_import_all_countries.csv', ',')
+    store(int_countries, './out/international/sormas_import_all_countries')
+
+    print("Germany")
+    int_countries = read_csv('./import/csv/germany/sormas_laender_survnet.csv', ';')
+    store(int_countries, './out/germany/countries')
+
+    int_regions = read_csv('./import/csv/germany/sormas_bundeslaender_master.csv', ';')
+    store(int_regions, './out/germany/regions')
+
+    int_districts = read_csv('./import/csv/germany/sormas_landkreise_master.csv', ';')
+    store(int_districts, './out/germany/districts')
+
+    int_communities = read_csv('./import/csv/germany/sormas_gemeinden_master.csv', ';')
+    store(int_communities, './out/germany/communities')
 
 
 if __name__ == '__main__':

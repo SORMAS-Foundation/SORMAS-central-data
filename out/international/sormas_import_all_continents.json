@@ -1,0 +1,56 @@
+[
+  {
+    "key": "c0e0244d-f0b8-5aa8-a440-07342db1545b",
+    "value": {
+      "defaultName": "Africa",
+      "externalId": "31000005",
+      "archived": "FALSE",
+      "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+    }
+  },
+  {
+    "key": "8979aa99-4fe8-5756-8923-5e2255086dac",
+    "value": {
+      "defaultName": "America",
+      "externalId": "31000006",
+      "archived": "FALSE",
+      "uuid": "8979aa99-4fe8-5756-8923-5e2255086dac"
+    }
+  },
+  {
+    "key": "3fab2b69-31cd-5765-91e3-d68826a6dd48",
+    "value": {
+      "defaultName": "Asia",
+      "externalId": "31000004",
+      "archived": "FALSE",
+      "uuid": "3fab2b69-31cd-5765-91e3-d68826a6dd48"
+    }
+  },
+  {
+    "key": "36e1b04c-d1b1-50d1-a0c5-b276d449dbdf",
+    "value": {
+      "defaultName": "Australia (Continent)",
+      "externalId": "31000007",
+      "archived": "FALSE",
+      "uuid": "36e1b04c-d1b1-50d1-a0c5-b276d449dbdf"
+    }
+  },
+  {
+    "key": "9d9b0ea0-7c5e-5223-9a9b-bc2e2f30abc4",
+    "value": {
+      "defaultName": "Europe",
+      "externalId": "31000003",
+      "archived": "FALSE",
+      "uuid": "9d9b0ea0-7c5e-5223-9a9b-bc2e2f30abc4"
+    }
+  },
+  {
+    "key": "c927ab01-424b-50c5-b72b-5a4e3a40069c",
+    "value": {
+      "defaultName": "Foreign Countries (Unknown)",
+      "externalId": "31099999",
+      "archived": "FALSE",
+      "uuid": "c927ab01-424b-50c5-b72b-5a4e3a40069c"
+    }
+  }
+]
