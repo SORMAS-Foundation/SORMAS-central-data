@@ -5,10 +5,12 @@
       "name": "SK Flensburg",
       "epidCode": "FL",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001001",
-      "uuid": "b63bde91-099f-564f-a82f-b88406c6580a"
+      "uuid": "b63bde91-099f-564f-a82f-b88406c6580a",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -17,10 +19,12 @@
       "name": "SK Kiel",
       "epidCode": "KI",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001002",
-      "uuid": "78e852f6-1af8-5750-b9a4-25a30e1f4148"
+      "uuid": "78e852f6-1af8-5750-b9a4-25a30e1f4148",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -29,10 +33,12 @@
       "name": "SK Lübeck",
       "epidCode": "HL",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001003",
-      "uuid": "9ac63d1b-54de-5b0e-9144-77916ddf36c2"
+      "uuid": "9ac63d1b-54de-5b0e-9144-77916ddf36c2",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -41,10 +47,12 @@
       "name": "SK Neumünster",
       "epidCode": "NMS",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001004",
-      "uuid": "ba37df5e-21c3-5bde-9498-da9201b06ae4"
+      "uuid": "ba37df5e-21c3-5bde-9498-da9201b06ae4",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -53,10 +61,12 @@
       "name": "LK Dithmarschen",
       "epidCode": "HEI",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001051",
-      "uuid": "b6bb9099-7fad-5579-8b60-7e55cdf479d2"
+      "uuid": "b6bb9099-7fad-5579-8b60-7e55cdf479d2",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -65,10 +75,12 @@
       "name": "LK Herzogtum Lauenburg",
       "epidCode": "RZ",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001053",
-      "uuid": "fff87e48-9784-576c-b37c-e1a4d659a4ff"
+      "uuid": "fff87e48-9784-576c-b37c-e1a4d659a4ff",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -77,10 +89,12 @@
       "name": "LK Nordfriesland",
       "epidCode": "NF",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001054",
-      "uuid": "6f3e3380-0b02-50d3-b83c-770a459523a5"
+      "uuid": "6f3e3380-0b02-50d3-b83c-770a459523a5",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -89,10 +103,12 @@
       "name": "LK Ostholstein",
       "epidCode": "OLD",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001055",
-      "uuid": "5b50fb8c-9cee-5287-971c-e2f765e15d8c"
+      "uuid": "5b50fb8c-9cee-5287-971c-e2f765e15d8c",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -101,10 +117,12 @@
       "name": "LK Pinneberg",
       "epidCode": "PI",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001056",
-      "uuid": "1ee3860c-06cc-599f-a914-8527ca07a7c9"
+      "uuid": "1ee3860c-06cc-599f-a914-8527ca07a7c9",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -113,10 +131,12 @@
       "name": "LK Plön",
       "epidCode": "PLÖ",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001057",
-      "uuid": "4570a199-3b0d-5a3e-8e33-90b4ded5aca4"
+      "uuid": "4570a199-3b0d-5a3e-8e33-90b4ded5aca4",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -125,10 +145,12 @@
       "name": "LK Rendsburg-Eckernförde",
       "epidCode": "RD",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001058",
-      "uuid": "243b7101-8bc2-535a-9544-69fa3cd15701"
+      "uuid": "243b7101-8bc2-535a-9544-69fa3cd15701",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -137,10 +159,12 @@
       "name": "LK Schleswig-Flensburg",
       "epidCode": "SL",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001059",
-      "uuid": "127c7476-d90a-54b6-ba49-22ee1f830be5"
+      "uuid": "127c7476-d90a-54b6-ba49-22ee1f830be5",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -149,10 +173,12 @@
       "name": "LK Segeberg",
       "epidCode": "SE",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001060",
-      "uuid": "8c1707e7-fe90-5398-a897-9b1cfe6d0ecd"
+      "uuid": "8c1707e7-fe90-5398-a897-9b1cfe6d0ecd",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -161,10 +187,12 @@
       "name": "LK Steinburg",
       "epidCode": "IZ",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001061",
-      "uuid": "3c4d74cd-f25e-5250-bf6e-247579b9ddfd"
+      "uuid": "3c4d74cd-f25e-5250-bf6e-247579b9ddfd",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -173,10 +201,12 @@
       "name": "LK Stormarn",
       "epidCode": "OD",
       "growthRate": "0",
-      "region": "Schleswig-Holstein",
       "archived": "0",
       "externalID": "11001062",
-      "uuid": "8a72d5a8-f389-54c2-a4bc-c4957c7e6334"
+      "uuid": "8a72d5a8-f389-54c2-a4bc-c4957c7e6334",
+      "region": {
+        "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55"
+      }
     }
   },
   {
@@ -185,10 +215,12 @@
       "name": "SK Hamburg",
       "epidCode": "HH",
       "growthRate": "0",
-      "region": "Hamburg",
       "archived": "0",
       "externalID": "11002000",
-      "uuid": "df100a51-43df-5868-921d-4be48dc92adb"
+      "uuid": "df100a51-43df-5868-921d-4be48dc92adb",
+      "region": {
+        "uuid": "325df3bc-9f2a-5978-b1f7-e769ef34c13a"
+      }
     }
   },
   {
@@ -197,10 +229,12 @@
       "name": "SK Braunschweig",
       "epidCode": "BS",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003101",
-      "uuid": "5ebf08d1-2047-5e46-a6d3-4a7533aa77c0"
+      "uuid": "5ebf08d1-2047-5e46-a6d3-4a7533aa77c0",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -209,10 +243,12 @@
       "name": "SK Salzgitter",
       "epidCode": "SZ",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003102",
-      "uuid": "bca556ca-4e74-5348-8a26-d9bbcfbb317f"
+      "uuid": "bca556ca-4e74-5348-8a26-d9bbcfbb317f",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -221,10 +257,12 @@
       "name": "SK Wolfsburg",
       "epidCode": "WOB",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003103",
-      "uuid": "e3102f9a-3b5c-507c-bbf7-c022d2e6c136"
+      "uuid": "e3102f9a-3b5c-507c-bbf7-c022d2e6c136",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -233,10 +271,12 @@
       "name": "LK Gifhorn",
       "epidCode": "GF",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003151",
-      "uuid": "754e5beb-113c-5460-ad7d-eeebd84d310d"
+      "uuid": "754e5beb-113c-5460-ad7d-eeebd84d310d",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -245,10 +285,12 @@
       "name": "LK Göttingen (alt)",
       "epidCode": "GÖ",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003152",
-      "uuid": "7a81db55-69a3-5754-9dc2-040a862d7e9d"
+      "uuid": "7a81db55-69a3-5754-9dc2-040a862d7e9d",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -257,10 +299,12 @@
       "name": "LK Goslar",
       "epidCode": "GS",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003153",
-      "uuid": "66291334-093a-5798-825f-a926751ef6ce"
+      "uuid": "66291334-093a-5798-825f-a926751ef6ce",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -269,10 +313,12 @@
       "name": "LK Helmstedt",
       "epidCode": "HE",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003154",
-      "uuid": "cb0eb086-ed6e-5b2b-8c4f-97d1c4aa8332"
+      "uuid": "cb0eb086-ed6e-5b2b-8c4f-97d1c4aa8332",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -281,10 +327,12 @@
       "name": "LK Northeim",
       "epidCode": "NOM",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003155",
-      "uuid": "6eff2f09-1686-5100-9541-f9fb066ab3e9"
+      "uuid": "6eff2f09-1686-5100-9541-f9fb066ab3e9",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -293,10 +341,12 @@
       "name": "LK Osterode am Harz",
       "epidCode": "OHA",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003156",
-      "uuid": "010b0217-49c9-5cc2-aa03-b18180d09f0f"
+      "uuid": "010b0217-49c9-5cc2-aa03-b18180d09f0f",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -305,10 +355,12 @@
       "name": "LK Peine",
       "epidCode": "PE",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003157",
-      "uuid": "ab7d300a-89bd-54ae-b8ec-d868fbe62a2d"
+      "uuid": "ab7d300a-89bd-54ae-b8ec-d868fbe62a2d",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -317,10 +369,12 @@
       "name": "LK Wolfenbüttel",
       "epidCode": "WF",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003158",
-      "uuid": "9bd774c0-6cf0-50d0-bd71-b32427867303"
+      "uuid": "9bd774c0-6cf0-50d0-bd71-b32427867303",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -329,10 +383,12 @@
       "name": "LK Göttingen",
       "epidCode": "GÖ",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003159",
-      "uuid": "89292e43-87f7-5846-aa62-1d973e0814ba"
+      "uuid": "89292e43-87f7-5846-aa62-1d973e0814ba",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -341,10 +397,12 @@
       "name": "Region Hannover",
       "epidCode": "H",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003241",
-      "uuid": "479f7c37-2eb7-56ec-98e2-a466ad2a1b3c"
+      "uuid": "479f7c37-2eb7-56ec-98e2-a466ad2a1b3c",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -353,10 +411,12 @@
       "name": "LK Diepholz",
       "epidCode": "DH",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003251",
-      "uuid": "abc678dc-fad7-5185-a264-c56c45f702a1"
+      "uuid": "abc678dc-fad7-5185-a264-c56c45f702a1",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -365,10 +425,12 @@
       "name": "LK Hameln-Pyrmont",
       "epidCode": "HM",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003252",
-      "uuid": "94ec2644-ef1f-5853-9bcf-0492d81eca96"
+      "uuid": "94ec2644-ef1f-5853-9bcf-0492d81eca96",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -377,10 +439,12 @@
       "name": "LK Hildesheim",
       "epidCode": "HI",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003254",
-      "uuid": "61beee37-2844-5cd2-979b-9214d5bd8c03"
+      "uuid": "61beee37-2844-5cd2-979b-9214d5bd8c03",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -389,10 +453,12 @@
       "name": "LK Holzminden",
       "epidCode": "HOL",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003255",
-      "uuid": "365af0b4-c974-5362-89a6-6b9d83940bb2"
+      "uuid": "365af0b4-c974-5362-89a6-6b9d83940bb2",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -401,10 +467,12 @@
       "name": "LK Nienburg (Weser)",
       "epidCode": "NI",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003256",
-      "uuid": "2a9b7fb2-85b8-524b-a714-a633fab8c1e9"
+      "uuid": "2a9b7fb2-85b8-524b-a714-a633fab8c1e9",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -413,10 +481,12 @@
       "name": "LK Schaumburg",
       "epidCode": "STH",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003257",
-      "uuid": "2398f8cf-702d-5014-afcd-46b5b017160f"
+      "uuid": "2398f8cf-702d-5014-afcd-46b5b017160f",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -425,10 +495,12 @@
       "name": "LK Celle",
       "epidCode": "CE",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003351",
-      "uuid": "395112b7-62b7-5e8c-8799-226b6b5bbd23"
+      "uuid": "395112b7-62b7-5e8c-8799-226b6b5bbd23",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -437,10 +509,12 @@
       "name": "LK Cuxhaven",
       "epidCode": "WEM",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003352",
-      "uuid": "1326415f-2432-582b-b9a7-51938ded60fe"
+      "uuid": "1326415f-2432-582b-b9a7-51938ded60fe",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -449,10 +523,12 @@
       "name": "LK Harburg",
       "epidCode": "WL",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003353",
-      "uuid": "a534c1a1-b2ce-5858-90ed-c276d5191338"
+      "uuid": "a534c1a1-b2ce-5858-90ed-c276d5191338",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -461,10 +537,12 @@
       "name": "LK Lüchow-Dannenberg",
       "epidCode": "DAN",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003354",
-      "uuid": "7633dc1e-4b10-5e0a-b9e4-7f1b10407362"
+      "uuid": "7633dc1e-4b10-5e0a-b9e4-7f1b10407362",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -473,10 +551,12 @@
       "name": "LK Lüneburg",
       "epidCode": "LG",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003355",
-      "uuid": "d5187eeb-acfa-50cf-9929-d379efe89635"
+      "uuid": "d5187eeb-acfa-50cf-9929-d379efe89635",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -485,10 +565,12 @@
       "name": "LK Osterholz",
       "epidCode": "OHZ",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003356",
-      "uuid": "2f18347b-a0bc-55fd-a679-53d0ec22f52d"
+      "uuid": "2f18347b-a0bc-55fd-a679-53d0ec22f52d",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -497,10 +579,12 @@
       "name": "LK Rotenburg (Wümme)",
       "epidCode": "ROW",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003357",
-      "uuid": "b9c793b4-1b94-569d-a728-a62ef3f9ac47"
+      "uuid": "b9c793b4-1b94-569d-a728-a62ef3f9ac47",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -509,10 +593,12 @@
       "name": "LK Heidekreis",
       "epidCode": "SOL",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003358",
-      "uuid": "d8301c0e-decb-5fd6-b512-4b86c9a81e45"
+      "uuid": "d8301c0e-decb-5fd6-b512-4b86c9a81e45",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -521,10 +607,12 @@
       "name": "LK Stade",
       "epidCode": "STD",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003359",
-      "uuid": "95a86082-14c9-50d9-8e01-067a0ad33566"
+      "uuid": "95a86082-14c9-50d9-8e01-067a0ad33566",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -533,10 +621,12 @@
       "name": "LK Uelzen",
       "epidCode": "UE",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003360",
-      "uuid": "540914d0-1f46-592c-8cbf-0b949bddfe54"
+      "uuid": "540914d0-1f46-592c-8cbf-0b949bddfe54",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -545,10 +635,12 @@
       "name": "LK Verden",
       "epidCode": "VER",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003361",
-      "uuid": "3a0ff8d0-7d46-5c1d-b87f-feda7f2d30b4"
+      "uuid": "3a0ff8d0-7d46-5c1d-b87f-feda7f2d30b4",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -557,10 +649,12 @@
       "name": "SK Delmenhorst",
       "epidCode": "DEL",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003401",
-      "uuid": "1ef4f0c2-5585-53ad-af93-3577becf2391"
+      "uuid": "1ef4f0c2-5585-53ad-af93-3577becf2391",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -569,10 +663,12 @@
       "name": "SK Emden",
       "epidCode": "EMD",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003402",
-      "uuid": "b8ab80aa-8ad7-5ae2-b669-dee6eeb37337"
+      "uuid": "b8ab80aa-8ad7-5ae2-b669-dee6eeb37337",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -581,10 +677,12 @@
       "name": "SK Oldenburg",
       "epidCode": "OL",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003403",
-      "uuid": "a0cef009-a28b-5fb8-a4bd-1c3805ef54cf"
+      "uuid": "a0cef009-a28b-5fb8-a4bd-1c3805ef54cf",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -593,10 +691,12 @@
       "name": "SK Osnabrück",
       "epidCode": "OS",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003404",
-      "uuid": "dcbb42bb-d2d7-5204-91b2-4f140366a0bc"
+      "uuid": "dcbb42bb-d2d7-5204-91b2-4f140366a0bc",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -605,10 +705,12 @@
       "name": "SK Wilhelmshaven",
       "epidCode": "WHV",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003405",
-      "uuid": "4a70851b-c17f-5e6e-91b6-44d65be6b735"
+      "uuid": "4a70851b-c17f-5e6e-91b6-44d65be6b735",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -617,10 +719,12 @@
       "name": "LK Ammerland",
       "epidCode": "WST",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003451",
-      "uuid": "b22cd852-fd1c-507d-a45b-36bef0c81cab"
+      "uuid": "b22cd852-fd1c-507d-a45b-36bef0c81cab",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -629,10 +733,12 @@
       "name": "LK Aurich",
       "epidCode": "AUR",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003452",
-      "uuid": "5905228f-055c-5089-bc6b-671d5a7dfdc5"
+      "uuid": "5905228f-055c-5089-bc6b-671d5a7dfdc5",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -641,10 +747,12 @@
       "name": "LK Cloppenburg",
       "epidCode": "CLP",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003453",
-      "uuid": "42b9a0b4-f67c-54a0-b2df-827cc14d448e"
+      "uuid": "42b9a0b4-f67c-54a0-b2df-827cc14d448e",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -653,10 +761,12 @@
       "name": "LK Emsland",
       "epidCode": "MEP",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003454",
-      "uuid": "76050b3a-1cdd-596f-832f-aa2e3a117a1f"
+      "uuid": "76050b3a-1cdd-596f-832f-aa2e3a117a1f",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -665,10 +775,12 @@
       "name": "LK Friesland",
       "epidCode": "JEV",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003455",
-      "uuid": "9269ebe6-a39d-5621-8751-b6a8e2689b80"
+      "uuid": "9269ebe6-a39d-5621-8751-b6a8e2689b80",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -677,10 +789,12 @@
       "name": "LK Grafschaft Bentheim",
       "epidCode": "NOH",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003456",
-      "uuid": "ff6318dd-3cfb-575b-800d-88359f707788"
+      "uuid": "ff6318dd-3cfb-575b-800d-88359f707788",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -689,10 +803,12 @@
       "name": "LK Leer",
       "epidCode": "LER",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003457",
-      "uuid": "e17b59be-cb2a-518d-8529-3bd0bf72ea3f"
+      "uuid": "e17b59be-cb2a-518d-8529-3bd0bf72ea3f",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -701,10 +817,12 @@
       "name": "LK Oldenburg",
       "epidCode": "OL",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003458",
-      "uuid": "3df21b6e-2614-564f-a712-f6eb90b16874"
+      "uuid": "3df21b6e-2614-564f-a712-f6eb90b16874",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -713,10 +831,12 @@
       "name": "LK Osnabrück",
       "epidCode": "OS",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003459",
-      "uuid": "4cd9c908-53d6-5424-a0d9-2bc8d2d47c7c"
+      "uuid": "4cd9c908-53d6-5424-a0d9-2bc8d2d47c7c",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -725,10 +845,12 @@
       "name": "LK Vechta",
       "epidCode": "VEC",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003460",
-      "uuid": "2ba8e2dd-ffa4-546b-9541-feda4699f322"
+      "uuid": "2ba8e2dd-ffa4-546b-9541-feda4699f322",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -737,10 +859,12 @@
       "name": "LK Wesermarsch",
       "epidCode": "BRA",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003461",
-      "uuid": "472559d1-a4e3-530d-8169-7353812f8ffc"
+      "uuid": "472559d1-a4e3-530d-8169-7353812f8ffc",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -749,10 +873,12 @@
       "name": "LK Wittmund",
       "epidCode": "WTM",
       "growthRate": "0",
-      "region": "Niedersachsen",
       "archived": "0",
       "externalID": "11003462",
-      "uuid": "c1649c68-f4f7-51c9-bea7-00d7c2c59578"
+      "uuid": "c1649c68-f4f7-51c9-bea7-00d7c2c59578",
+      "region": {
+        "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8"
+      }
     }
   },
   {
@@ -761,10 +887,12 @@
       "name": "SK Bremen",
       "epidCode": "HB",
       "growthRate": "0",
-      "region": "Bremen",
       "archived": "0",
       "externalID": "11004011",
-      "uuid": "94d1d3f1-ec23-5a20-9845-ba4aa4a3005c"
+      "uuid": "94d1d3f1-ec23-5a20-9845-ba4aa4a3005c",
+      "region": {
+        "uuid": "582e4191-f5f2-5d92-bea7-d6c72cfbec6d"
+      }
     }
   },
   {
@@ -773,10 +901,12 @@
       "name": "SK Bremerhaven",
       "epidCode": "HB",
       "growthRate": "0",
-      "region": "Bremen",
       "archived": "0",
       "externalID": "11004012",
-      "uuid": "b3cbc409-8135-5b66-ac6a-7c39cf5776ae"
+      "uuid": "b3cbc409-8135-5b66-ac6a-7c39cf5776ae",
+      "region": {
+        "uuid": "582e4191-f5f2-5d92-bea7-d6c72cfbec6d"
+      }
     }
   },
   {
@@ -785,10 +915,12 @@
       "name": "SK Düsseldorf",
       "epidCode": "D",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005111",
-      "uuid": "3cd38835-6a84-52f1-8b0a-ef15d75b5b2c"
+      "uuid": "3cd38835-6a84-52f1-8b0a-ef15d75b5b2c",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -797,10 +929,12 @@
       "name": "SK Duisburg",
       "epidCode": "DU",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005112",
-      "uuid": "58660779-6343-54a7-bd1c-869ec99f7df4"
+      "uuid": "58660779-6343-54a7-bd1c-869ec99f7df4",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -809,10 +943,12 @@
       "name": "SK Essen",
       "epidCode": "E",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005113",
-      "uuid": "7fe371ac-ef30-5d71-81ee-93ee34a1e8af"
+      "uuid": "7fe371ac-ef30-5d71-81ee-93ee34a1e8af",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -821,10 +957,12 @@
       "name": "SK Krefeld",
       "epidCode": "KR",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005114",
-      "uuid": "60edb307-4a42-56ed-8307-10ea6f92adb3"
+      "uuid": "60edb307-4a42-56ed-8307-10ea6f92adb3",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -833,10 +971,12 @@
       "name": "SK Mönchengladbach",
       "epidCode": "MG",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005116",
-      "uuid": "f35bc4db-d64b-5720-ad20-7219223d2238"
+      "uuid": "f35bc4db-d64b-5720-ad20-7219223d2238",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -845,10 +985,12 @@
       "name": "SK Mülheim a.d.Ruhr",
       "epidCode": "MH",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005117",
-      "uuid": "ba752a49-8b07-5631-bca3-c52ae0411a34"
+      "uuid": "ba752a49-8b07-5631-bca3-c52ae0411a34",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -857,10 +999,12 @@
       "name": "SK Oberhausen",
       "epidCode": "OB",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005119",
-      "uuid": "ee7b1eb4-4d62-546c-81f1-e59ef06dec8d"
+      "uuid": "ee7b1eb4-4d62-546c-81f1-e59ef06dec8d",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -869,10 +1013,12 @@
       "name": "SK Remscheid",
       "epidCode": "RS",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005120",
-      "uuid": "6cbdd065-8cb4-5a2d-a86b-0e23513feb18"
+      "uuid": "6cbdd065-8cb4-5a2d-a86b-0e23513feb18",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -881,10 +1027,12 @@
       "name": "SK Solingen",
       "epidCode": "SG",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005122",
-      "uuid": "291e1dae-f42e-5e37-b196-ff59d534fda4"
+      "uuid": "291e1dae-f42e-5e37-b196-ff59d534fda4",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -893,10 +1041,12 @@
       "name": "SK Wuppertal",
       "epidCode": "W",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005124",
-      "uuid": "bb5de084-8c58-5b02-b820-17080a8fbafb"
+      "uuid": "bb5de084-8c58-5b02-b820-17080a8fbafb",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -905,10 +1055,12 @@
       "name": "LK Kleve",
       "epidCode": "KLE",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005154",
-      "uuid": "a26aa9fe-f07f-5605-83a5-f1efd74a7603"
+      "uuid": "a26aa9fe-f07f-5605-83a5-f1efd74a7603",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -917,10 +1069,12 @@
       "name": "LK Mettmann",
       "epidCode": "ME",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005158",
-      "uuid": "bc11e1e7-b58f-5482-bdb0-03a309519913"
+      "uuid": "bc11e1e7-b58f-5482-bdb0-03a309519913",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -929,10 +1083,12 @@
       "name": "LK Rhein-Kreis Neuss",
       "epidCode": "NE",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005162",
-      "uuid": "27bfa43d-943e-5bd0-bb1e-36e6d462053e"
+      "uuid": "27bfa43d-943e-5bd0-bb1e-36e6d462053e",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -941,10 +1097,12 @@
       "name": "LK Viersen",
       "epidCode": "VIE",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005166",
-      "uuid": "19a10e13-ea6c-5771-8f91-7e727985f5b3"
+      "uuid": "19a10e13-ea6c-5771-8f91-7e727985f5b3",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -953,10 +1111,12 @@
       "name": "LK Wesel",
       "epidCode": "WES",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005170",
-      "uuid": "469b73ed-4c83-5bb8-9201-16858add09e4"
+      "uuid": "469b73ed-4c83-5bb8-9201-16858add09e4",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -965,10 +1125,12 @@
       "name": "SK Aachen",
       "epidCode": "AC",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005313",
-      "uuid": "b2dac3b0-ddb2-548d-bda6-eee2c1637d3f"
+      "uuid": "b2dac3b0-ddb2-548d-bda6-eee2c1637d3f",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -977,10 +1139,12 @@
       "name": "SK Bonn",
       "epidCode": "BN",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005314",
-      "uuid": "289aec41-34bc-5fb8-93be-c76b3b0b61e2"
+      "uuid": "289aec41-34bc-5fb8-93be-c76b3b0b61e2",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -989,10 +1153,12 @@
       "name": "SK Köln",
       "epidCode": "K",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005315",
-      "uuid": "a134c20e-575e-59a3-a120-c17a7b67fa1a"
+      "uuid": "a134c20e-575e-59a3-a120-c17a7b67fa1a",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1001,10 +1167,12 @@
       "name": "SK Leverkusen",
       "epidCode": "LEV",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005316",
-      "uuid": "a57d1a87-490b-5bdb-9ed1-3871efd92e26"
+      "uuid": "a57d1a87-490b-5bdb-9ed1-3871efd92e26",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1013,10 +1181,12 @@
       "name": "StadtRegion Aachen",
       "epidCode": "AC",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005334",
-      "uuid": "d80aa133-b4db-5caa-9298-18ab5c63fa9e"
+      "uuid": "d80aa133-b4db-5caa-9298-18ab5c63fa9e",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1025,10 +1195,12 @@
       "name": "LK Aachen",
       "epidCode": "AC",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005354",
-      "uuid": "03c55729-4870-5690-a95d-ffc45c7d195f"
+      "uuid": "03c55729-4870-5690-a95d-ffc45c7d195f",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1037,10 +1209,12 @@
       "name": "LK Düren",
       "epidCode": "DN",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005358",
-      "uuid": "5c6bc721-cd1c-566a-ac87-c3c357147047"
+      "uuid": "5c6bc721-cd1c-566a-ac87-c3c357147047",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1049,10 +1223,12 @@
       "name": "LK Rhein-Erft-Kreis",
       "epidCode": "BM",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005362",
-      "uuid": "d260fda6-b44b-5f19-80f3-e23eb4736553"
+      "uuid": "d260fda6-b44b-5f19-80f3-e23eb4736553",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1061,10 +1237,12 @@
       "name": "LK Euskirchen",
       "epidCode": "EU",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005366",
-      "uuid": "0423a5ef-4fc9-58d5-94ee-c30a85c9252f"
+      "uuid": "0423a5ef-4fc9-58d5-94ee-c30a85c9252f",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1073,10 +1251,12 @@
       "name": "LK Heinsberg",
       "epidCode": "HS",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005370",
-      "uuid": "afb3419d-48b1-5958-9ba8-766123d51fe9"
+      "uuid": "afb3419d-48b1-5958-9ba8-766123d51fe9",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1085,10 +1265,12 @@
       "name": "LK Oberbergischer Kreis",
       "epidCode": "GM",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005374",
-      "uuid": "820f3c74-9297-5686-b262-db2b91c80556"
+      "uuid": "820f3c74-9297-5686-b262-db2b91c80556",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1097,10 +1279,12 @@
       "name": "LK Rheinisch-Bergischer Kreis",
       "epidCode": "GL",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005378",
-      "uuid": "2c4c54f3-d0ae-56d3-ba93-cd142ae74a64"
+      "uuid": "2c4c54f3-d0ae-56d3-ba93-cd142ae74a64",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1109,10 +1293,12 @@
       "name": "LK Rhein-Sieg-Kreis",
       "epidCode": "SU",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005382",
-      "uuid": "9782594f-c0cd-540b-a0c5-495ec27a8ffd"
+      "uuid": "9782594f-c0cd-540b-a0c5-495ec27a8ffd",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1121,10 +1307,12 @@
       "name": "SK Bottrop",
       "epidCode": "BOT",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005512",
-      "uuid": "fb96f8c9-1b04-56cf-b3ac-acf533fc6497"
+      "uuid": "fb96f8c9-1b04-56cf-b3ac-acf533fc6497",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1133,10 +1321,12 @@
       "name": "SK Gelsenkirchen",
       "epidCode": "GE",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005513",
-      "uuid": "39b9ee37-50c9-5def-8ee5-64733aadd0d2"
+      "uuid": "39b9ee37-50c9-5def-8ee5-64733aadd0d2",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1145,10 +1335,12 @@
       "name": "SK Münster",
       "epidCode": "MS",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005515",
-      "uuid": "e8e79480-5fe5-59cf-9175-5ec2e72049ae"
+      "uuid": "e8e79480-5fe5-59cf-9175-5ec2e72049ae",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1157,10 +1349,12 @@
       "name": "LK Borken",
       "epidCode": "BOR",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005554",
-      "uuid": "5d184a1e-2ea4-57f9-a14c-c93f83159364"
+      "uuid": "5d184a1e-2ea4-57f9-a14c-c93f83159364",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1169,10 +1363,12 @@
       "name": "LK Coesfeld",
       "epidCode": "COE",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005558",
-      "uuid": "1f6746a0-ddab-5944-bd02-251bdb9b2aca"
+      "uuid": "1f6746a0-ddab-5944-bd02-251bdb9b2aca",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1181,10 +1377,12 @@
       "name": "LK Recklinghausen",
       "epidCode": "RE",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005562",
-      "uuid": "d49d0032-afd2-5433-964f-9fc419bb268e"
+      "uuid": "d49d0032-afd2-5433-964f-9fc419bb268e",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1193,10 +1391,12 @@
       "name": "LK Steinfurt",
       "epidCode": "ST",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005566",
-      "uuid": "770cbb85-5d03-5683-a6b0-d11342170a4e"
+      "uuid": "770cbb85-5d03-5683-a6b0-d11342170a4e",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1205,10 +1405,12 @@
       "name": "LK Warendorf",
       "epidCode": "WAF",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005570",
-      "uuid": "601e5d13-404e-5048-85fc-bd453679ae44"
+      "uuid": "601e5d13-404e-5048-85fc-bd453679ae44",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1217,10 +1419,12 @@
       "name": "SK Bielefeld",
       "epidCode": "BI",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005711",
-      "uuid": "2e7d9d70-5ff3-5e71-b168-8c79dad66743"
+      "uuid": "2e7d9d70-5ff3-5e71-b168-8c79dad66743",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1229,10 +1433,12 @@
       "name": "LK Gütersloh",
       "epidCode": "GT",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005754",
-      "uuid": "02ef2645-a02f-56a1-91c1-b505ece123ea"
+      "uuid": "02ef2645-a02f-56a1-91c1-b505ece123ea",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1241,10 +1447,12 @@
       "name": "LK Herford",
       "epidCode": "HF",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005758",
-      "uuid": "03118c50-4504-5746-acfa-7eb8855a1238"
+      "uuid": "03118c50-4504-5746-acfa-7eb8855a1238",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1253,10 +1461,12 @@
       "name": "LK Höxter",
       "epidCode": "HX",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005762",
-      "uuid": "aaaaa2ef-68fc-536a-8ec0-b66c197905db"
+      "uuid": "aaaaa2ef-68fc-536a-8ec0-b66c197905db",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1265,10 +1475,12 @@
       "name": "LK Lippe",
       "epidCode": "LIP",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005766",
-      "uuid": "07d69f6b-1b32-5c67-9a1f-a33849d921ff"
+      "uuid": "07d69f6b-1b32-5c67-9a1f-a33849d921ff",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1277,10 +1489,12 @@
       "name": "LK Minden-Lübbecke",
       "epidCode": "MI",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005770",
-      "uuid": "b6387882-0847-5995-bf70-1606ec6ea5b3"
+      "uuid": "b6387882-0847-5995-bf70-1606ec6ea5b3",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1289,10 +1503,12 @@
       "name": "LK Paderborn",
       "epidCode": "PB",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005774",
-      "uuid": "eac4cf54-aca5-52d1-a9dc-a86d3d53cdbd"
+      "uuid": "eac4cf54-aca5-52d1-a9dc-a86d3d53cdbd",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1301,10 +1517,12 @@
       "name": "SK Bochum",
       "epidCode": "BO",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005911",
-      "uuid": "cfc6d045-8bdb-505d-953a-dd8acbfd2dc4"
+      "uuid": "cfc6d045-8bdb-505d-953a-dd8acbfd2dc4",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1313,10 +1531,12 @@
       "name": "SK Dortmund",
       "epidCode": "DO",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005913",
-      "uuid": "9f73805a-d927-5acb-b0a0-bd01efac7a25"
+      "uuid": "9f73805a-d927-5acb-b0a0-bd01efac7a25",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1325,10 +1545,12 @@
       "name": "SK Hagen",
       "epidCode": "HA",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005914",
-      "uuid": "4cb46bc5-c528-5321-a5ce-8d8bad1d14ab"
+      "uuid": "4cb46bc5-c528-5321-a5ce-8d8bad1d14ab",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1337,10 +1559,12 @@
       "name": "SK Hamm",
       "epidCode": "HAM",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005915",
-      "uuid": "6a24ac99-be4e-50c0-a708-5c4fc2221646"
+      "uuid": "6a24ac99-be4e-50c0-a708-5c4fc2221646",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1349,10 +1573,12 @@
       "name": "SK Herne",
       "epidCode": "HER",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005916",
-      "uuid": "900f3e3f-9635-51a4-87df-9ee91662f876"
+      "uuid": "900f3e3f-9635-51a4-87df-9ee91662f876",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1361,10 +1587,12 @@
       "name": "LK Ennepe-Ruhr-Kreis",
       "epidCode": "EN",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005954",
-      "uuid": "29a1f6da-d6f5-56c8-be18-d367d88c096a"
+      "uuid": "29a1f6da-d6f5-56c8-be18-d367d88c096a",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1373,10 +1601,12 @@
       "name": "LK Hochsauerlandkreis",
       "epidCode": "MES",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005958",
-      "uuid": "5b4dd94b-3402-5c5e-b02a-360268c9a74e"
+      "uuid": "5b4dd94b-3402-5c5e-b02a-360268c9a74e",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1385,10 +1615,12 @@
       "name": "LK Märkischer Kreis",
       "epidCode": "MK",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005962",
-      "uuid": "ff18a414-a06d-5ced-ba45-57abb3e6771e"
+      "uuid": "ff18a414-a06d-5ced-ba45-57abb3e6771e",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1397,10 +1629,12 @@
       "name": "LK Olpe",
       "epidCode": "OE",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005966",
-      "uuid": "15353191-4bb0-5868-b944-e66aa4ac1910"
+      "uuid": "15353191-4bb0-5868-b944-e66aa4ac1910",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1409,10 +1643,12 @@
       "name": "LK Siegen-Wittgenstein",
       "epidCode": "SI",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005970",
-      "uuid": "45b53097-18fa-55c9-93eb-824dcb4f6b81"
+      "uuid": "45b53097-18fa-55c9-93eb-824dcb4f6b81",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1421,10 +1657,12 @@
       "name": "LK Soest",
       "epidCode": "SO",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005974",
-      "uuid": "b114a5dd-b883-527a-9235-2c089257e95f"
+      "uuid": "b114a5dd-b883-527a-9235-2c089257e95f",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1433,10 +1671,12 @@
       "name": "LK Unna",
       "epidCode": "UN",
       "growthRate": "0",
-      "region": "Nordrhein-Westfalen",
       "archived": "0",
       "externalID": "11005978",
-      "uuid": "07a4fd8c-adb7-5288-abd6-1307741b9eef"
+      "uuid": "07a4fd8c-adb7-5288-abd6-1307741b9eef",
+      "region": {
+        "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5"
+      }
     }
   },
   {
@@ -1445,10 +1685,12 @@
       "name": "SK Darmstadt",
       "epidCode": "DA",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006411",
-      "uuid": "af7e0cd5-40fb-568f-b538-0a829f568e7d"
+      "uuid": "af7e0cd5-40fb-568f-b538-0a829f568e7d",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1457,10 +1699,12 @@
       "name": "SK Frankfurt am Main",
       "epidCode": "F",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006412",
-      "uuid": "2dddfee4-ac62-59b1-a452-60a08fd9810f"
+      "uuid": "2dddfee4-ac62-59b1-a452-60a08fd9810f",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1469,10 +1713,12 @@
       "name": "SK Offenbach",
       "epidCode": "OF",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006413",
-      "uuid": "3922bb26-2632-5c5b-8644-bc477ee05124"
+      "uuid": "3922bb26-2632-5c5b-8644-bc477ee05124",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1481,10 +1727,12 @@
       "name": "SK Wiesbaden",
       "epidCode": "WI",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006414",
-      "uuid": "5602abb0-70ee-5909-bf6d-0c9e8f75fc5d"
+      "uuid": "5602abb0-70ee-5909-bf6d-0c9e8f75fc5d",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1493,10 +1741,12 @@
       "name": "LK Bergstraße",
       "epidCode": "HP",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006431",
-      "uuid": "3e0fb6f8-c54c-5561-b27b-71b094c177d9"
+      "uuid": "3e0fb6f8-c54c-5561-b27b-71b094c177d9",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1505,10 +1755,12 @@
       "name": "LK Darmstadt-Dieburg",
       "epidCode": "DI",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006432",
-      "uuid": "db561a61-6872-5e33-81be-b188eed2c8f9"
+      "uuid": "db561a61-6872-5e33-81be-b188eed2c8f9",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1517,10 +1769,12 @@
       "name": "LK Groß-Gerau",
       "epidCode": "GG",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006433",
-      "uuid": "373dc1dd-bd44-56c0-bb73-0a3c66871b3a"
+      "uuid": "373dc1dd-bd44-56c0-bb73-0a3c66871b3a",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1529,10 +1783,12 @@
       "name": "LK Hochtaunuskreis",
       "epidCode": "HG",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006434",
-      "uuid": "c1df5ba6-aa9a-5d67-8f9a-f408951acd8c"
+      "uuid": "c1df5ba6-aa9a-5d67-8f9a-f408951acd8c",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1541,10 +1797,12 @@
       "name": "LK Main-Kinzig-Kreis",
       "epidCode": "HU",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006435",
-      "uuid": "71898975-2187-550e-a893-135bf227bb93"
+      "uuid": "71898975-2187-550e-a893-135bf227bb93",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1553,10 +1811,12 @@
       "name": "LK Main-Taunus-Kreis",
       "epidCode": "MTK",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006436",
-      "uuid": "7979784b-acf3-52c1-ada8-f98759c302fe"
+      "uuid": "7979784b-acf3-52c1-ada8-f98759c302fe",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1565,10 +1825,12 @@
       "name": "LK Odenwaldkreis",
       "epidCode": "ERB",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006437",
-      "uuid": "9eff9168-5a23-58cd-a72e-21b7a75a283b"
+      "uuid": "9eff9168-5a23-58cd-a72e-21b7a75a283b",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1577,10 +1839,12 @@
       "name": "LK Offenbach",
       "epidCode": "OF",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006438",
-      "uuid": "a2a0fd23-43ac-5914-b806-78517430ecbe"
+      "uuid": "a2a0fd23-43ac-5914-b806-78517430ecbe",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1589,10 +1853,12 @@
       "name": "LK Rheingau-Taunus-Kreis",
       "epidCode": "SWA",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006439",
-      "uuid": "a3a88c83-ecd7-5f0b-acd1-af3dd6a681ce"
+      "uuid": "a3a88c83-ecd7-5f0b-acd1-af3dd6a681ce",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1601,10 +1867,12 @@
       "name": "LK Wetteraukreis",
       "epidCode": "FB",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006440",
-      "uuid": "b96f0cb3-4d4f-5c35-929b-f82a5083a447"
+      "uuid": "b96f0cb3-4d4f-5c35-929b-f82a5083a447",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1613,10 +1881,12 @@
       "name": "LK Gießen",
       "epidCode": "GI",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006531",
-      "uuid": "4c0b7a78-8a42-54c4-80bf-03eab04bba0b"
+      "uuid": "4c0b7a78-8a42-54c4-80bf-03eab04bba0b",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1625,10 +1895,12 @@
       "name": "LK Lahn-Dill-Kreis",
       "epidCode": "LDK",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006532",
-      "uuid": "260b2144-a30f-5878-b50e-050e71972f07"
+      "uuid": "260b2144-a30f-5878-b50e-050e71972f07",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1637,10 +1909,12 @@
       "name": "LK Limburg-Weilburg",
       "epidCode": "LM",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006533",
-      "uuid": "d0dbe10c-f20d-5145-af33-3fee972cb1e1"
+      "uuid": "d0dbe10c-f20d-5145-af33-3fee972cb1e1",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1649,10 +1923,12 @@
       "name": "LK Marburg-Biedenkopf",
       "epidCode": "MR",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006534",
-      "uuid": "3cec0bca-18d3-5266-9ca4-b1d4bc62baef"
+      "uuid": "3cec0bca-18d3-5266-9ca4-b1d4bc62baef",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1661,10 +1937,12 @@
       "name": "LK Vogelsbergkreis",
       "epidCode": "VB",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006535",
-      "uuid": "68304228-c547-5e71-9cde-283fc8e9ce38"
+      "uuid": "68304228-c547-5e71-9cde-283fc8e9ce38",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1673,10 +1951,12 @@
       "name": "SK Kassel",
       "epidCode": "KS",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006611",
-      "uuid": "04283181-131f-5087-ace8-59f0f9f9a691"
+      "uuid": "04283181-131f-5087-ace8-59f0f9f9a691",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1685,10 +1965,12 @@
       "name": "LK Fulda",
       "epidCode": "FD",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006631",
-      "uuid": "df01bab5-1a84-53b6-8bf8-20cc77091e85"
+      "uuid": "df01bab5-1a84-53b6-8bf8-20cc77091e85",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1697,10 +1979,12 @@
       "name": "LK Hersfeld-Rotenburg",
       "epidCode": "HEF",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006632",
-      "uuid": "cff91499-2cef-5075-b3a3-9144fd5d3494"
+      "uuid": "cff91499-2cef-5075-b3a3-9144fd5d3494",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1709,10 +1993,12 @@
       "name": "LK Kassel",
       "epidCode": "WOH",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006633",
-      "uuid": "85efdd97-b046-5cd1-bd7e-c504da35f06e"
+      "uuid": "85efdd97-b046-5cd1-bd7e-c504da35f06e",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1721,10 +2007,12 @@
       "name": "LK Schwalm-Eder-Kreis",
       "epidCode": "HR",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006634",
-      "uuid": "f16deb0c-0c79-525c-8510-08855a1c02b5"
+      "uuid": "f16deb0c-0c79-525c-8510-08855a1c02b5",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1733,10 +2021,12 @@
       "name": "LK Waldeck-Frankenberg",
       "epidCode": "WA",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006635",
-      "uuid": "68d710ce-4188-55a7-a26c-3a4a20e69727"
+      "uuid": "68d710ce-4188-55a7-a26c-3a4a20e69727",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1745,10 +2035,12 @@
       "name": "LK Werra-Meißner-Kreis",
       "epidCode": "ESW",
       "growthRate": "0",
-      "region": "Hessen",
       "archived": "0",
       "externalID": "11006636",
-      "uuid": "afef1f9d-e6b9-5c10-8296-e0d6b0045428"
+      "uuid": "afef1f9d-e6b9-5c10-8296-e0d6b0045428",
+      "region": {
+        "uuid": "d033e05d-b207-55a4-9981-197866eef9f9"
+      }
     }
   },
   {
@@ -1757,10 +2049,12 @@
       "name": "SK Koblenz",
       "epidCode": "KO",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007111",
-      "uuid": "c75446bc-1833-5626-8e69-424dd5f4d0b9"
+      "uuid": "c75446bc-1833-5626-8e69-424dd5f4d0b9",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1769,10 +2063,12 @@
       "name": "LK Ahrweiler",
       "epidCode": "AW",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007131",
-      "uuid": "bffd5e09-5ff1-5ef5-9f52-7a99e37f3810"
+      "uuid": "bffd5e09-5ff1-5ef5-9f52-7a99e37f3810",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1781,10 +2077,12 @@
       "name": "LK Altenkirchen",
       "epidCode": "AK",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007132",
-      "uuid": "5d980444-e575-5d13-9465-1b9296b0cb45"
+      "uuid": "5d980444-e575-5d13-9465-1b9296b0cb45",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1793,10 +2091,12 @@
       "name": "LK Bad Kreuznach",
       "epidCode": "KH",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007133",
-      "uuid": "a7a876fd-d400-54e8-9f8d-fc43c9eec574"
+      "uuid": "a7a876fd-d400-54e8-9f8d-fc43c9eec574",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1805,10 +2105,12 @@
       "name": "LK Birkenfeld",
       "epidCode": "BIR",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007134",
-      "uuid": "bb687de5-65c1-5452-a100-8c4ba6a6d453"
+      "uuid": "bb687de5-65c1-5452-a100-8c4ba6a6d453",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1817,10 +2119,12 @@
       "name": "LK Cochem-Zell",
       "epidCode": "COC",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007135",
-      "uuid": "5f7f75cf-8bb6-5f0b-aafa-f24bba0c2d2a"
+      "uuid": "5f7f75cf-8bb6-5f0b-aafa-f24bba0c2d2a",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1829,10 +2133,12 @@
       "name": "LK Mayen-Koblenz",
       "epidCode": "MYK",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007137",
-      "uuid": "8b15edc2-498c-5441-b165-a3713202e880"
+      "uuid": "8b15edc2-498c-5441-b165-a3713202e880",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1841,10 +2147,12 @@
       "name": "LK Neuwied",
       "epidCode": "NR",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007138",
-      "uuid": "8ef3312d-489c-5b74-a712-0e0c92070a7a"
+      "uuid": "8ef3312d-489c-5b74-a712-0e0c92070a7a",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1853,10 +2161,12 @@
       "name": "LK Rhein-Hunsrück-Kreis",
       "epidCode": "SIM",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007140",
-      "uuid": "b592c222-8c84-5bb7-9df6-7e58b58c9d60"
+      "uuid": "b592c222-8c84-5bb7-9df6-7e58b58c9d60",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1865,10 +2175,12 @@
       "name": "LK Rhein-Lahn-Kreis",
       "epidCode": "EMS",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007141",
-      "uuid": "a8ef272f-61df-59f3-a694-9e0e8f831fc7"
+      "uuid": "a8ef272f-61df-59f3-a694-9e0e8f831fc7",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1877,10 +2189,12 @@
       "name": "LK Westerwaldkreis",
       "epidCode": "WW",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007143",
-      "uuid": "4e126c9f-67d8-5969-ba1e-9616b10265b6"
+      "uuid": "4e126c9f-67d8-5969-ba1e-9616b10265b6",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1889,10 +2203,12 @@
       "name": "SK Trier",
       "epidCode": "TR",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007211",
-      "uuid": "fc339309-a465-5ece-b207-7b422c229aa7"
+      "uuid": "fc339309-a465-5ece-b207-7b422c229aa7",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1901,10 +2217,12 @@
       "name": "LK Bernkastel-Wittlich",
       "epidCode": "WIL",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007231",
-      "uuid": "335a7431-5e8a-57e3-ba57-1e53594906e8"
+      "uuid": "335a7431-5e8a-57e3-ba57-1e53594906e8",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1913,10 +2231,12 @@
       "name": "LK Bitburg-Prüm",
       "epidCode": "BIT",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007232",
-      "uuid": "1e052509-3ed2-54a1-8a28-96676d84a776"
+      "uuid": "1e052509-3ed2-54a1-8a28-96676d84a776",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1925,10 +2245,12 @@
       "name": "LK Vulkaneifel",
       "epidCode": "DAU",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007233",
-      "uuid": "50181d0c-4bba-543e-a824-7da9aca6b538"
+      "uuid": "50181d0c-4bba-543e-a824-7da9aca6b538",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1937,10 +2259,12 @@
       "name": "LK Trier-Saarburg",
       "epidCode": "TR",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007235",
-      "uuid": "8e7b210f-0f51-5205-90b2-fb257364244b"
+      "uuid": "8e7b210f-0f51-5205-90b2-fb257364244b",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1949,10 +2273,12 @@
       "name": "SK Frankenthal",
       "epidCode": "FT",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007311",
-      "uuid": "5e5c1df8-3dbb-5dd6-b30e-5aad13a3ae07"
+      "uuid": "5e5c1df8-3dbb-5dd6-b30e-5aad13a3ae07",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1961,10 +2287,12 @@
       "name": "SK Kaiserslautern",
       "epidCode": "KL",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007312",
-      "uuid": "66427bf8-42d9-58f3-99c5-c2da8c4bf609"
+      "uuid": "66427bf8-42d9-58f3-99c5-c2da8c4bf609",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1973,10 +2301,12 @@
       "name": "SK Landau i.d.Pfalz",
       "epidCode": "LD",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007313",
-      "uuid": "3bc23c21-d197-5d22-a0ac-07934299e191"
+      "uuid": "3bc23c21-d197-5d22-a0ac-07934299e191",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1985,10 +2315,12 @@
       "name": "SK Ludwigshafen",
       "epidCode": "LU",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007314",
-      "uuid": "76ba8b85-861a-5498-9114-3cb9b84223d4"
+      "uuid": "76ba8b85-861a-5498-9114-3cb9b84223d4",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -1997,10 +2329,12 @@
       "name": "SK Mainz",
       "epidCode": "MZ",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007315",
-      "uuid": "7ea5d684-5b1f-55c5-9517-30b4f0c8ab5e"
+      "uuid": "7ea5d684-5b1f-55c5-9517-30b4f0c8ab5e",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2009,10 +2343,12 @@
       "name": "SK Neustadt a.d.Weinstraße",
       "epidCode": "NW",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007316",
-      "uuid": "947c2df6-6126-514f-b9a4-f814534bfca5"
+      "uuid": "947c2df6-6126-514f-b9a4-f814534bfca5",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2021,10 +2357,12 @@
       "name": "SK Pirmasens",
       "epidCode": "PS",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007317",
-      "uuid": "fae74ae3-bfa7-547e-938d-aa3609bac27e"
+      "uuid": "fae74ae3-bfa7-547e-938d-aa3609bac27e",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2033,10 +2371,12 @@
       "name": "SK Speyer",
       "epidCode": "SP",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007318",
-      "uuid": "e8adf8f4-8bf5-594e-ab7a-5bab8c235973"
+      "uuid": "e8adf8f4-8bf5-594e-ab7a-5bab8c235973",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2045,10 +2385,12 @@
       "name": "SK Worms",
       "epidCode": "WO",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007319",
-      "uuid": "75d941ee-31a1-5969-a9c6-9382eb5bfd46"
+      "uuid": "75d941ee-31a1-5969-a9c6-9382eb5bfd46",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2057,10 +2399,12 @@
       "name": "SK Zweibrücken",
       "epidCode": "ZW",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007320",
-      "uuid": "b6dc3a24-2693-53f5-852b-db61e94e95bd"
+      "uuid": "b6dc3a24-2693-53f5-852b-db61e94e95bd",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2069,10 +2413,12 @@
       "name": "LK Alzey-Worms",
       "epidCode": "AZ",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007331",
-      "uuid": "83aa1423-a145-5747-b2e3-3086b291a571"
+      "uuid": "83aa1423-a145-5747-b2e3-3086b291a571",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2081,10 +2427,12 @@
       "name": "LK Bad Dürkheim",
       "epidCode": "DÜW",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007332",
-      "uuid": "366ae585-18f4-5572-aed0-a4767e1f9ecf"
+      "uuid": "366ae585-18f4-5572-aed0-a4767e1f9ecf",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2093,10 +2441,12 @@
       "name": "LK Donnersbergkreis",
       "epidCode": "KIB",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007333",
-      "uuid": "88dc6a6f-0505-5f9e-9d7b-44a59963741b"
+      "uuid": "88dc6a6f-0505-5f9e-9d7b-44a59963741b",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2105,10 +2455,12 @@
       "name": "LK Germersheim",
       "epidCode": "GER",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007334",
-      "uuid": "8d855321-62bb-5536-aef7-e47bd4a136b1"
+      "uuid": "8d855321-62bb-5536-aef7-e47bd4a136b1",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2117,10 +2469,12 @@
       "name": "LK Kaiserslautern",
       "epidCode": "KL",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007335",
-      "uuid": "a59e997e-81de-59a5-97d9-17897a6da766"
+      "uuid": "a59e997e-81de-59a5-97d9-17897a6da766",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2129,10 +2483,12 @@
       "name": "LK Kusel",
       "epidCode": "KUS",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007336",
-      "uuid": "cc97241a-5582-5ff5-b31f-4d3456f730f5"
+      "uuid": "cc97241a-5582-5ff5-b31f-4d3456f730f5",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2141,10 +2497,12 @@
       "name": "LK Südliche Weinstraße",
       "epidCode": "SÜW",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007337",
-      "uuid": "e93097d4-16c8-58db-91f5-cf8fe0f44cfb"
+      "uuid": "e93097d4-16c8-58db-91f5-cf8fe0f44cfb",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2153,10 +2511,12 @@
       "name": "LK Rhein-Pfalz-Kreis",
       "epidCode": "LU",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007338",
-      "uuid": "73932a7e-f884-528a-92d9-70fb59fa5501"
+      "uuid": "73932a7e-f884-528a-92d9-70fb59fa5501",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2165,10 +2525,12 @@
       "name": "LK Mainz-Bingen",
       "epidCode": "MZ",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007339",
-      "uuid": "5cde96f6-d33c-5f20-9dbe-4ee35a816c76"
+      "uuid": "5cde96f6-d33c-5f20-9dbe-4ee35a816c76",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2177,10 +2539,12 @@
       "name": "LK Südwestpfalz",
       "epidCode": "PS",
       "growthRate": "0",
-      "region": "Rheinland-Pfalz",
       "archived": "0",
       "externalID": "11007340",
-      "uuid": "7bdcd70f-3f71-518c-93c1-d7fc12dec430"
+      "uuid": "7bdcd70f-3f71-518c-93c1-d7fc12dec430",
+      "region": {
+        "uuid": "cc753d47-10c1-521b-b017-71713aa8287d"
+      }
     }
   },
   {
@@ -2189,10 +2553,12 @@
       "name": "SK Stuttgart",
       "epidCode": "S",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008111",
-      "uuid": "6144a817-f814-5fef-abbf-504a442d78a3"
+      "uuid": "6144a817-f814-5fef-abbf-504a442d78a3",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2201,10 +2567,12 @@
       "name": "LK Böblingen",
       "epidCode": "BB",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008115",
-      "uuid": "3cc899ba-8b7a-5d32-99d2-d3dfa6d386a1"
+      "uuid": "3cc899ba-8b7a-5d32-99d2-d3dfa6d386a1",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2213,10 +2581,12 @@
       "name": "LK Esslingen",
       "epidCode": "ES",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008116",
-      "uuid": "5f2dc769-7715-5d10-9079-9ab92c3b77f6"
+      "uuid": "5f2dc769-7715-5d10-9079-9ab92c3b77f6",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2225,10 +2595,12 @@
       "name": "LK Göppingen",
       "epidCode": "GP",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008117",
-      "uuid": "badedd14-87c4-5c7e-850e-67e7c43c048f"
+      "uuid": "badedd14-87c4-5c7e-850e-67e7c43c048f",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2237,10 +2609,12 @@
       "name": "LK Ludwigsburg",
       "epidCode": "LB",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008118",
-      "uuid": "66dc90ba-67c9-5a5d-83a8-492686ebae8e"
+      "uuid": "66dc90ba-67c9-5a5d-83a8-492686ebae8e",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2249,10 +2623,12 @@
       "name": "LK Rems-Murr-Kreis",
       "epidCode": "WN",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008119",
-      "uuid": "a64d2647-5a62-5b2c-8ff6-d0aec9c44639"
+      "uuid": "a64d2647-5a62-5b2c-8ff6-d0aec9c44639",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2261,10 +2637,12 @@
       "name": "SK Heilbronn",
       "epidCode": "HN",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008121",
-      "uuid": "b976b4a4-18a4-518a-8d50-4bd76bfc7244"
+      "uuid": "b976b4a4-18a4-518a-8d50-4bd76bfc7244",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2273,10 +2651,12 @@
       "name": "LK Heilbronn",
       "epidCode": "HN",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008125",
-      "uuid": "ce19be1f-10a1-5fc6-bd4a-5b96f3bef168"
+      "uuid": "ce19be1f-10a1-5fc6-bd4a-5b96f3bef168",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2285,10 +2665,12 @@
       "name": "LK Hohenlohekreis",
       "epidCode": "KÜN",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008126",
-      "uuid": "eaa8feae-574c-5770-af5d-f81052536d95"
+      "uuid": "eaa8feae-574c-5770-af5d-f81052536d95",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2297,10 +2679,12 @@
       "name": "LK Schwäbisch Hall",
       "epidCode": "SHA",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008127",
-      "uuid": "84ad1198-d095-5eb2-a8bc-122329cbb244"
+      "uuid": "84ad1198-d095-5eb2-a8bc-122329cbb244",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2309,10 +2693,12 @@
       "name": "LK Main-Tauber-Kreis",
       "epidCode": "TBB",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008128",
-      "uuid": "00bc1d31-ad54-5a11-891f-14feb99846e3"
+      "uuid": "00bc1d31-ad54-5a11-891f-14feb99846e3",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2321,10 +2707,12 @@
       "name": "LK Heidenheim",
       "epidCode": "HDH",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008135",
-      "uuid": "195e2147-b373-5a8e-aa40-61b5f13f26a4"
+      "uuid": "195e2147-b373-5a8e-aa40-61b5f13f26a4",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2333,10 +2721,12 @@
       "name": "LK Ostalbkreis",
       "epidCode": "AA",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008136",
-      "uuid": "efd1cb63-6877-5eb2-9a15-e0d3b16efc5d"
+      "uuid": "efd1cb63-6877-5eb2-9a15-e0d3b16efc5d",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2345,10 +2735,12 @@
       "name": "SK Baden-Baden",
       "epidCode": "BAD",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008211",
-      "uuid": "ce3257e8-14d8-520a-9c60-eb23b15a620c"
+      "uuid": "ce3257e8-14d8-520a-9c60-eb23b15a620c",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2357,10 +2749,12 @@
       "name": "SK Karlsruhe",
       "epidCode": "KA",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008212",
-      "uuid": "5d31e68b-21ef-5f18-a90b-08fe9254d1ec"
+      "uuid": "5d31e68b-21ef-5f18-a90b-08fe9254d1ec",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2369,10 +2763,12 @@
       "name": "LK Karlsruhe",
       "epidCode": "KA",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008215",
-      "uuid": "b1407e58-8427-5edf-9703-305f319706cf"
+      "uuid": "b1407e58-8427-5edf-9703-305f319706cf",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2381,10 +2777,12 @@
       "name": "LK Rastatt",
       "epidCode": "RA",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008216",
-      "uuid": "a122ec25-df4d-5b6d-bcff-cf3f32e34db6"
+      "uuid": "a122ec25-df4d-5b6d-bcff-cf3f32e34db6",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2393,10 +2791,12 @@
       "name": "SK Heidelberg",
       "epidCode": "HD",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008221",
-      "uuid": "87273cc7-8147-582f-bf24-9830f614cda9"
+      "uuid": "87273cc7-8147-582f-bf24-9830f614cda9",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2405,10 +2805,12 @@
       "name": "SK Mannheim",
       "epidCode": "MA",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008222",
-      "uuid": "94509d51-7685-5dde-a3b2-afdb9f4d64a9"
+      "uuid": "94509d51-7685-5dde-a3b2-afdb9f4d64a9",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2417,10 +2819,12 @@
       "name": "LK Neckar-Odenwald-Kreis",
       "epidCode": "MOS",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008225",
-      "uuid": "a409ded2-1a61-578e-b145-842b8c00b057"
+      "uuid": "a409ded2-1a61-578e-b145-842b8c00b057",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2429,10 +2833,12 @@
       "name": "LK Rhein-Neckar-Kreis",
       "epidCode": "HD",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008226",
-      "uuid": "fd6f9dcb-6e9a-5f11-a4a0-70d571c27f68"
+      "uuid": "fd6f9dcb-6e9a-5f11-a4a0-70d571c27f68",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2441,10 +2847,12 @@
       "name": "SK Pforzheim",
       "epidCode": "PF",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008231",
-      "uuid": "137f895c-64d1-560f-8fa3-ce81c5f6f198"
+      "uuid": "137f895c-64d1-560f-8fa3-ce81c5f6f198",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2453,10 +2861,12 @@
       "name": "LK Calw",
       "epidCode": "CW",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008235",
-      "uuid": "98160cd6-6732-588d-99a8-e75e0303e1db"
+      "uuid": "98160cd6-6732-588d-99a8-e75e0303e1db",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2465,10 +2875,12 @@
       "name": "LK Enzkreis",
       "epidCode": "PF",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008236",
-      "uuid": "47d343f3-8784-59c8-b9e1-d22723d33523"
+      "uuid": "47d343f3-8784-59c8-b9e1-d22723d33523",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2477,10 +2889,12 @@
       "name": "LK Freudenstadt",
       "epidCode": "FDS",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008237",
-      "uuid": "48ea658e-4a7d-5fac-9865-d2af5f018191"
+      "uuid": "48ea658e-4a7d-5fac-9865-d2af5f018191",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2489,10 +2903,12 @@
       "name": "SK Freiburg i.Breisgau",
       "epidCode": "FR",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008311",
-      "uuid": "c652b018-da93-5070-9c39-3167ab00e28a"
+      "uuid": "c652b018-da93-5070-9c39-3167ab00e28a",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2501,10 +2917,12 @@
       "name": "LK Breisgau-Hochschwarzwald",
       "epidCode": "FR",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008315",
-      "uuid": "36d007e4-4697-5a0b-b1a7-4d63499d2e2e"
+      "uuid": "36d007e4-4697-5a0b-b1a7-4d63499d2e2e",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2513,10 +2931,12 @@
       "name": "LK Emmendingen",
       "epidCode": "EM",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008316",
-      "uuid": "e0f00b7e-038b-5a1a-b8ba-11d2e09c58b4"
+      "uuid": "e0f00b7e-038b-5a1a-b8ba-11d2e09c58b4",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2525,10 +2945,12 @@
       "name": "LK Ortenaukreis",
       "epidCode": "OG",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008317",
-      "uuid": "f6078c0a-cc39-5ab9-826a-5005725da978"
+      "uuid": "f6078c0a-cc39-5ab9-826a-5005725da978",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2537,10 +2959,12 @@
       "name": "LK Rottweil",
       "epidCode": "RW",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008325",
-      "uuid": "21613df7-c408-5a7d-a845-a8a956a9c798"
+      "uuid": "21613df7-c408-5a7d-a845-a8a956a9c798",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2549,10 +2973,12 @@
       "name": "LK Schwarzwald-Baar-Kreis",
       "epidCode": "VS",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008326",
-      "uuid": "5af4bb9e-9431-53d1-a7ce-aa4bdb9ea2fa"
+      "uuid": "5af4bb9e-9431-53d1-a7ce-aa4bdb9ea2fa",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2561,10 +2987,12 @@
       "name": "LK Tuttlingen",
       "epidCode": "TUT",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008327",
-      "uuid": "f1c33520-4469-5a73-bbcb-3e52cef8cd50"
+      "uuid": "f1c33520-4469-5a73-bbcb-3e52cef8cd50",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2573,10 +3001,12 @@
       "name": "LK Konstanz",
       "epidCode": "KN",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008335",
-      "uuid": "4793c0c1-41b4-5078-9f9e-e393a41d8bf7"
+      "uuid": "4793c0c1-41b4-5078-9f9e-e393a41d8bf7",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2585,10 +3015,12 @@
       "name": "LK Lörrach",
       "epidCode": "LÖ",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008336",
-      "uuid": "707e368a-22ec-5fd6-a847-1eeee17cb308"
+      "uuid": "707e368a-22ec-5fd6-a847-1eeee17cb308",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2597,10 +3029,12 @@
       "name": "LK Waldshut",
       "epidCode": "WT",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008337",
-      "uuid": "bdc3dafd-f711-5df3-9151-f4c41dacb953"
+      "uuid": "bdc3dafd-f711-5df3-9151-f4c41dacb953",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2609,10 +3043,12 @@
       "name": "LK Reutlingen",
       "epidCode": "RT",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008415",
-      "uuid": "1902b6a0-7d9a-5b5c-9e38-445a8d8b3794"
+      "uuid": "1902b6a0-7d9a-5b5c-9e38-445a8d8b3794",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2621,10 +3057,12 @@
       "name": "LK Tübingen",
       "epidCode": "TÜ",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008416",
-      "uuid": "68a6db32-a1a7-5553-bff0-b2c3c365f98d"
+      "uuid": "68a6db32-a1a7-5553-bff0-b2c3c365f98d",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2633,10 +3071,12 @@
       "name": "LK Zollernalbkreis",
       "epidCode": "BL",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008417",
-      "uuid": "51bddcba-27e7-5dfd-966c-a7f8140fb755"
+      "uuid": "51bddcba-27e7-5dfd-966c-a7f8140fb755",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2645,10 +3085,12 @@
       "name": "SK Ulm",
       "epidCode": "UL",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008421",
-      "uuid": "1dfbe161-50d1-5b24-b6b6-364ea3fd2245"
+      "uuid": "1dfbe161-50d1-5b24-b6b6-364ea3fd2245",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2657,10 +3099,12 @@
       "name": "LK Alb-Donau-Kreis",
       "epidCode": "UL",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008425",
-      "uuid": "af1a0cdd-531f-5c67-a4f2-ca6997b821d6"
+      "uuid": "af1a0cdd-531f-5c67-a4f2-ca6997b821d6",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2669,10 +3113,12 @@
       "name": "LK Biberach",
       "epidCode": "BC",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008426",
-      "uuid": "9c8d2924-21d3-5674-924d-96bcfe0c9acc"
+      "uuid": "9c8d2924-21d3-5674-924d-96bcfe0c9acc",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2681,10 +3127,12 @@
       "name": "LK Bodenseekreis",
       "epidCode": "FN",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008435",
-      "uuid": "0eb918b8-a82d-5131-8fd4-f7b49d45c335"
+      "uuid": "0eb918b8-a82d-5131-8fd4-f7b49d45c335",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2693,10 +3141,12 @@
       "name": "LK Ravensburg",
       "epidCode": "RV",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008436",
-      "uuid": "1ec43599-112d-512a-8d3a-e803040cf0d5"
+      "uuid": "1ec43599-112d-512a-8d3a-e803040cf0d5",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2705,10 +3155,12 @@
       "name": "LK Sigmaringen",
       "epidCode": "SIG",
       "growthRate": "0",
-      "region": "Baden-Württemberg",
       "archived": "0",
       "externalID": "11008437",
-      "uuid": "c0d32684-5f4e-54d9-aca4-6d0c9acf2c9b"
+      "uuid": "c0d32684-5f4e-54d9-aca4-6d0c9acf2c9b",
+      "region": {
+        "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b"
+      }
     }
   },
   {
@@ -2717,10 +3169,12 @@
       "name": "SK Ingolstadt",
       "epidCode": "IN",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009161",
-      "uuid": "fdbc29f5-c3b6-5ada-a38f-0e52bd970768"
+      "uuid": "fdbc29f5-c3b6-5ada-a38f-0e52bd970768",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2729,10 +3183,12 @@
       "name": "SK München",
       "epidCode": "M",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009162",
-      "uuid": "73484a1a-9b5d-571d-b1a5-d278fc6690fd"
+      "uuid": "73484a1a-9b5d-571d-b1a5-d278fc6690fd",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2741,10 +3197,12 @@
       "name": "SK Rosenheim",
       "epidCode": "RO",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009163",
-      "uuid": "30f0d753-4831-5caa-92b2-6754d9d4d60a"
+      "uuid": "30f0d753-4831-5caa-92b2-6754d9d4d60a",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2753,10 +3211,12 @@
       "name": "LK Altötting",
       "epidCode": "AÖ",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009171",
-      "uuid": "a96dfee5-e967-5472-a384-f931184814c4"
+      "uuid": "a96dfee5-e967-5472-a384-f931184814c4",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2765,10 +3225,12 @@
       "name": "LK Berchtesgadener Land",
       "epidCode": "REI",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009172",
-      "uuid": "ebe8add9-58aa-5c43-a804-2e013f5725c1"
+      "uuid": "ebe8add9-58aa-5c43-a804-2e013f5725c1",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2777,10 +3239,12 @@
       "name": "LK Bad Tölz-Wolfratshausen",
       "epidCode": "TÖL",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009173",
-      "uuid": "2838f4b8-a320-5a5a-a821-02071b7b27dc"
+      "uuid": "2838f4b8-a320-5a5a-a821-02071b7b27dc",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2789,10 +3253,12 @@
       "name": "LK Dachau",
       "epidCode": "DAH",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009174",
-      "uuid": "6c54da40-0a0e-58ac-9590-49f6ebe63773"
+      "uuid": "6c54da40-0a0e-58ac-9590-49f6ebe63773",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2801,10 +3267,12 @@
       "name": "LK Ebersberg",
       "epidCode": "EBE",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009175",
-      "uuid": "b02372f2-7288-5c68-9894-bacf56840569"
+      "uuid": "b02372f2-7288-5c68-9894-bacf56840569",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2813,10 +3281,12 @@
       "name": "LK Eichstätt",
       "epidCode": "EIH",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009176",
-      "uuid": "5b00be7e-1dbd-5b52-9a26-4665f54f6e66"
+      "uuid": "5b00be7e-1dbd-5b52-9a26-4665f54f6e66",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2825,10 +3295,12 @@
       "name": "LK Erding",
       "epidCode": "ED",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009177",
-      "uuid": "d449d532-7ee7-5d88-8789-602df7f71239"
+      "uuid": "d449d532-7ee7-5d88-8789-602df7f71239",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2837,10 +3309,12 @@
       "name": "LK Freising",
       "epidCode": "FS",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009178",
-      "uuid": "10a4f630-7855-5908-a248-7dc7d516d900"
+      "uuid": "10a4f630-7855-5908-a248-7dc7d516d900",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2849,10 +3323,12 @@
       "name": "LK Fürstenfeldbruck",
       "epidCode": "FFB",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009179",
-      "uuid": "2ab1ea95-dfbb-5ae3-b86d-461f3a300ce0"
+      "uuid": "2ab1ea95-dfbb-5ae3-b86d-461f3a300ce0",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2861,10 +3337,12 @@
       "name": "LK Garmisch-Partenkirchen",
       "epidCode": "GAP",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009180",
-      "uuid": "1e00d4a8-cefa-5c25-a47d-28ed189fb884"
+      "uuid": "1e00d4a8-cefa-5c25-a47d-28ed189fb884",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2873,10 +3351,12 @@
       "name": "LK Landsberg a.Lech",
       "epidCode": "LL",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009181",
-      "uuid": "c709f897-7fee-59f2-a87f-dd57de107e41"
+      "uuid": "c709f897-7fee-59f2-a87f-dd57de107e41",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2885,10 +3365,12 @@
       "name": "LK Miesbach",
       "epidCode": "MB",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009182",
-      "uuid": "97cefd4e-b435-5e19-9f3e-69c46e61630d"
+      "uuid": "97cefd4e-b435-5e19-9f3e-69c46e61630d",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2897,10 +3379,12 @@
       "name": "LK Mühldorf a.Inn",
       "epidCode": "MÜ",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009183",
-      "uuid": "7c1486ee-1214-5f82-9f79-52cc8bcfe6ca"
+      "uuid": "7c1486ee-1214-5f82-9f79-52cc8bcfe6ca",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2909,10 +3393,12 @@
       "name": "LK München",
       "epidCode": "M",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009184",
-      "uuid": "891004fb-aa04-5a22-b8d6-c4e8d5152190"
+      "uuid": "891004fb-aa04-5a22-b8d6-c4e8d5152190",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2921,10 +3407,12 @@
       "name": "LK Neuburg-Schrobenhausen",
       "epidCode": "ND",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009185",
-      "uuid": "86607ec1-c959-56d8-b56b-e5e174be2bcd"
+      "uuid": "86607ec1-c959-56d8-b56b-e5e174be2bcd",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2933,10 +3421,12 @@
       "name": "LK Pfaffenhofen a.d.Ilm",
       "epidCode": "PAF",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009186",
-      "uuid": "544fb373-0e6a-5ab3-b6b0-497157074ef5"
+      "uuid": "544fb373-0e6a-5ab3-b6b0-497157074ef5",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2945,10 +3435,12 @@
       "name": "LK Rosenheim",
       "epidCode": "RO",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009187",
-      "uuid": "749f4f5e-dbbb-5963-8cc9-03d8c319a52b"
+      "uuid": "749f4f5e-dbbb-5963-8cc9-03d8c319a52b",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2957,10 +3449,12 @@
       "name": "LK Starnberg",
       "epidCode": "STA",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009188",
-      "uuid": "261cb3e1-f8b7-5b27-b219-58ac8e255fff"
+      "uuid": "261cb3e1-f8b7-5b27-b219-58ac8e255fff",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2969,10 +3463,12 @@
       "name": "LK Traunstein",
       "epidCode": "TS",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009189",
-      "uuid": "13c2eb55-cb25-5847-bc2e-3a342790b15e"
+      "uuid": "13c2eb55-cb25-5847-bc2e-3a342790b15e",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2981,10 +3477,12 @@
       "name": "LK Weilheim-Schongau",
       "epidCode": "WM",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009190",
-      "uuid": "b8d344b5-e6a2-5a09-a5db-5f54c799f5db"
+      "uuid": "b8d344b5-e6a2-5a09-a5db-5f54c799f5db",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -2993,10 +3491,12 @@
       "name": "SK Landshut",
       "epidCode": "LA",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009261",
-      "uuid": "55eaf280-7f4e-570a-a478-ee17bc93f73b"
+      "uuid": "55eaf280-7f4e-570a-a478-ee17bc93f73b",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3005,10 +3505,12 @@
       "name": "SK Passau",
       "epidCode": "PA",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009262",
-      "uuid": "345cea08-9390-5930-b5a8-9f18a0a64395"
+      "uuid": "345cea08-9390-5930-b5a8-9f18a0a64395",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3017,10 +3519,12 @@
       "name": "SK Straubing",
       "epidCode": "SR",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009263",
-      "uuid": "25c207a0-d25f-5bc8-95ee-a35055d57e72"
+      "uuid": "25c207a0-d25f-5bc8-95ee-a35055d57e72",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3029,10 +3533,12 @@
       "name": "LK Deggendorf",
       "epidCode": "DEG",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009271",
-      "uuid": "13133945-8aaa-56df-b50e-63dea3ba738a"
+      "uuid": "13133945-8aaa-56df-b50e-63dea3ba738a",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3041,10 +3547,12 @@
       "name": "LK Freyung-Grafenau",
       "epidCode": "WOS",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009272",
-      "uuid": "d97402d6-4af8-584e-b7b2-47ca6ea002a8"
+      "uuid": "d97402d6-4af8-584e-b7b2-47ca6ea002a8",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3053,10 +3561,12 @@
       "name": "LK Kelheim",
       "epidCode": "KEH",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009273",
-      "uuid": "4c6ffddc-0c98-5324-995d-a126a42e25f0"
+      "uuid": "4c6ffddc-0c98-5324-995d-a126a42e25f0",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3065,10 +3575,12 @@
       "name": "LK Landshut",
       "epidCode": "LA",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009274",
-      "uuid": "b1981b0d-8198-5029-8dbb-e6d77952221e"
+      "uuid": "b1981b0d-8198-5029-8dbb-e6d77952221e",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3077,10 +3589,12 @@
       "name": "LK Passau",
       "epidCode": "PA",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009275",
-      "uuid": "7113a9e0-efae-5fc7-968b-276b99062d51"
+      "uuid": "7113a9e0-efae-5fc7-968b-276b99062d51",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3089,10 +3603,12 @@
       "name": "LK Regen",
       "epidCode": "REG",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009276",
-      "uuid": "4f5a188f-328d-59df-92d2-ced3826feb8c"
+      "uuid": "4f5a188f-328d-59df-92d2-ced3826feb8c",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3101,10 +3617,12 @@
       "name": "LK Rottal-Inn",
       "epidCode": "PAN",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009277",
-      "uuid": "47548c1b-780f-5a26-9b9f-b59e3b78c88d"
+      "uuid": "47548c1b-780f-5a26-9b9f-b59e3b78c88d",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3113,10 +3631,12 @@
       "name": "LK Straubing-Bogen",
       "epidCode": "SR",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009278",
-      "uuid": "488c03f5-1d32-5101-8efe-883fea61beef"
+      "uuid": "488c03f5-1d32-5101-8efe-883fea61beef",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3125,10 +3645,12 @@
       "name": "LK Dingolfing-Landau",
       "epidCode": "LAN",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009279",
-      "uuid": "4a4620a1-ccce-50ac-bea3-5125a33f7678"
+      "uuid": "4a4620a1-ccce-50ac-bea3-5125a33f7678",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3137,10 +3659,12 @@
       "name": "SK Amberg",
       "epidCode": "AM",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009361",
-      "uuid": "cd811789-1feb-500a-8066-6c4b7e17e86b"
+      "uuid": "cd811789-1feb-500a-8066-6c4b7e17e86b",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3149,10 +3673,12 @@
       "name": "SK Regensburg",
       "epidCode": "R",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009362",
-      "uuid": "e3d43b84-2ccd-58b0-9c5c-e4fc65659d93"
+      "uuid": "e3d43b84-2ccd-58b0-9c5c-e4fc65659d93",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3161,10 +3687,12 @@
       "name": "SK Weiden i.d.OPf.",
       "epidCode": "WEN",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009363",
-      "uuid": "052f1ae6-cc59-532e-83d3-f5431ba8f63d"
+      "uuid": "052f1ae6-cc59-532e-83d3-f5431ba8f63d",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3173,10 +3701,12 @@
       "name": "LK Amberg-Sulzbach",
       "epidCode": "AS",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009371",
-      "uuid": "c5dca165-0ff9-53a7-929d-1a35f54dc772"
+      "uuid": "c5dca165-0ff9-53a7-929d-1a35f54dc772",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3185,10 +3715,12 @@
       "name": "LK Cham",
       "epidCode": "CHA",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009372",
-      "uuid": "534667c0-2f97-5632-931d-dfe1125e0096"
+      "uuid": "534667c0-2f97-5632-931d-dfe1125e0096",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3197,10 +3729,12 @@
       "name": "LK Neumarkt i.d.OPf.",
       "epidCode": "NM",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009373",
-      "uuid": "cb5d1966-7878-58f3-8f12-10ed7594ff2d"
+      "uuid": "cb5d1966-7878-58f3-8f12-10ed7594ff2d",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3209,10 +3743,12 @@
       "name": "LK Neustadt a.d.Waldnaab",
       "epidCode": "NEW",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009374",
-      "uuid": "2d6979aa-4838-53eb-a587-0459075dc9b6"
+      "uuid": "2d6979aa-4838-53eb-a587-0459075dc9b6",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3221,10 +3757,12 @@
       "name": "LK Regensburg",
       "epidCode": "R",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009375",
-      "uuid": "2b59713b-9cb5-5a6c-93c1-0e6be04721c6"
+      "uuid": "2b59713b-9cb5-5a6c-93c1-0e6be04721c6",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3233,10 +3771,12 @@
       "name": "LK Schwandorf",
       "epidCode": "SAD",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009376",
-      "uuid": "336b3689-b7a3-5579-ae0b-31625c8566b0"
+      "uuid": "336b3689-b7a3-5579-ae0b-31625c8566b0",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3245,10 +3785,12 @@
       "name": "LK Tirschenreuth",
       "epidCode": "TIR",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009377",
-      "uuid": "e0b843ec-1c67-5409-a8aa-72a9a72d9441"
+      "uuid": "e0b843ec-1c67-5409-a8aa-72a9a72d9441",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3257,10 +3799,12 @@
       "name": "SK Bamberg",
       "epidCode": "BA",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009461",
-      "uuid": "5e00d0f0-42d1-5a21-8b24-0f6f35abd71a"
+      "uuid": "5e00d0f0-42d1-5a21-8b24-0f6f35abd71a",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3269,10 +3813,12 @@
       "name": "SK Bayreuth",
       "epidCode": "BT",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009462",
-      "uuid": "7bb30180-ece1-5bd1-b746-c1f0d0b3bde3"
+      "uuid": "7bb30180-ece1-5bd1-b746-c1f0d0b3bde3",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3281,10 +3827,12 @@
       "name": "SK Coburg",
       "epidCode": "CO",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009463",
-      "uuid": "f6cf8009-caa2-5aa9-863f-2265e1a9c7b7"
+      "uuid": "f6cf8009-caa2-5aa9-863f-2265e1a9c7b7",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3293,10 +3841,12 @@
       "name": "SK Hof",
       "epidCode": "HO",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009464",
-      "uuid": "46a0b378-6012-5481-9bd5-db8168e39f54"
+      "uuid": "46a0b378-6012-5481-9bd5-db8168e39f54",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3305,10 +3855,12 @@
       "name": "LK Bamberg",
       "epidCode": "BA",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009471",
-      "uuid": "f3aa9365-868e-5e85-8849-bae77d2eb6c9"
+      "uuid": "f3aa9365-868e-5e85-8849-bae77d2eb6c9",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3317,10 +3869,12 @@
       "name": "LK Bayreuth",
       "epidCode": "BT",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009472",
-      "uuid": "1b582133-5005-5014-aa78-dcf809f66bc1"
+      "uuid": "1b582133-5005-5014-aa78-dcf809f66bc1",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3329,10 +3883,12 @@
       "name": "LK Coburg",
       "epidCode": "NEC",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009473",
-      "uuid": "b751fbb1-257f-5be2-be42-bd4a95b4e4bf"
+      "uuid": "b751fbb1-257f-5be2-be42-bd4a95b4e4bf",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3341,10 +3897,12 @@
       "name": "LK Forchheim",
       "epidCode": "FO",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009474",
-      "uuid": "067e2cae-d6bb-5415-986d-92f8cbbe9647"
+      "uuid": "067e2cae-d6bb-5415-986d-92f8cbbe9647",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3353,10 +3911,12 @@
       "name": "LK Hof",
       "epidCode": "HO",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009475",
-      "uuid": "50eb2505-2624-5c00-8b5f-ee1b340a75ca"
+      "uuid": "50eb2505-2624-5c00-8b5f-ee1b340a75ca",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3365,10 +3925,12 @@
       "name": "LK Kronach",
       "epidCode": "KC",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009476",
-      "uuid": "37b2bcf2-fab5-513e-b7f1-6de9c69ac8cb"
+      "uuid": "37b2bcf2-fab5-513e-b7f1-6de9c69ac8cb",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3377,10 +3939,12 @@
       "name": "LK Kulmbach",
       "epidCode": "KU",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009477",
-      "uuid": "eb2a23ab-51df-5c7b-bf16-9543d9fd3abc"
+      "uuid": "eb2a23ab-51df-5c7b-bf16-9543d9fd3abc",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3389,10 +3953,12 @@
       "name": "LK Lichtenfels",
       "epidCode": "LIF",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009478",
-      "uuid": "0d325b4b-6316-595c-a6be-efa51872e36b"
+      "uuid": "0d325b4b-6316-595c-a6be-efa51872e36b",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3401,10 +3967,12 @@
       "name": "LK Wunsiedel i.Fichtelgebirge",
       "epidCode": "WUN",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009479",
-      "uuid": "b6560159-9e97-59d3-b465-646f28bdda81"
+      "uuid": "b6560159-9e97-59d3-b465-646f28bdda81",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3413,10 +3981,12 @@
       "name": "SK Ansbach",
       "epidCode": "AN",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009561",
-      "uuid": "2dd0b52b-8453-5641-8aac-94c32bf0dfbe"
+      "uuid": "2dd0b52b-8453-5641-8aac-94c32bf0dfbe",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3425,10 +3995,12 @@
       "name": "SK Erlangen",
       "epidCode": "ER",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009562",
-      "uuid": "d4f0c2b3-193c-532e-8c05-6f8e5d0941bb"
+      "uuid": "d4f0c2b3-193c-532e-8c05-6f8e5d0941bb",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3437,10 +4009,12 @@
       "name": "SK Fürth",
       "epidCode": "FÜ",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009563",
-      "uuid": "17ee7d53-da53-5880-b3af-b7d4c4273194"
+      "uuid": "17ee7d53-da53-5880-b3af-b7d4c4273194",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3449,10 +4023,12 @@
       "name": "SK Nürnberg",
       "epidCode": "N",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009564",
-      "uuid": "6c8ea5a4-a756-583c-a119-a5a4c59bfa8b"
+      "uuid": "6c8ea5a4-a756-583c-a119-a5a4c59bfa8b",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3461,10 +4037,12 @@
       "name": "SK Schwabach",
       "epidCode": "SC",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009565",
-      "uuid": "ffb9627b-dba8-5e79-8d4a-7956c654720b"
+      "uuid": "ffb9627b-dba8-5e79-8d4a-7956c654720b",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3473,10 +4051,12 @@
       "name": "LK Ansbach",
       "epidCode": "AN",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009571",
-      "uuid": "61c49c8c-0fed-5c97-8345-dd62c98425c1"
+      "uuid": "61c49c8c-0fed-5c97-8345-dd62c98425c1",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3485,10 +4065,12 @@
       "name": "LK Erlangen-Höchstadt",
       "epidCode": "ERL",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009572",
-      "uuid": "c3172825-abcf-5e73-a80d-c99a017d9b3b"
+      "uuid": "c3172825-abcf-5e73-a80d-c99a017d9b3b",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3497,10 +4079,12 @@
       "name": "LK Fürth",
       "epidCode": "FÜ",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009573",
-      "uuid": "7ea370d6-e080-5824-a2d5-df9a861a47ef"
+      "uuid": "7ea370d6-e080-5824-a2d5-df9a861a47ef",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3509,10 +4093,12 @@
       "name": "LK Nürnberger Land",
       "epidCode": "LAU",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009574",
-      "uuid": "893ff2f6-1191-5163-ac83-2c36357b2ef2"
+      "uuid": "893ff2f6-1191-5163-ac83-2c36357b2ef2",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3521,10 +4107,12 @@
       "name": "LK Neustadt a.d.Aisch-Bad Windsheim",
       "epidCode": "NEA",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009575",
-      "uuid": "60aee4be-5aa3-5d65-8e47-a3aab75c5242"
+      "uuid": "60aee4be-5aa3-5d65-8e47-a3aab75c5242",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3533,10 +4121,12 @@
       "name": "LK Roth",
       "epidCode": "RH",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009576",
-      "uuid": "9f5b8275-c021-5d52-a44b-e40796928f5d"
+      "uuid": "9f5b8275-c021-5d52-a44b-e40796928f5d",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3545,10 +4135,12 @@
       "name": "LK Weißenburg-Gunzenhausen",
       "epidCode": "WUG",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009577",
-      "uuid": "9d3403f9-35f6-5535-91ad-1eb4b1e33f08"
+      "uuid": "9d3403f9-35f6-5535-91ad-1eb4b1e33f08",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3557,10 +4149,12 @@
       "name": "SK Aschaffenburg",
       "epidCode": "AB",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009661",
-      "uuid": "b3fc64f5-3923-538f-b287-369b340544f5"
+      "uuid": "b3fc64f5-3923-538f-b287-369b340544f5",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3569,10 +4163,12 @@
       "name": "SK Schweinfurt",
       "epidCode": "SW",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009662",
-      "uuid": "a7a86f41-c160-54ad-8483-f8c0f9eb246b"
+      "uuid": "a7a86f41-c160-54ad-8483-f8c0f9eb246b",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3581,10 +4177,12 @@
       "name": "SK Würzburg",
       "epidCode": "WÜ",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009663",
-      "uuid": "8c170c9d-ac87-56f5-96e3-9de9ca7129a9"
+      "uuid": "8c170c9d-ac87-56f5-96e3-9de9ca7129a9",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3593,10 +4191,12 @@
       "name": "LK Aschaffenburg",
       "epidCode": "AB",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009671",
-      "uuid": "07635ade-3c7f-5d6f-b57c-897539d06524"
+      "uuid": "07635ade-3c7f-5d6f-b57c-897539d06524",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3605,10 +4205,12 @@
       "name": "LK Bad Kissingen",
       "epidCode": "KG",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009672",
-      "uuid": "1e110b89-1027-5bf1-82a9-5f40acdd1362"
+      "uuid": "1e110b89-1027-5bf1-82a9-5f40acdd1362",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3617,10 +4219,12 @@
       "name": "LK Rhön-Grabfeld",
       "epidCode": "NES",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009673",
-      "uuid": "2d6001c0-037a-5e51-b7c3-79090915281d"
+      "uuid": "2d6001c0-037a-5e51-b7c3-79090915281d",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3629,10 +4233,12 @@
       "name": "LK Haßberge",
       "epidCode": "HAS",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009674",
-      "uuid": "a25a404b-4752-59d0-a4ea-d1a7a4b2d019"
+      "uuid": "a25a404b-4752-59d0-a4ea-d1a7a4b2d019",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3641,10 +4247,12 @@
       "name": "LK Kitzingen",
       "epidCode": "KT",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009675",
-      "uuid": "d698f841-68b9-502e-8d28-2d5632002fa0"
+      "uuid": "d698f841-68b9-502e-8d28-2d5632002fa0",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3653,10 +4261,12 @@
       "name": "LK Miltenberg",
       "epidCode": "MIL",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009676",
-      "uuid": "1bb35e3e-c280-5e59-9870-84580bdf0261"
+      "uuid": "1bb35e3e-c280-5e59-9870-84580bdf0261",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3665,10 +4275,12 @@
       "name": "LK Main-Spessart",
       "epidCode": "MSP",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009677",
-      "uuid": "a2231413-536b-5461-987b-2bbe62eece86"
+      "uuid": "a2231413-536b-5461-987b-2bbe62eece86",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3677,10 +4289,12 @@
       "name": "LK Schweinfurt",
       "epidCode": "SW",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009678",
-      "uuid": "1e6a5135-0f01-53e5-8538-9585f1724624"
+      "uuid": "1e6a5135-0f01-53e5-8538-9585f1724624",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3689,10 +4303,12 @@
       "name": "LK Würzburg",
       "epidCode": "WÜ",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009679",
-      "uuid": "f168a37f-831d-52ed-8f04-be6e7a1290de"
+      "uuid": "f168a37f-831d-52ed-8f04-be6e7a1290de",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3701,10 +4317,12 @@
       "name": "SK Augsburg",
       "epidCode": "A",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009761",
-      "uuid": "e1b66046-39d2-504a-b7ee-2068e379eec8"
+      "uuid": "e1b66046-39d2-504a-b7ee-2068e379eec8",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3713,10 +4331,12 @@
       "name": "SK Kaufbeuren",
       "epidCode": "KF",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009762",
-      "uuid": "b33dcc6a-668c-582e-9e74-6197ce48456e"
+      "uuid": "b33dcc6a-668c-582e-9e74-6197ce48456e",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3725,10 +4345,12 @@
       "name": "SK Kempten",
       "epidCode": "KE",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009763",
-      "uuid": "1144b012-713a-5e5c-b51f-5c4f904d5134"
+      "uuid": "1144b012-713a-5e5c-b51f-5c4f904d5134",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3737,10 +4359,12 @@
       "name": "SK Memmingen",
       "epidCode": "MM",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009764",
-      "uuid": "406746d7-921a-5de1-9ea1-47f3c93e123c"
+      "uuid": "406746d7-921a-5de1-9ea1-47f3c93e123c",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3749,10 +4373,12 @@
       "name": "LK Aichach-Friedberg",
       "epidCode": "AIC",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009771",
-      "uuid": "82cc68a7-7b11-5602-8276-f9402ffdbdfa"
+      "uuid": "82cc68a7-7b11-5602-8276-f9402ffdbdfa",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3761,10 +4387,12 @@
       "name": "LK Augsburg",
       "epidCode": "A",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009772",
-      "uuid": "29116a7f-7718-5aee-a5d6-bcae8c197bdc"
+      "uuid": "29116a7f-7718-5aee-a5d6-bcae8c197bdc",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3773,10 +4401,12 @@
       "name": "LK Dillingen a.d.Donau",
       "epidCode": "DLG",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009773",
-      "uuid": "daef2570-67c2-58c6-b878-f61a321f6ec3"
+      "uuid": "daef2570-67c2-58c6-b878-f61a321f6ec3",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3785,10 +4415,12 @@
       "name": "LK Günzburg",
       "epidCode": "GZ",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009774",
-      "uuid": "4448dc5a-a252-5624-bbd8-1e814e191fc6"
+      "uuid": "4448dc5a-a252-5624-bbd8-1e814e191fc6",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3797,10 +4429,12 @@
       "name": "LK Neu-Ulm",
       "epidCode": "NU",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009775",
-      "uuid": "5f1fef54-0cc7-596b-894f-5f1fc21aae55"
+      "uuid": "5f1fef54-0cc7-596b-894f-5f1fc21aae55",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3809,10 +4443,12 @@
       "name": "LK Lindau",
       "epidCode": "LI",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009776",
-      "uuid": "674da0b8-6543-5d2c-9aa9-792a2b3d0ffd"
+      "uuid": "674da0b8-6543-5d2c-9aa9-792a2b3d0ffd",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3821,10 +4457,12 @@
       "name": "LK Ostallgäu",
       "epidCode": "OAL",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009777",
-      "uuid": "3bb93965-c4c4-5ae5-86bf-fe0d0fc93f5e"
+      "uuid": "3bb93965-c4c4-5ae5-86bf-fe0d0fc93f5e",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3833,10 +4471,12 @@
       "name": "LK Unterallgäu",
       "epidCode": "MN",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009778",
-      "uuid": "9560ea44-433f-5f0b-95d4-0e6409e5e9da"
+      "uuid": "9560ea44-433f-5f0b-95d4-0e6409e5e9da",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3845,10 +4485,12 @@
       "name": "LK Donau-Ries",
       "epidCode": "DON",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009779",
-      "uuid": "1bdc14e3-7caf-508b-a3b2-c6cfd07a9adf"
+      "uuid": "1bdc14e3-7caf-508b-a3b2-c6cfd07a9adf",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3857,10 +4499,12 @@
       "name": "LK Oberallgäu",
       "epidCode": "SF",
       "growthRate": "0",
-      "region": "Bayern",
       "archived": "0",
       "externalID": "11009780",
-      "uuid": "706cc4ef-b6ea-5461-abca-fcad105f1566"
+      "uuid": "706cc4ef-b6ea-5461-abca-fcad105f1566",
+      "region": {
+        "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac"
+      }
     }
   },
   {
@@ -3869,10 +4513,12 @@
       "name": "LK Stadtverband Saarbrücken",
       "epidCode": "SB",
       "growthRate": "0",
-      "region": "Saarland",
       "archived": "0",
       "externalID": "11010041",
-      "uuid": "1f5303e0-bde1-5e5e-bd47-c42efc7b840e"
+      "uuid": "1f5303e0-bde1-5e5e-bd47-c42efc7b840e",
+      "region": {
+        "uuid": "534162fe-414c-5572-ada4-f0d95b901bdf"
+      }
     }
   },
   {
@@ -3881,10 +4527,12 @@
       "name": "LK Merzig-Wadern",
       "epidCode": "MZG",
       "growthRate": "0",
-      "region": "Saarland",
       "archived": "0",
       "externalID": "11010042",
-      "uuid": "59bf5e9f-23d7-5228-9f1a-d16fb2489eee"
+      "uuid": "59bf5e9f-23d7-5228-9f1a-d16fb2489eee",
+      "region": {
+        "uuid": "534162fe-414c-5572-ada4-f0d95b901bdf"
+      }
     }
   },
   {
@@ -3893,10 +4541,12 @@
       "name": "LK Neunkirchen",
       "epidCode": "NK",
       "growthRate": "0",
-      "region": "Saarland",
       "archived": "0",
       "externalID": "11010043",
-      "uuid": "af46cb60-9e2f-52af-a9c5-fc3f81c9917b"
+      "uuid": "af46cb60-9e2f-52af-a9c5-fc3f81c9917b",
+      "region": {
+        "uuid": "534162fe-414c-5572-ada4-f0d95b901bdf"
+      }
     }
   },
   {
@@ -3905,10 +4555,12 @@
       "name": "LK Saarlouis",
       "epidCode": "SLS",
       "growthRate": "0",
-      "region": "Saarland",
       "archived": "0",
       "externalID": "11010044",
-      "uuid": "454e750f-512e-5dac-a367-daa9b4406fe6"
+      "uuid": "454e750f-512e-5dac-a367-daa9b4406fe6",
+      "region": {
+        "uuid": "534162fe-414c-5572-ada4-f0d95b901bdf"
+      }
     }
   },
   {
@@ -3917,10 +4569,12 @@
       "name": "LK Saarpfalz-Kreis",
       "epidCode": "HOM",
       "growthRate": "0",
-      "region": "Saarland",
       "archived": "0",
       "externalID": "11010045",
-      "uuid": "3183bc31-e09c-5c69-b950-af0383961398"
+      "uuid": "3183bc31-e09c-5c69-b950-af0383961398",
+      "region": {
+        "uuid": "534162fe-414c-5572-ada4-f0d95b901bdf"
+      }
     }
   },
   {
@@ -3929,10 +4583,12 @@
       "name": "LK Sankt Wendel",
       "epidCode": "WND",
       "growthRate": "0",
-      "region": "Saarland",
       "archived": "0",
       "externalID": "11010046",
-      "uuid": "8e165c0d-fdf6-507d-a2cb-503c3f75119b"
+      "uuid": "8e165c0d-fdf6-507d-a2cb-503c3f75119b",
+      "region": {
+        "uuid": "534162fe-414c-5572-ada4-f0d95b901bdf"
+      }
     }
   },
   {
@@ -3941,10 +4597,12 @@
       "name": "SK Berlin Mitte",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011001",
-      "uuid": "a5637aee-d1d8-5753-b60f-3dfa872a9a8f"
+      "uuid": "a5637aee-d1d8-5753-b60f-3dfa872a9a8f",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -3953,10 +4611,12 @@
       "name": "SK Berlin Friedrichshain-Kreuzberg",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011002",
-      "uuid": "45f8d8f3-e468-5d6a-8820-40431074e71f"
+      "uuid": "45f8d8f3-e468-5d6a-8820-40431074e71f",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -3965,10 +4625,12 @@
       "name": "SK Berlin Pankow",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011003",
-      "uuid": "9f7f597b-2af0-5e35-b9c6-7d3a0b49cd5b"
+      "uuid": "9f7f597b-2af0-5e35-b9c6-7d3a0b49cd5b",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -3977,10 +4639,12 @@
       "name": "SK Berlin Charlottenburg-Wilmersdorf",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011004",
-      "uuid": "5a0d0205-4211-5756-9434-1c445f0bd6c3"
+      "uuid": "5a0d0205-4211-5756-9434-1c445f0bd6c3",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -3989,10 +4653,12 @@
       "name": "SK Berlin Spandau",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011005",
-      "uuid": "2c16f7a4-761b-52ae-9732-1ec0d681a3ab"
+      "uuid": "2c16f7a4-761b-52ae-9732-1ec0d681a3ab",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -4001,10 +4667,12 @@
       "name": "SK Berlin Steglitz-Zehlendorf",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011006",
-      "uuid": "6c24b75f-bdf7-5f33-b2a6-c4d293700ef5"
+      "uuid": "6c24b75f-bdf7-5f33-b2a6-c4d293700ef5",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -4013,10 +4681,12 @@
       "name": "SK Berlin Tempelhof-Schöneberg",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011007",
-      "uuid": "bdf3ff64-e339-5c8e-adf8-41e0f729bd71"
+      "uuid": "bdf3ff64-e339-5c8e-adf8-41e0f729bd71",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -4025,10 +4695,12 @@
       "name": "SK Berlin Neukölln",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011008",
-      "uuid": "acd5d4de-f595-5ae6-a496-5cf73650ba8d"
+      "uuid": "acd5d4de-f595-5ae6-a496-5cf73650ba8d",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -4037,10 +4709,12 @@
       "name": "SK Berlin Treptow-Köpenick",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011009",
-      "uuid": "c3682771-0b88-5636-b027-50df27480de7"
+      "uuid": "c3682771-0b88-5636-b027-50df27480de7",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -4049,10 +4723,12 @@
       "name": "SK Berlin Marzahn-Hellersdorf",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011010",
-      "uuid": "694f16f6-5521-59f8-9934-5cf6d7d98d01"
+      "uuid": "694f16f6-5521-59f8-9934-5cf6d7d98d01",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -4061,10 +4737,12 @@
       "name": "SK Berlin Lichtenberg",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011011",
-      "uuid": "edc72b41-cfab-5191-9da6-6823e7d56d2d"
+      "uuid": "edc72b41-cfab-5191-9da6-6823e7d56d2d",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -4073,10 +4751,12 @@
       "name": "SK Berlin Reinickendorf",
       "epidCode": "B",
       "growthRate": "0",
-      "region": "Berlin",
       "archived": "0",
       "externalID": "11011012",
-      "uuid": "e9180d42-d471-566e-b318-64101dfa9134"
+      "uuid": "e9180d42-d471-566e-b318-64101dfa9134",
+      "region": {
+        "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf"
+      }
     }
   },
   {
@@ -4085,10 +4765,12 @@
       "name": "SK Brandenburg a.d.Havel",
       "epidCode": "BRB",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012051",
-      "uuid": "0f03003a-4976-5f9f-ae65-5b7e7bd14b42"
+      "uuid": "0f03003a-4976-5f9f-ae65-5b7e7bd14b42",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4097,10 +4779,12 @@
       "name": "SK Cottbus",
       "epidCode": "CB",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012052",
-      "uuid": "259aceff-07cc-54f6-891a-5a312dcc847b"
+      "uuid": "259aceff-07cc-54f6-891a-5a312dcc847b",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4109,10 +4793,12 @@
       "name": "SK Frankfurt (Oder)",
       "epidCode": "FF",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012053",
-      "uuid": "e85adf7a-0a73-583a-9926-c8a5e790aec9"
+      "uuid": "e85adf7a-0a73-583a-9926-c8a5e790aec9",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4121,10 +4807,12 @@
       "name": "SK Potsdam",
       "epidCode": "P",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012054",
-      "uuid": "f5e9533b-8352-5854-99af-0755f4724402"
+      "uuid": "f5e9533b-8352-5854-99af-0755f4724402",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4133,10 +4821,12 @@
       "name": "LK Barnim",
       "epidCode": "BAR",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012060",
-      "uuid": "3ba2acf7-0291-5516-a4a1-62c8e2391198"
+      "uuid": "3ba2acf7-0291-5516-a4a1-62c8e2391198",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4145,10 +4835,12 @@
       "name": "LK Dahme-Spreewald",
       "epidCode": "LDS",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012061",
-      "uuid": "233c57e5-48fc-5089-bb51-b243d2bf630f"
+      "uuid": "233c57e5-48fc-5089-bb51-b243d2bf630f",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4157,10 +4849,12 @@
       "name": "LK Elbe-Elster",
       "epidCode": "EE",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012062",
-      "uuid": "55912da9-c88d-5a22-8ada-30988627740e"
+      "uuid": "55912da9-c88d-5a22-8ada-30988627740e",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4169,10 +4863,12 @@
       "name": "LK Havelland",
       "epidCode": "HVL",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012063",
-      "uuid": "75069476-439d-5f72-a957-e0a8a7d694d5"
+      "uuid": "75069476-439d-5f72-a957-e0a8a7d694d5",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4181,10 +4877,12 @@
       "name": "LK Märkisch-Oderland",
       "epidCode": "MOL",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012064",
-      "uuid": "bb23d758-7c86-5485-a59a-6028863cca52"
+      "uuid": "bb23d758-7c86-5485-a59a-6028863cca52",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4193,10 +4891,12 @@
       "name": "LK Oberhavel",
       "epidCode": "OHV",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012065",
-      "uuid": "1e8411d4-e85f-5320-a2f4-95b2bafbfc3c"
+      "uuid": "1e8411d4-e85f-5320-a2f4-95b2bafbfc3c",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4205,10 +4905,12 @@
       "name": "LK Oberspreewald-Lausitz",
       "epidCode": "OSL",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012066",
-      "uuid": "0bf750a2-9af6-5904-9e33-d0b90b23702f"
+      "uuid": "0bf750a2-9af6-5904-9e33-d0b90b23702f",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4217,10 +4919,12 @@
       "name": "LK Oder-Spree",
       "epidCode": "LOS",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012067",
-      "uuid": "e8cb771b-e658-5ab1-ab5e-7b6c7ac68f0d"
+      "uuid": "e8cb771b-e658-5ab1-ab5e-7b6c7ac68f0d",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4229,10 +4933,12 @@
       "name": "LK Ostprignitz-Ruppin",
       "epidCode": "OPR",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012068",
-      "uuid": "5bae47f6-877a-51c9-96e7-061fae43bd1d"
+      "uuid": "5bae47f6-877a-51c9-96e7-061fae43bd1d",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4241,10 +4947,12 @@
       "name": "LK Potsdam-Mittelmark",
       "epidCode": "PM",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012069",
-      "uuid": "3ef3ce02-de52-52be-95d9-f3e14eed850e"
+      "uuid": "3ef3ce02-de52-52be-95d9-f3e14eed850e",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4253,10 +4961,12 @@
       "name": "LK Prignitz",
       "epidCode": "PR",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012070",
-      "uuid": "e52f1f8f-fc6b-5009-b978-927c7afc683b"
+      "uuid": "e52f1f8f-fc6b-5009-b978-927c7afc683b",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4265,10 +4975,12 @@
       "name": "LK Spree-Neiße",
       "epidCode": "SPN",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012071",
-      "uuid": "3144845a-fb9f-51af-8fff-92b332833e01"
+      "uuid": "3144845a-fb9f-51af-8fff-92b332833e01",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4277,10 +4989,12 @@
       "name": "LK Teltow-Fläming",
       "epidCode": "TF",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012072",
-      "uuid": "7ef5678b-8291-5e76-874b-bc5ee00f6d1b"
+      "uuid": "7ef5678b-8291-5e76-874b-bc5ee00f6d1b",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4289,10 +5003,12 @@
       "name": "LK Uckermark",
       "epidCode": "UM",
       "growthRate": "0",
-      "region": "Brandenburg",
       "archived": "0",
       "externalID": "11012073",
-      "uuid": "005a6562-581b-5770-b787-e5fef7638bf2"
+      "uuid": "005a6562-581b-5770-b787-e5fef7638bf2",
+      "region": {
+        "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4"
+      }
     }
   },
   {
@@ -4301,10 +5017,12 @@
       "name": "SK Greifswald",
       "epidCode": "HGW",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013001",
-      "uuid": "aebe1564-06e7-5fe4-a271-ce473b683e04"
+      "uuid": "aebe1564-06e7-5fe4-a271-ce473b683e04",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4313,10 +5031,12 @@
       "name": "SK Neubrandenburg",
       "epidCode": "NB",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013002",
-      "uuid": "63b293b2-f4e9-55dc-956c-60bb024bca48"
+      "uuid": "63b293b2-f4e9-55dc-956c-60bb024bca48",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4325,10 +5045,12 @@
       "name": "SK Rostock",
       "epidCode": "HRO",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013003",
-      "uuid": "ee5e75ac-3c9a-5822-aea0-cfdef330ac56"
+      "uuid": "ee5e75ac-3c9a-5822-aea0-cfdef330ac56",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4337,10 +5059,12 @@
       "name": "SK Schwerin",
       "epidCode": "SN",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013004",
-      "uuid": "0ec505db-873a-5f69-b9ec-1cd0d900501b"
+      "uuid": "0ec505db-873a-5f69-b9ec-1cd0d900501b",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4349,10 +5073,12 @@
       "name": "SK Stralsund",
       "epidCode": "HST",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013005",
-      "uuid": "8e106f86-d8fd-5ab5-823f-bb26ea188df8"
+      "uuid": "8e106f86-d8fd-5ab5-823f-bb26ea188df8",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4361,10 +5087,12 @@
       "name": "SK Wismar",
       "epidCode": "HWI",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013006",
-      "uuid": "baf934fb-3f08-55e9-bdde-d11f2fd8f367"
+      "uuid": "baf934fb-3f08-55e9-bdde-d11f2fd8f367",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4373,10 +5101,12 @@
       "name": "LK Bad Doberan",
       "epidCode": "ROS",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013051",
-      "uuid": "9b14ab40-65aa-57f3-9d24-e18c70a3c25e"
+      "uuid": "9b14ab40-65aa-57f3-9d24-e18c70a3c25e",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4385,10 +5115,12 @@
       "name": "LK Demmin",
       "epidCode": "DM",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013052",
-      "uuid": "9b2ee5b7-36ee-59e3-9f05-aadd79e08478"
+      "uuid": "9b2ee5b7-36ee-59e3-9f05-aadd79e08478",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4397,10 +5129,12 @@
       "name": "LK Güstrow",
       "epidCode": "GÜ",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013053",
-      "uuid": "dbc1359b-9bf0-53e2-8e8c-3fff00c16dc1"
+      "uuid": "dbc1359b-9bf0-53e2-8e8c-3fff00c16dc1",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4409,10 +5143,12 @@
       "name": "LK Ludwigslust",
       "epidCode": "SN",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013054",
-      "uuid": "bcd88666-2d7b-5367-82af-d50177dc1af5"
+      "uuid": "bcd88666-2d7b-5367-82af-d50177dc1af5",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4421,10 +5157,12 @@
       "name": "LK Mecklenburg-Strelitz",
       "epidCode": "NB",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013055",
-      "uuid": "b9d3c204-1541-585d-81a8-f29d5986bdc1"
+      "uuid": "b9d3c204-1541-585d-81a8-f29d5986bdc1",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4433,10 +5171,12 @@
       "name": "LK Müritz",
       "epidCode": "RM",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013056",
-      "uuid": "49aa56f3-10a0-5e16-a9f6-3a09dde0b018"
+      "uuid": "49aa56f3-10a0-5e16-a9f6-3a09dde0b018",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4445,10 +5185,12 @@
       "name": "LK Nordvorpommern",
       "epidCode": "NVP",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013057",
-      "uuid": "c2091aab-63ff-5727-8ad2-42eaccd0e179"
+      "uuid": "c2091aab-63ff-5727-8ad2-42eaccd0e179",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4457,10 +5199,12 @@
       "name": "LK Nordwestmecklenburg (alt)",
       "epidCode": "WIS",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013058",
-      "uuid": "297b5180-3a77-5486-93f9-ce707ce20ad2"
+      "uuid": "297b5180-3a77-5486-93f9-ce707ce20ad2",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4469,10 +5213,12 @@
       "name": "LK Ostvorpommern",
       "epidCode": "OVP",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013059",
-      "uuid": "40924f2f-fff9-5d22-a2bb-d17888c6fc89"
+      "uuid": "40924f2f-fff9-5d22-a2bb-d17888c6fc89",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4481,10 +5227,12 @@
       "name": "LK Parchim",
       "epidCode": "SN",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013060",
-      "uuid": "88a351e2-3cc2-5b7a-8efc-67087c8f797e"
+      "uuid": "88a351e2-3cc2-5b7a-8efc-67087c8f797e",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4493,10 +5241,12 @@
       "name": "LK Rügen",
       "epidCode": "RÜG",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013061",
-      "uuid": "e52ce1f2-7da0-5ab6-be7b-2b87604a4f36"
+      "uuid": "e52ce1f2-7da0-5ab6-be7b-2b87604a4f36",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4505,10 +5255,12 @@
       "name": "LK Uecker-Randow",
       "epidCode": "UER",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013062",
-      "uuid": "e1bd975f-a256-5276-8556-1642901ed07b"
+      "uuid": "e1bd975f-a256-5276-8556-1642901ed07b",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4517,10 +5269,12 @@
       "name": "LK Mecklenburgische Seenplatte",
       "epidCode": "MSE",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013071",
-      "uuid": "a981a645-bb31-51e6-bec5-19991e341f11"
+      "uuid": "a981a645-bb31-51e6-bec5-19991e341f11",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4529,10 +5283,12 @@
       "name": "LK Rostock",
       "epidCode": "LRO",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013072",
-      "uuid": "bfe3c4aa-754e-5337-8f0a-d47d7f1ad0ad"
+      "uuid": "bfe3c4aa-754e-5337-8f0a-d47d7f1ad0ad",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4541,10 +5297,12 @@
       "name": "LK Vorpommern-Rügen",
       "epidCode": "VR",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013073",
-      "uuid": "b7b8246b-4565-5dc9-8910-43091e031c54"
+      "uuid": "b7b8246b-4565-5dc9-8910-43091e031c54",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4553,10 +5311,12 @@
       "name": "LK Nordwestmecklenburg",
       "epidCode": "NWM",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013074",
-      "uuid": "e8d467ae-384b-5f82-8e2a-e0a127d147ba"
+      "uuid": "e8d467ae-384b-5f82-8e2a-e0a127d147ba",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4565,10 +5325,12 @@
       "name": "LK Vorpommern-Greifswald",
       "epidCode": "VG",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013075",
-      "uuid": "61d12020-3f55-5cc9-ac0b-2065792e8e10"
+      "uuid": "61d12020-3f55-5cc9-ac0b-2065792e8e10",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4577,10 +5339,12 @@
       "name": "LK Ludwigslust-Parchim",
       "epidCode": "LUP",
       "growthRate": "0",
-      "region": "Mecklenburg-Vorpommern",
       "archived": "0",
       "externalID": "11013076",
-      "uuid": "389afdc8-c2cd-5eb1-a7d7-ae159b9f2c35"
+      "uuid": "389afdc8-c2cd-5eb1-a7d7-ae159b9f2c35",
+      "region": {
+        "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e"
+      }
     }
   },
   {
@@ -4589,10 +5353,12 @@
       "name": "SK Chemnitz",
       "epidCode": "C",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014511",
-      "uuid": "fdba1dd9-0081-52f8-b8d6-0d153fa23f33"
+      "uuid": "fdba1dd9-0081-52f8-b8d6-0d153fa23f33",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4601,10 +5367,12 @@
       "name": "LK Erzgebirgskreis",
       "epidCode": "ERZ",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014521",
-      "uuid": "b13d2d74-85a2-5595-bca5-bf9f8021ad90"
+      "uuid": "b13d2d74-85a2-5595-bca5-bf9f8021ad90",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4613,10 +5381,12 @@
       "name": "LK Mittelsachsen",
       "epidCode": "FG",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014522",
-      "uuid": "870ceb08-497d-5fa0-a1a7-fb8edccd0863"
+      "uuid": "870ceb08-497d-5fa0-a1a7-fb8edccd0863",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4625,10 +5395,12 @@
       "name": "LK Vogtlandkreis",
       "epidCode": "V",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014523",
-      "uuid": "443514a2-4368-5d22-b2a7-7de21c0854b6"
+      "uuid": "443514a2-4368-5d22-b2a7-7de21c0854b6",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4637,10 +5409,12 @@
       "name": "LK Zwickau",
       "epidCode": "Z",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014524",
-      "uuid": "f8237b68-dfae-5725-bbd0-927568698c9d"
+      "uuid": "f8237b68-dfae-5725-bbd0-927568698c9d",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4649,10 +5423,12 @@
       "name": "SK Dresden",
       "epidCode": "DD",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014612",
-      "uuid": "ef43142f-86bd-5e73-a7cc-e61cdd005aaa"
+      "uuid": "ef43142f-86bd-5e73-a7cc-e61cdd005aaa",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4661,10 +5437,12 @@
       "name": "LK Bautzen",
       "epidCode": "BZ",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014625",
-      "uuid": "6543a153-89d9-5f5f-b63e-26722c8f46d1"
+      "uuid": "6543a153-89d9-5f5f-b63e-26722c8f46d1",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4673,10 +5451,12 @@
       "name": "LK Görlitz",
       "epidCode": "GR",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014626",
-      "uuid": "6250ba77-bf77-527c-8ce7-c8901e27b087"
+      "uuid": "6250ba77-bf77-527c-8ce7-c8901e27b087",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4685,10 +5465,12 @@
       "name": "LK Meißen",
       "epidCode": "MEI",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014627",
-      "uuid": "5bc2360d-fd17-5fad-a92d-e10cbb4cd312"
+      "uuid": "5bc2360d-fd17-5fad-a92d-e10cbb4cd312",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4697,10 +5479,12 @@
       "name": "LK Sächsische Schweiz-Osterzgebirge",
       "epidCode": "PIR",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014628",
-      "uuid": "0d7dd4b9-5f42-521b-bc8f-b5808c3415e4"
+      "uuid": "0d7dd4b9-5f42-521b-bc8f-b5808c3415e4",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4709,10 +5493,12 @@
       "name": "SK Leipzig",
       "epidCode": "L",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014713",
-      "uuid": "8593f57b-0138-5459-996b-99928a83be9e"
+      "uuid": "8593f57b-0138-5459-996b-99928a83be9e",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4721,10 +5507,12 @@
       "name": "LK Leipzig",
       "epidCode": "L",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014729",
-      "uuid": "6e6d7d40-2a6e-54be-9be4-b382704245b7"
+      "uuid": "6e6d7d40-2a6e-54be-9be4-b382704245b7",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4733,10 +5521,12 @@
       "name": "LK Nordsachsen",
       "epidCode": "TDO",
       "growthRate": "0",
-      "region": "Sachsen",
       "archived": "0",
       "externalID": "11014730",
-      "uuid": "4ade052c-05ee-5485-a101-4c82b8ce117f"
+      "uuid": "4ade052c-05ee-5485-a101-4c82b8ce117f",
+      "region": {
+        "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc"
+      }
     }
   },
   {
@@ -4745,10 +5535,12 @@
       "name": "SK Dessau-Roßlau",
       "epidCode": "DE",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015001",
-      "uuid": "68a0fd61-343f-5aee-a3d5-c5f041425229"
+      "uuid": "68a0fd61-343f-5aee-a3d5-c5f041425229",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4757,10 +5549,12 @@
       "name": "SK Halle",
       "epidCode": "HAL",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015002",
-      "uuid": "d7c1e376-f868-59eb-a376-7f15c6af1d5e"
+      "uuid": "d7c1e376-f868-59eb-a376-7f15c6af1d5e",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4769,10 +5563,12 @@
       "name": "SK Magdeburg",
       "epidCode": "MD",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015003",
-      "uuid": "3d4fbf70-3713-5525-a534-facc464501a8"
+      "uuid": "3d4fbf70-3713-5525-a534-facc464501a8",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4781,10 +5577,12 @@
       "name": "LK Altmarkkreis Salzwedel",
       "epidCode": "SAW",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015081",
-      "uuid": "269c196d-c82c-5db9-a574-d4483e234bb8"
+      "uuid": "269c196d-c82c-5db9-a574-d4483e234bb8",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4793,10 +5591,12 @@
       "name": "LK Anhalt-Bitterfeld",
       "epidCode": "BTF",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015082",
-      "uuid": "668ef067-eb0e-53c7-9583-3d811d2b883f"
+      "uuid": "668ef067-eb0e-53c7-9583-3d811d2b883f",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4805,10 +5605,12 @@
       "name": "LK Börde",
       "epidCode": "BÖ",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015083",
-      "uuid": "ab37538b-a259-5362-8b56-c833875e0149"
+      "uuid": "ab37538b-a259-5362-8b56-c833875e0149",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4817,10 +5619,12 @@
       "name": "LK Burgenlandkreis",
       "epidCode": "BLK",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015084",
-      "uuid": "2d02d4df-579f-5816-9a6f-66421da6efd7"
+      "uuid": "2d02d4df-579f-5816-9a6f-66421da6efd7",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4829,10 +5633,12 @@
       "name": "LK Harz",
       "epidCode": "HZ",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015085",
-      "uuid": "ac3f505a-f434-5c72-9899-05b9b6e3fd42"
+      "uuid": "ac3f505a-f434-5c72-9899-05b9b6e3fd42",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4841,10 +5647,12 @@
       "name": "LK Jerichower Land",
       "epidCode": "JL",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015086",
-      "uuid": "6d8b1678-0958-5bc8-906a-0bf78423382d"
+      "uuid": "6d8b1678-0958-5bc8-906a-0bf78423382d",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4853,10 +5661,12 @@
       "name": "LK Mansfeld-Südharz",
       "epidCode": "MSH",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015087",
-      "uuid": "914a64b7-18af-5ccc-9c9e-a909f40506d1"
+      "uuid": "914a64b7-18af-5ccc-9c9e-a909f40506d1",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4865,10 +5675,12 @@
       "name": "LK Saalekreis",
       "epidCode": "SK",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015088",
-      "uuid": "e8aa5e11-de29-55a3-a8eb-88a6db7aa4b3"
+      "uuid": "e8aa5e11-de29-55a3-a8eb-88a6db7aa4b3",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4877,10 +5689,12 @@
       "name": "LK Salzlandkreis",
       "epidCode": "SLK",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015089",
-      "uuid": "74011844-5878-5c1e-b2c4-d1007e95a630"
+      "uuid": "74011844-5878-5c1e-b2c4-d1007e95a630",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4889,10 +5703,12 @@
       "name": "LK Stendal",
       "epidCode": "SDL",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015090",
-      "uuid": "d579c11a-435f-50b4-a1ad-d94f34e838c3"
+      "uuid": "d579c11a-435f-50b4-a1ad-d94f34e838c3",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4901,10 +5717,12 @@
       "name": "LK Wittenberg",
       "epidCode": "WB",
       "growthRate": "0",
-      "region": "Sachsen-Anhalt",
       "archived": "0",
       "externalID": "11015091",
-      "uuid": "b20e14f7-ed83-5ecd-8bea-47817b274ac5"
+      "uuid": "b20e14f7-ed83-5ecd-8bea-47817b274ac5",
+      "region": {
+        "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302"
+      }
     }
   },
   {
@@ -4913,10 +5731,12 @@
       "name": "SK Erfurt",
       "epidCode": "EF",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016051",
-      "uuid": "6e0e7785-007b-59f8-b6b3-707e84d6055f"
+      "uuid": "6e0e7785-007b-59f8-b6b3-707e84d6055f",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -4925,10 +5745,12 @@
       "name": "SK Gera",
       "epidCode": "G",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016052",
-      "uuid": "7c8e6c98-0b3d-51bd-899f-5ac0702674bf"
+      "uuid": "7c8e6c98-0b3d-51bd-899f-5ac0702674bf",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -4937,10 +5759,12 @@
       "name": "SK Jena",
       "epidCode": "J",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016053",
-      "uuid": "e4c15b7b-8709-5fa8-b7c7-6fa8cfef9037"
+      "uuid": "e4c15b7b-8709-5fa8-b7c7-6fa8cfef9037",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -4949,10 +5773,12 @@
       "name": "SK Suhl",
       "epidCode": "SHL",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016054",
-      "uuid": "a691b295-5df8-5cc4-8ef3-10d87679215e"
+      "uuid": "a691b295-5df8-5cc4-8ef3-10d87679215e",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -4961,10 +5787,12 @@
       "name": "SK Weimar",
       "epidCode": "WE",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016055",
-      "uuid": "a0e816a4-be7d-5c95-9d15-cac1c7b6ac17"
+      "uuid": "a0e816a4-be7d-5c95-9d15-cac1c7b6ac17",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -4973,10 +5801,12 @@
       "name": "SK Eisenach",
       "epidCode": "EA",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016056",
-      "uuid": "0750a991-9b77-594f-a60d-8fff1c2ec7a0"
+      "uuid": "0750a991-9b77-594f-a60d-8fff1c2ec7a0",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -4985,10 +5815,12 @@
       "name": "LK Eichsfeld",
       "epidCode": "EIC",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016061",
-      "uuid": "f4036f5d-6238-5665-b8a3-c3bb6a69092a"
+      "uuid": "f4036f5d-6238-5665-b8a3-c3bb6a69092a",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -4997,10 +5829,12 @@
       "name": "LK Nordhausen",
       "epidCode": "NDH",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016062",
-      "uuid": "bdacde8a-9399-5200-96f3-e20ac48480a0"
+      "uuid": "bdacde8a-9399-5200-96f3-e20ac48480a0",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5009,10 +5843,12 @@
       "name": "LK Wartburgkreis",
       "epidCode": "WAK",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016063",
-      "uuid": "1b5063d5-2bcb-571c-8a4f-4cd2d84d7d49"
+      "uuid": "1b5063d5-2bcb-571c-8a4f-4cd2d84d7d49",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5021,10 +5857,12 @@
       "name": "LK Unstrut-Hainich-Kreis",
       "epidCode": "UH",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016064",
-      "uuid": "0ef357cc-a95a-5011-8227-6af2dacb121d"
+      "uuid": "0ef357cc-a95a-5011-8227-6af2dacb121d",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5033,10 +5871,12 @@
       "name": "LK Kyffhäuserkreis",
       "epidCode": "KYF",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016065",
-      "uuid": "e34d458b-fdc6-5cde-a33e-cff1738636f9"
+      "uuid": "e34d458b-fdc6-5cde-a33e-cff1738636f9",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5045,10 +5885,12 @@
       "name": "LK Schmalkalden-Meiningen",
       "epidCode": "SM",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016066",
-      "uuid": "2013ee3e-d2c4-5e44-bf0a-61fe15cc780a"
+      "uuid": "2013ee3e-d2c4-5e44-bf0a-61fe15cc780a",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5057,10 +5899,12 @@
       "name": "LK Gotha",
       "epidCode": "GTH",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016067",
-      "uuid": "5228909a-8d36-52d8-97ec-818cff991f85"
+      "uuid": "5228909a-8d36-52d8-97ec-818cff991f85",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5069,10 +5913,12 @@
       "name": "LK Sömmerda",
       "epidCode": "SÖM",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016068",
-      "uuid": "68f7a714-814f-5c2e-8350-529aa073d973"
+      "uuid": "68f7a714-814f-5c2e-8350-529aa073d973",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5081,10 +5927,12 @@
       "name": "LK Hildburghausen",
       "epidCode": "SHL",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016069",
-      "uuid": "9104a596-a020-5ae5-966b-12a0ac986ae6"
+      "uuid": "9104a596-a020-5ae5-966b-12a0ac986ae6",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5093,10 +5941,12 @@
       "name": "LK Ilm-Kreis",
       "epidCode": "SHL",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016070",
-      "uuid": "03eba563-d341-5997-93f9-ec710022d778"
+      "uuid": "03eba563-d341-5997-93f9-ec710022d778",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5105,10 +5955,12 @@
       "name": "LK Weimarer Land",
       "epidCode": "WE",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016071",
-      "uuid": "faf941cf-f82e-5be8-927a-c03862f8ae48"
+      "uuid": "faf941cf-f82e-5be8-927a-c03862f8ae48",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5117,10 +5969,12 @@
       "name": "LK Sonneberg",
       "epidCode": "SON",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016072",
-      "uuid": "4d3abdea-fc55-5485-9187-99298413ae57"
+      "uuid": "4d3abdea-fc55-5485-9187-99298413ae57",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5129,10 +5983,12 @@
       "name": "LK Saalfeld-Rudolstadt",
       "epidCode": "SLF",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016073",
-      "uuid": "022f7c4b-f4b3-588e-86f4-3ab1e31e59f9"
+      "uuid": "022f7c4b-f4b3-588e-86f4-3ab1e31e59f9",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5141,10 +5997,12 @@
       "name": "LK Saale-Holzland-Kreis",
       "epidCode": "SHK",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016074",
-      "uuid": "fa256d63-ebed-5b02-ac8c-bfcaf295ddac"
+      "uuid": "fa256d63-ebed-5b02-ac8c-bfcaf295ddac",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5153,10 +6011,12 @@
       "name": "LK Saale-Orla-Kreis",
       "epidCode": "SOK",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016075",
-      "uuid": "1a4fd99f-f83b-56f2-a76c-67e57ee869c4"
+      "uuid": "1a4fd99f-f83b-56f2-a76c-67e57ee869c4",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5165,10 +6025,12 @@
       "name": "LK Greiz",
       "epidCode": "GRZ",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016076",
-      "uuid": "50288692-93e1-5680-820b-1c668f90509f"
+      "uuid": "50288692-93e1-5680-820b-1c668f90509f",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   },
   {
@@ -5177,10 +6039,12 @@
       "name": "LK Altenburger Land",
       "epidCode": "ABG",
       "growthRate": "0",
-      "region": "Thüringen",
       "archived": "0",
       "externalID": "11016077",
-      "uuid": "16bb9f3c-7f40-564d-b838-cbc403c19d50"
+      "uuid": "16bb9f3c-7f40-564d-b838-cbc403c19d50",
+      "region": {
+        "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044"
+      }
     }
   }
 ]

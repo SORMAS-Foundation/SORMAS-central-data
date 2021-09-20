@@ -5,8 +5,10 @@
       "defaultName": "Northern Africa",
       "externalId": "31001112",
       "archived": "FALSE",
-      "continent": "Africa",
-      "uuid": "ef835a1c-59f3-5d4b-a5ce-09dd780f2ea9"
+      "uuid": "ef835a1c-59f3-5d4b-a5ce-09dd780f2ea9",
+      "continent": {
+        "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+      }
     }
   },
   {
@@ -15,8 +17,10 @@
       "defaultName": "Northeast Africa",
       "externalId": "41000012",
       "archived": "FALSE",
-      "continent": "Africa",
-      "uuid": "b319752a-27f4-5375-a5e4-7c43b8cd9812"
+      "uuid": "b319752a-27f4-5375-a5e4-7c43b8cd9812",
+      "continent": {
+        "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+      }
     }
   },
   {
@@ -25,8 +29,10 @@
       "defaultName": "Northwest Africa",
       "externalId": "41000014",
       "archived": "FALSE",
-      "continent": "Africa",
-      "uuid": "01ddf3e1-bbe1-5144-aa70-82dd6e1d5f3a"
+      "uuid": "01ddf3e1-bbe1-5144-aa70-82dd6e1d5f3a",
+      "continent": {
+        "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+      }
     }
   },
   {
@@ -35,8 +41,10 @@
       "defaultName": "Eastern Africa",
       "externalId": "31001114",
       "archived": "FALSE",
-      "continent": "Africa",
-      "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459",
+      "continent": {
+        "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+      }
     }
   },
   {
@@ -45,8 +53,10 @@
       "defaultName": "Southern Africa",
       "externalId": "31001116",
       "archived": "FALSE",
-      "continent": "Africa",
-      "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764",
+      "continent": {
+        "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+      }
     }
   },
   {
@@ -55,8 +65,10 @@
       "defaultName": "Southeast Africa",
       "externalId": "41000023",
       "archived": "FALSE",
-      "continent": "Africa",
-      "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917"
+      "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917",
+      "continent": {
+        "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+      }
     }
   },
   {
@@ -65,8 +77,10 @@
       "defaultName": "Southwest Africa",
       "externalId": "41000026",
       "archived": "FALSE",
-      "continent": "Africa",
-      "uuid": "8118b26f-230f-5d8b-8c76-442e82953264"
+      "uuid": "8118b26f-230f-5d8b-8c76-442e82953264",
+      "continent": {
+        "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+      }
     }
   },
   {
@@ -75,8 +89,10 @@
       "defaultName": "Western Africa",
       "externalId": "31001113",
       "archived": "FALSE",
-      "continent": "Africa",
-      "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792",
+      "continent": {
+        "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+      }
     }
   },
   {
@@ -85,8 +101,10 @@
       "defaultName": "Central Africa",
       "externalId": "31001115",
       "archived": "FALSE",
-      "continent": "Africa",
-      "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968",
+      "continent": {
+        "uuid": "c0e0244d-f0b8-5aa8-a440-07342db1545b"
+      }
     }
   },
   {
@@ -95,8 +113,10 @@
       "defaultName": "Central America",
       "externalId": "31000011",
       "archived": "FALSE",
-      "continent": "America",
-      "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644",
+      "continent": {
+        "uuid": "8979aa99-4fe8-5756-8923-5e2255086dac"
+      }
     }
   },
   {
@@ -105,8 +125,10 @@
       "defaultName": "North America",
       "externalId": "31000009",
       "archived": "FALSE",
-      "continent": "America",
-      "uuid": "924ca0bc-b788-5288-8985-c6150605e394"
+      "uuid": "924ca0bc-b788-5288-8985-c6150605e394",
+      "continent": {
+        "uuid": "8979aa99-4fe8-5756-8923-5e2255086dac"
+      }
     }
   },
   {
@@ -115,8 +137,10 @@
       "defaultName": "South America",
       "externalId": "31000013",
       "archived": "FALSE",
-      "continent": "America",
-      "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      "uuid": "e5f10544-d3a0-59bf-8476-802249055a06",
+      "continent": {
+        "uuid": "8979aa99-4fe8-5756-8923-5e2255086dac"
+      }
     }
   },
   {
@@ -125,8 +149,10 @@
       "defaultName": "Eastern Asia",
       "externalId": "31002849",
       "archived": "FALSE",
-      "continent": "Asia",
-      "uuid": "18772b13-23d3-5744-9558-06daeb2962f0"
+      "uuid": "18772b13-23d3-5744-9558-06daeb2962f0",
+      "continent": {
+        "uuid": "3fab2b69-31cd-5765-91e3-d68826a6dd48"
+      }
     }
   },
   {
@@ -135,8 +161,10 @@
       "defaultName": "Southern Asia",
       "externalId": "31002851",
       "archived": "FALSE",
-      "continent": "Asia",
-      "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84",
+      "continent": {
+        "uuid": "3fab2b69-31cd-5765-91e3-d68826a6dd48"
+      }
     }
   },
   {
@@ -145,8 +173,10 @@
       "defaultName": "Southeast Asia",
       "externalId": "31002850",
       "archived": "FALSE",
-      "continent": "Asia",
-      "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a",
+      "continent": {
+        "uuid": "3fab2b69-31cd-5765-91e3-d68826a6dd48"
+      }
     }
   },
   {
@@ -155,8 +185,10 @@
       "defaultName": "Southwest Asia",
       "externalId": "41000027",
       "archived": "FALSE",
-      "continent": "Asia",
-      "uuid": "6860af27-f596-5a3b-8730-25c09f733ab5"
+      "uuid": "6860af27-f596-5a3b-8730-25c09f733ab5",
+      "continent": {
+        "uuid": "3fab2b69-31cd-5765-91e3-d68826a6dd48"
+      }
     }
   },
   {
@@ -165,8 +197,10 @@
       "defaultName": "Middle East",
       "externalId": "31002852",
       "archived": "FALSE",
-      "continent": "Asia",
-      "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9",
+      "continent": {
+        "uuid": "3fab2b69-31cd-5765-91e3-d68826a6dd48"
+      }
     }
   },
   {
@@ -175,8 +209,10 @@
       "defaultName": "Central Asia",
       "externalId": "31002847",
       "archived": "FALSE",
-      "continent": "Asia",
-      "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      "uuid": "c693e111-3bc2-5411-8691-242a45432b74",
+      "continent": {
+        "uuid": "3fab2b69-31cd-5765-91e3-d68826a6dd48"
+      }
     }
   },
   {
@@ -185,8 +221,10 @@
       "defaultName": "Australia (Subcontinent)",
       "externalId": "41000006",
       "archived": "FALSE",
-      "continent": "Australia (Continent)",
-      "uuid": "31938cb5-66d5-57d5-a52a-872bb65d80ed"
+      "uuid": "31938cb5-66d5-57d5-a52a-872bb65d80ed",
+      "continent": {
+        "uuid": "36e1b04c-d1b1-50d1-a0c5-b276d449dbdf"
+      }
     }
   },
   {
@@ -195,8 +233,10 @@
       "defaultName": "Oceania",
       "externalId": "21000500",
       "archived": "FALSE",
-      "continent": "Australia (Continent)",
-      "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e",
+      "continent": {
+        "uuid": "36e1b04c-d1b1-50d1-a0c5-b276d449dbdf"
+      }
     }
   },
   {
@@ -205,8 +245,10 @@
       "defaultName": "Central Europe",
       "externalId": "41000008",
       "archived": "FALSE",
-      "continent": "Europe",
-      "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344",
+      "continent": {
+        "uuid": "9d9b0ea0-7c5e-5223-9a9b-bc2e2f30abc4"
+      }
     }
   },
   {
@@ -215,8 +257,10 @@
       "defaultName": "Northern Europe",
       "externalId": "41000011",
       "archived": "FALSE",
-      "continent": "Europe",
-      "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d",
+      "continent": {
+        "uuid": "9d9b0ea0-7c5e-5223-9a9b-bc2e2f30abc4"
+      }
     }
   },
   {
@@ -225,8 +269,10 @@
       "defaultName": "Northeast Europe",
       "externalId": "41000013",
       "archived": "FALSE",
-      "continent": "Europe",
-      "uuid": "b89485cc-d3a8-5459-9af5-5b9549d495a8"
+      "uuid": "b89485cc-d3a8-5459-9af5-5b9549d495a8",
+      "continent": {
+        "uuid": "9d9b0ea0-7c5e-5223-9a9b-bc2e2f30abc4"
+      }
     }
   },
   {
@@ -235,8 +281,10 @@
       "defaultName": "Eastern Europe",
       "externalId": "41000017",
       "archived": "FALSE",
-      "continent": "Europe",
-      "uuid": "b4b305e3-4712-5cdb-a4f0-d6fc1647ea97"
+      "uuid": "b4b305e3-4712-5cdb-a4f0-d6fc1647ea97",
+      "continent": {
+        "uuid": "9d9b0ea0-7c5e-5223-9a9b-bc2e2f30abc4"
+      }
     }
   },
   {
@@ -245,8 +293,10 @@
       "defaultName": "Southern Europe",
       "externalId": "41000022",
       "archived": "FALSE",
-      "continent": "Europe",
-      "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      "uuid": "f80571da-74db-58b5-b271-db9e33a724c3",
+      "continent": {
+        "uuid": "9d9b0ea0-7c5e-5223-9a9b-bc2e2f30abc4"
+      }
     }
   },
   {
@@ -255,8 +305,10 @@
       "defaultName": "Southeast Europe",
       "externalId": "41000025",
       "archived": "FALSE",
-      "continent": "Europe",
-      "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71",
+      "continent": {
+        "uuid": "9d9b0ea0-7c5e-5223-9a9b-bc2e2f30abc4"
+      }
     }
   },
   {
@@ -265,8 +317,10 @@
       "defaultName": "Western Europe",
       "externalId": "41000030",
       "archived": "FALSE",
-      "continent": "Europe",
-      "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3",
+      "continent": {
+        "uuid": "9d9b0ea0-7c5e-5223-9a9b-bc2e2f30abc4"
+      }
     }
   }
 ]
