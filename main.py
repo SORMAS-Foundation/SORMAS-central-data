@@ -1,6 +1,7 @@
 import csv
 import json
 import uuid
+from datetime import datetime
 
 continent_dtos = None
 subcontinent_dtos = None
@@ -21,6 +22,7 @@ def read_csv(path, delimiter=','):
             joined_values = ''.join([line[k] for k in keys])
             _uuid = str(uuid.uuid5(uuid.NAMESPACE_URL, f'https://sormas.org/location/{joined_values}'))
             line['uuid'] = _uuid
+
             result.append(line)
         return result, fieldnames
 
@@ -42,6 +44,8 @@ def make_ref_dtos(out, key, dtos, filter_expr='name'):
         entity_name = needs_lookup[key]
         del needs_lookup[key]
 
+        # the data from the HZI are wrong, the defaultName should be English
+        # therefore we need to hack...
         if entity_name == 'Germany':
             entity_name = 'Deutschland'
 
@@ -78,6 +82,10 @@ def write_json(entities, path):
 
     out = list()
     for p in processed:
+        if 'archived' in p.keys():
+            is_archived: str = p['archived']
+            p['archived'] = False if (is_archived == '0' or is_archived.lower() == 'false') else True
+        p['changeDate'] = datetime.now().isoformat()
         out.append({'key': p['uuid'], 'value': p})
 
     with open(path, 'w+', encoding='utf8') as f:
@@ -120,9 +128,10 @@ def main():
     global district_dtos
     district_dtos = int_districts[0]
     store(int_districts, './out/germany/districts')
-
+    print("here")
     int_communities = read_csv('./import/csv/germany/sormas_gemeinden_master.csv', ';')
     store(int_communities, './out/germany/communities')
+    pass
 
 
 if __name__ == '__main__':
