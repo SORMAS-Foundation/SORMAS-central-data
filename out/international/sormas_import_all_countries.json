@@ -6,9 +6,12 @@
       "externalId": "8501",
       "isoCode": "AFG",
       "unoCode": "4",
-      "archived": "FALSE",
-      "subcontinent": "Southern Asia",
-      "uuid": "f5c89cb8-0aaa-5f70-8575-06bff759f043"
+      "archived": false,
+      "uuid": "f5c89cb8-0aaa-5f70-8575-06bff759f043",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2021-09-30T16:49:09.038767"
     }
   },
   {
@@ -18,9 +21,12 @@
       "externalId": "8201",
       "isoCode": "ALB",
       "unoCode": "8",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "d1a71e74-fdee-5aa2-937a-2d2371645933"
+      "archived": false,
+      "uuid": "d1a71e74-fdee-5aa2-937a-2d2371645933",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038773"
     }
   },
   {
@@ -30,9 +36,12 @@
       "externalId": "8304",
       "isoCode": "DZA",
       "unoCode": "12",
-      "archived": "FALSE",
-      "subcontinent": "Northwest Africa",
-      "uuid": "91a20b0c-8a50-5f5d-bff1-cd47415e04d8"
+      "archived": false,
+      "uuid": "91a20b0c-8a50-5f5d-bff1-cd47415e04d8",
+      "subcontinent": {
+        "uuid": "01ddf3e1-bbe1-5144-aa70-82dd6e1d5f3a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038775"
     }
   },
   {
@@ -42,9 +51,12 @@
       "externalId": "8202",
       "isoCode": "AND",
       "unoCode": "20",
-      "archived": "FALSE",
-      "subcontinent": "Western Europe",
-      "uuid": "4e36dd18-faa3-5df2-85cf-2c2a1d88bbed"
+      "archived": false,
+      "uuid": "4e36dd18-faa3-5df2-85cf-2c2a1d88bbed",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038776"
     }
   },
   {
@@ -54,9 +66,12 @@
       "externalId": "8305",
       "isoCode": "AGO",
       "unoCode": "24",
-      "archived": "FALSE",
-      "subcontinent": "Southwest Africa",
-      "uuid": "884f40ff-0c45-5d68-b2d2-99b1596bb158"
+      "archived": false,
+      "uuid": "884f40ff-0c45-5d68-b2d2-99b1596bb158",
+      "subcontinent": {
+        "uuid": "8118b26f-230f-5d8b-8c76-442e82953264"
+      },
+      "changeDate": "2021-09-30T16:49:09.038777"
     }
   },
   {
@@ -66,9 +81,12 @@
       "externalId": "8442",
       "isoCode": "ATG",
       "unoCode": "28",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "552ee9cd-eafa-582b-b525-4bf8d246f451"
+      "archived": false,
+      "uuid": "552ee9cd-eafa-582b-b525-4bf8d246f451",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038779"
     }
   },
   {
@@ -78,9 +96,12 @@
       "externalId": "8401",
       "isoCode": "ARG",
       "unoCode": "32",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "ac2b1796-28f7-583e-a11e-a6f3bc8aca04"
+      "archived": false,
+      "uuid": "ac2b1796-28f7-583e-a11e-a6f3bc8aca04",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.038780"
     }
   },
   {
@@ -90,9 +111,12 @@
       "externalId": "8560",
       "isoCode": "ARM",
       "unoCode": "51",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "a306d2d8-0b34-5d32-af00-37f26f2c9014"
+      "archived": false,
+      "uuid": "a306d2d8-0b34-5d32-af00-37f26f2c9014",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038781"
     }
   },
   {
@@ -102,9 +126,12 @@
       "externalId": "8601",
       "isoCode": "AUS",
       "unoCode": "36",
-      "archived": "FALSE",
-      "subcontinent": "Australia (Subcontinent)",
-      "uuid": "55a67e20-1167-5093-8a69-7a93418873cd"
+      "archived": false,
+      "uuid": "55a67e20-1167-5093-8a69-7a93418873cd",
+      "subcontinent": {
+        "uuid": "31938cb5-66d5-57d5-a52a-872bb65d80ed"
+      },
+      "changeDate": "2021-09-30T16:49:09.038782"
     }
   },
   {
@@ -114,9 +141,12 @@
       "externalId": "8229",
       "isoCode": "AUT",
       "unoCode": "40",
-      "archived": "FALSE",
-      "subcontinent": "Central Europe",
-      "uuid": "0017eed4-9b71-5b43-bb4b-a39a1c2e48c1"
+      "archived": false,
+      "uuid": "0017eed4-9b71-5b43-bb4b-a39a1c2e48c1",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2021-09-30T16:49:09.038784"
     }
   },
   {
@@ -126,9 +156,12 @@
       "externalId": "8561",
       "isoCode": "AZE",
       "unoCode": "31",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "c2366a50-92bd-555a-8059-0f3d1a901b07"
+      "archived": false,
+      "uuid": "c2366a50-92bd-555a-8059-0f3d1a901b07",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038785"
     }
   },
   {
@@ -138,9 +171,12 @@
       "externalId": "8402",
       "isoCode": "BHS",
       "unoCode": "44",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "b2aceed5-8cd4-53e1-8247-2adc63eaabde"
+      "archived": false,
+      "uuid": "b2aceed5-8cd4-53e1-8247-2adc63eaabde",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038786"
     }
   },
   {
@@ -150,9 +186,12 @@
       "externalId": "8502",
       "isoCode": "BHR",
       "unoCode": "48",
-      "archived": "FALSE",
-      "subcontinent": "Southwest Asia",
-      "uuid": "019f0c8a-27f2-5f69-9e4c-5b1fba9deef4"
+      "archived": false,
+      "uuid": "019f0c8a-27f2-5f69-9e4c-5b1fba9deef4",
+      "subcontinent": {
+        "uuid": "6860af27-f596-5a3b-8730-25c09f733ab5"
+      },
+      "changeDate": "2021-09-30T16:49:09.038788"
     }
   },
   {
@@ -162,9 +201,12 @@
       "externalId": "8546",
       "isoCode": "BGD",
       "unoCode": "50",
-      "archived": "FALSE",
-      "subcontinent": "Southern Asia",
-      "uuid": "0efbde57-60a8-54ea-ba04-456faa79f39d"
+      "archived": false,
+      "uuid": "0efbde57-60a8-54ea-ba04-456faa79f39d",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2021-09-30T16:49:09.038789"
     }
   },
   {
@@ -174,9 +216,12 @@
       "externalId": "8403",
       "isoCode": "BRB",
       "unoCode": "52",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "0da0f8ab-06b4-52e8-9f29-9c82cbfd57db"
+      "archived": false,
+      "uuid": "0da0f8ab-06b4-52e8-9f29-9c82cbfd57db",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038790"
     }
   },
   {
@@ -186,9 +231,12 @@
       "externalId": "8266",
       "isoCode": "BLR",
       "unoCode": "112",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Europe",
-      "uuid": "3db75ac7-8b13-5afb-92df-0b075f857ece"
+      "archived": false,
+      "uuid": "3db75ac7-8b13-5afb-92df-0b075f857ece",
+      "subcontinent": {
+        "uuid": "b4b305e3-4712-5cdb-a4f0-d6fc1647ea97"
+      },
+      "changeDate": "2021-09-30T16:49:09.038791"
     }
   },
   {
@@ -198,9 +246,12 @@
       "externalId": "8204",
       "isoCode": "BEL",
       "unoCode": "56",
-      "archived": "FALSE",
-      "subcontinent": "Western Europe",
-      "uuid": "d91297ec-c09d-515c-9113-e3a4e55ad868"
+      "archived": false,
+      "uuid": "d91297ec-c09d-515c-9113-e3a4e55ad868",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038793"
     }
   },
   {
@@ -210,9 +261,12 @@
       "externalId": "8419",
       "isoCode": "BLZ",
       "unoCode": "84",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "dcf54215-b39e-5475-8e4a-9483b4035162"
+      "archived": false,
+      "uuid": "dcf54215-b39e-5475-8e4a-9483b4035162",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038794"
     }
   },
   {
@@ -222,9 +276,12 @@
       "externalId": "8309",
       "isoCode": "BEN",
       "unoCode": "204",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "8d080afb-2f35-5218-b37d-3449db00cb6f"
+      "archived": false,
+      "uuid": "8d080afb-2f35-5218-b37d-3449db00cb6f",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038795"
     }
   },
   {
@@ -234,9 +291,12 @@
       "externalId": "8503",
       "isoCode": "BTN",
       "unoCode": "64",
-      "archived": "FALSE",
-      "subcontinent": "Southern Asia",
-      "uuid": "59a6ec29-20a7-5e90-a84a-5808c91fb50f"
+      "archived": false,
+      "uuid": "59a6ec29-20a7-5e90-a84a-5808c91fb50f",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2021-09-30T16:49:09.038796"
     }
   },
   {
@@ -246,9 +306,12 @@
       "externalId": "8405",
       "isoCode": "BOL",
       "unoCode": "68",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "27b535fb-6bdc-5a7b-92e0-a255b5d6b29d"
+      "archived": false,
+      "uuid": "27b535fb-6bdc-5a7b-92e0-a255b5d6b29d",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.038798"
     }
   },
   {
@@ -258,9 +321,12 @@
       "externalId": "8252",
       "isoCode": "BIH",
       "unoCode": "70",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "36f54ebd-62b5-5969-8f70-ed10d6155a8c"
+      "archived": false,
+      "uuid": "36f54ebd-62b5-5969-8f70-ed10d6155a8c",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038799"
     }
   },
   {
@@ -270,9 +336,12 @@
       "externalId": "8307",
       "isoCode": "BWA",
       "unoCode": "72",
-      "archived": "FALSE",
-      "subcontinent": "Southern Africa",
-      "uuid": "fed2f13b-bb3e-5ef2-b70d-b34f38934092"
+      "archived": false,
+      "uuid": "fed2f13b-bb3e-5ef2-b70d-b34f38934092",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2021-09-30T16:49:09.038800"
     }
   },
   {
@@ -282,9 +351,12 @@
       "externalId": "8406",
       "isoCode": "BRA",
       "unoCode": "76",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "1a73dad1-bdf8-5e3b-a221-71cb68a538d3"
+      "archived": false,
+      "uuid": "1a73dad1-bdf8-5e3b-a221-71cb68a538d3",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.038801"
     }
   },
   {
@@ -294,9 +366,12 @@
       "externalId": "8504",
       "isoCode": "BRN",
       "unoCode": "96",
-      "archived": "FALSE",
-      "subcontinent": "Southern Asia",
-      "uuid": "da3a7fa6-c868-5451-a53a-8d6d495a054c"
+      "archived": false,
+      "uuid": "da3a7fa6-c868-5451-a53a-8d6d495a054c",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2021-09-30T16:49:09.038803"
     }
   },
   {
@@ -306,9 +381,12 @@
       "externalId": "8205",
       "isoCode": "BGR",
       "unoCode": "100",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "2b3b18fa-e345-5ec4-8d15-99e1244d9513"
+      "archived": false,
+      "uuid": "2b3b18fa-e345-5ec4-8d15-99e1244d9513",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038804"
     }
   },
   {
@@ -318,9 +396,12 @@
       "externalId": "8337",
       "isoCode": "BFA",
       "unoCode": "854",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "413f5c70-e118-51c2-887e-756909520b36"
+      "archived": false,
+      "uuid": "413f5c70-e118-51c2-887e-756909520b36",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038805"
     }
   },
   {
@@ -330,9 +411,12 @@
       "externalId": "8308",
       "isoCode": "BDI",
       "unoCode": "108",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "b105a431-ae1d-542a-8c2f-5a801e7c3e88"
+      "archived": false,
+      "uuid": "b105a431-ae1d-542a-8c2f-5a801e7c3e88",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.038806"
     }
   },
   {
@@ -342,9 +426,12 @@
       "externalId": "8319",
       "isoCode": "CPV",
       "unoCode": "132",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "32b7d94a-23fc-5115-82d1-cf5162a68bf9"
+      "archived": false,
+      "uuid": "32b7d94a-23fc-5115-82d1-cf5162a68bf9",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038808"
     }
   },
   {
@@ -354,9 +441,12 @@
       "externalId": "8518",
       "isoCode": "KHM",
       "unoCode": "116",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "9473d24c-3fe3-5b4a-80c5-f17d9038e0f8"
+      "archived": false,
+      "uuid": "9473d24c-3fe3-5b4a-80c5-f17d9038e0f8",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038809"
     }
   },
   {
@@ -366,9 +456,12 @@
       "externalId": "8317",
       "isoCode": "CMR",
       "unoCode": "120",
-      "archived": "FALSE",
-      "subcontinent": "Central Africa",
-      "uuid": "6e0c6386-f57a-5a02-baab-e05b262601dc"
+      "archived": false,
+      "uuid": "6e0c6386-f57a-5a02-baab-e05b262601dc",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2021-09-30T16:49:09.038810"
     }
   },
   {
@@ -378,9 +471,12 @@
       "externalId": "8423",
       "isoCode": "CAN",
       "unoCode": "124",
-      "archived": "FALSE",
-      "subcontinent": "North America",
-      "uuid": "0775005d-131a-5306-8126-16bbd2e73562"
+      "archived": false,
+      "uuid": "0775005d-131a-5306-8126-16bbd2e73562",
+      "subcontinent": {
+        "uuid": "924ca0bc-b788-5288-8985-c6150605e394"
+      },
+      "changeDate": "2021-09-30T16:49:09.038811"
     }
   },
   {
@@ -390,9 +486,12 @@
       "externalId": "8360",
       "isoCode": "CAF",
       "unoCode": "140",
-      "archived": "FALSE",
-      "subcontinent": "Central Africa",
-      "uuid": "9946e3af-57c0-5a13-a99f-2ed0c4b48fee"
+      "archived": false,
+      "uuid": "9946e3af-57c0-5a13-a99f-2ed0c4b48fee",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2021-09-30T16:49:09.038813"
     }
   },
   {
@@ -402,9 +501,12 @@
       "externalId": "8356",
       "isoCode": "TCD",
       "unoCode": "148",
-      "archived": "FALSE",
-      "subcontinent": "Central Africa",
-      "uuid": "34beb824-6463-5a77-b32d-261ecdef5d25"
+      "archived": false,
+      "uuid": "34beb824-6463-5a77-b32d-261ecdef5d25",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2021-09-30T16:49:09.038814"
     }
   },
   {
@@ -414,9 +516,12 @@
       "externalId": "8407",
       "isoCode": "CHL",
       "unoCode": "152",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "dcb3b8a8-37ad-54f3-bfd7-2baefa87e887"
+      "archived": false,
+      "uuid": "dcb3b8a8-37ad-54f3-bfd7-2baefa87e887",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.038815"
     }
   },
   {
@@ -426,9 +531,12 @@
       "externalId": "8508",
       "isoCode": "CHN",
       "unoCode": "156",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Asia",
-      "uuid": "f538b468-c222-5c30-af2f-e0e30e84b152"
+      "archived": false,
+      "uuid": "f538b468-c222-5c30-af2f-e0e30e84b152",
+      "subcontinent": {
+        "uuid": "18772b13-23d3-5744-9558-06daeb2962f0"
+      },
+      "changeDate": "2021-09-30T16:49:09.038817"
     }
   },
   {
@@ -438,9 +546,12 @@
       "externalId": "8424",
       "isoCode": "COL",
       "unoCode": "170",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "e0443b19-ed73-5673-aa41-8a59667a9f2c"
+      "archived": false,
+      "uuid": "e0443b19-ed73-5673-aa41-8a59667a9f2c",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.038818"
     }
   },
   {
@@ -450,9 +561,12 @@
       "externalId": "8321",
       "isoCode": "COM",
       "unoCode": "174",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "fb69b56d-02a0-5f70-af10-aac3052ce4ec"
+      "archived": false,
+      "uuid": "fb69b56d-02a0-5f70-af10-aac3052ce4ec",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.038819"
     }
   },
   {
@@ -462,9 +576,12 @@
       "externalId": "8322",
       "isoCode": "COG",
       "unoCode": "178",
-      "archived": "FALSE",
-      "subcontinent": "Central Africa",
-      "uuid": "50a014f1-b6db-51cf-90c3-82ba50b6687c"
+      "archived": false,
+      "uuid": "50a014f1-b6db-51cf-90c3-82ba50b6687c",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2021-09-30T16:49:09.038820"
     }
   },
   {
@@ -474,9 +591,12 @@
       "externalId": "8682",
       "isoCode": "COK",
       "unoCode": "184",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "1145d076-7df1-5187-b54e-e41625177fe6"
+      "archived": false,
+      "uuid": "1145d076-7df1-5187-b54e-e41625177fe6",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038822"
     }
   },
   {
@@ -486,9 +606,12 @@
       "externalId": "8408",
       "isoCode": "CRI",
       "unoCode": "188",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "6ee4b682-6641-5b33-b164-9da26999ffff"
+      "archived": false,
+      "uuid": "6ee4b682-6641-5b33-b164-9da26999ffff",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038823"
     }
   },
   {
@@ -498,9 +621,12 @@
       "externalId": "8250",
       "isoCode": "HRV",
       "unoCode": "191",
-      "archived": "FALSE",
-      "subcontinent": "Southern Europe",
-      "uuid": "f69f4784-6d29-5c7c-a161-69aff9288d36"
+      "archived": false,
+      "uuid": "f69f4784-6d29-5c7c-a161-69aff9288d36",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038824"
     }
   },
   {
@@ -510,9 +636,12 @@
       "externalId": "8425",
       "isoCode": "CUB",
       "unoCode": "192",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "b4d253ed-34b6-5e24-a429-06c808edd85e"
+      "archived": false,
+      "uuid": "b4d253ed-34b6-5e24-a429-06c808edd85e",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038825"
     }
   },
   {
@@ -522,9 +651,12 @@
       "externalId": "8242",
       "isoCode": "CYP",
       "unoCode": "196",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "90e73e51-6978-5423-9360-fe0d98f3b26c"
+      "archived": false,
+      "uuid": "90e73e51-6978-5423-9360-fe0d98f3b26c",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038827"
     }
   },
   {
@@ -534,9 +666,12 @@
       "externalId": "8244",
       "isoCode": "CZE",
       "unoCode": "203",
-      "archived": "FALSE",
-      "subcontinent": "Central Europe",
-      "uuid": "0ba1c12f-a906-5626-a0f6-8d17b580f466"
+      "archived": false,
+      "uuid": "0ba1c12f-a906-5626-a0f6-8d17b580f466",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2021-09-30T16:49:09.038828"
     }
   },
   {
@@ -546,9 +681,12 @@
       "externalId": "8530",
       "isoCode": "PRK",
       "unoCode": "408",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Asia",
-      "uuid": "bab3657a-8c7e-544e-b86b-1af981e09087"
+      "archived": false,
+      "uuid": "bab3657a-8c7e-544e-b86b-1af981e09087",
+      "subcontinent": {
+        "uuid": "18772b13-23d3-5744-9558-06daeb2962f0"
+      },
+      "changeDate": "2021-09-30T16:49:09.038829"
     }
   },
   {
@@ -558,9 +696,12 @@
       "externalId": "8323",
       "isoCode": "COD",
       "unoCode": "180",
-      "archived": "FALSE",
-      "subcontinent": "Central Africa",
-      "uuid": "a59d18e7-449f-5e03-b6c2-8c5ebecc4242"
+      "archived": false,
+      "uuid": "a59d18e7-449f-5e03-b6c2-8c5ebecc4242",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2021-09-30T16:49:09.038830"
     }
   },
   {
@@ -570,9 +711,12 @@
       "externalId": "8206",
       "isoCode": "DNK",
       "unoCode": "208",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "aec066b7-2b3d-5591-a8f3-ad788bba78f0"
+      "archived": false,
+      "uuid": "aec066b7-2b3d-5591-a8f3-ad788bba78f0",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.038832"
     }
   },
   {
@@ -582,9 +726,12 @@
       "externalId": "8303",
       "isoCode": "DJI",
       "unoCode": "262",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "e89beec5-faa2-5f24-830e-08d864091503"
+      "archived": false,
+      "uuid": "e89beec5-faa2-5f24-830e-08d864091503",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.038833"
     }
   },
   {
@@ -594,9 +741,12 @@
       "externalId": "8440",
       "isoCode": "DMA",
       "unoCode": "212",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "ff97160f-a9f1-53d7-aaaa-a548bb21d537"
+      "archived": false,
+      "uuid": "ff97160f-a9f1-53d7-aaaa-a548bb21d537",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038834"
     }
   },
   {
@@ -606,9 +756,12 @@
       "externalId": "8409",
       "isoCode": "DOM",
       "unoCode": "214",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "3f870420-d23e-5f92-977c-ae2b7de74bd8"
+      "archived": false,
+      "uuid": "3f870420-d23e-5f92-977c-ae2b7de74bd8",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038835"
     }
   },
   {
@@ -618,9 +771,12 @@
       "externalId": "8410",
       "isoCode": "ECU",
       "unoCode": "218",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "0b5e0425-9777-514c-b4e3-435e42debb48"
+      "archived": false,
+      "uuid": "0b5e0425-9777-514c-b4e3-435e42debb48",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.038836"
     }
   },
   {
@@ -630,9 +786,12 @@
       "externalId": "8359",
       "isoCode": "EGY",
       "unoCode": "818",
-      "archived": "FALSE",
-      "subcontinent": "Northeast Africa",
-      "uuid": "27dc920b-4064-5b7e-9e62-5f96857175b0"
+      "archived": false,
+      "uuid": "27dc920b-4064-5b7e-9e62-5f96857175b0",
+      "subcontinent": {
+        "uuid": "b319752a-27f4-5375-a5e4-7c43b8cd9812"
+      },
+      "changeDate": "2021-09-30T16:49:09.038838"
     }
   },
   {
@@ -642,9 +801,12 @@
       "externalId": "8411",
       "isoCode": "SLV",
       "unoCode": "222",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "b63cdeff-ee1f-5c78-9b0a-2cbdc7a8cf1d"
+      "archived": false,
+      "uuid": "b63cdeff-ee1f-5c78-9b0a-2cbdc7a8cf1d",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038839"
     }
   },
   {
@@ -654,9 +816,12 @@
       "externalId": "8301",
       "isoCode": "GNQ",
       "unoCode": "226",
-      "archived": "FALSE",
-      "subcontinent": "Central Africa",
-      "uuid": "418275ce-ecf5-5802-9ff4-3fee7909831f"
+      "archived": false,
+      "uuid": "418275ce-ecf5-5802-9ff4-3fee7909831f",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2021-09-30T16:49:09.038840"
     }
   },
   {
@@ -666,9 +831,12 @@
       "externalId": "8362",
       "isoCode": "ERI",
       "unoCode": "232",
-      "archived": "FALSE",
-      "subcontinent": "Northeast Africa",
-      "uuid": "12281d67-2a3d-51b9-9694-3bae7e547034"
+      "archived": false,
+      "uuid": "12281d67-2a3d-51b9-9694-3bae7e547034",
+      "subcontinent": {
+        "uuid": "b319752a-27f4-5375-a5e4-7c43b8cd9812"
+      },
+      "changeDate": "2021-09-30T16:49:09.038841"
     }
   },
   {
@@ -678,9 +846,12 @@
       "externalId": "8260",
       "isoCode": "EST",
       "unoCode": "233",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "0ae51346-f897-5a75-b1ef-dd613b414272"
+      "archived": false,
+      "uuid": "0ae51346-f897-5a75-b1ef-dd613b414272",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.038843"
     }
   },
   {
@@ -690,9 +861,12 @@
       "externalId": "8352",
       "isoCode": "SWZ",
       "unoCode": "748",
-      "archived": "FALSE",
-      "subcontinent": "Southern Africa",
-      "uuid": "787f7004-c643-59ad-9da3-d674dc42f5dd"
+      "archived": false,
+      "uuid": "787f7004-c643-59ad-9da3-d674dc42f5dd",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2021-09-30T16:49:09.038844"
     }
   },
   {
@@ -702,9 +876,12 @@
       "externalId": "8302",
       "isoCode": "ETH",
       "unoCode": "231",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "6000f39b-40c1-5318-b89f-67c96f2b64c3"
+      "archived": false,
+      "uuid": "6000f39b-40c1-5318-b89f-67c96f2b64c3",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.038845"
     }
   },
   {
@@ -714,9 +891,12 @@
       "externalId": "8602",
       "isoCode": "FJI",
       "unoCode": "242",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "c10c652e-3599-5440-ad28-064613049102"
+      "archived": false,
+      "uuid": "c10c652e-3599-5440-ad28-064613049102",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038846"
     }
   },
   {
@@ -726,9 +906,12 @@
       "externalId": "8211",
       "isoCode": "FIN",
       "unoCode": "246",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "691a340e-d224-5874-98ba-f73ad726a04d"
+      "archived": false,
+      "uuid": "691a340e-d224-5874-98ba-f73ad726a04d",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.038848"
     }
   },
   {
@@ -738,9 +921,12 @@
       "externalId": "8212",
       "isoCode": "FRA",
       "unoCode": "250",
-      "archived": "FALSE",
-      "subcontinent": "Western Europe",
-      "uuid": "9009acd3-8f4e-5b09-bfc9-c1264f206a33"
+      "archived": false,
+      "uuid": "9009acd3-8f4e-5b09-bfc9-c1264f206a33",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038849"
     }
   },
   {
@@ -750,9 +936,12 @@
       "externalId": "8311",
       "isoCode": "GAB",
       "unoCode": "266",
-      "archived": "FALSE",
-      "subcontinent": "Central Africa",
-      "uuid": "834acd18-fc2d-5780-9845-0a1bab6c82b8"
+      "archived": false,
+      "uuid": "834acd18-fc2d-5780-9845-0a1bab6c82b8",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2021-09-30T16:49:09.038850"
     }
   },
   {
@@ -762,9 +951,12 @@
       "externalId": "8312",
       "isoCode": "GMB",
       "unoCode": "270",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "50fa3422-8d46-590a-ba38-23a7675a72ca"
+      "archived": false,
+      "uuid": "50fa3422-8d46-590a-ba38-23a7675a72ca",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038851"
     }
   },
   {
@@ -774,9 +966,12 @@
       "externalId": "8562",
       "isoCode": "GEO",
       "unoCode": "268",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "e3542705-4379-513e-a27d-fb29ba1f0555"
+      "archived": false,
+      "uuid": "e3542705-4379-513e-a27d-fb29ba1f0555",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038853"
     }
   },
   {
@@ -786,9 +981,12 @@
       "externalId": "8207",
       "isoCode": "DEU",
       "unoCode": "276",
-      "archived": "FALSE",
-      "subcontinent": "Central Europe",
-      "uuid": "66f4cbda-9cc6-59c2-b455-b0ad74666868"
+      "archived": false,
+      "uuid": "66f4cbda-9cc6-59c2-b455-b0ad74666868",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2021-09-30T16:49:09.038854"
     }
   },
   {
@@ -798,9 +996,12 @@
       "externalId": "8313",
       "isoCode": "GHA",
       "unoCode": "288",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "f4f02737-bd29-5e15-8e35-1f91af9db887"
+      "archived": false,
+      "uuid": "f4f02737-bd29-5e15-8e35-1f91af9db887",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038855"
     }
   },
   {
@@ -810,9 +1011,12 @@
       "externalId": "8214",
       "isoCode": "GRC",
       "unoCode": "300",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "ee353123-b545-51a6-a87b-50a7ae15128c"
+      "archived": false,
+      "uuid": "ee353123-b545-51a6-a87b-50a7ae15128c",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038856"
     }
   },
   {
@@ -822,9 +1026,12 @@
       "externalId": "8413",
       "isoCode": "GRL",
       "unoCode": "304",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "5a045e1f-4da4-553e-88f3-63d02569ce56"
+      "archived": false,
+      "uuid": "5a045e1f-4da4-553e-88f3-63d02569ce56",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.038858"
     }
   },
   {
@@ -834,9 +1041,12 @@
       "externalId": "8441",
       "isoCode": "GRD",
       "unoCode": "308",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "359086c2-1e5a-5297-9d93-0f7c93a4f75f"
+      "archived": false,
+      "uuid": "359086c2-1e5a-5297-9d93-0f7c93a4f75f",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038859"
     }
   },
   {
@@ -846,9 +1056,12 @@
       "externalId": "8415",
       "isoCode": "GTM",
       "unoCode": "320",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "614722b0-9e0a-5c75-b70b-ba8037e86bce"
+      "archived": false,
+      "uuid": "614722b0-9e0a-5c75-b70b-ba8037e86bce",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038860"
     }
   },
   {
@@ -858,9 +1071,12 @@
       "externalId": "8315",
       "isoCode": "GIN",
       "unoCode": "324",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "d53e02c8-4d04-5944-85f8-cbb3b5748fa3"
+      "archived": false,
+      "uuid": "d53e02c8-4d04-5944-85f8-cbb3b5748fa3",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038861"
     }
   },
   {
@@ -870,9 +1086,12 @@
       "externalId": "8314",
       "isoCode": "GNB",
       "unoCode": "624",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "3d0e3215-7be4-5987-89f9-8b1031ee5bbd"
+      "archived": false,
+      "uuid": "3d0e3215-7be4-5987-89f9-8b1031ee5bbd",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038863"
     }
   },
   {
@@ -882,9 +1101,12 @@
       "externalId": "8417",
       "isoCode": "GUY",
       "unoCode": "328",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "01fd894a-fefe-5c5f-acec-2ef7ed6e4e28"
+      "archived": false,
+      "uuid": "01fd894a-fefe-5c5f-acec-2ef7ed6e4e28",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.038864"
     }
   },
   {
@@ -894,9 +1116,12 @@
       "externalId": "8418",
       "isoCode": "HTI",
       "unoCode": "332",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "3aae2922-9fe3-57ee-b502-31583fcab425"
+      "archived": false,
+      "uuid": "3aae2922-9fe3-57ee-b502-31583fcab425",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038865"
     }
   },
   {
@@ -906,9 +1131,12 @@
       "externalId": "8420",
       "isoCode": "HND",
       "unoCode": "340",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "4ee0cfb0-d9a4-5634-80a8-b433a0d6622b"
+      "archived": false,
+      "uuid": "4ee0cfb0-d9a4-5634-80a8-b433a0d6622b",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038866"
     }
   },
   {
@@ -918,9 +1146,12 @@
       "externalId": "8240",
       "isoCode": "HUN",
       "unoCode": "348",
-      "archived": "FALSE",
-      "subcontinent": "Central Europe",
-      "uuid": "87b8bf47-d180-5d7c-bb52-9e2fc46b5d0b"
+      "archived": false,
+      "uuid": "87b8bf47-d180-5d7c-bb52-9e2fc46b5d0b",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2021-09-30T16:49:09.038868"
     }
   },
   {
@@ -930,9 +1161,12 @@
       "externalId": "8217",
       "isoCode": "ISL",
       "unoCode": "352",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "b0ba172d-bb8f-5c68-a54b-6cc128ee8211"
+      "archived": false,
+      "uuid": "b0ba172d-bb8f-5c68-a54b-6cc128ee8211",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.038869"
     }
   },
   {
@@ -942,9 +1176,12 @@
       "externalId": "8510",
       "isoCode": "IND",
       "unoCode": "356",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "7596ec5e-7331-5efd-bba7-dc1525cbe8cd"
+      "archived": false,
+      "uuid": "7596ec5e-7331-5efd-bba7-dc1525cbe8cd",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038871"
     }
   },
   {
@@ -954,9 +1191,12 @@
       "externalId": "8511",
       "isoCode": "IDN",
       "unoCode": "360",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "d0d2c7d8-01b3-5673-bd1d-1d304576b6a5"
+      "archived": false,
+      "uuid": "d0d2c7d8-01b3-5673-bd1d-1d304576b6a5",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038872"
     }
   },
   {
@@ -966,9 +1206,12 @@
       "externalId": "8513",
       "isoCode": "IRN",
       "unoCode": "364",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "4300f3d0-c7e9-56dc-ba14-6b68ef5673fc"
+      "archived": false,
+      "uuid": "4300f3d0-c7e9-56dc-ba14-6b68ef5673fc",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038873"
     }
   },
   {
@@ -978,9 +1221,12 @@
       "externalId": "8512",
       "isoCode": "IRQ",
       "unoCode": "368",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "d068c506-a30a-558c-932f-68a28c46cf0a"
+      "archived": false,
+      "uuid": "d068c506-a30a-558c-932f-68a28c46cf0a",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038875"
     }
   },
   {
@@ -990,9 +1236,12 @@
       "externalId": "8216",
       "isoCode": "IRL",
       "unoCode": "372",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "07607f70-8f04-5377-ab8d-a90252818b43"
+      "archived": false,
+      "uuid": "07607f70-8f04-5377-ab8d-a90252818b43",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.038876"
     }
   },
   {
@@ -1002,9 +1251,12 @@
       "externalId": "8514",
       "isoCode": "ISR",
       "unoCode": "376",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "e6256027-dd70-573c-8442-4fe7f3917047"
+      "archived": false,
+      "uuid": "e6256027-dd70-573c-8442-4fe7f3917047",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038877"
     }
   },
   {
@@ -1014,9 +1266,12 @@
       "externalId": "8218",
       "isoCode": "ITA",
       "unoCode": "380",
-      "archived": "FALSE",
-      "subcontinent": "Southern Europe",
-      "uuid": "c9446fce-20a9-5c8b-8fa2-47178bc08b16"
+      "archived": false,
+      "uuid": "c9446fce-20a9-5c8b-8fa2-47178bc08b16",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038878"
     }
   },
   {
@@ -1026,9 +1281,12 @@
       "externalId": "8421",
       "isoCode": "JAM",
       "unoCode": "388",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "3feea731-4e2a-5f21-a7f4-d86a23b352de"
+      "archived": false,
+      "uuid": "3feea731-4e2a-5f21-a7f4-d86a23b352de",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038880"
     }
   },
   {
@@ -1038,9 +1296,12 @@
       "externalId": "8515",
       "isoCode": "JPN",
       "unoCode": "392",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Asia",
-      "uuid": "a7cd9dea-593a-547f-b0e1-d23083948a4f"
+      "archived": false,
+      "uuid": "a7cd9dea-593a-547f-b0e1-d23083948a4f",
+      "subcontinent": {
+        "uuid": "18772b13-23d3-5744-9558-06daeb2962f0"
+      },
+      "changeDate": "2021-09-30T16:49:09.038881"
     }
   },
   {
@@ -1050,9 +1311,12 @@
       "externalId": "8517",
       "isoCode": "JOR",
       "unoCode": "400",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "d355138b-14f6-5ee8-b007-b7cd0eeb295d"
+      "archived": false,
+      "uuid": "d355138b-14f6-5ee8-b007-b7cd0eeb295d",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038882"
     }
   },
   {
@@ -1062,9 +1326,12 @@
       "externalId": "8563",
       "isoCode": "KAZ",
       "unoCode": "398",
-      "archived": "FALSE",
-      "subcontinent": "Central Asia",
-      "uuid": "7ab8e9f9-5a40-5020-8048-a656e8a7c0c2"
+      "archived": false,
+      "uuid": "7ab8e9f9-5a40-5020-8048-a656e8a7c0c2",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2021-09-30T16:49:09.038883"
     }
   },
   {
@@ -1074,9 +1341,12 @@
       "externalId": "8320",
       "isoCode": "KEN",
       "unoCode": "404",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "238b0978-6f23-575a-b047-49018c2d9600"
+      "archived": false,
+      "uuid": "238b0978-6f23-575a-b047-49018c2d9600",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.038885"
     }
   },
   {
@@ -1086,9 +1356,12 @@
       "externalId": "8616",
       "isoCode": "KIR",
       "unoCode": "296",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "f5b5d035-447d-5ea4-af3c-fd514373d7d3"
+      "archived": false,
+      "uuid": "f5b5d035-447d-5ea4-af3c-fd514373d7d3",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038886"
     }
   },
   {
@@ -1098,9 +1371,12 @@
       "externalId": "8521",
       "isoCode": "KWT",
       "unoCode": "414",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "6315f01b-9db3-5ac2-a56f-147ccf6a5c9e"
+      "archived": false,
+      "uuid": "6315f01b-9db3-5ac2-a56f-147ccf6a5c9e",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038887"
     }
   },
   {
@@ -1110,9 +1386,12 @@
       "externalId": "8564",
       "isoCode": "KGZ",
       "unoCode": "417",
-      "archived": "FALSE",
-      "subcontinent": "Central Asia",
-      "uuid": "b70b22ba-f4e9-5fbe-99f1-08dac8261803"
+      "archived": false,
+      "uuid": "b70b22ba-f4e9-5fbe-99f1-08dac8261803",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2021-09-30T16:49:09.038888"
     }
   },
   {
@@ -1122,9 +1401,12 @@
       "externalId": "8522",
       "isoCode": "LAO",
       "unoCode": "418",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "64166692-9999-5d6e-bec6-71da6119553e"
+      "archived": false,
+      "uuid": "64166692-9999-5d6e-bec6-71da6119553e",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038890"
     }
   },
   {
@@ -1134,9 +1416,12 @@
       "externalId": "8261",
       "isoCode": "LVA",
       "unoCode": "428",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "4afb7358-0f9b-51fb-9092-3a0f5d6994c6"
+      "archived": false,
+      "uuid": "4afb7358-0f9b-51fb-9092-3a0f5d6994c6",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.038891"
     }
   },
   {
@@ -1146,9 +1431,12 @@
       "externalId": "8523",
       "isoCode": "LBN",
       "unoCode": "422",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "0979e836-489a-5ba9-b3ce-96de11474d1b"
+      "archived": false,
+      "uuid": "0979e836-489a-5ba9-b3ce-96de11474d1b",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038892"
     }
   },
   {
@@ -1158,9 +1446,12 @@
       "externalId": "8324",
       "isoCode": "LSO",
       "unoCode": "426",
-      "archived": "FALSE",
-      "subcontinent": "Southern Africa",
-      "uuid": "fb3f156d-d23f-5cc6-81f6-98184f814678"
+      "archived": false,
+      "uuid": "fb3f156d-d23f-5cc6-81f6-98184f814678",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2021-09-30T16:49:09.038893"
     }
   },
   {
@@ -1170,9 +1461,12 @@
       "externalId": "8325",
       "isoCode": "LBR",
       "unoCode": "430",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "90bf7b89-7c77-520d-9060-96302958e323"
+      "archived": false,
+      "uuid": "90bf7b89-7c77-520d-9060-96302958e323",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038895"
     }
   },
   {
@@ -1182,9 +1476,12 @@
       "externalId": "8326",
       "isoCode": "LBY",
       "unoCode": "434",
-      "archived": "FALSE",
-      "subcontinent": "Northern Africa",
-      "uuid": "dd6e283b-9fa2-539d-982c-7e02105e67fc"
+      "archived": false,
+      "uuid": "dd6e283b-9fa2-539d-982c-7e02105e67fc",
+      "subcontinent": {
+        "uuid": "ef835a1c-59f3-5d4b-a5ce-09dd780f2ea9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038896"
     }
   },
   {
@@ -1194,9 +1491,12 @@
       "externalId": "8222",
       "isoCode": "LIE",
       "unoCode": "438",
-      "archived": "FALSE",
-      "subcontinent": "Central Europe",
-      "uuid": "f3638b3e-fa6a-545d-a6b7-826209229a49"
+      "archived": false,
+      "uuid": "f3638b3e-fa6a-545d-a6b7-826209229a49",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2021-09-30T16:49:09.038897"
     }
   },
   {
@@ -1206,9 +1506,12 @@
       "externalId": "8262",
       "isoCode": "LTU",
       "unoCode": "440",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "b14b2ded-b018-56ed-aa24-cf97d53497e0"
+      "archived": false,
+      "uuid": "b14b2ded-b018-56ed-aa24-cf97d53497e0",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.038898"
     }
   },
   {
@@ -1218,9 +1521,12 @@
       "externalId": "8223",
       "isoCode": "LUX",
       "unoCode": "442",
-      "archived": "FALSE",
-      "subcontinent": "Western Europe",
-      "uuid": "a71a2734-c91a-54bd-bee5-bb0da5526e02"
+      "archived": false,
+      "uuid": "a71a2734-c91a-54bd-bee5-bb0da5526e02",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038900"
     }
   },
   {
@@ -1230,9 +1536,12 @@
       "externalId": "8327",
       "isoCode": "MDG",
       "unoCode": "450",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Africa",
-      "uuid": "d3cec931-91db-5bc4-b1b4-0361cab24003"
+      "archived": false,
+      "uuid": "d3cec931-91db-5bc4-b1b4-0361cab24003",
+      "subcontinent": {
+        "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917"
+      },
+      "changeDate": "2021-09-30T16:49:09.038901"
     }
   },
   {
@@ -1242,9 +1551,12 @@
       "externalId": "8329",
       "isoCode": "MWI",
       "unoCode": "454",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Africa",
-      "uuid": "b34aca4a-37cb-5609-b55f-de526eeb388b"
+      "archived": false,
+      "uuid": "b34aca4a-37cb-5609-b55f-de526eeb388b",
+      "subcontinent": {
+        "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917"
+      },
+      "changeDate": "2021-09-30T16:49:09.038902"
     }
   },
   {
@@ -1254,9 +1566,12 @@
       "externalId": "8525",
       "isoCode": "MYS",
       "unoCode": "458",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "8edbbe52-48ff-5c8c-b06b-6c2af752da29"
+      "archived": false,
+      "uuid": "8edbbe52-48ff-5c8c-b06b-6c2af752da29",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038903"
     }
   },
   {
@@ -1266,9 +1581,12 @@
       "externalId": "8526",
       "isoCode": "MDV",
       "unoCode": "462",
-      "archived": "FALSE",
-      "subcontinent": "Southern Asia",
-      "uuid": "9604e542-4564-535e-b1c0-ce4722f8f432"
+      "archived": false,
+      "uuid": "9604e542-4564-535e-b1c0-ce4722f8f432",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2021-09-30T16:49:09.038905"
     }
   },
   {
@@ -1278,9 +1596,12 @@
       "externalId": "8330",
       "isoCode": "MLI",
       "unoCode": "466",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "905dcaa7-723b-518c-bb8b-dd78378938df"
+      "archived": false,
+      "uuid": "905dcaa7-723b-518c-bb8b-dd78378938df",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038906"
     }
   },
   {
@@ -1290,9 +1611,12 @@
       "externalId": "8224",
       "isoCode": "MLT",
       "unoCode": "470",
-      "archived": "FALSE",
-      "subcontinent": "Southern Europe",
-      "uuid": "e7c65c6f-5b11-518c-8c15-fe7d57af1623"
+      "archived": false,
+      "uuid": "e7c65c6f-5b11-518c-8c15-fe7d57af1623",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038907"
     }
   },
   {
@@ -1302,9 +1626,12 @@
       "externalId": "8617",
       "isoCode": "MHL",
       "unoCode": "584",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "e97ba452-86b0-5b1a-bf15-613f0e4a8486"
+      "archived": false,
+      "uuid": "e97ba452-86b0-5b1a-bf15-613f0e4a8486",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038908"
     }
   },
   {
@@ -1314,9 +1641,12 @@
       "externalId": "8332",
       "isoCode": "MRT",
       "unoCode": "478",
-      "archived": "FALSE",
-      "subcontinent": "Northwest Africa",
-      "uuid": "737f7db0-2a09-5764-98b8-20274ce7211e"
+      "archived": false,
+      "uuid": "737f7db0-2a09-5764-98b8-20274ce7211e",
+      "subcontinent": {
+        "uuid": "01ddf3e1-bbe1-5144-aa70-82dd6e1d5f3a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038910"
     }
   },
   {
@@ -1326,9 +1656,12 @@
       "externalId": "8333",
       "isoCode": "MUS",
       "unoCode": "480",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Africa",
-      "uuid": "339106b9-79e5-5e8b-b2fe-f67ac8cb4985"
+      "archived": false,
+      "uuid": "339106b9-79e5-5e8b-b2fe-f67ac8cb4985",
+      "subcontinent": {
+        "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917"
+      },
+      "changeDate": "2021-09-30T16:49:09.038911"
     }
   },
   {
@@ -1338,9 +1671,12 @@
       "externalId": "8427",
       "isoCode": "MEX",
       "unoCode": "484",
-      "archived": "FALSE",
-      "subcontinent": "North America",
-      "uuid": "082a027e-b322-583a-86c1-df43610c058e"
+      "archived": false,
+      "uuid": "082a027e-b322-583a-86c1-df43610c058e",
+      "subcontinent": {
+        "uuid": "924ca0bc-b788-5288-8985-c6150605e394"
+      },
+      "changeDate": "2021-09-30T16:49:09.038912"
     }
   },
   {
@@ -1350,9 +1686,12 @@
       "externalId": "8618",
       "isoCode": "FSM",
       "unoCode": "583",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "e0c8ef11-5209-5525-839a-8e008d4747c2"
+      "archived": false,
+      "uuid": "e0c8ef11-5209-5525-839a-8e008d4747c2",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038914"
     }
   },
   {
@@ -1362,9 +1701,12 @@
       "externalId": "8226",
       "isoCode": "MCO",
       "unoCode": "492",
-      "archived": "FALSE",
-      "subcontinent": "Southern Europe",
-      "uuid": "3890ebed-c5e5-57ae-97fb-84c0c8a4d587"
+      "archived": false,
+      "uuid": "3890ebed-c5e5-57ae-97fb-84c0c8a4d587",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038915"
     }
   },
   {
@@ -1374,9 +1716,12 @@
       "externalId": "8528",
       "isoCode": "MNG",
       "unoCode": "496",
-      "archived": "FALSE",
-      "subcontinent": "Central Asia",
-      "uuid": "1ef5ee7a-229e-5a6a-82d1-459164ab7839"
+      "archived": false,
+      "uuid": "1ef5ee7a-229e-5a6a-82d1-459164ab7839",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2021-09-30T16:49:09.038916"
     }
   },
   {
@@ -1386,9 +1731,12 @@
       "externalId": "8254",
       "isoCode": "MNE",
       "unoCode": "499",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "61e499c4-73e2-5743-a386-848a889d4297"
+      "archived": false,
+      "uuid": "61e499c4-73e2-5743-a386-848a889d4297",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038917"
     }
   },
   {
@@ -1398,9 +1746,12 @@
       "externalId": "8331",
       "isoCode": "MAR",
       "unoCode": "504",
-      "archived": "FALSE",
-      "subcontinent": "Northwest Africa",
-      "uuid": "9ce1e2f7-bf9f-5c5e-89e0-29dd4ab877b7"
+      "archived": false,
+      "uuid": "9ce1e2f7-bf9f-5c5e-89e0-29dd4ab877b7",
+      "subcontinent": {
+        "uuid": "01ddf3e1-bbe1-5144-aa70-82dd6e1d5f3a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038918"
     }
   },
   {
@@ -1410,9 +1761,12 @@
       "externalId": "8334",
       "isoCode": "MOZ",
       "unoCode": "508",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Africa",
-      "uuid": "d22c60c9-12ca-5104-be52-082530b51e25"
+      "archived": false,
+      "uuid": "d22c60c9-12ca-5104-be52-082530b51e25",
+      "subcontinent": {
+        "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917"
+      },
+      "changeDate": "2021-09-30T16:49:09.038920"
     }
   },
   {
@@ -1422,9 +1776,12 @@
       "externalId": "8505",
       "isoCode": "MMR",
       "unoCode": "104",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "c577a773-8978-58d5-9f44-98e9d7a2995b"
+      "archived": false,
+      "uuid": "c577a773-8978-58d5-9f44-98e9d7a2995b",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038921"
     }
   },
   {
@@ -1434,9 +1791,12 @@
       "externalId": "8351",
       "isoCode": "NAM",
       "unoCode": "516",
-      "archived": "FALSE",
-      "subcontinent": "Southern Africa",
-      "uuid": "9e2eb3cd-f107-59af-adc5-2eacd47c556b"
+      "archived": false,
+      "uuid": "9e2eb3cd-f107-59af-adc5-2eacd47c556b",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2021-09-30T16:49:09.038922"
     }
   },
   {
@@ -1446,9 +1806,12 @@
       "externalId": "8604",
       "isoCode": "NRU",
       "unoCode": "520",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "32c6d2e7-a557-5514-a86d-59d6482dbc92"
+      "archived": false,
+      "uuid": "32c6d2e7-a557-5514-a86d-59d6482dbc92",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038923"
     }
   },
   {
@@ -1458,9 +1821,12 @@
       "externalId": "8529",
       "isoCode": "NPL",
       "unoCode": "524",
-      "archived": "FALSE",
-      "subcontinent": "Southern Asia",
-      "uuid": "5dd8b14b-acb6-5f61-9f96-4fe911287cd9"
+      "archived": false,
+      "uuid": "5dd8b14b-acb6-5f61-9f96-4fe911287cd9",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2021-09-30T16:49:09.038925"
     }
   },
   {
@@ -1470,9 +1836,12 @@
       "externalId": "8227",
       "isoCode": "NLD",
       "unoCode": "528",
-      "archived": "FALSE",
-      "subcontinent": "Western Europe",
-      "uuid": "cfcfb611-6537-5c24-9180-348253d5bb57"
+      "archived": false,
+      "uuid": "cfcfb611-6537-5c24-9180-348253d5bb57",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038926"
     }
   },
   {
@@ -1482,9 +1851,12 @@
       "externalId": "8606",
       "isoCode": "NCL",
       "unoCode": "540",
-      "archived": "FALSE",
-      "subcontinent": "Western Europe",
-      "uuid": "050ff400-8c15-5895-8acb-12ecb0046f1d"
+      "archived": false,
+      "uuid": "050ff400-8c15-5895-8acb-12ecb0046f1d",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038927"
     }
   },
   {
@@ -1494,9 +1866,12 @@
       "externalId": "8607",
       "isoCode": "NZL",
       "unoCode": "554",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "b0bf8ad1-7846-5d92-8301-512be8a4324a"
+      "archived": false,
+      "uuid": "b0bf8ad1-7846-5d92-8301-512be8a4324a",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038928"
     }
   },
   {
@@ -1506,9 +1881,12 @@
       "externalId": "8429",
       "isoCode": "NIC",
       "unoCode": "558",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "2fa9b451-8e64-542f-a186-99071ed3e324"
+      "archived": false,
+      "uuid": "2fa9b451-8e64-542f-a186-99071ed3e324",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038930"
     }
   },
   {
@@ -1518,9 +1896,12 @@
       "externalId": "8335",
       "isoCode": "NER",
       "unoCode": "562",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "b42addea-28b5-5f05-bf09-13976243c407"
+      "archived": false,
+      "uuid": "b42addea-28b5-5f05-bf09-13976243c407",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038931"
     }
   },
   {
@@ -1530,9 +1911,12 @@
       "externalId": "8336",
       "isoCode": "NGA",
       "unoCode": "566",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "a27b1cce-cd72-53b7-8ab2-b741e46eec27"
+      "archived": false,
+      "uuid": "a27b1cce-cd72-53b7-8ab2-b741e46eec27",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038932"
     }
   },
   {
@@ -1542,9 +1926,12 @@
       "externalId": "8683",
       "isoCode": "NIU",
       "unoCode": "570",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "b3d5d57d-b765-5a79-912d-9f391b196121"
+      "archived": false,
+      "uuid": "b3d5d57d-b765-5a79-912d-9f391b196121",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038933"
     }
   },
   {
@@ -1554,9 +1941,12 @@
       "externalId": "8255",
       "isoCode": "MKD",
       "unoCode": "807",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "826aca42-8a94-5459-8049-7a47ad39660e"
+      "archived": false,
+      "uuid": "826aca42-8a94-5459-8049-7a47ad39660e",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038935"
     }
   },
   {
@@ -1566,9 +1956,12 @@
       "externalId": "8228",
       "isoCode": "NOR",
       "unoCode": "578",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "1d58afae-028d-5823-bc0b-95a411e34865"
+      "archived": false,
+      "uuid": "1d58afae-028d-5823-bc0b-95a411e34865",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.038936"
     }
   },
   {
@@ -1578,9 +1971,12 @@
       "externalId": "8527",
       "isoCode": "OMN",
       "unoCode": "512",
-      "archived": "FALSE",
-      "subcontinent": "Southwest Asia",
-      "uuid": "e6708d27-faf5-5662-8319-878a3cff816e"
+      "archived": false,
+      "uuid": "e6708d27-faf5-5662-8319-878a3cff816e",
+      "subcontinent": {
+        "uuid": "6860af27-f596-5a3b-8730-25c09f733ab5"
+      },
+      "changeDate": "2021-09-30T16:49:09.038937"
     }
   },
   {
@@ -1590,9 +1986,12 @@
       "externalId": "8533",
       "isoCode": "PAK",
       "unoCode": "586",
-      "archived": "FALSE",
-      "subcontinent": "Southern Asia",
-      "uuid": "c9a68771-96e1-5244-87fb-1a4e2baf18ec"
+      "archived": false,
+      "uuid": "c9a68771-96e1-5244-87fb-1a4e2baf18ec",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2021-09-30T16:49:09.038939"
     }
   },
   {
@@ -1602,9 +2001,12 @@
       "externalId": "8619",
       "isoCode": "PLW",
       "unoCode": "585",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "277d38f4-dbd4-57a2-9c91-91d8a3494fbc"
+      "archived": false,
+      "uuid": "277d38f4-dbd4-57a2-9c91-91d8a3494fbc",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038940"
     }
   },
   {
@@ -1614,9 +2016,12 @@
       "externalId": "8430",
       "isoCode": "PAN",
       "unoCode": "591",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "a8666610-b15d-587e-b981-0917737653b1"
+      "archived": false,
+      "uuid": "a8666610-b15d-587e-b981-0917737653b1",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038941"
     }
   },
   {
@@ -1626,9 +2031,12 @@
       "externalId": "8608",
       "isoCode": "PNG",
       "unoCode": "598",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "b774b593-42a5-59dd-9a43-f298e0c5fed4"
+      "archived": false,
+      "uuid": "b774b593-42a5-59dd-9a43-f298e0c5fed4",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038942"
     }
   },
   {
@@ -1638,9 +2046,12 @@
       "externalId": "8431",
       "isoCode": "PRY",
       "unoCode": "600",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "4574ec0c-7561-5fa0-b458-eb0c585c34e8"
+      "archived": false,
+      "uuid": "4574ec0c-7561-5fa0-b458-eb0c585c34e8",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.038944"
     }
   },
   {
@@ -1650,9 +2061,12 @@
       "externalId": "8432",
       "isoCode": "PER",
       "unoCode": "604",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "c416df03-3d45-5b50-a1ed-61ac082ddd9b"
+      "archived": false,
+      "uuid": "c416df03-3d45-5b50-a1ed-61ac082ddd9b",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.038945"
     }
   },
   {
@@ -1662,9 +2076,12 @@
       "externalId": "8534",
       "isoCode": "PHL",
       "unoCode": "608",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "b221519f-b2ee-5dca-97ff-4b1278a390cc"
+      "archived": false,
+      "uuid": "b221519f-b2ee-5dca-97ff-4b1278a390cc",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038946"
     }
   },
   {
@@ -1674,9 +2091,12 @@
       "externalId": "8230",
       "isoCode": "POL",
       "unoCode": "616",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Europe",
-      "uuid": "f461a292-52a2-5d49-8fc4-ef0cc18dace7"
+      "archived": false,
+      "uuid": "f461a292-52a2-5d49-8fc4-ef0cc18dace7",
+      "subcontinent": {
+        "uuid": "b4b305e3-4712-5cdb-a4f0-d6fc1647ea97"
+      },
+      "changeDate": "2021-09-30T16:49:09.038947"
     }
   },
   {
@@ -1686,9 +2106,12 @@
       "externalId": "8231",
       "isoCode": "PRT",
       "unoCode": "620",
-      "archived": "FALSE",
-      "subcontinent": "Western Europe",
-      "uuid": "8bdebf18-82e2-51c7-985d-8b6a8977f94c"
+      "archived": false,
+      "uuid": "8bdebf18-82e2-51c7-985d-8b6a8977f94c",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038949"
     }
   },
   {
@@ -1698,9 +2121,12 @@
       "externalId": "8433",
       "isoCode": "PRI",
       "unoCode": "630",
-      "archived": "FALSE",
-      "subcontinent": "North America",
-      "uuid": "b40f747b-fbe3-588e-ace0-1dde9fe9813a"
+      "archived": false,
+      "uuid": "b40f747b-fbe3-588e-ace0-1dde9fe9813a",
+      "subcontinent": {
+        "uuid": "924ca0bc-b788-5288-8985-c6150605e394"
+      },
+      "changeDate": "2021-09-30T16:49:09.038950"
     }
   },
   {
@@ -1710,9 +2136,12 @@
       "externalId": "8519",
       "isoCode": "QAT",
       "unoCode": "634",
-      "archived": "FALSE",
-      "subcontinent": "Southern Asia",
-      "uuid": "c31fe0b8-60e5-51bb-ab83-2f97fe05f5a3"
+      "archived": false,
+      "uuid": "c31fe0b8-60e5-51bb-ab83-2f97fe05f5a3",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2021-09-30T16:49:09.038951"
     }
   },
   {
@@ -1722,9 +2151,12 @@
       "externalId": "8539",
       "isoCode": "KOR",
       "unoCode": "410",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Asia",
-      "uuid": "05f7f098-c430-5bd6-8a26-c5db7c145a87"
+      "archived": false,
+      "uuid": "05f7f098-c430-5bd6-8a26-c5db7c145a87",
+      "subcontinent": {
+        "uuid": "18772b13-23d3-5744-9558-06daeb2962f0"
+      },
+      "changeDate": "2021-09-30T16:49:09.038952"
     }
   },
   {
@@ -1734,9 +2166,12 @@
       "externalId": "8263",
       "isoCode": "MDA",
       "unoCode": "498",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "28f9f970-7f7e-54f3-a630-0e340a249da0"
+      "archived": false,
+      "uuid": "28f9f970-7f7e-54f3-a630-0e340a249da0",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038953"
     }
   },
   {
@@ -1746,9 +2181,12 @@
       "externalId": "8232",
       "isoCode": "ROU",
       "unoCode": "642",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "a0d246fb-c334-5b51-bfbc-70dac0386bfd"
+      "archived": false,
+      "uuid": "a0d246fb-c334-5b51-bfbc-70dac0386bfd",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038955"
     }
   },
   {
@@ -1758,9 +2196,12 @@
       "externalId": "8264",
       "isoCode": "RUS",
       "unoCode": "643",
-      "archived": "FALSE",
-      "subcontinent": "Northeast Europe",
-      "uuid": "42451d4a-f7fb-5e5a-a298-4a4cb64e8695"
+      "archived": false,
+      "uuid": "42451d4a-f7fb-5e5a-a298-4a4cb64e8695",
+      "subcontinent": {
+        "uuid": "b89485cc-d3a8-5459-9af5-5b9549d495a8"
+      },
+      "changeDate": "2021-09-30T16:49:09.038956"
     }
   },
   {
@@ -1770,9 +2211,12 @@
       "externalId": "8341",
       "isoCode": "RWA",
       "unoCode": "646",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "8c6304e0-9747-5cb5-afc9-46801b03931b"
+      "archived": false,
+      "uuid": "8c6304e0-9747-5cb5-afc9-46801b03931b",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.038957"
     }
   },
   {
@@ -1782,9 +2226,12 @@
       "externalId": "8445",
       "isoCode": "KNA",
       "unoCode": "659",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "95eaa759-0cfc-5db1-8412-73c26b3438c0"
+      "archived": false,
+      "uuid": "95eaa759-0cfc-5db1-8412-73c26b3438c0",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038958"
     }
   },
   {
@@ -1794,9 +2241,12 @@
       "externalId": "8443",
       "isoCode": "LCA",
       "unoCode": "662",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "e764d467-7aa1-540a-898d-0e751e42570e"
+      "archived": false,
+      "uuid": "e764d467-7aa1-540a-898d-0e751e42570e",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038960"
     }
   },
   {
@@ -1806,9 +2256,12 @@
       "externalId": "8444",
       "isoCode": "VCT",
       "unoCode": "670",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "7347f967-336d-5ad8-8f06-e6e538af85c1"
+      "archived": false,
+      "uuid": "7347f967-336d-5ad8-8f06-e6e538af85c1",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.038961"
     }
   },
   {
@@ -1818,9 +2271,12 @@
       "externalId": "8612",
       "isoCode": "WSM",
       "unoCode": "882",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "fcf649d0-9d0b-5d08-ad3a-d88df5155600"
+      "archived": false,
+      "uuid": "fcf649d0-9d0b-5d08-ad3a-d88df5155600",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038962"
     }
   },
   {
@@ -1830,9 +2286,12 @@
       "externalId": "8233",
       "isoCode": "SMR",
       "unoCode": "674",
-      "archived": "FALSE",
-      "subcontinent": "Southern Europe",
-      "uuid": "0af53e5e-4a7c-5328-95d3-8f5443a58dfb"
+      "archived": false,
+      "uuid": "0af53e5e-4a7c-5328-95d3-8f5443a58dfb",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038963"
     }
   },
   {
@@ -1842,9 +2301,12 @@
       "externalId": "8344",
       "isoCode": "STP",
       "unoCode": "678",
-      "archived": "FALSE",
-      "subcontinent": "Southwest Africa",
-      "uuid": "29e528c4-188c-54a7-9608-98f4143e8df6"
+      "archived": false,
+      "uuid": "29e528c4-188c-54a7-9608-98f4143e8df6",
+      "subcontinent": {
+        "uuid": "8118b26f-230f-5d8b-8c76-442e82953264"
+      },
+      "changeDate": "2021-09-30T16:49:09.038965"
     }
   },
   {
@@ -1854,9 +2316,12 @@
       "externalId": "8535",
       "isoCode": "SAU",
       "unoCode": "682",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "229a1338-ae91-5523-93e0-d22a9e47b009"
+      "archived": false,
+      "uuid": "229a1338-ae91-5523-93e0-d22a9e47b009",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038966"
     }
   },
   {
@@ -1866,9 +2331,12 @@
       "externalId": "8345",
       "isoCode": "SEN",
       "unoCode": "686",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "8dcb2e0e-0f77-5036-b868-b5fae131a148"
+      "archived": false,
+      "uuid": "8dcb2e0e-0f77-5036-b868-b5fae131a148",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038967"
     }
   },
   {
@@ -1878,9 +2346,12 @@
       "externalId": "8248",
       "isoCode": "SRB",
       "unoCode": "688",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Europe",
-      "uuid": "2b9f2e8b-519e-570f-a857-e229484dfc10"
+      "archived": false,
+      "uuid": "2b9f2e8b-519e-570f-a857-e229484dfc10",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2021-09-30T16:49:09.038968"
     }
   },
   {
@@ -1890,9 +2361,12 @@
       "externalId": "8346",
       "isoCode": "SYC",
       "unoCode": "690",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "70ed7e87-f10b-5136-b9f9-98897a461af6"
+      "archived": false,
+      "uuid": "70ed7e87-f10b-5136-b9f9-98897a461af6",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.038970"
     }
   },
   {
@@ -1902,9 +2376,12 @@
       "externalId": "8347",
       "isoCode": "SLE",
       "unoCode": "694",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "aa5254c3-1dae-588f-985d-ea21a025e368"
+      "archived": false,
+      "uuid": "aa5254c3-1dae-588f-985d-ea21a025e368",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.038971"
     }
   },
   {
@@ -1914,9 +2391,12 @@
       "externalId": "8537",
       "isoCode": "SGP",
       "unoCode": "702",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "b258f7fb-37c4-5c46-85c4-9fe1589fbafc"
+      "archived": false,
+      "uuid": "b258f7fb-37c4-5c46-85c4-9fe1589fbafc",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.038972"
     }
   },
   {
@@ -1926,9 +2406,12 @@
       "externalId": "8243",
       "isoCode": "SVK",
       "unoCode": "703",
-      "archived": "FALSE",
-      "subcontinent": "Central Europe",
-      "uuid": "31eab670-6e86-5058-a5d1-bddfe5a78705"
+      "archived": false,
+      "uuid": "31eab670-6e86-5058-a5d1-bddfe5a78705",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2021-09-30T16:49:09.038973"
     }
   },
   {
@@ -1938,9 +2421,12 @@
       "externalId": "8251",
       "isoCode": "SVN",
       "unoCode": "705",
-      "archived": "FALSE",
-      "subcontinent": "Central Europe",
-      "uuid": "891aa217-fdfd-5142-8572-9926c60744b5"
+      "archived": false,
+      "uuid": "891aa217-fdfd-5142-8572-9926c60744b5",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2021-09-30T16:49:09.038975"
     }
   },
   {
@@ -1950,9 +2436,12 @@
       "externalId": "8614",
       "isoCode": "SLB",
       "unoCode": "90",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "8ae5514f-009e-5aec-8ff6-a5b971922275"
+      "archived": false,
+      "uuid": "8ae5514f-009e-5aec-8ff6-a5b971922275",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.038976"
     }
   },
   {
@@ -1962,9 +2451,12 @@
       "externalId": "8348",
       "isoCode": "SOM",
       "unoCode": "706",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "5b8ee013-a368-5ee6-8ba3-1e6b71f47136"
+      "archived": false,
+      "uuid": "5b8ee013-a368-5ee6-8ba3-1e6b71f47136",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.038977"
     }
   },
   {
@@ -1974,9 +2466,12 @@
       "externalId": "8349",
       "isoCode": "ZAF",
       "unoCode": "710",
-      "archived": "FALSE",
-      "subcontinent": "Southern Africa",
-      "uuid": "1ad078b0-efc2-5495-b895-afb2bbf628b3"
+      "archived": false,
+      "uuid": "1ad078b0-efc2-5495-b895-afb2bbf628b3",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2021-09-30T16:49:09.038978"
     }
   },
   {
@@ -1986,9 +2481,12 @@
       "externalId": "8363",
       "isoCode": "SSD",
       "unoCode": "728",
-      "archived": "FALSE",
-      "subcontinent": "Central Africa",
-      "uuid": "6846393d-3714-57b8-a04f-7124b146c6d6"
+      "archived": false,
+      "uuid": "6846393d-3714-57b8-a04f-7124b146c6d6",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2021-09-30T16:49:09.038980"
     }
   },
   {
@@ -1998,9 +2496,12 @@
       "externalId": "8236",
       "isoCode": "ESP",
       "unoCode": "724",
-      "archived": "FALSE",
-      "subcontinent": "Southern Europe",
-      "uuid": "7d6f68a0-c727-5411-927d-86de78739613"
+      "archived": false,
+      "uuid": "7d6f68a0-c727-5411-927d-86de78739613",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2021-09-30T16:49:09.038981"
     }
   },
   {
@@ -2010,9 +2511,12 @@
       "externalId": "8506",
       "isoCode": "LKA",
       "unoCode": "144",
-      "archived": "FALSE",
-      "subcontinent": "Southern Asia",
-      "uuid": "142ac733-b912-5763-8702-f3301cc23108"
+      "archived": false,
+      "uuid": "142ac733-b912-5763-8702-f3301cc23108",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2021-09-30T16:49:09.038997"
     }
   },
   {
@@ -2022,9 +2526,12 @@
       "externalId": "8550",
       "isoCode": "PSE",
       "unoCode": "275",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "a1c41a0c-778f-52a0-9094-cdc52fb45020"
+      "archived": false,
+      "uuid": "a1c41a0c-778f-52a0-9094-cdc52fb45020",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.038998"
     }
   },
   {
@@ -2034,9 +2541,12 @@
       "externalId": "8350",
       "isoCode": "SDN",
       "unoCode": "729",
-      "archived": "FALSE",
-      "subcontinent": "Northeast Africa",
-      "uuid": "02e57011-b220-5ed6-9fd1-096a8f56af92"
+      "archived": false,
+      "uuid": "02e57011-b220-5ed6-9fd1-096a8f56af92",
+      "subcontinent": {
+        "uuid": "b319752a-27f4-5375-a5e4-7c43b8cd9812"
+      },
+      "changeDate": "2021-09-30T16:49:09.038999"
     }
   },
   {
@@ -2046,9 +2556,12 @@
       "externalId": "8435",
       "isoCode": "SUR",
       "unoCode": "740",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "8ffbe5b4-2764-51c3-8f40-7bb711d33721"
+      "archived": false,
+      "uuid": "8ffbe5b4-2764-51c3-8f40-7bb711d33721",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.039000"
     }
   },
   {
@@ -2058,9 +2571,12 @@
       "externalId": "8234",
       "isoCode": "SWE",
       "unoCode": "752",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "36a90c0b-f1f3-564d-ae17-1a32f824c0ad"
+      "archived": false,
+      "uuid": "36a90c0b-f1f3-564d-ae17-1a32f824c0ad",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.039001"
     }
   },
   {
@@ -2070,9 +2586,12 @@
       "externalId": "8100",
       "isoCode": "CHE",
       "unoCode": "756",
-      "archived": "FALSE",
-      "subcontinent": "Central Europe",
-      "uuid": "2c8cae92-201d-5c85-a19c-427fde13db5d"
+      "archived": false,
+      "uuid": "2c8cae92-201d-5c85-a19c-427fde13db5d",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2021-09-30T16:49:09.039003"
     }
   },
   {
@@ -2082,9 +2601,12 @@
       "externalId": "8541",
       "isoCode": "SYR",
       "unoCode": "760",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "d5c850f1-c7b8-5b27-a271-7f6fcc1ce53a"
+      "archived": false,
+      "uuid": "d5c850f1-c7b8-5b27-a271-7f6fcc1ce53a",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.039004"
     }
   },
   {
@@ -2094,9 +2616,12 @@
       "externalId": "8565",
       "isoCode": "TJK",
       "unoCode": "762",
-      "archived": "FALSE",
-      "subcontinent": "Central Asia",
-      "uuid": "71f435a9-7edc-59e3-9e4d-74b668b5e783"
+      "archived": false,
+      "uuid": "71f435a9-7edc-59e3-9e4d-74b668b5e783",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2021-09-30T16:49:09.039005"
     }
   },
   {
@@ -2106,9 +2631,12 @@
       "externalId": "8542",
       "isoCode": "THA",
       "unoCode": "764",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "43f561a5-611f-57f9-ad63-f3c74cc50972"
+      "archived": false,
+      "uuid": "43f561a5-611f-57f9-ad63-f3c74cc50972",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.039007"
     }
   },
   {
@@ -2118,9 +2646,12 @@
       "externalId": "8547",
       "isoCode": "TLS",
       "unoCode": "626",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "6946cd05-f60a-504a-9594-86bb72319134"
+      "archived": false,
+      "uuid": "6946cd05-f60a-504a-9594-86bb72319134",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.039008"
     }
   },
   {
@@ -2130,9 +2661,12 @@
       "externalId": "8354",
       "isoCode": "TGO",
       "unoCode": "768",
-      "archived": "FALSE",
-      "subcontinent": "Western Africa",
-      "uuid": "d765b70b-981c-579c-95c9-e57e87728c4e"
+      "archived": false,
+      "uuid": "d765b70b-981c-579c-95c9-e57e87728c4e",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2021-09-30T16:49:09.039009"
     }
   },
   {
@@ -2142,9 +2676,12 @@
       "externalId": "8684",
       "isoCode": "TKL",
       "unoCode": "772",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "6359d30c-28e4-5b76-9186-18b2c6721add"
+      "archived": false,
+      "uuid": "6359d30c-28e4-5b76-9186-18b2c6721add",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.039010"
     }
   },
   {
@@ -2154,9 +2691,12 @@
       "externalId": "8610",
       "isoCode": "TON",
       "unoCode": "776",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "5bf00a25-d287-5ebb-b838-11aa377b6ab5"
+      "archived": false,
+      "uuid": "5bf00a25-d287-5ebb-b838-11aa377b6ab5",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.039011"
     }
   },
   {
@@ -2166,9 +2706,12 @@
       "externalId": "8436",
       "isoCode": "TTO",
       "unoCode": "780",
-      "archived": "FALSE",
-      "subcontinent": "Central America",
-      "uuid": "83884e7b-60b7-59d7-9e85-2ccc75192c03"
+      "archived": false,
+      "uuid": "83884e7b-60b7-59d7-9e85-2ccc75192c03",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2021-09-30T16:49:09.039013"
     }
   },
   {
@@ -2178,9 +2721,12 @@
       "externalId": "8357",
       "isoCode": "TUN",
       "unoCode": "788",
-      "archived": "FALSE",
-      "subcontinent": "Northern Africa",
-      "uuid": "d2987152-04de-546c-8435-d7d19444fc68"
+      "archived": false,
+      "uuid": "d2987152-04de-546c-8435-d7d19444fc68",
+      "subcontinent": {
+        "uuid": "ef835a1c-59f3-5d4b-a5ce-09dd780f2ea9"
+      },
+      "changeDate": "2021-09-30T16:49:09.039014"
     }
   },
   {
@@ -2190,9 +2736,12 @@
       "externalId": "8239",
       "isoCode": "TUR",
       "unoCode": "792",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "944df035-be6e-5088-9800-4b4b3cf5395d"
+      "archived": false,
+      "uuid": "944df035-be6e-5088-9800-4b4b3cf5395d",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.039015"
     }
   },
   {
@@ -2202,9 +2751,12 @@
       "externalId": "8566",
       "isoCode": "TKM",
       "unoCode": "795",
-      "archived": "FALSE",
-      "subcontinent": "Central Asia",
-      "uuid": "925128ec-8719-59cb-b1ae-66594be69030"
+      "archived": false,
+      "uuid": "925128ec-8719-59cb-b1ae-66594be69030",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2021-09-30T16:49:09.039016"
     }
   },
   {
@@ -2214,9 +2766,12 @@
       "externalId": "8615",
       "isoCode": "TUV",
       "unoCode": "798",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "f652db6f-e351-5e43-afbe-e47ecf3b3a41"
+      "archived": false,
+      "uuid": "f652db6f-e351-5e43-afbe-e47ecf3b3a41",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.039018"
     }
   },
   {
@@ -2226,9 +2781,12 @@
       "externalId": "8358",
       "isoCode": "UGA",
       "unoCode": "800",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "32c3af1c-e447-5fc5-a15d-9474ddf24633"
+      "archived": false,
+      "uuid": "32c3af1c-e447-5fc5-a15d-9474ddf24633",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.039019"
     }
   },
   {
@@ -2238,9 +2796,12 @@
       "externalId": "8265",
       "isoCode": "UKR",
       "unoCode": "804",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Europe",
-      "uuid": "a09b843f-6331-5241-8810-514900052e7a"
+      "archived": false,
+      "uuid": "a09b843f-6331-5241-8810-514900052e7a",
+      "subcontinent": {
+        "uuid": "b4b305e3-4712-5cdb-a4f0-d6fc1647ea97"
+      },
+      "changeDate": "2021-09-30T16:49:09.039020"
     }
   },
   {
@@ -2250,9 +2811,12 @@
       "externalId": "8532",
       "isoCode": "ARE",
       "unoCode": "784",
-      "archived": "FALSE",
-      "subcontinent": "Southwest Asia",
-      "uuid": "4924be20-b902-5bbe-9b62-be564694080d"
+      "archived": false,
+      "uuid": "4924be20-b902-5bbe-9b62-be564694080d",
+      "subcontinent": {
+        "uuid": "6860af27-f596-5a3b-8730-25c09f733ab5"
+      },
+      "changeDate": "2021-09-30T16:49:09.039021"
     }
   },
   {
@@ -2262,9 +2826,12 @@
       "externalId": "8215",
       "isoCode": "GBR",
       "unoCode": "826",
-      "archived": "FALSE",
-      "subcontinent": "Northern Europe",
-      "uuid": "5b96ab9a-0ac3-5e63-b67f-da251c1d1869"
+      "archived": false,
+      "uuid": "5b96ab9a-0ac3-5e63-b67f-da251c1d1869",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2021-09-30T16:49:09.039022"
     }
   },
   {
@@ -2274,9 +2841,12 @@
       "externalId": "8353",
       "isoCode": "TZA",
       "unoCode": "834",
-      "archived": "FALSE",
-      "subcontinent": "Eastern Africa",
-      "uuid": "6dcf5262-c635-55c1-9cfb-d80f94623c0b"
+      "archived": false,
+      "uuid": "6dcf5262-c635-55c1-9cfb-d80f94623c0b",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2021-09-30T16:49:09.039024"
     }
   },
   {
@@ -2286,9 +2856,12 @@
       "externalId": "8439",
       "isoCode": "USA",
       "unoCode": "840",
-      "archived": "FALSE",
-      "subcontinent": "North America",
-      "uuid": "19b56174-ad83-5317-961b-2f671a914ca6"
+      "archived": false,
+      "uuid": "19b56174-ad83-5317-961b-2f671a914ca6",
+      "subcontinent": {
+        "uuid": "924ca0bc-b788-5288-8985-c6150605e394"
+      },
+      "changeDate": "2021-09-30T16:49:09.039025"
     }
   },
   {
@@ -2298,9 +2871,12 @@
       "externalId": "8437",
       "isoCode": "URY",
       "unoCode": "858",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "eb470bb4-127b-5067-bfe3-6e09456463f4"
+      "archived": false,
+      "uuid": "eb470bb4-127b-5067-bfe3-6e09456463f4",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.039026"
     }
   },
   {
@@ -2310,9 +2886,12 @@
       "externalId": "8567",
       "isoCode": "UZB",
       "unoCode": "860",
-      "archived": "FALSE",
-      "subcontinent": "Central Asia",
-      "uuid": "4fd4af99-1a33-5c54-9943-7aabeea74e41"
+      "archived": false,
+      "uuid": "4fd4af99-1a33-5c54-9943-7aabeea74e41",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2021-09-30T16:49:09.039027"
     }
   },
   {
@@ -2322,9 +2901,12 @@
       "externalId": "8605",
       "isoCode": "VUT",
       "unoCode": "548",
-      "archived": "FALSE",
-      "subcontinent": "Oceania",
-      "uuid": "a2713af2-1263-5392-ac49-1f5da8ba8e30"
+      "archived": false,
+      "uuid": "a2713af2-1263-5392-ac49-1f5da8ba8e30",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2021-09-30T16:49:09.039029"
     }
   },
   {
@@ -2334,9 +2916,12 @@
       "externalId": "8241",
       "isoCode": "VAT",
       "unoCode": "336",
-      "archived": "FALSE",
-      "subcontinent": "Southern Europe",
-      "uuid": "ec744d4c-60c7-52c1-958f-e05530cd9b93"
+      "archived": false,
+      "uuid": "ec744d4c-60c7-52c1-958f-e05530cd9b93",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2021-09-30T16:49:09.039030"
     }
   },
   {
@@ -2346,9 +2931,12 @@
       "externalId": "8438",
       "isoCode": "VEN",
       "unoCode": "862",
-      "archived": "FALSE",
-      "subcontinent": "South America",
-      "uuid": "6719f143-ad7e-5e56-8e85-143a159a4181"
+      "archived": false,
+      "uuid": "6719f143-ad7e-5e56-8e85-143a159a4181",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2021-09-30T16:49:09.039031"
     }
   },
   {
@@ -2358,9 +2946,12 @@
       "externalId": "8545",
       "isoCode": "VNM",
       "unoCode": "704",
-      "archived": "FALSE",
-      "subcontinent": "Southeast Asia",
-      "uuid": "ebcf3dc6-e1a0-55ef-9293-d383dff94495"
+      "archived": false,
+      "uuid": "ebcf3dc6-e1a0-55ef-9293-d383dff94495",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2021-09-30T16:49:09.039032"
     }
   },
   {
@@ -2370,9 +2961,12 @@
       "externalId": "8516",
       "isoCode": "YEM",
       "unoCode": "887",
-      "archived": "FALSE",
-      "subcontinent": "Middle East",
-      "uuid": "87cad2ab-ade0-5624-93a7-0f069eea0d49"
+      "archived": false,
+      "uuid": "87cad2ab-ade0-5624-93a7-0f069eea0d49",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2021-09-30T16:49:09.039034"
     }
   },
   {
@@ -2382,9 +2976,12 @@
       "externalId": "8343",
       "isoCode": "ZMB",
       "unoCode": "894",
-      "archived": "FALSE",
-      "subcontinent": "Southern Africa",
-      "uuid": "dc4855a4-ec30-5abc-b894-c9d14e246d1f"
+      "archived": false,
+      "uuid": "dc4855a4-ec30-5abc-b894-c9d14e246d1f",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2021-09-30T16:49:09.039035"
     }
   },
   {
@@ -2394,9 +2991,12 @@
       "externalId": "8340",
       "isoCode": "ZWE",
       "unoCode": "716",
-      "archived": "FALSE",
-      "subcontinent": "Southern Africa",
-      "uuid": "1834a962-a368-5dbe-805c-20f630d5eb11"
+      "archived": false,
+      "uuid": "1834a962-a368-5dbe-805c-20f630d5eb11",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2021-09-30T16:49:09.039036"
     }
   }
 ]
