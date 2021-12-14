@@ -81,11 +81,15 @@ def write_json(entities, path):
     processed = insert_ref_dtos(entities)
 
     out = list()
+    p: dict
     for p in processed:
         if 'archived' in p.keys():
             is_archived: str = p['archived']
             p['archived'] = False if (is_archived == '0' or is_archived.lower() == 'false') else True
         p['changeDate'] = datetime.now().isoformat()
+        if 'externalID' in p.keys():
+            p['externalId'] = p.pop("externalID")
+
         out.append({'key': p['uuid'], 'value': p})
 
     with open(path, 'w+', encoding='utf8') as f:
