@@ -22,9 +22,8 @@ def iterate_central():
     for table, path in infra_types.items():
         logging.info(f"Process table {table}")
         with open(path) as f:
-            entities = json.load(f)
-
-        for entity in entities:
+            entities: list = json.load(f)
+        for entity in sorted(entities, key=lambda kv: kv['key']):
             central_value = entity['value']
             # 1. Check for UUID match
             if check_local_uuid(table, central_value):
@@ -38,8 +37,9 @@ def iterate_central():
 def check_local_name_and_id(table, central_value):
     with psycopg.connect(CONNECTION) as conn:
         with conn.cursor(row_factory=dict_row) as cur:
-            where_name = central_value['defaultName'] if has_default_name(table) else {central_value['name']}
-            external_id = central_value['externalId']
+            where_name = central_value['defaultName'] if has_default_name(table) else central_value['name']
+            external_id = central_value['externalId'] if central_value.get('externalId') else central_value[
+                'externalID']
             where_ext_id = f"externalid={external_id}"
             if has_default_name(table):
                 local = cur.execute(f"SELECT * FROM {table} WHERE defaultname=%s OR externalid=%s;",
@@ -55,9 +55,10 @@ def check_local_name_and_id(table, central_value):
                     cur.execute(f"UPDATE {table} SET uuid=%s WHERE defaultname=%s OR externalid=%s;",
                                 (uuid_, where_name, where_ext_id))
                 else:
+                    logging.info(f"Updating {table} from {local['uuid']} to {uuid_}")
                     cur.execute(f"UPDATE {table} SET uuid=%s WHERE name=%s OR externalid=%s;",
                                 (uuid_, where_name, where_ext_id))
-                    logging.info(f"Updated {table} from {local['uuid']} to {uuid_}")
+
             else:
                 logging.error(
                     f"Could not find local item in {table} with external ID {external_id} and {where_name}")
@@ -68,7 +69,10 @@ def check_local_uuid(table, central_value):
         with conn.cursor(row_factory=dict_row) as cur:
             local = cur.execute(f"SELECT * FROM {table} WHERE uuid=%s", [central_value['uuid']]).fetchone()
             if local:
-                ext_id = central_value['externalId'] == local['externalid']
+                central_ext_id = central_value['externalId'] if central_value.get('externalId') else central_value[
+                    'externalID']
+                local_ext_id = local['externalid']
+                ext_id = central_ext_id == local_ext_id
                 central_name = central_value[
                     'defaultName' if has_default_name(table) else 'name']
                 local_name = local[
@@ -76,7 +80,9 @@ def check_local_uuid(table, central_value):
                 name = central_name == local_name
                 sanity = ext_id and name
                 if not sanity:
-                    logging.error("Foo")
+                    logging.error(f"Sanity check failed for {table}:"
+                                  f"\tCentral: {central_name}, {central_ext_id}"
+                                  f"\tLocal: {local_name}, {local_ext_id}")
                 return sanity
             else:
                 return False
