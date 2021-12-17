@@ -1,5 +1,6 @@
 import psycopg
 import json
+import argparse
 
 from psycopg.errors import UniqueViolation
 from psycopg.rows import dict_row
@@ -12,7 +13,18 @@ FORMAT = '%(message)s'
 
 logging.basicConfig(encoding='utf-8', level=logging.DEBUG, format=FORMAT)
 
-CONNECTION = "host= localhost dbname=sormas_db user=postgres password=postgres"
+parser = argparse.ArgumentParser()
+parser.add_argument("-H", "--host", default="localhost",
+        help="database server host or socket directory (default: localhost)", action="store")
+parser.add_argument("-d", "--dbname", default="sormas",
+        help="database name to connect to (default: sormas)", action="store")
+parser.add_argument("-u", "--username", default="postgres",
+        help="database user name (default: postgres)", action="store")
+parser.add_argument("-p", "--password", default="postgres",
+        help="password for user (default: postgres)", action="store")
+args, unknown = parser.parse_known_args()
+
+CONNECTION = f"host={args.host} dbname={args.dbname} user={args.username} password={args.password}"
 
 
 def archive_everything(table):
