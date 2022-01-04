@@ -1,0 +1,433 @@
+name,epidCode,growthRate,region,archived,externalID,uuid
+SK Flensburg,FL,0,Schleswig-Holstein,0,11001001,b63bde91-099f-564f-a82f-b88406c6580a
+SK Kiel,KI,0,Schleswig-Holstein,0,11001002,78e852f6-1af8-5750-b9a4-25a30e1f4148
+SK Lübeck,HL,0,Schleswig-Holstein,0,11001003,9ac63d1b-54de-5b0e-9144-77916ddf36c2
+SK Neumünster,NMS,0,Schleswig-Holstein,0,11001004,ba37df5e-21c3-5bde-9498-da9201b06ae4
+LK Dithmarschen,HEI,0,Schleswig-Holstein,0,11001051,b6bb9099-7fad-5579-8b60-7e55cdf479d2
+LK Herzogtum Lauenburg,RZ,0,Schleswig-Holstein,0,11001053,fff87e48-9784-576c-b37c-e1a4d659a4ff
+LK Nordfriesland,NF,0,Schleswig-Holstein,0,11001054,6f3e3380-0b02-50d3-b83c-770a459523a5
+LK Ostholstein,OLD,0,Schleswig-Holstein,0,11001055,5b50fb8c-9cee-5287-971c-e2f765e15d8c
+LK Pinneberg,PI,0,Schleswig-Holstein,0,11001056,1ee3860c-06cc-599f-a914-8527ca07a7c9
+LK Plön,PLÖ,0,Schleswig-Holstein,0,11001057,4570a199-3b0d-5a3e-8e33-90b4ded5aca4
+LK Rendsburg-Eckernförde,RD,0,Schleswig-Holstein,0,11001058,243b7101-8bc2-535a-9544-69fa3cd15701
+LK Schleswig-Flensburg,SL,0,Schleswig-Holstein,0,11001059,127c7476-d90a-54b6-ba49-22ee1f830be5
+LK Segeberg,SE,0,Schleswig-Holstein,0,11001060,8c1707e7-fe90-5398-a897-9b1cfe6d0ecd
+LK Steinburg,IZ,0,Schleswig-Holstein,0,11001061,3c4d74cd-f25e-5250-bf6e-247579b9ddfd
+LK Stormarn,OD,0,Schleswig-Holstein,0,11001062,8a72d5a8-f389-54c2-a4bc-c4957c7e6334
+SK Hamburg,HH,0,Hamburg,0,11002000,df100a51-43df-5868-921d-4be48dc92adb
+SK Braunschweig,BS,0,Niedersachsen,0,11003101,5ebf08d1-2047-5e46-a6d3-4a7533aa77c0
+SK Salzgitter,SZ,0,Niedersachsen,0,11003102,bca556ca-4e74-5348-8a26-d9bbcfbb317f
+SK Wolfsburg,WOB,0,Niedersachsen,0,11003103,e3102f9a-3b5c-507c-bbf7-c022d2e6c136
+LK Gifhorn,GF,0,Niedersachsen,0,11003151,754e5beb-113c-5460-ad7d-eeebd84d310d
+LK Göttingen (alt),GÖ,0,Niedersachsen,0,11003152,7a81db55-69a3-5754-9dc2-040a862d7e9d
+LK Goslar,GS,0,Niedersachsen,0,11003153,66291334-093a-5798-825f-a926751ef6ce
+LK Helmstedt,HE,0,Niedersachsen,0,11003154,cb0eb086-ed6e-5b2b-8c4f-97d1c4aa8332
+LK Northeim,NOM,0,Niedersachsen,0,11003155,6eff2f09-1686-5100-9541-f9fb066ab3e9
+LK Osterode am Harz,OHA,0,Niedersachsen,0,11003156,010b0217-49c9-5cc2-aa03-b18180d09f0f
+LK Peine,PE,0,Niedersachsen,0,11003157,ab7d300a-89bd-54ae-b8ec-d868fbe62a2d
+LK Wolfenbüttel,WF,0,Niedersachsen,0,11003158,9bd774c0-6cf0-50d0-bd71-b32427867303
+LK Göttingen,GÖ,0,Niedersachsen,0,11003159,89292e43-87f7-5846-aa62-1d973e0814ba
+Region Hannover,H,0,Niedersachsen,0,11003241,479f7c37-2eb7-56ec-98e2-a466ad2a1b3c
+LK Diepholz,DH,0,Niedersachsen,0,11003251,abc678dc-fad7-5185-a264-c56c45f702a1
+LK Hameln-Pyrmont,HM,0,Niedersachsen,0,11003252,94ec2644-ef1f-5853-9bcf-0492d81eca96
+LK Hildesheim,HI,0,Niedersachsen,0,11003254,61beee37-2844-5cd2-979b-9214d5bd8c03
+LK Holzminden,HOL,0,Niedersachsen,0,11003255,365af0b4-c974-5362-89a6-6b9d83940bb2
+LK Nienburg (Weser),NI,0,Niedersachsen,0,11003256,2a9b7fb2-85b8-524b-a714-a633fab8c1e9
+LK Schaumburg,STH,0,Niedersachsen,0,11003257,2398f8cf-702d-5014-afcd-46b5b017160f
+LK Celle,CE,0,Niedersachsen,0,11003351,395112b7-62b7-5e8c-8799-226b6b5bbd23
+LK Cuxhaven,WEM,0,Niedersachsen,0,11003352,1326415f-2432-582b-b9a7-51938ded60fe
+LK Harburg,WL,0,Niedersachsen,0,11003353,a534c1a1-b2ce-5858-90ed-c276d5191338
+LK Lüchow-Dannenberg,DAN,0,Niedersachsen,0,11003354,7633dc1e-4b10-5e0a-b9e4-7f1b10407362
+LK Lüneburg,LG,0,Niedersachsen,0,11003355,d5187eeb-acfa-50cf-9929-d379efe89635
+LK Osterholz,OHZ,0,Niedersachsen,0,11003356,2f18347b-a0bc-55fd-a679-53d0ec22f52d
+LK Rotenburg (Wümme),ROW,0,Niedersachsen,0,11003357,b9c793b4-1b94-569d-a728-a62ef3f9ac47
+LK Heidekreis,SOL,0,Niedersachsen,0,11003358,d8301c0e-decb-5fd6-b512-4b86c9a81e45
+LK Stade,STD,0,Niedersachsen,0,11003359,95a86082-14c9-50d9-8e01-067a0ad33566
+LK Uelzen,UE,0,Niedersachsen,0,11003360,540914d0-1f46-592c-8cbf-0b949bddfe54
+LK Verden,VER,0,Niedersachsen,0,11003361,3a0ff8d0-7d46-5c1d-b87f-feda7f2d30b4
+SK Delmenhorst,DEL,0,Niedersachsen,0,11003401,1ef4f0c2-5585-53ad-af93-3577becf2391
+SK Emden,EMD,0,Niedersachsen,0,11003402,b8ab80aa-8ad7-5ae2-b669-dee6eeb37337
+SK Oldenburg,OL,0,Niedersachsen,0,11003403,a0cef009-a28b-5fb8-a4bd-1c3805ef54cf
+SK Osnabrück,OS,0,Niedersachsen,0,11003404,dcbb42bb-d2d7-5204-91b2-4f140366a0bc
+SK Wilhelmshaven,WHV,0,Niedersachsen,0,11003405,4a70851b-c17f-5e6e-91b6-44d65be6b735
+LK Ammerland,WST,0,Niedersachsen,0,11003451,b22cd852-fd1c-507d-a45b-36bef0c81cab
+LK Aurich,AUR,0,Niedersachsen,0,11003452,5905228f-055c-5089-bc6b-671d5a7dfdc5
+LK Cloppenburg,CLP,0,Niedersachsen,0,11003453,42b9a0b4-f67c-54a0-b2df-827cc14d448e
+LK Emsland,MEP,0,Niedersachsen,0,11003454,76050b3a-1cdd-596f-832f-aa2e3a117a1f
+LK Friesland,JEV,0,Niedersachsen,0,11003455,9269ebe6-a39d-5621-8751-b6a8e2689b80
+LK Grafschaft Bentheim,NOH,0,Niedersachsen,0,11003456,ff6318dd-3cfb-575b-800d-88359f707788
+LK Leer,LER,0,Niedersachsen,0,11003457,e17b59be-cb2a-518d-8529-3bd0bf72ea3f
+LK Oldenburg,OL,0,Niedersachsen,0,11003458,3df21b6e-2614-564f-a712-f6eb90b16874
+LK Osnabrück,OS,0,Niedersachsen,0,11003459,4cd9c908-53d6-5424-a0d9-2bc8d2d47c7c
+LK Vechta,VEC,0,Niedersachsen,0,11003460,2ba8e2dd-ffa4-546b-9541-feda4699f322
+LK Wesermarsch,BRA,0,Niedersachsen,0,11003461,472559d1-a4e3-530d-8169-7353812f8ffc
+LK Wittmund,WTM,0,Niedersachsen,0,11003462,c1649c68-f4f7-51c9-bea7-00d7c2c59578
+SK Bremen,HB,0,Bremen,0,11004011,94d1d3f1-ec23-5a20-9845-ba4aa4a3005c
+SK Bremerhaven,HB,0,Bremen,0,11004012,b3cbc409-8135-5b66-ac6a-7c39cf5776ae
+SK Düsseldorf,D,0,Nordrhein-Westfalen,0,11005111,3cd38835-6a84-52f1-8b0a-ef15d75b5b2c
+SK Duisburg,DU,0,Nordrhein-Westfalen,0,11005112,58660779-6343-54a7-bd1c-869ec99f7df4
+SK Essen,E,0,Nordrhein-Westfalen,0,11005113,7fe371ac-ef30-5d71-81ee-93ee34a1e8af
+SK Krefeld,KR,0,Nordrhein-Westfalen,0,11005114,60edb307-4a42-56ed-8307-10ea6f92adb3
+SK Mönchengladbach,MG,0,Nordrhein-Westfalen,0,11005116,f35bc4db-d64b-5720-ad20-7219223d2238
+SK Mülheim a.d.Ruhr,MH,0,Nordrhein-Westfalen,0,11005117,ba752a49-8b07-5631-bca3-c52ae0411a34
+SK Oberhausen,OB,0,Nordrhein-Westfalen,0,11005119,ee7b1eb4-4d62-546c-81f1-e59ef06dec8d
+SK Remscheid,RS,0,Nordrhein-Westfalen,0,11005120,6cbdd065-8cb4-5a2d-a86b-0e23513feb18
+SK Solingen,SG,0,Nordrhein-Westfalen,0,11005122,291e1dae-f42e-5e37-b196-ff59d534fda4
+SK Wuppertal,W,0,Nordrhein-Westfalen,0,11005124,bb5de084-8c58-5b02-b820-17080a8fbafb
+LK Kleve,KLE,0,Nordrhein-Westfalen,0,11005154,a26aa9fe-f07f-5605-83a5-f1efd74a7603
+LK Mettmann,ME,0,Nordrhein-Westfalen,0,11005158,bc11e1e7-b58f-5482-bdb0-03a309519913
+LK Rhein-Kreis Neuss,NE,0,Nordrhein-Westfalen,0,11005162,27bfa43d-943e-5bd0-bb1e-36e6d462053e
+LK Viersen,VIE,0,Nordrhein-Westfalen,0,11005166,19a10e13-ea6c-5771-8f91-7e727985f5b3
+LK Wesel,WES,0,Nordrhein-Westfalen,0,11005170,469b73ed-4c83-5bb8-9201-16858add09e4
+SK Aachen,AC,0,Nordrhein-Westfalen,0,11005313,b2dac3b0-ddb2-548d-bda6-eee2c1637d3f
+SK Bonn,BN,0,Nordrhein-Westfalen,0,11005314,289aec41-34bc-5fb8-93be-c76b3b0b61e2
+SK Köln,K,0,Nordrhein-Westfalen,0,11005315,a134c20e-575e-59a3-a120-c17a7b67fa1a
+SK Leverkusen,LEV,0,Nordrhein-Westfalen,0,11005316,a57d1a87-490b-5bdb-9ed1-3871efd92e26
+StadtRegion Aachen,AC,0,Nordrhein-Westfalen,0,11005334,d80aa133-b4db-5caa-9298-18ab5c63fa9e
+LK Aachen,AC,0,Nordrhein-Westfalen,0,11005354,03c55729-4870-5690-a95d-ffc45c7d195f
+LK Düren,DN,0,Nordrhein-Westfalen,0,11005358,5c6bc721-cd1c-566a-ac87-c3c357147047
+LK Rhein-Erft-Kreis,BM,0,Nordrhein-Westfalen,0,11005362,d260fda6-b44b-5f19-80f3-e23eb4736553
+LK Euskirchen,EU,0,Nordrhein-Westfalen,0,11005366,0423a5ef-4fc9-58d5-94ee-c30a85c9252f
+LK Heinsberg,HS,0,Nordrhein-Westfalen,0,11005370,afb3419d-48b1-5958-9ba8-766123d51fe9
+LK Oberbergischer Kreis,GM,0,Nordrhein-Westfalen,0,11005374,820f3c74-9297-5686-b262-db2b91c80556
+LK Rheinisch-Bergischer Kreis,GL,0,Nordrhein-Westfalen,0,11005378,2c4c54f3-d0ae-56d3-ba93-cd142ae74a64
+LK Rhein-Sieg-Kreis,SU,0,Nordrhein-Westfalen,0,11005382,9782594f-c0cd-540b-a0c5-495ec27a8ffd
+SK Bottrop,BOT,0,Nordrhein-Westfalen,0,11005512,fb96f8c9-1b04-56cf-b3ac-acf533fc6497
+SK Gelsenkirchen,GE,0,Nordrhein-Westfalen,0,11005513,39b9ee37-50c9-5def-8ee5-64733aadd0d2
+SK Münster,MS,0,Nordrhein-Westfalen,0,11005515,e8e79480-5fe5-59cf-9175-5ec2e72049ae
+LK Borken,BOR,0,Nordrhein-Westfalen,0,11005554,5d184a1e-2ea4-57f9-a14c-c93f83159364
+LK Coesfeld,COE,0,Nordrhein-Westfalen,0,11005558,1f6746a0-ddab-5944-bd02-251bdb9b2aca
+LK Recklinghausen,RE,0,Nordrhein-Westfalen,0,11005562,d49d0032-afd2-5433-964f-9fc419bb268e
+LK Steinfurt,ST,0,Nordrhein-Westfalen,0,11005566,770cbb85-5d03-5683-a6b0-d11342170a4e
+LK Warendorf,WAF,0,Nordrhein-Westfalen,0,11005570,601e5d13-404e-5048-85fc-bd453679ae44
+SK Bielefeld,BI,0,Nordrhein-Westfalen,0,11005711,2e7d9d70-5ff3-5e71-b168-8c79dad66743
+LK Gütersloh,GT,0,Nordrhein-Westfalen,0,11005754,02ef2645-a02f-56a1-91c1-b505ece123ea
+LK Herford,HF,0,Nordrhein-Westfalen,0,11005758,03118c50-4504-5746-acfa-7eb8855a1238
+LK Höxter,HX,0,Nordrhein-Westfalen,0,11005762,aaaaa2ef-68fc-536a-8ec0-b66c197905db
+LK Lippe,LIP,0,Nordrhein-Westfalen,0,11005766,07d69f6b-1b32-5c67-9a1f-a33849d921ff
+LK Minden-Lübbecke,MI,0,Nordrhein-Westfalen,0,11005770,b6387882-0847-5995-bf70-1606ec6ea5b3
+LK Paderborn,PB,0,Nordrhein-Westfalen,0,11005774,eac4cf54-aca5-52d1-a9dc-a86d3d53cdbd
+SK Bochum,BO,0,Nordrhein-Westfalen,0,11005911,cfc6d045-8bdb-505d-953a-dd8acbfd2dc4
+SK Dortmund,DO,0,Nordrhein-Westfalen,0,11005913,9f73805a-d927-5acb-b0a0-bd01efac7a25
+SK Hagen,HA,0,Nordrhein-Westfalen,0,11005914,4cb46bc5-c528-5321-a5ce-8d8bad1d14ab
+SK Hamm,HAM,0,Nordrhein-Westfalen,0,11005915,6a24ac99-be4e-50c0-a708-5c4fc2221646
+SK Herne,HER,0,Nordrhein-Westfalen,0,11005916,900f3e3f-9635-51a4-87df-9ee91662f876
+LK Ennepe-Ruhr-Kreis,EN,0,Nordrhein-Westfalen,0,11005954,29a1f6da-d6f5-56c8-be18-d367d88c096a
+LK Hochsauerlandkreis,MES,0,Nordrhein-Westfalen,0,11005958,5b4dd94b-3402-5c5e-b02a-360268c9a74e
+LK Märkischer Kreis,MK,0,Nordrhein-Westfalen,0,11005962,ff18a414-a06d-5ced-ba45-57abb3e6771e
+LK Olpe,OE,0,Nordrhein-Westfalen,0,11005966,15353191-4bb0-5868-b944-e66aa4ac1910
+LK Siegen-Wittgenstein,SI,0,Nordrhein-Westfalen,0,11005970,45b53097-18fa-55c9-93eb-824dcb4f6b81
+LK Soest,SO,0,Nordrhein-Westfalen,0,11005974,b114a5dd-b883-527a-9235-2c089257e95f
+LK Unna,UN,0,Nordrhein-Westfalen,0,11005978,07a4fd8c-adb7-5288-abd6-1307741b9eef
+SK Darmstadt,DA,0,Hessen,0,11006411,af7e0cd5-40fb-568f-b538-0a829f568e7d
+SK Frankfurt am Main,F,0,Hessen,0,11006412,2dddfee4-ac62-59b1-a452-60a08fd9810f
+SK Offenbach,OF,0,Hessen,0,11006413,3922bb26-2632-5c5b-8644-bc477ee05124
+SK Wiesbaden,WI,0,Hessen,0,11006414,5602abb0-70ee-5909-bf6d-0c9e8f75fc5d
+LK Bergstraße,HP,0,Hessen,0,11006431,3e0fb6f8-c54c-5561-b27b-71b094c177d9
+LK Darmstadt-Dieburg,DI,0,Hessen,0,11006432,db561a61-6872-5e33-81be-b188eed2c8f9
+LK Groß-Gerau,GG,0,Hessen,0,11006433,373dc1dd-bd44-56c0-bb73-0a3c66871b3a
+LK Hochtaunuskreis,HG,0,Hessen,0,11006434,c1df5ba6-aa9a-5d67-8f9a-f408951acd8c
+LK Main-Kinzig-Kreis,HU,0,Hessen,0,11006435,71898975-2187-550e-a893-135bf227bb93
+LK Main-Taunus-Kreis,MTK,0,Hessen,0,11006436,7979784b-acf3-52c1-ada8-f98759c302fe
+LK Odenwaldkreis,ERB,0,Hessen,0,11006437,9eff9168-5a23-58cd-a72e-21b7a75a283b
+LK Offenbach,OF,0,Hessen,0,11006438,a2a0fd23-43ac-5914-b806-78517430ecbe
+LK Rheingau-Taunus-Kreis,SWA,0,Hessen,0,11006439,a3a88c83-ecd7-5f0b-acd1-af3dd6a681ce
+LK Wetteraukreis,FB,0,Hessen,0,11006440,b96f0cb3-4d4f-5c35-929b-f82a5083a447
+LK Gießen,GI,0,Hessen,0,11006531,4c0b7a78-8a42-54c4-80bf-03eab04bba0b
+LK Lahn-Dill-Kreis,LDK,0,Hessen,0,11006532,260b2144-a30f-5878-b50e-050e71972f07
+LK Limburg-Weilburg,LM,0,Hessen,0,11006533,d0dbe10c-f20d-5145-af33-3fee972cb1e1
+LK Marburg-Biedenkopf,MR,0,Hessen,0,11006534,3cec0bca-18d3-5266-9ca4-b1d4bc62baef
+LK Vogelsbergkreis,VB,0,Hessen,0,11006535,68304228-c547-5e71-9cde-283fc8e9ce38
+SK Kassel,KS,0,Hessen,0,11006611,04283181-131f-5087-ace8-59f0f9f9a691
+LK Fulda,FD,0,Hessen,0,11006631,df01bab5-1a84-53b6-8bf8-20cc77091e85
+LK Hersfeld-Rotenburg,HEF,0,Hessen,0,11006632,cff91499-2cef-5075-b3a3-9144fd5d3494
+LK Kassel,WOH,0,Hessen,0,11006633,85efdd97-b046-5cd1-bd7e-c504da35f06e
+LK Schwalm-Eder-Kreis,HR,0,Hessen,0,11006634,f16deb0c-0c79-525c-8510-08855a1c02b5
+LK Waldeck-Frankenberg,WA,0,Hessen,0,11006635,68d710ce-4188-55a7-a26c-3a4a20e69727
+LK Werra-Meißner-Kreis,ESW,0,Hessen,0,11006636,afef1f9d-e6b9-5c10-8296-e0d6b0045428
+SK Koblenz,KO,0,Rheinland-Pfalz,0,11007111,c75446bc-1833-5626-8e69-424dd5f4d0b9
+LK Ahrweiler,AW,0,Rheinland-Pfalz,0,11007131,bffd5e09-5ff1-5ef5-9f52-7a99e37f3810
+LK Altenkirchen,AK,0,Rheinland-Pfalz,0,11007132,5d980444-e575-5d13-9465-1b9296b0cb45
+LK Bad Kreuznach,KH,0,Rheinland-Pfalz,0,11007133,a7a876fd-d400-54e8-9f8d-fc43c9eec574
+LK Birkenfeld,BIR,0,Rheinland-Pfalz,0,11007134,bb687de5-65c1-5452-a100-8c4ba6a6d453
+LK Cochem-Zell,COC,0,Rheinland-Pfalz,0,11007135,5f7f75cf-8bb6-5f0b-aafa-f24bba0c2d2a
+LK Mayen-Koblenz,MYK,0,Rheinland-Pfalz,0,11007137,8b15edc2-498c-5441-b165-a3713202e880
+LK Neuwied,NR,0,Rheinland-Pfalz,0,11007138,8ef3312d-489c-5b74-a712-0e0c92070a7a
+LK Rhein-Hunsrück-Kreis,SIM,0,Rheinland-Pfalz,0,11007140,b592c222-8c84-5bb7-9df6-7e58b58c9d60
+LK Rhein-Lahn-Kreis,EMS,0,Rheinland-Pfalz,0,11007141,a8ef272f-61df-59f3-a694-9e0e8f831fc7
+LK Westerwaldkreis,WW,0,Rheinland-Pfalz,0,11007143,4e126c9f-67d8-5969-ba1e-9616b10265b6
+SK Trier,TR,0,Rheinland-Pfalz,0,11007211,fc339309-a465-5ece-b207-7b422c229aa7
+LK Bernkastel-Wittlich,WIL,0,Rheinland-Pfalz,0,11007231,335a7431-5e8a-57e3-ba57-1e53594906e8
+LK Bitburg-Prüm,BIT,0,Rheinland-Pfalz,0,11007232,1e052509-3ed2-54a1-8a28-96676d84a776
+LK Vulkaneifel,DAU,0,Rheinland-Pfalz,0,11007233,50181d0c-4bba-543e-a824-7da9aca6b538
+LK Trier-Saarburg,TR,0,Rheinland-Pfalz,0,11007235,8e7b210f-0f51-5205-90b2-fb257364244b
+SK Frankenthal,FT,0,Rheinland-Pfalz,0,11007311,5e5c1df8-3dbb-5dd6-b30e-5aad13a3ae07
+SK Kaiserslautern,KL,0,Rheinland-Pfalz,0,11007312,66427bf8-42d9-58f3-99c5-c2da8c4bf609
+SK Landau i.d.Pfalz,LD,0,Rheinland-Pfalz,0,11007313,3bc23c21-d197-5d22-a0ac-07934299e191
+SK Ludwigshafen,LU,0,Rheinland-Pfalz,0,11007314,76ba8b85-861a-5498-9114-3cb9b84223d4
+SK Mainz,MZ,0,Rheinland-Pfalz,0,11007315,7ea5d684-5b1f-55c5-9517-30b4f0c8ab5e
+SK Neustadt a.d.Weinstraße,NW,0,Rheinland-Pfalz,0,11007316,947c2df6-6126-514f-b9a4-f814534bfca5
+SK Pirmasens,PS,0,Rheinland-Pfalz,0,11007317,fae74ae3-bfa7-547e-938d-aa3609bac27e
+SK Speyer,SP,0,Rheinland-Pfalz,0,11007318,e8adf8f4-8bf5-594e-ab7a-5bab8c235973
+SK Worms,WO,0,Rheinland-Pfalz,0,11007319,75d941ee-31a1-5969-a9c6-9382eb5bfd46
+SK Zweibrücken,ZW,0,Rheinland-Pfalz,0,11007320,b6dc3a24-2693-53f5-852b-db61e94e95bd
+LK Alzey-Worms,AZ,0,Rheinland-Pfalz,0,11007331,83aa1423-a145-5747-b2e3-3086b291a571
+LK Bad Dürkheim,DÜW,0,Rheinland-Pfalz,0,11007332,366ae585-18f4-5572-aed0-a4767e1f9ecf
+LK Donnersbergkreis,KIB,0,Rheinland-Pfalz,0,11007333,88dc6a6f-0505-5f9e-9d7b-44a59963741b
+LK Germersheim,GER,0,Rheinland-Pfalz,0,11007334,8d855321-62bb-5536-aef7-e47bd4a136b1
+LK Kaiserslautern,KL,0,Rheinland-Pfalz,0,11007335,a59e997e-81de-59a5-97d9-17897a6da766
+LK Kusel,KUS,0,Rheinland-Pfalz,0,11007336,cc97241a-5582-5ff5-b31f-4d3456f730f5
+LK Südliche Weinstraße,SÜW,0,Rheinland-Pfalz,0,11007337,e93097d4-16c8-58db-91f5-cf8fe0f44cfb
+LK Rhein-Pfalz-Kreis,LU,0,Rheinland-Pfalz,0,11007338,73932a7e-f884-528a-92d9-70fb59fa5501
+LK Mainz-Bingen,MZ,0,Rheinland-Pfalz,0,11007339,5cde96f6-d33c-5f20-9dbe-4ee35a816c76
+LK Südwestpfalz,PS,0,Rheinland-Pfalz,0,11007340,7bdcd70f-3f71-518c-93c1-d7fc12dec430
+SK Stuttgart,S,0,Baden-Württemberg,0,11008111,6144a817-f814-5fef-abbf-504a442d78a3
+LK Böblingen,BB,0,Baden-Württemberg,0,11008115,3cc899ba-8b7a-5d32-99d2-d3dfa6d386a1
+LK Esslingen,ES,0,Baden-Württemberg,0,11008116,5f2dc769-7715-5d10-9079-9ab92c3b77f6
+LK Göppingen,GP,0,Baden-Württemberg,0,11008117,badedd14-87c4-5c7e-850e-67e7c43c048f
+LK Ludwigsburg,LB,0,Baden-Württemberg,0,11008118,66dc90ba-67c9-5a5d-83a8-492686ebae8e
+LK Rems-Murr-Kreis,WN,0,Baden-Württemberg,0,11008119,a64d2647-5a62-5b2c-8ff6-d0aec9c44639
+SK Heilbronn,HN,0,Baden-Württemberg,0,11008121,b976b4a4-18a4-518a-8d50-4bd76bfc7244
+LK Heilbronn,HN,0,Baden-Württemberg,0,11008125,ce19be1f-10a1-5fc6-bd4a-5b96f3bef168
+LK Hohenlohekreis,KÜN,0,Baden-Württemberg,0,11008126,eaa8feae-574c-5770-af5d-f81052536d95
+LK Schwäbisch Hall,SHA,0,Baden-Württemberg,0,11008127,84ad1198-d095-5eb2-a8bc-122329cbb244
+LK Main-Tauber-Kreis,TBB,0,Baden-Württemberg,0,11008128,00bc1d31-ad54-5a11-891f-14feb99846e3
+LK Heidenheim,HDH,0,Baden-Württemberg,0,11008135,195e2147-b373-5a8e-aa40-61b5f13f26a4
+LK Ostalbkreis,AA,0,Baden-Württemberg,0,11008136,efd1cb63-6877-5eb2-9a15-e0d3b16efc5d
+SK Baden-Baden,BAD,0,Baden-Württemberg,0,11008211,ce3257e8-14d8-520a-9c60-eb23b15a620c
+SK Karlsruhe,KA,0,Baden-Württemberg,0,11008212,5d31e68b-21ef-5f18-a90b-08fe9254d1ec
+LK Karlsruhe,KA,0,Baden-Württemberg,0,11008215,b1407e58-8427-5edf-9703-305f319706cf
+LK Rastatt,RA,0,Baden-Württemberg,0,11008216,a122ec25-df4d-5b6d-bcff-cf3f32e34db6
+SK Heidelberg,HD,0,Baden-Württemberg,0,11008221,87273cc7-8147-582f-bf24-9830f614cda9
+SK Mannheim,MA,0,Baden-Württemberg,0,11008222,94509d51-7685-5dde-a3b2-afdb9f4d64a9
+LK Neckar-Odenwald-Kreis,MOS,0,Baden-Württemberg,0,11008225,a409ded2-1a61-578e-b145-842b8c00b057
+LK Rhein-Neckar-Kreis,HD,0,Baden-Württemberg,0,11008226,fd6f9dcb-6e9a-5f11-a4a0-70d571c27f68
+SK Pforzheim,PF,0,Baden-Württemberg,0,11008231,137f895c-64d1-560f-8fa3-ce81c5f6f198
+LK Calw,CW,0,Baden-Württemberg,0,11008235,98160cd6-6732-588d-99a8-e75e0303e1db
+LK Enzkreis,PF,0,Baden-Württemberg,0,11008236,47d343f3-8784-59c8-b9e1-d22723d33523
+LK Freudenstadt,FDS,0,Baden-Württemberg,0,11008237,48ea658e-4a7d-5fac-9865-d2af5f018191
+SK Freiburg i.Breisgau,FR,0,Baden-Württemberg,0,11008311,c652b018-da93-5070-9c39-3167ab00e28a
+LK Breisgau-Hochschwarzwald,FR,0,Baden-Württemberg,0,11008315,36d007e4-4697-5a0b-b1a7-4d63499d2e2e
+LK Emmendingen,EM,0,Baden-Württemberg,0,11008316,e0f00b7e-038b-5a1a-b8ba-11d2e09c58b4
+LK Ortenaukreis,OG,0,Baden-Württemberg,0,11008317,f6078c0a-cc39-5ab9-826a-5005725da978
+LK Rottweil,RW,0,Baden-Württemberg,0,11008325,21613df7-c408-5a7d-a845-a8a956a9c798
+LK Schwarzwald-Baar-Kreis,VS,0,Baden-Württemberg,0,11008326,5af4bb9e-9431-53d1-a7ce-aa4bdb9ea2fa
+LK Tuttlingen,TUT,0,Baden-Württemberg,0,11008327,f1c33520-4469-5a73-bbcb-3e52cef8cd50
+LK Konstanz,KN,0,Baden-Württemberg,0,11008335,4793c0c1-41b4-5078-9f9e-e393a41d8bf7
+LK Lörrach,LÖ,0,Baden-Württemberg,0,11008336,707e368a-22ec-5fd6-a847-1eeee17cb308
+LK Waldshut,WT,0,Baden-Württemberg,0,11008337,bdc3dafd-f711-5df3-9151-f4c41dacb953
+LK Reutlingen,RT,0,Baden-Württemberg,0,11008415,1902b6a0-7d9a-5b5c-9e38-445a8d8b3794
+LK Tübingen,TÜ,0,Baden-Württemberg,0,11008416,68a6db32-a1a7-5553-bff0-b2c3c365f98d
+LK Zollernalbkreis,BL,0,Baden-Württemberg,0,11008417,51bddcba-27e7-5dfd-966c-a7f8140fb755
+SK Ulm,UL,0,Baden-Württemberg,0,11008421,1dfbe161-50d1-5b24-b6b6-364ea3fd2245
+LK Alb-Donau-Kreis,UL,0,Baden-Württemberg,0,11008425,af1a0cdd-531f-5c67-a4f2-ca6997b821d6
+LK Biberach,BC,0,Baden-Württemberg,0,11008426,9c8d2924-21d3-5674-924d-96bcfe0c9acc
+LK Bodenseekreis,FN,0,Baden-Württemberg,0,11008435,0eb918b8-a82d-5131-8fd4-f7b49d45c335
+LK Ravensburg,RV,0,Baden-Württemberg,0,11008436,1ec43599-112d-512a-8d3a-e803040cf0d5
+LK Sigmaringen,SIG,0,Baden-Württemberg,0,11008437,c0d32684-5f4e-54d9-aca4-6d0c9acf2c9b
+SK Ingolstadt,IN,0,Bayern,0,11009161,fdbc29f5-c3b6-5ada-a38f-0e52bd970768
+SK München,M,0,Bayern,0,11009162,73484a1a-9b5d-571d-b1a5-d278fc6690fd
+SK Rosenheim,RO,0,Bayern,0,11009163,30f0d753-4831-5caa-92b2-6754d9d4d60a
+LK Altötting,AÖ,0,Bayern,0,11009171,a96dfee5-e967-5472-a384-f931184814c4
+LK Berchtesgadener Land,REI,0,Bayern,0,11009172,ebe8add9-58aa-5c43-a804-2e013f5725c1
+LK Bad Tölz-Wolfratshausen,TÖL,0,Bayern,0,11009173,2838f4b8-a320-5a5a-a821-02071b7b27dc
+LK Dachau,DAH,0,Bayern,0,11009174,6c54da40-0a0e-58ac-9590-49f6ebe63773
+LK Ebersberg,EBE,0,Bayern,0,11009175,b02372f2-7288-5c68-9894-bacf56840569
+LK Eichstätt,EIH,0,Bayern,0,11009176,5b00be7e-1dbd-5b52-9a26-4665f54f6e66
+LK Erding,ED,0,Bayern,0,11009177,d449d532-7ee7-5d88-8789-602df7f71239
+LK Freising,FS,0,Bayern,0,11009178,10a4f630-7855-5908-a248-7dc7d516d900
+LK Fürstenfeldbruck,FFB,0,Bayern,0,11009179,2ab1ea95-dfbb-5ae3-b86d-461f3a300ce0
+LK Garmisch-Partenkirchen,GAP,0,Bayern,0,11009180,1e00d4a8-cefa-5c25-a47d-28ed189fb884
+LK Landsberg a.Lech,LL,0,Bayern,0,11009181,c709f897-7fee-59f2-a87f-dd57de107e41
+LK Miesbach,MB,0,Bayern,0,11009182,97cefd4e-b435-5e19-9f3e-69c46e61630d
+LK Mühldorf a.Inn,MÜ,0,Bayern,0,11009183,7c1486ee-1214-5f82-9f79-52cc8bcfe6ca
+LK München,M,0,Bayern,0,11009184,891004fb-aa04-5a22-b8d6-c4e8d5152190
+LK Neuburg-Schrobenhausen,ND,0,Bayern,0,11009185,86607ec1-c959-56d8-b56b-e5e174be2bcd
+LK Pfaffenhofen a.d.Ilm,PAF,0,Bayern,0,11009186,544fb373-0e6a-5ab3-b6b0-497157074ef5
+LK Rosenheim,RO,0,Bayern,0,11009187,749f4f5e-dbbb-5963-8cc9-03d8c319a52b
+LK Starnberg,STA,0,Bayern,0,11009188,261cb3e1-f8b7-5b27-b219-58ac8e255fff
+LK Traunstein,TS,0,Bayern,0,11009189,13c2eb55-cb25-5847-bc2e-3a342790b15e
+LK Weilheim-Schongau,WM,0,Bayern,0,11009190,b8d344b5-e6a2-5a09-a5db-5f54c799f5db
+SK Landshut,LA,0,Bayern,0,11009261,55eaf280-7f4e-570a-a478-ee17bc93f73b
+SK Passau,PA,0,Bayern,0,11009262,345cea08-9390-5930-b5a8-9f18a0a64395
+SK Straubing,SR,0,Bayern,0,11009263,25c207a0-d25f-5bc8-95ee-a35055d57e72
+LK Deggendorf,DEG,0,Bayern,0,11009271,13133945-8aaa-56df-b50e-63dea3ba738a
+LK Freyung-Grafenau,WOS,0,Bayern,0,11009272,d97402d6-4af8-584e-b7b2-47ca6ea002a8
+LK Kelheim,KEH,0,Bayern,0,11009273,4c6ffddc-0c98-5324-995d-a126a42e25f0
+LK Landshut,LA,0,Bayern,0,11009274,b1981b0d-8198-5029-8dbb-e6d77952221e
+LK Passau,PA,0,Bayern,0,11009275,7113a9e0-efae-5fc7-968b-276b99062d51
+LK Regen,REG,0,Bayern,0,11009276,4f5a188f-328d-59df-92d2-ced3826feb8c
+LK Rottal-Inn,PAN,0,Bayern,0,11009277,47548c1b-780f-5a26-9b9f-b59e3b78c88d
+LK Straubing-Bogen,SR,0,Bayern,0,11009278,488c03f5-1d32-5101-8efe-883fea61beef
+LK Dingolfing-Landau,LAN,0,Bayern,0,11009279,4a4620a1-ccce-50ac-bea3-5125a33f7678
+SK Amberg,AM,0,Bayern,0,11009361,cd811789-1feb-500a-8066-6c4b7e17e86b
+SK Regensburg,R,0,Bayern,0,11009362,e3d43b84-2ccd-58b0-9c5c-e4fc65659d93
+SK Weiden i.d.OPf.,WEN,0,Bayern,0,11009363,052f1ae6-cc59-532e-83d3-f5431ba8f63d
+LK Amberg-Sulzbach,AS,0,Bayern,0,11009371,c5dca165-0ff9-53a7-929d-1a35f54dc772
+LK Cham,CHA,0,Bayern,0,11009372,534667c0-2f97-5632-931d-dfe1125e0096
+LK Neumarkt i.d.OPf.,NM,0,Bayern,0,11009373,cb5d1966-7878-58f3-8f12-10ed7594ff2d
+LK Neustadt a.d.Waldnaab,NEW,0,Bayern,0,11009374,2d6979aa-4838-53eb-a587-0459075dc9b6
+LK Regensburg,R,0,Bayern,0,11009375,2b59713b-9cb5-5a6c-93c1-0e6be04721c6
+LK Schwandorf,SAD,0,Bayern,0,11009376,336b3689-b7a3-5579-ae0b-31625c8566b0
+LK Tirschenreuth,TIR,0,Bayern,0,11009377,e0b843ec-1c67-5409-a8aa-72a9a72d9441
+SK Bamberg,BA,0,Bayern,0,11009461,5e00d0f0-42d1-5a21-8b24-0f6f35abd71a
+SK Bayreuth,BT,0,Bayern,0,11009462,7bb30180-ece1-5bd1-b746-c1f0d0b3bde3
+SK Coburg,CO,0,Bayern,0,11009463,f6cf8009-caa2-5aa9-863f-2265e1a9c7b7
+SK Hof,HO,0,Bayern,0,11009464,46a0b378-6012-5481-9bd5-db8168e39f54
+LK Bamberg,BA,0,Bayern,0,11009471,f3aa9365-868e-5e85-8849-bae77d2eb6c9
+LK Bayreuth,BT,0,Bayern,0,11009472,1b582133-5005-5014-aa78-dcf809f66bc1
+LK Coburg,NEC,0,Bayern,0,11009473,b751fbb1-257f-5be2-be42-bd4a95b4e4bf
+LK Forchheim,FO,0,Bayern,0,11009474,067e2cae-d6bb-5415-986d-92f8cbbe9647
+LK Hof,HO,0,Bayern,0,11009475,50eb2505-2624-5c00-8b5f-ee1b340a75ca
+LK Kronach,KC,0,Bayern,0,11009476,37b2bcf2-fab5-513e-b7f1-6de9c69ac8cb
+LK Kulmbach,KU,0,Bayern,0,11009477,eb2a23ab-51df-5c7b-bf16-9543d9fd3abc
+LK Lichtenfels,LIF,0,Bayern,0,11009478,0d325b4b-6316-595c-a6be-efa51872e36b
+LK Wunsiedel i.Fichtelgebirge,WUN,0,Bayern,0,11009479,b6560159-9e97-59d3-b465-646f28bdda81
+SK Ansbach,AN,0,Bayern,0,11009561,2dd0b52b-8453-5641-8aac-94c32bf0dfbe
+SK Erlangen,ER,0,Bayern,0,11009562,d4f0c2b3-193c-532e-8c05-6f8e5d0941bb
+SK Fürth,FÜ,0,Bayern,0,11009563,17ee7d53-da53-5880-b3af-b7d4c4273194
+SK Nürnberg,N,0,Bayern,0,11009564,6c8ea5a4-a756-583c-a119-a5a4c59bfa8b
+SK Schwabach,SC,0,Bayern,0,11009565,ffb9627b-dba8-5e79-8d4a-7956c654720b
+LK Ansbach,AN,0,Bayern,0,11009571,61c49c8c-0fed-5c97-8345-dd62c98425c1
+LK Erlangen-Höchstadt,ERL,0,Bayern,0,11009572,c3172825-abcf-5e73-a80d-c99a017d9b3b
+LK Fürth,FÜ,0,Bayern,0,11009573,7ea370d6-e080-5824-a2d5-df9a861a47ef
+LK Nürnberger Land,LAU,0,Bayern,0,11009574,893ff2f6-1191-5163-ac83-2c36357b2ef2
+LK Neustadt a.d.Aisch-Bad Windsheim,NEA,0,Bayern,0,11009575,60aee4be-5aa3-5d65-8e47-a3aab75c5242
+LK Roth,RH,0,Bayern,0,11009576,9f5b8275-c021-5d52-a44b-e40796928f5d
+LK Weißenburg-Gunzenhausen,WUG,0,Bayern,0,11009577,9d3403f9-35f6-5535-91ad-1eb4b1e33f08
+SK Aschaffenburg,AB,0,Bayern,0,11009661,b3fc64f5-3923-538f-b287-369b340544f5
+SK Schweinfurt,SW,0,Bayern,0,11009662,a7a86f41-c160-54ad-8483-f8c0f9eb246b
+SK Würzburg,WÜ,0,Bayern,0,11009663,8c170c9d-ac87-56f5-96e3-9de9ca7129a9
+LK Aschaffenburg,AB,0,Bayern,0,11009671,07635ade-3c7f-5d6f-b57c-897539d06524
+LK Bad Kissingen,KG,0,Bayern,0,11009672,1e110b89-1027-5bf1-82a9-5f40acdd1362
+LK Rhön-Grabfeld,NES,0,Bayern,0,11009673,2d6001c0-037a-5e51-b7c3-79090915281d
+LK Haßberge,HAS,0,Bayern,0,11009674,a25a404b-4752-59d0-a4ea-d1a7a4b2d019
+LK Kitzingen,KT,0,Bayern,0,11009675,d698f841-68b9-502e-8d28-2d5632002fa0
+LK Miltenberg,MIL,0,Bayern,0,11009676,1bb35e3e-c280-5e59-9870-84580bdf0261
+LK Main-Spessart,MSP,0,Bayern,0,11009677,a2231413-536b-5461-987b-2bbe62eece86
+LK Schweinfurt,SW,0,Bayern,0,11009678,1e6a5135-0f01-53e5-8538-9585f1724624
+LK Würzburg,WÜ,0,Bayern,0,11009679,f168a37f-831d-52ed-8f04-be6e7a1290de
+SK Augsburg,A,0,Bayern,0,11009761,e1b66046-39d2-504a-b7ee-2068e379eec8
+SK Kaufbeuren,KF,0,Bayern,0,11009762,b33dcc6a-668c-582e-9e74-6197ce48456e
+SK Kempten,KE,0,Bayern,0,11009763,1144b012-713a-5e5c-b51f-5c4f904d5134
+SK Memmingen,MM,0,Bayern,0,11009764,406746d7-921a-5de1-9ea1-47f3c93e123c
+LK Aichach-Friedberg,AIC,0,Bayern,0,11009771,82cc68a7-7b11-5602-8276-f9402ffdbdfa
+LK Augsburg,A,0,Bayern,0,11009772,29116a7f-7718-5aee-a5d6-bcae8c197bdc
+LK Dillingen a.d.Donau,DLG,0,Bayern,0,11009773,daef2570-67c2-58c6-b878-f61a321f6ec3
+LK Günzburg,GZ,0,Bayern,0,11009774,4448dc5a-a252-5624-bbd8-1e814e191fc6
+LK Neu-Ulm,NU,0,Bayern,0,11009775,5f1fef54-0cc7-596b-894f-5f1fc21aae55
+LK Lindau,LI,0,Bayern,0,11009776,674da0b8-6543-5d2c-9aa9-792a2b3d0ffd
+LK Ostallgäu,OAL,0,Bayern,0,11009777,3bb93965-c4c4-5ae5-86bf-fe0d0fc93f5e
+LK Unterallgäu,MN,0,Bayern,0,11009778,9560ea44-433f-5f0b-95d4-0e6409e5e9da
+LK Donau-Ries,DON,0,Bayern,0,11009779,1bdc14e3-7caf-508b-a3b2-c6cfd07a9adf
+LK Oberallgäu,SF,0,Bayern,0,11009780,706cc4ef-b6ea-5461-abca-fcad105f1566
+LK Stadtverband Saarbrücken,SB,0,Saarland,0,11010041,1f5303e0-bde1-5e5e-bd47-c42efc7b840e
+LK Merzig-Wadern,MZG,0,Saarland,0,11010042,59bf5e9f-23d7-5228-9f1a-d16fb2489eee
+LK Neunkirchen,NK,0,Saarland,0,11010043,af46cb60-9e2f-52af-a9c5-fc3f81c9917b
+LK Saarlouis,SLS,0,Saarland,0,11010044,454e750f-512e-5dac-a367-daa9b4406fe6
+LK Saarpfalz-Kreis,HOM,0,Saarland,0,11010045,3183bc31-e09c-5c69-b950-af0383961398
+LK Sankt Wendel,WND,0,Saarland,0,11010046,8e165c0d-fdf6-507d-a2cb-503c3f75119b
+SK Berlin Mitte,B,0,Berlin,0,11011001,a5637aee-d1d8-5753-b60f-3dfa872a9a8f
+SK Berlin Friedrichshain-Kreuzberg,B,0,Berlin,0,11011002,45f8d8f3-e468-5d6a-8820-40431074e71f
+SK Berlin Pankow,B,0,Berlin,0,11011003,9f7f597b-2af0-5e35-b9c6-7d3a0b49cd5b
+SK Berlin Charlottenburg-Wilmersdorf,B,0,Berlin,0,11011004,5a0d0205-4211-5756-9434-1c445f0bd6c3
+SK Berlin Spandau,B,0,Berlin,0,11011005,2c16f7a4-761b-52ae-9732-1ec0d681a3ab
+SK Berlin Steglitz-Zehlendorf,B,0,Berlin,0,11011006,6c24b75f-bdf7-5f33-b2a6-c4d293700ef5
+SK Berlin Tempelhof-Schöneberg,B,0,Berlin,0,11011007,bdf3ff64-e339-5c8e-adf8-41e0f729bd71
+SK Berlin Neukölln,B,0,Berlin,0,11011008,acd5d4de-f595-5ae6-a496-5cf73650ba8d
+SK Berlin Treptow-Köpenick,B,0,Berlin,0,11011009,c3682771-0b88-5636-b027-50df27480de7
+SK Berlin Marzahn-Hellersdorf,B,0,Berlin,0,11011010,694f16f6-5521-59f8-9934-5cf6d7d98d01
+SK Berlin Lichtenberg,B,0,Berlin,0,11011011,edc72b41-cfab-5191-9da6-6823e7d56d2d
+SK Berlin Reinickendorf,B,0,Berlin,0,11011012,e9180d42-d471-566e-b318-64101dfa9134
+SK Brandenburg a.d.Havel,BRB,0,Brandenburg,0,11012051,0f03003a-4976-5f9f-ae65-5b7e7bd14b42
+SK Cottbus,CB,0,Brandenburg,0,11012052,259aceff-07cc-54f6-891a-5a312dcc847b
+SK Frankfurt (Oder),FF,0,Brandenburg,0,11012053,e85adf7a-0a73-583a-9926-c8a5e790aec9
+SK Potsdam,P,0,Brandenburg,0,11012054,f5e9533b-8352-5854-99af-0755f4724402
+LK Barnim,BAR,0,Brandenburg,0,11012060,3ba2acf7-0291-5516-a4a1-62c8e2391198
+LK Dahme-Spreewald,LDS,0,Brandenburg,0,11012061,233c57e5-48fc-5089-bb51-b243d2bf630f
+LK Elbe-Elster,EE,0,Brandenburg,0,11012062,55912da9-c88d-5a22-8ada-30988627740e
+LK Havelland,HVL,0,Brandenburg,0,11012063,75069476-439d-5f72-a957-e0a8a7d694d5
+LK Märkisch-Oderland,MOL,0,Brandenburg,0,11012064,bb23d758-7c86-5485-a59a-6028863cca52
+LK Oberhavel,OHV,0,Brandenburg,0,11012065,1e8411d4-e85f-5320-a2f4-95b2bafbfc3c
+LK Oberspreewald-Lausitz,OSL,0,Brandenburg,0,11012066,0bf750a2-9af6-5904-9e33-d0b90b23702f
+LK Oder-Spree,LOS,0,Brandenburg,0,11012067,e8cb771b-e658-5ab1-ab5e-7b6c7ac68f0d
+LK Ostprignitz-Ruppin,OPR,0,Brandenburg,0,11012068,5bae47f6-877a-51c9-96e7-061fae43bd1d
+LK Potsdam-Mittelmark,PM,0,Brandenburg,0,11012069,3ef3ce02-de52-52be-95d9-f3e14eed850e
+LK Prignitz,PR,0,Brandenburg,0,11012070,e52f1f8f-fc6b-5009-b978-927c7afc683b
+LK Spree-Neiße,SPN,0,Brandenburg,0,11012071,3144845a-fb9f-51af-8fff-92b332833e01
+LK Teltow-Fläming,TF,0,Brandenburg,0,11012072,7ef5678b-8291-5e76-874b-bc5ee00f6d1b
+LK Uckermark,UM,0,Brandenburg,0,11012073,005a6562-581b-5770-b787-e5fef7638bf2
+SK Greifswald,HGW,0,Mecklenburg-Vorpommern,0,11013001,aebe1564-06e7-5fe4-a271-ce473b683e04
+SK Neubrandenburg,NB,0,Mecklenburg-Vorpommern,0,11013002,63b293b2-f4e9-55dc-956c-60bb024bca48
+SK Rostock,HRO,0,Mecklenburg-Vorpommern,0,11013003,ee5e75ac-3c9a-5822-aea0-cfdef330ac56
+SK Schwerin,SN,0,Mecklenburg-Vorpommern,0,11013004,0ec505db-873a-5f69-b9ec-1cd0d900501b
+SK Stralsund,HST,0,Mecklenburg-Vorpommern,0,11013005,8e106f86-d8fd-5ab5-823f-bb26ea188df8
+SK Wismar,HWI,0,Mecklenburg-Vorpommern,0,11013006,baf934fb-3f08-55e9-bdde-d11f2fd8f367
+LK Bad Doberan,ROS,0,Mecklenburg-Vorpommern,0,11013051,9b14ab40-65aa-57f3-9d24-e18c70a3c25e
+LK Demmin,DM,0,Mecklenburg-Vorpommern,0,11013052,9b2ee5b7-36ee-59e3-9f05-aadd79e08478
+LK Güstrow,GÜ,0,Mecklenburg-Vorpommern,0,11013053,dbc1359b-9bf0-53e2-8e8c-3fff00c16dc1
+LK Ludwigslust,SN,0,Mecklenburg-Vorpommern,0,11013054,bcd88666-2d7b-5367-82af-d50177dc1af5
+LK Mecklenburg-Strelitz,NB,0,Mecklenburg-Vorpommern,0,11013055,b9d3c204-1541-585d-81a8-f29d5986bdc1
+LK Müritz,RM,0,Mecklenburg-Vorpommern,0,11013056,49aa56f3-10a0-5e16-a9f6-3a09dde0b018
+LK Nordvorpommern,NVP,0,Mecklenburg-Vorpommern,0,11013057,c2091aab-63ff-5727-8ad2-42eaccd0e179
+LK Nordwestmecklenburg (alt),WIS,0,Mecklenburg-Vorpommern,0,11013058,297b5180-3a77-5486-93f9-ce707ce20ad2
+LK Ostvorpommern,OVP,0,Mecklenburg-Vorpommern,0,11013059,40924f2f-fff9-5d22-a2bb-d17888c6fc89
+LK Parchim,SN,0,Mecklenburg-Vorpommern,0,11013060,88a351e2-3cc2-5b7a-8efc-67087c8f797e
+LK Rügen,RÜG,0,Mecklenburg-Vorpommern,0,11013061,e52ce1f2-7da0-5ab6-be7b-2b87604a4f36
+LK Uecker-Randow,UER,0,Mecklenburg-Vorpommern,0,11013062,e1bd975f-a256-5276-8556-1642901ed07b
+LK Mecklenburgische Seenplatte,MSE,0,Mecklenburg-Vorpommern,0,11013071,a981a645-bb31-51e6-bec5-19991e341f11
+LK Rostock,LRO,0,Mecklenburg-Vorpommern,0,11013072,bfe3c4aa-754e-5337-8f0a-d47d7f1ad0ad
+LK Vorpommern-Rügen,VR,0,Mecklenburg-Vorpommern,0,11013073,b7b8246b-4565-5dc9-8910-43091e031c54
+LK Nordwestmecklenburg,NWM,0,Mecklenburg-Vorpommern,0,11013074,e8d467ae-384b-5f82-8e2a-e0a127d147ba
+LK Vorpommern-Greifswald,VG,0,Mecklenburg-Vorpommern,0,11013075,61d12020-3f55-5cc9-ac0b-2065792e8e10
+LK Ludwigslust-Parchim,LUP,0,Mecklenburg-Vorpommern,0,11013076,389afdc8-c2cd-5eb1-a7d7-ae159b9f2c35
+SK Chemnitz,C,0,Sachsen,0,11014511,fdba1dd9-0081-52f8-b8d6-0d153fa23f33
+LK Erzgebirgskreis,ERZ,0,Sachsen,0,11014521,b13d2d74-85a2-5595-bca5-bf9f8021ad90
+LK Mittelsachsen,FG,0,Sachsen,0,11014522,870ceb08-497d-5fa0-a1a7-fb8edccd0863
+LK Vogtlandkreis,V,0,Sachsen,0,11014523,443514a2-4368-5d22-b2a7-7de21c0854b6
+LK Zwickau,Z,0,Sachsen,0,11014524,f8237b68-dfae-5725-bbd0-927568698c9d
+SK Dresden,DD,0,Sachsen,0,11014612,ef43142f-86bd-5e73-a7cc-e61cdd005aaa
+LK Bautzen,BZ,0,Sachsen,0,11014625,6543a153-89d9-5f5f-b63e-26722c8f46d1
+LK Görlitz,GR,0,Sachsen,0,11014626,6250ba77-bf77-527c-8ce7-c8901e27b087
+LK Meißen,MEI,0,Sachsen,0,11014627,5bc2360d-fd17-5fad-a92d-e10cbb4cd312
+LK Sächsische Schweiz-Osterzgebirge,PIR,0,Sachsen,0,11014628,0d7dd4b9-5f42-521b-bc8f-b5808c3415e4
+SK Leipzig,L,0,Sachsen,0,11014713,8593f57b-0138-5459-996b-99928a83be9e
+LK Leipzig,L,0,Sachsen,0,11014729,6e6d7d40-2a6e-54be-9be4-b382704245b7
+LK Nordsachsen,TDO,0,Sachsen,0,11014730,4ade052c-05ee-5485-a101-4c82b8ce117f
+SK Dessau-Roßlau,DE,0,Sachsen-Anhalt,0,11015001,68a0fd61-343f-5aee-a3d5-c5f041425229
+SK Halle,HAL,0,Sachsen-Anhalt,0,11015002,d7c1e376-f868-59eb-a376-7f15c6af1d5e
+SK Magdeburg,MD,0,Sachsen-Anhalt,0,11015003,3d4fbf70-3713-5525-a534-facc464501a8
+LK Altmarkkreis Salzwedel,SAW,0,Sachsen-Anhalt,0,11015081,269c196d-c82c-5db9-a574-d4483e234bb8
+LK Anhalt-Bitterfeld,BTF,0,Sachsen-Anhalt,0,11015082,668ef067-eb0e-53c7-9583-3d811d2b883f
+LK Börde,BÖ,0,Sachsen-Anhalt,0,11015083,ab37538b-a259-5362-8b56-c833875e0149
+LK Burgenlandkreis,BLK,0,Sachsen-Anhalt,0,11015084,2d02d4df-579f-5816-9a6f-66421da6efd7
+LK Harz,HZ,0,Sachsen-Anhalt,0,11015085,ac3f505a-f434-5c72-9899-05b9b6e3fd42
+LK Jerichower Land,JL,0,Sachsen-Anhalt,0,11015086,6d8b1678-0958-5bc8-906a-0bf78423382d
+LK Mansfeld-Südharz,MSH,0,Sachsen-Anhalt,0,11015087,914a64b7-18af-5ccc-9c9e-a909f40506d1
+LK Saalekreis,SK,0,Sachsen-Anhalt,0,11015088,e8aa5e11-de29-55a3-a8eb-88a6db7aa4b3
+LK Salzlandkreis,SLK,0,Sachsen-Anhalt,0,11015089,74011844-5878-5c1e-b2c4-d1007e95a630
+LK Stendal,SDL,0,Sachsen-Anhalt,0,11015090,d579c11a-435f-50b4-a1ad-d94f34e838c3
+LK Wittenberg,WB,0,Sachsen-Anhalt,0,11015091,b20e14f7-ed83-5ecd-8bea-47817b274ac5
+SK Erfurt,EF,0,Thüringen,0,11016051,6e0e7785-007b-59f8-b6b3-707e84d6055f
+SK Gera,G,0,Thüringen,0,11016052,7c8e6c98-0b3d-51bd-899f-5ac0702674bf
+SK Jena,J,0,Thüringen,0,11016053,e4c15b7b-8709-5fa8-b7c7-6fa8cfef9037
+SK Suhl,SHL,0,Thüringen,0,11016054,a691b295-5df8-5cc4-8ef3-10d87679215e
+SK Weimar,WE,0,Thüringen,0,11016055,a0e816a4-be7d-5c95-9d15-cac1c7b6ac17
+SK Eisenach,EA,0,Thüringen,0,11016056,0750a991-9b77-594f-a60d-8fff1c2ec7a0
+LK Eichsfeld,EIC,0,Thüringen,0,11016061,f4036f5d-6238-5665-b8a3-c3bb6a69092a
+LK Nordhausen,NDH,0,Thüringen,0,11016062,bdacde8a-9399-5200-96f3-e20ac48480a0
+LK Wartburgkreis,WAK,0,Thüringen,0,11016063,1b5063d5-2bcb-571c-8a4f-4cd2d84d7d49
+LK Unstrut-Hainich-Kreis,UH,0,Thüringen,0,11016064,0ef357cc-a95a-5011-8227-6af2dacb121d
+LK Kyffhäuserkreis,KYF,0,Thüringen,0,11016065,e34d458b-fdc6-5cde-a33e-cff1738636f9
+LK Schmalkalden-Meiningen,SM,0,Thüringen,0,11016066,2013ee3e-d2c4-5e44-bf0a-61fe15cc780a
+LK Gotha,GTH,0,Thüringen,0,11016067,5228909a-8d36-52d8-97ec-818cff991f85
+LK Sömmerda,SÖM,0,Thüringen,0,11016068,68f7a714-814f-5c2e-8350-529aa073d973
+LK Hildburghausen,SHL,0,Thüringen,0,11016069,9104a596-a020-5ae5-966b-12a0ac986ae6
+LK Ilm-Kreis,SHL,0,Thüringen,0,11016070,03eba563-d341-5997-93f9-ec710022d778
+LK Weimarer Land,WE,0,Thüringen,0,11016071,faf941cf-f82e-5be8-927a-c03862f8ae48
+LK Sonneberg,SON,0,Thüringen,0,11016072,4d3abdea-fc55-5485-9187-99298413ae57
+LK Saalfeld-Rudolstadt,SLF,0,Thüringen,0,11016073,022f7c4b-f4b3-588e-86f4-3ab1e31e59f9
+LK Saale-Holzland-Kreis,SHK,0,Thüringen,0,11016074,fa256d63-ebed-5b02-ac8c-bfcaf295ddac
+LK Saale-Orla-Kreis,SOK,0,Thüringen,0,11016075,1a4fd99f-f83b-56f2-a76c-67e57ee869c4
+LK Greiz,GRZ,0,Thüringen,0,11016076,50288692-93e1-5680-820b-1c668f90509f
+LK Altenburger Land,ABG,0,Thüringen,0,11016077,16bb9f3c-7f40-564d-b838-cbc403c19d50

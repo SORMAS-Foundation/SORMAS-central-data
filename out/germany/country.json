@@ -1,0 +1,2788 @@
+[
+  {
+    "key": "5c73b064-6bbc-5b02-ad81-f5c8aef034bf",
+    "value": {
+      "isoCode": "AFG",
+      "defaultName": "Afghanistan",
+      "externalId": "21000212",
+      "unoCode": "4",
+      "uuid": "5c73b064-6bbc-5b02-ad81-f5c8aef034bf",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2022-01-03T11:20:43.298081"
+    }
+  },
+  {
+    "key": "b9ed55e6-1a40-5e0f-94b0-276e9f025827",
+    "value": {
+      "isoCode": "ALB",
+      "defaultName": "Albanien",
+      "externalId": "21000125",
+      "unoCode": "8",
+      "uuid": "b9ed55e6-1a40-5e0f-94b0-276e9f025827",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298085"
+    }
+  },
+  {
+    "key": "03b6c515-4563-5108-aeaf-16d44055d59a",
+    "value": {
+      "isoCode": "DZA",
+      "defaultName": "Algerien",
+      "externalId": "21000352",
+      "unoCode": "12",
+      "uuid": "03b6c515-4563-5108-aeaf-16d44055d59a",
+      "subcontinent": {
+        "uuid": "01ddf3e1-bbe1-5144-aa70-82dd6e1d5f3a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298087"
+    }
+  },
+  {
+    "key": "0c6a0b4c-ccf3-5ce1-a3cc-72189e16dcf4",
+    "value": {
+      "isoCode": "AND",
+      "defaultName": "Andorra",
+      "externalId": "21000130",
+      "unoCode": "20",
+      "uuid": "0c6a0b4c-ccf3-5ce1-a3cc-72189e16dcf4",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298088"
+    }
+  },
+  {
+    "key": "ae8c7211-b18d-5008-925b-6d8e8529830d",
+    "value": {
+      "isoCode": "AGO",
+      "defaultName": "Angola",
+      "externalId": "21000395",
+      "unoCode": "24",
+      "uuid": "ae8c7211-b18d-5008-925b-6d8e8529830d",
+      "subcontinent": {
+        "uuid": "8118b26f-230f-5d8b-8c76-442e82953264"
+      },
+      "changeDate": "2022-01-03T11:20:43.298089"
+    }
+  },
+  {
+    "key": "1ccadce4-4cc5-54c7-a58e-30a6c06508fb",
+    "value": {
+      "isoCode": "ATG",
+      "defaultName": "Antigua und Barbuda",
+      "externalId": "21000441",
+      "unoCode": "28",
+      "uuid": "1ccadce4-4cc5-54c7-a58e-30a6c06508fb",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298090"
+    }
+  },
+  {
+    "key": "ac1d3c22-a6bd-50b5-96eb-c28dea3ccec8",
+    "value": {
+      "isoCode": "AZE",
+      "defaultName": "Aserbaidschan",
+      "externalId": "21000253",
+      "unoCode": "31",
+      "uuid": "ac1d3c22-a6bd-50b5-96eb-c28dea3ccec8",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298091"
+    }
+  },
+  {
+    "key": "41360869-24b9-5eea-be72-78240fcceee3",
+    "value": {
+      "isoCode": "ARG",
+      "defaultName": "Argentinien",
+      "externalId": "21000415",
+      "unoCode": "32",
+      "uuid": "41360869-24b9-5eea-be72-78240fcceee3",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298092"
+    }
+  },
+  {
+    "key": "b308cc45-b841-5d47-b168-7772b50fe5a6",
+    "value": {
+      "isoCode": "AUS",
+      "defaultName": "Australien",
+      "externalId": "21000501",
+      "unoCode": "36",
+      "uuid": "b308cc45-b841-5d47-b168-7772b50fe5a6",
+      "subcontinent": {
+        "uuid": "31938cb5-66d5-57d5-a52a-872bb65d80ed"
+      },
+      "changeDate": "2022-01-03T11:20:43.298093"
+    }
+  },
+  {
+    "key": "35ebf3e7-b695-5206-8e6c-2dff4d83f26c",
+    "value": {
+      "isoCode": "AUT",
+      "defaultName": "Österreich",
+      "externalId": "21000110",
+      "unoCode": "40",
+      "uuid": "35ebf3e7-b695-5206-8e6c-2dff4d83f26c",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2022-01-03T11:20:43.298094"
+    }
+  },
+  {
+    "key": "d0c059a3-9d4c-54bc-bf25-05f87cd4b993",
+    "value": {
+      "isoCode": "BHS",
+      "defaultName": "Bahamas",
+      "externalId": "21000436",
+      "unoCode": "44",
+      "uuid": "d0c059a3-9d4c-54bc-bf25-05f87cd4b993",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298095"
+    }
+  },
+  {
+    "key": "8a08e345-d0f7-5e29-b64c-5eb66511b3db",
+    "value": {
+      "isoCode": "BHR",
+      "defaultName": "Bahrain",
+      "externalId": "21000249",
+      "unoCode": "48",
+      "uuid": "8a08e345-d0f7-5e29-b64c-5eb66511b3db",
+      "subcontinent": {
+        "uuid": "6860af27-f596-5a3b-8730-25c09f733ab5"
+      },
+      "changeDate": "2022-01-03T11:20:43.298096"
+    }
+  },
+  {
+    "key": "07d6f1ec-19d5-53b2-9775-40887d8e8d41",
+    "value": {
+      "isoCode": "BGD",
+      "defaultName": "Bangladesch",
+      "externalId": "21000246",
+      "unoCode": "50",
+      "uuid": "07d6f1ec-19d5-53b2-9775-40887d8e8d41",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2022-01-03T11:20:43.298097"
+    }
+  },
+  {
+    "key": "686e92f6-aea0-5d66-8833-883912d4ccb1",
+    "value": {
+      "isoCode": "ARM",
+      "defaultName": "Armenien",
+      "externalId": "21000252",
+      "unoCode": "51",
+      "uuid": "686e92f6-aea0-5d66-8833-883912d4ccb1",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298098"
+    }
+  },
+  {
+    "key": "92fafaa9-7cf1-50f1-bab5-8458dfbd1333",
+    "value": {
+      "isoCode": "BRB",
+      "defaultName": "Barbados",
+      "externalId": "21000434",
+      "unoCode": "52",
+      "uuid": "92fafaa9-7cf1-50f1-bab5-8458dfbd1333",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298099"
+    }
+  },
+  {
+    "key": "5befa1a2-62a6-52d1-b80a-323f17d25248",
+    "value": {
+      "isoCode": "BEL",
+      "defaultName": "Belgien",
+      "externalId": "21000131",
+      "unoCode": "56",
+      "uuid": "5befa1a2-62a6-52d1-b80a-323f17d25248",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298100"
+    }
+  },
+  {
+    "key": "4d266ba7-8fee-5828-ab2e-05bfe060b94e",
+    "value": {
+      "isoCode": "BTN",
+      "defaultName": "Bhutan",
+      "externalId": "21000214",
+      "unoCode": "64",
+      "uuid": "4d266ba7-8fee-5828-ab2e-05bfe060b94e",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2022-01-03T11:20:43.298101"
+    }
+  },
+  {
+    "key": "e89f12a0-8c98-5982-b408-20e1a395338a",
+    "value": {
+      "isoCode": "BOL",
+      "defaultName": "Bolivien (Plurinationaler Staat von)",
+      "externalId": "21000418",
+      "unoCode": "68",
+      "uuid": "e89f12a0-8c98-5982-b408-20e1a395338a",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298102"
+    }
+  },
+  {
+    "key": "126d37e9-f07e-570f-a8b9-927181884d5c",
+    "value": {
+      "isoCode": "BIH",
+      "defaultName": "Bosnien und Herzegowina",
+      "externalId": "21000118",
+      "unoCode": "70",
+      "uuid": "126d37e9-f07e-570f-a8b9-927181884d5c",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298103"
+    }
+  },
+  {
+    "key": "95545c27-abca-5b73-9f5d-609262808017",
+    "value": {
+      "isoCode": "BWA",
+      "defaultName": "Botswana",
+      "externalId": "21000347",
+      "unoCode": "72",
+      "uuid": "95545c27-abca-5b73-9f5d-609262808017",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2022-01-03T11:20:43.298104"
+    }
+  },
+  {
+    "key": "91131b65-7f13-5637-a27f-46fd7a1d4e4e",
+    "value": {
+      "isoCode": "BRA",
+      "defaultName": "Brasilien",
+      "externalId": "21000416",
+      "unoCode": "76",
+      "uuid": "91131b65-7f13-5637-a27f-46fd7a1d4e4e",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298105"
+    }
+  },
+  {
+    "key": "cfd21e98-c50a-5305-a912-14d643db1405",
+    "value": {
+      "isoCode": "BLZ",
+      "defaultName": "Belize",
+      "externalId": "21000429",
+      "unoCode": "84",
+      "uuid": "cfd21e98-c50a-5305-a912-14d643db1405",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298106"
+    }
+  },
+  {
+    "key": "34736e5d-a578-5c89-a69f-69f944d41327",
+    "value": {
+      "isoCode": "SLB",
+      "defaultName": "Salomonen",
+      "externalId": "21000512",
+      "unoCode": "90",
+      "uuid": "34736e5d-a578-5c89-a69f-69f944d41327",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298107"
+    }
+  },
+  {
+    "key": "6f92b1f9-f2fa-5e58-88a2-d5b3cfc8cc0d",
+    "value": {
+      "isoCode": "BRN",
+      "defaultName": "Brunei Darussalam",
+      "externalId": "21000225",
+      "unoCode": "96",
+      "uuid": "6f92b1f9-f2fa-5e58-88a2-d5b3cfc8cc0d",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2022-01-03T11:20:43.298108"
+    }
+  },
+  {
+    "key": "596c2000-0fe2-5a9e-8f28-14642e039cef",
+    "value": {
+      "isoCode": "BGR",
+      "defaultName": "Bulgarien",
+      "externalId": "21000111",
+      "unoCode": "100",
+      "uuid": "596c2000-0fe2-5a9e-8f28-14642e039cef",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298109"
+    }
+  },
+  {
+    "key": "5eb6b3aa-6f6c-577f-998e-99081a2a12d5",
+    "value": {
+      "isoCode": "MMR",
+      "defaultName": "Myanmar",
+      "externalId": "21000224",
+      "unoCode": "104",
+      "uuid": "5eb6b3aa-6f6c-577f-998e-99081a2a12d5",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298111"
+    }
+  },
+  {
+    "key": "56216fcf-b5d0-500b-a0cd-1437ad58e33f",
+    "value": {
+      "isoCode": "BDI",
+      "defaultName": "Burundi",
+      "externalId": "21000321",
+      "unoCode": "108",
+      "uuid": "56216fcf-b5d0-500b-a0cd-1437ad58e33f",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298112"
+    }
+  },
+  {
+    "key": "31c36579-d6ef-59ce-9642-4b086cee5d8e",
+    "value": {
+      "isoCode": "BLR",
+      "defaultName": "Belarus",
+      "externalId": "21000148",
+      "unoCode": "112",
+      "uuid": "31c36579-d6ef-59ce-9642-4b086cee5d8e",
+      "subcontinent": {
+        "uuid": "b4b305e3-4712-5cdb-a4f0-d6fc1647ea97"
+      },
+      "changeDate": "2022-01-03T11:20:43.298113"
+    }
+  },
+  {
+    "key": "bb8b5513-da98-5bd9-9bd4-809c3c501f9d",
+    "value": {
+      "isoCode": "KHM",
+      "defaultName": "Kambodscha",
+      "externalId": "21000234",
+      "unoCode": "116",
+      "uuid": "bb8b5513-da98-5bd9-9bd4-809c3c501f9d",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298114"
+    }
+  },
+  {
+    "key": "4cd36123-1795-52ca-9420-ba817b6711bb",
+    "value": {
+      "isoCode": "CMR",
+      "defaultName": "Kamerun",
+      "externalId": "21000322",
+      "unoCode": "120",
+      "uuid": "4cd36123-1795-52ca-9420-ba817b6711bb",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2022-01-03T11:20:43.298115"
+    }
+  },
+  {
+    "key": "291e4ae2-d7aa-5310-b7ce-c3b59efd21da",
+    "value": {
+      "isoCode": "CAN",
+      "defaultName": "Kanada",
+      "externalId": "21000401",
+      "unoCode": "124",
+      "uuid": "291e4ae2-d7aa-5310-b7ce-c3b59efd21da",
+      "subcontinent": {
+        "uuid": "924ca0bc-b788-5288-8985-c6150605e394"
+      },
+      "changeDate": "2022-01-03T11:20:43.298116"
+    }
+  },
+  {
+    "key": "4c52508d-380b-539d-8958-534120cef149",
+    "value": {
+      "isoCode": "CPV",
+      "defaultName": "Kap Verde",
+      "externalId": "21000396",
+      "unoCode": "132",
+      "uuid": "4c52508d-380b-539d-8958-534120cef149",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298117"
+    }
+  },
+  {
+    "key": "2c803ec4-f124-5e0c-9a58-668e9d843f09",
+    "value": {
+      "isoCode": "CAF",
+      "defaultName": "Zentralafrikanische Republik",
+      "externalId": "21000323",
+      "unoCode": "140",
+      "uuid": "2c803ec4-f124-5e0c-9a58-668e9d843f09",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2022-01-03T11:20:43.298118"
+    }
+  },
+  {
+    "key": "f6ad1a3e-ce47-501e-b828-bc4be2dfe0e2",
+    "value": {
+      "isoCode": "LKA",
+      "defaultName": "Sri Lanka",
+      "externalId": "21000235",
+      "unoCode": "144",
+      "uuid": "f6ad1a3e-ce47-501e-b828-bc4be2dfe0e2",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2022-01-03T11:20:43.298119"
+    }
+  },
+  {
+    "key": "45862a80-07e0-5d65-aa84-4f19fa25f4a4",
+    "value": {
+      "isoCode": "TCD",
+      "defaultName": "Tschad",
+      "externalId": "21000344",
+      "unoCode": "148",
+      "uuid": "45862a80-07e0-5d65-aa84-4f19fa25f4a4",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2022-01-03T11:20:43.298120"
+    }
+  },
+  {
+    "key": "20c41fed-2bb1-5f9e-a716-249d789f067a",
+    "value": {
+      "isoCode": "CHL",
+      "defaultName": "Chile",
+      "externalId": "21000417",
+      "unoCode": "152",
+      "uuid": "20c41fed-2bb1-5f9e-a716-249d789f067a",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298121"
+    }
+  },
+  {
+    "key": "c7d5796e-9e4f-5148-9095-7c5ba6dfd8c2",
+    "value": {
+      "isoCode": "CHN",
+      "defaultName": "China",
+      "externalId": "21000216",
+      "unoCode": "156",
+      "uuid": "c7d5796e-9e4f-5148-9095-7c5ba6dfd8c2",
+      "subcontinent": {
+        "uuid": "18772b13-23d3-5744-9558-06daeb2962f0"
+      },
+      "changeDate": "2022-01-03T11:20:43.298122"
+    }
+  },
+  {
+    "key": "4953fb43-22be-5e5c-9f5e-b03ccc99b5d3",
+    "value": {
+      "isoCode": "COL",
+      "defaultName": "Kolumbien",
+      "externalId": "21000419",
+      "unoCode": "170",
+      "uuid": "4953fb43-22be-5e5c-9f5e-b03ccc99b5d3",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298123"
+    }
+  },
+  {
+    "key": "668fb5f4-58b0-5ccf-a3d3-f8ccde5efb5e",
+    "value": {
+      "isoCode": "COM",
+      "defaultName": "Komoren",
+      "externalId": "21000397",
+      "unoCode": "174",
+      "uuid": "668fb5f4-58b0-5ccf-a3d3-f8ccde5efb5e",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298124"
+    }
+  },
+  {
+    "key": "7f952cf1-4ded-554c-bf83-755711d0058c",
+    "value": {
+      "isoCode": "COG",
+      "defaultName": "Kongo (Brazzaville)",
+      "externalId": "21000324",
+      "unoCode": "178",
+      "uuid": "7f952cf1-4ded-554c-bf83-755711d0058c",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2022-01-03T11:20:43.298125"
+    }
+  },
+  {
+    "key": "751c5d90-dc0d-5ada-b536-0134a0e864e5",
+    "value": {
+      "isoCode": "COD",
+      "defaultName": "Demokratische Republik Kongo",
+      "externalId": "21000312",
+      "unoCode": "180",
+      "uuid": "751c5d90-dc0d-5ada-b536-0134a0e864e5",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2022-01-03T11:20:43.298126"
+    }
+  },
+  {
+    "key": "71b610ef-0450-5672-9413-3045792189da",
+    "value": {
+      "isoCode": "COK",
+      "defaultName": "Cookinseln",
+      "externalId": "21000528",
+      "unoCode": "184",
+      "uuid": "71b610ef-0450-5672-9413-3045792189da",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298127"
+    }
+  },
+  {
+    "key": "fa77b7cb-15f3-5cf9-b668-23a489d36161",
+    "value": {
+      "isoCode": "CRI",
+      "defaultName": "Costa Rica",
+      "externalId": "21000406",
+      "unoCode": "188",
+      "uuid": "fa77b7cb-15f3-5cf9-b668-23a489d36161",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298128"
+    }
+  },
+  {
+    "key": "1a363274-c5f5-5d1c-baef-e61c9fba4540",
+    "value": {
+      "isoCode": "HRV",
+      "defaultName": "Kroatien",
+      "externalId": "21000119",
+      "unoCode": "191",
+      "uuid": "1a363274-c5f5-5d1c-baef-e61c9fba4540",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298129"
+    }
+  },
+  {
+    "key": "a42f1be8-1fc8-5cad-9667-19450eedef5d",
+    "value": {
+      "isoCode": "CUB",
+      "defaultName": "Kuba",
+      "externalId": "21000407",
+      "unoCode": "192",
+      "uuid": "a42f1be8-1fc8-5cad-9667-19450eedef5d",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298130"
+    }
+  },
+  {
+    "key": "36bf3e33-82f2-534a-b07f-066891b6bf86",
+    "value": {
+      "isoCode": "CYP",
+      "defaultName": "Zypern",
+      "externalId": "21000209",
+      "unoCode": "196",
+      "uuid": "36bf3e33-82f2-534a-b07f-066891b6bf86",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298131"
+    }
+  },
+  {
+    "key": "54d84fec-0449-53f7-834a-e5abae805b23",
+    "value": {
+      "isoCode": "CZE",
+      "defaultName": "Tschechische Republik",
+      "externalId": "21000116",
+      "unoCode": "203",
+      "uuid": "54d84fec-0449-53f7-834a-e5abae805b23",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2022-01-03T11:20:43.298132"
+    }
+  },
+  {
+    "key": "65481ac4-8b53-53b4-b817-e1c735932017",
+    "value": {
+      "isoCode": "BEN",
+      "defaultName": "Benin",
+      "externalId": "21000327",
+      "unoCode": "204",
+      "uuid": "65481ac4-8b53-53b4-b817-e1c735932017",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298133"
+    }
+  },
+  {
+    "key": "5ccc34d3-2282-5208-959c-35b95a0be801",
+    "value": {
+      "isoCode": "DNK",
+      "defaultName": "Dänemark",
+      "externalId": "21000101",
+      "unoCode": "208",
+      "uuid": "5ccc34d3-2282-5208-959c-35b95a0be801",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298134"
+    }
+  },
+  {
+    "key": "facebcd7-03c2-5c80-8aa3-449f43a14ab7",
+    "value": {
+      "isoCode": "DMA",
+      "defaultName": "Dominica",
+      "externalId": "21000438",
+      "unoCode": "212",
+      "uuid": "facebcd7-03c2-5c80-8aa3-449f43a14ab7",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298136"
+    }
+  },
+  {
+    "key": "9625bf31-bdaf-5b95-8fd1-bb091e06832b",
+    "value": {
+      "isoCode": "DOM",
+      "defaultName": "Dominikanische Republik",
+      "externalId": "21000408",
+      "unoCode": "214",
+      "uuid": "9625bf31-bdaf-5b95-8fd1-bb091e06832b",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298137"
+    }
+  },
+  {
+    "key": "c85c3d1e-fff8-520c-b7f0-208ecdc560ce",
+    "value": {
+      "isoCode": "ECU",
+      "defaultName": "Ecuador",
+      "externalId": "21000420",
+      "unoCode": "218",
+      "uuid": "c85c3d1e-fff8-520c-b7f0-208ecdc560ce",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298138"
+    }
+  },
+  {
+    "key": "68872cda-71cf-570f-a2e0-cc3ab7baa853",
+    "value": {
+      "isoCode": "SLV",
+      "defaultName": "El Salvador",
+      "externalId": "21000414",
+      "unoCode": "222",
+      "uuid": "68872cda-71cf-570f-a2e0-cc3ab7baa853",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298139"
+    }
+  },
+  {
+    "key": "05e3d32a-a41d-5926-aa37-7ef4ee26b986",
+    "value": {
+      "isoCode": "GNQ",
+      "defaultName": "Äquatorialguinea",
+      "externalId": "21000314",
+      "unoCode": "226",
+      "uuid": "05e3d32a-a41d-5926-aa37-7ef4ee26b986",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2022-01-03T11:20:43.298140"
+    }
+  },
+  {
+    "key": "63467e13-8251-593b-9c4c-2dd9679c0693",
+    "value": {
+      "isoCode": "ETH",
+      "defaultName": "Äthiopien",
+      "externalId": "21000315",
+      "unoCode": "231",
+      "uuid": "63467e13-8251-593b-9c4c-2dd9679c0693",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298141"
+    }
+  },
+  {
+    "key": "11bac19b-c99d-5720-b2c9-1be2a695ec24",
+    "value": {
+      "isoCode": "ERI",
+      "defaultName": "Eritrea",
+      "externalId": "21000317",
+      "unoCode": "232",
+      "uuid": "11bac19b-c99d-5720-b2c9-1be2a695ec24",
+      "subcontinent": {
+        "uuid": "b319752a-27f4-5375-a5e4-7c43b8cd9812"
+      },
+      "changeDate": "2022-01-03T11:20:43.298142"
+    }
+  },
+  {
+    "key": "9a97b0d7-a53c-5d60-89cf-d08c79984a73",
+    "value": {
+      "isoCode": "EST",
+      "defaultName": "Estland",
+      "externalId": "21000106",
+      "unoCode": "233",
+      "uuid": "9a97b0d7-a53c-5d60-89cf-d08c79984a73",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298143"
+    }
+  },
+  {
+    "key": "515a4547-7c3a-55f5-a6e5-7afc9950521f",
+    "value": {
+      "isoCode": "FJI",
+      "defaultName": "Fidschi",
+      "externalId": "21000508",
+      "unoCode": "242",
+      "uuid": "515a4547-7c3a-55f5-a6e5-7afc9950521f",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298162"
+    }
+  },
+  {
+    "key": "a46b1a8c-cbd2-51c2-a09d-c7b83100f147",
+    "value": {
+      "isoCode": "FIN",
+      "defaultName": "Finnland",
+      "externalId": "21000105",
+      "unoCode": "246",
+      "uuid": "a46b1a8c-cbd2-51c2-a09d-c7b83100f147",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298163"
+    }
+  },
+  {
+    "key": "198e9040-0fcf-59df-b10b-40f252ef6d8b",
+    "value": {
+      "isoCode": "FRA",
+      "defaultName": "Frankreich",
+      "externalId": "21000150",
+      "unoCode": "250",
+      "uuid": "198e9040-0fcf-59df-b10b-40f252ef6d8b",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298165"
+    }
+  },
+  {
+    "key": "cc6b988e-1ac0-526e-87b7-39bff4cdb4f7",
+    "value": {
+      "isoCode": "DJI",
+      "defaultName": "Dschibuti",
+      "externalId": "21000399",
+      "unoCode": "262",
+      "uuid": "cc6b988e-1ac0-526e-87b7-39bff4cdb4f7",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298166"
+    }
+  },
+  {
+    "key": "c902fa27-57c0-5725-81ae-07e566cbb57b",
+    "value": {
+      "isoCode": "GAB",
+      "defaultName": "Gabun",
+      "externalId": "21000328",
+      "unoCode": "266",
+      "uuid": "c902fa27-57c0-5725-81ae-07e566cbb57b",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2022-01-03T11:20:43.298167"
+    }
+  },
+  {
+    "key": "d36b48a9-9e89-50a6-8efc-35128240c0a8",
+    "value": {
+      "isoCode": "GEO",
+      "defaultName": "Georgien",
+      "externalId": "21000255",
+      "unoCode": "268",
+      "uuid": "d36b48a9-9e89-50a6-8efc-35128240c0a8",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298168"
+    }
+  },
+  {
+    "key": "6eb94cc8-4eb5-533f-a96e-3302df7f6ae3",
+    "value": {
+      "isoCode": "GMB",
+      "defaultName": "Gambia",
+      "externalId": "21000304",
+      "unoCode": "270",
+      "uuid": "6eb94cc8-4eb5-533f-a96e-3302df7f6ae3",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298169"
+    }
+  },
+  {
+    "key": "9a771d8e-55d5-5ad0-9264-59aff0522dc2",
+    "value": {
+      "isoCode": "PSE",
+      "defaultName": "Palästina",
+      "externalId": "21000261",
+      "unoCode": "275",
+      "uuid": "9a771d8e-55d5-5ad0-9264-59aff0522dc2",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298170"
+    }
+  },
+  {
+    "key": "2c5c1849-9d24-5c63-beab-ddb0965c89d8",
+    "value": {
+      "isoCode": "DEU",
+      "defaultName": "Deutschland",
+      "externalId": "21000109",
+      "unoCode": "276",
+      "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298188"
+    }
+  },
+  {
+    "key": "0d99934d-0cdd-53dc-acf2-202246ac75d2",
+    "value": {
+      "isoCode": "GHA",
+      "defaultName": "Ghana",
+      "externalId": "21000329",
+      "unoCode": "288",
+      "uuid": "0d99934d-0cdd-53dc-acf2-202246ac75d2",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298189"
+    }
+  },
+  {
+    "key": "e05059e7-2fb4-5f6a-9df9-e8c497a8e2c0",
+    "value": {
+      "isoCode": "KIR",
+      "defaultName": "Kiribati",
+      "externalId": "21000513",
+      "unoCode": "296",
+      "uuid": "e05059e7-2fb4-5f6a-9df9-e8c497a8e2c0",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298190"
+    }
+  },
+  {
+    "key": "e9ffa733-3244-5767-8da7-a66fd53e98e2",
+    "value": {
+      "isoCode": "GRC",
+      "defaultName": "Griechenland",
+      "externalId": "21000126",
+      "unoCode": "300",
+      "uuid": "e9ffa733-3244-5767-8da7-a66fd53e98e2",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298191"
+    }
+  },
+  {
+    "key": "484fb93f-3fa7-5cf1-80c3-138fe459b492",
+    "value": {
+      "isoCode": "GRL",
+      "defaultName": "Grönland",
+      "externalId": "21000430",
+      "unoCode": "304",
+      "uuid": "484fb93f-3fa7-5cf1-80c3-138fe459b492",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298192"
+    }
+  },
+  {
+    "key": "04c10531-d821-5274-80f6-8ddfa5b47840",
+    "value": {
+      "isoCode": "GRD",
+      "defaultName": "Grenada",
+      "externalId": "21000435",
+      "unoCode": "308",
+      "uuid": "04c10531-d821-5274-80f6-8ddfa5b47840",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298194"
+    }
+  },
+  {
+    "key": "3b21a4ff-22d6-563a-a091-c43022090792",
+    "value": {
+      "isoCode": "GTM",
+      "defaultName": "Guatemala",
+      "externalId": "21000409",
+      "unoCode": "320",
+      "uuid": "3b21a4ff-22d6-563a-a091-c43022090792",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298195"
+    }
+  },
+  {
+    "key": "7709882e-eae3-5cce-967d-5ff5bd068eaf",
+    "value": {
+      "isoCode": "GIN",
+      "defaultName": "Guinea",
+      "externalId": "21000330",
+      "unoCode": "324",
+      "uuid": "7709882e-eae3-5cce-967d-5ff5bd068eaf",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298196"
+    }
+  },
+  {
+    "key": "17dd7b11-2d9b-5657-aed0-66a366414ea6",
+    "value": {
+      "isoCode": "GUY",
+      "defaultName": "Guyana",
+      "externalId": "21000428",
+      "unoCode": "328",
+      "uuid": "17dd7b11-2d9b-5657-aed0-66a366414ea6",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298197"
+    }
+  },
+  {
+    "key": "2f2e90fa-23bd-5052-ba91-7dc7fe5a5b55",
+    "value": {
+      "isoCode": "HTI",
+      "defaultName": "Haiti",
+      "externalId": "21000410",
+      "unoCode": "332",
+      "uuid": "2f2e90fa-23bd-5052-ba91-7dc7fe5a5b55",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298198"
+    }
+  },
+  {
+    "key": "ddec0f7a-5bb1-5e35-8bf9-b20b9d824ee3",
+    "value": {
+      "isoCode": "VAT",
+      "defaultName": "Vatikanstadt",
+      "externalId": "21000129",
+      "unoCode": "336",
+      "uuid": "ddec0f7a-5bb1-5e35-8bf9-b20b9d824ee3",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298199"
+    }
+  },
+  {
+    "key": "bfe61b8c-d5be-5c4d-996a-b712f1493fbd",
+    "value": {
+      "isoCode": "HND",
+      "defaultName": "Honduras",
+      "externalId": "21000411",
+      "unoCode": "340",
+      "uuid": "bfe61b8c-d5be-5c4d-996a-b712f1493fbd",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298200"
+    }
+  },
+  {
+    "key": "f454b2ba-7a39-5c23-9d62-7933a8679c6c",
+    "value": {
+      "isoCode": "HUN",
+      "defaultName": "Ungarn",
+      "externalId": "21000112",
+      "unoCode": "348",
+      "uuid": "f454b2ba-7a39-5c23-9d62-7933a8679c6c",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2022-01-03T11:20:43.298201"
+    }
+  },
+  {
+    "key": "d437c66a-1536-5514-96f9-8710c39de228",
+    "value": {
+      "isoCode": "ISL",
+      "defaultName": "Island",
+      "externalId": "21000102",
+      "unoCode": "352",
+      "uuid": "d437c66a-1536-5514-96f9-8710c39de228",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298202"
+    }
+  },
+  {
+    "key": "db5c7ccf-0102-5bed-89bb-cfc1caaee490",
+    "value": {
+      "isoCode": "IND",
+      "defaultName": "Indien",
+      "externalId": "21000223",
+      "unoCode": "356",
+      "uuid": "db5c7ccf-0102-5bed-89bb-cfc1caaee490",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298203"
+    }
+  },
+  {
+    "key": "30e7072d-bd31-525f-8955-86d525aba3aa",
+    "value": {
+      "isoCode": "IDN",
+      "defaultName": "Indonesien",
+      "externalId": "21000231",
+      "unoCode": "360",
+      "uuid": "30e7072d-bd31-525f-8955-86d525aba3aa",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298204"
+    }
+  },
+  {
+    "key": "b065ebb8-1b6e-5622-b240-d8938fe3dfe9",
+    "value": {
+      "isoCode": "IRN",
+      "defaultName": "Iran (Islamische Republik)",
+      "externalId": "21000204",
+      "unoCode": "364",
+      "uuid": "b065ebb8-1b6e-5622-b240-d8938fe3dfe9",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298205"
+    }
+  },
+  {
+    "key": "d389c084-34a9-5922-bffa-b14f1a776b07",
+    "value": {
+      "isoCode": "IRQ",
+      "defaultName": "Irak",
+      "externalId": "21000203",
+      "unoCode": "368",
+      "uuid": "d389c084-34a9-5922-bffa-b14f1a776b07",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298206"
+    }
+  },
+  {
+    "key": "7ce9a550-2c26-51d1-b26e-ae2bfbd7954f",
+    "value": {
+      "isoCode": "IRL",
+      "defaultName": "Irland",
+      "externalId": "21000136",
+      "unoCode": "372",
+      "uuid": "7ce9a550-2c26-51d1-b26e-ae2bfbd7954f",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298207"
+    }
+  },
+  {
+    "key": "ea1c40a5-3543-5959-a5e7-6e45a3f0fc85",
+    "value": {
+      "isoCode": "ISR",
+      "defaultName": "Israel",
+      "externalId": "21000207",
+      "unoCode": "376",
+      "uuid": "ea1c40a5-3543-5959-a5e7-6e45a3f0fc85",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298208"
+    }
+  },
+  {
+    "key": "edb3a62c-1455-538f-835b-a9a6d9d0ea5b",
+    "value": {
+      "isoCode": "ITA",
+      "defaultName": "Italien",
+      "externalId": "21000127",
+      "unoCode": "380",
+      "uuid": "edb3a62c-1455-538f-835b-a9a6d9d0ea5b",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298209"
+    }
+  },
+  {
+    "key": "f48468d4-cc6f-56db-81bf-f3be280038d9",
+    "value": {
+      "isoCode": "CIV",
+      "defaultName": "Elfenbeinküste (Côte d'Ivoire )",
+      "externalId": "21000326",
+      "unoCode": "384",
+      "uuid": "f48468d4-cc6f-56db-81bf-f3be280038d9",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298211"
+    }
+  },
+  {
+    "key": "a9aa26a8-182d-5a14-857f-4c44958cddce",
+    "value": {
+      "isoCode": "JAM",
+      "defaultName": "Jamaika",
+      "externalId": "21000426",
+      "unoCode": "388",
+      "uuid": "a9aa26a8-182d-5a14-857f-4c44958cddce",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298212"
+    }
+  },
+  {
+    "key": "da7325b9-fc1c-5e7d-b707-0e917b48b984",
+    "value": {
+      "isoCode": "JPN",
+      "defaultName": "Japan",
+      "externalId": "21000217",
+      "unoCode": "392",
+      "uuid": "da7325b9-fc1c-5e7d-b707-0e917b48b984",
+      "subcontinent": {
+        "uuid": "18772b13-23d3-5744-9558-06daeb2962f0"
+      },
+      "changeDate": "2022-01-03T11:20:43.298213"
+    }
+  },
+  {
+    "key": "f3789ef7-994c-5e1b-8794-49b808aa102a",
+    "value": {
+      "isoCode": "KAZ",
+      "defaultName": "Kasachstan",
+      "externalId": "21000256",
+      "unoCode": "398",
+      "uuid": "f3789ef7-994c-5e1b-8794-49b808aa102a",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2022-01-03T11:20:43.298214"
+    }
+  },
+  {
+    "key": "fddb8943-6ac9-5382-bf5d-1aa5db8680da",
+    "value": {
+      "isoCode": "JOR",
+      "defaultName": "Jordanien",
+      "externalId": "21000222",
+      "unoCode": "400",
+      "uuid": "fddb8943-6ac9-5382-bf5d-1aa5db8680da",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298215"
+    }
+  },
+  {
+    "key": "6b4da104-800e-5e34-aede-83dc0899e2f9",
+    "value": {
+      "isoCode": "KEN",
+      "defaultName": "Kenia",
+      "externalId": "21000332",
+      "unoCode": "404",
+      "uuid": "6b4da104-800e-5e34-aede-83dc0899e2f9",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298216"
+    }
+  },
+  {
+    "key": "7796f4e9-5a89-5645-aff2-e858bbfdc68b",
+    "value": {
+      "isoCode": "PRK",
+      "defaultName": "Nordkorea (Demokratische Volksrepublik Korea)",
+      "externalId": "21000238",
+      "unoCode": "408",
+      "uuid": "7796f4e9-5a89-5645-aff2-e858bbfdc68b",
+      "subcontinent": {
+        "uuid": "18772b13-23d3-5744-9558-06daeb2962f0"
+      },
+      "changeDate": "2022-01-03T11:20:43.298217"
+    }
+  },
+  {
+    "key": "a03f4ccb-c907-5e08-b907-db2b601478a8",
+    "value": {
+      "isoCode": "KOR",
+      "defaultName": "Südkorea (Republik Korea) ",
+      "externalId": "21000239",
+      "unoCode": "410",
+      "uuid": "a03f4ccb-c907-5e08-b907-db2b601478a8",
+      "subcontinent": {
+        "uuid": "18772b13-23d3-5744-9558-06daeb2962f0"
+      },
+      "changeDate": "2022-01-03T11:20:43.298218"
+    }
+  },
+  {
+    "key": "8dffed1b-e7f5-5bc6-8aec-030b407acdd7",
+    "value": {
+      "isoCode": "KWT",
+      "defaultName": "Kuwait",
+      "externalId": "21000240",
+      "unoCode": "414",
+      "uuid": "8dffed1b-e7f5-5bc6-8aec-030b407acdd7",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298219"
+    }
+  },
+  {
+    "key": "f2867d17-c959-554e-a42b-523777e0bbd6",
+    "value": {
+      "isoCode": "KGZ",
+      "defaultName": "Kirgisistan",
+      "externalId": "21000257",
+      "unoCode": "417",
+      "uuid": "f2867d17-c959-554e-a42b-523777e0bbd6",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2022-01-03T11:20:43.298220"
+    }
+  },
+  {
+    "key": "f08e8e7e-e722-59a3-8acf-73bef4e43593",
+    "value": {
+      "isoCode": "LAO",
+      "defaultName": "Laos, Volksdemokratische Republik",
+      "externalId": "21000241",
+      "unoCode": "418",
+      "uuid": "f08e8e7e-e722-59a3-8acf-73bef4e43593",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298221"
+    }
+  },
+  {
+    "key": "bdbd36bd-22c9-54e4-923e-1e6e29325dbf",
+    "value": {
+      "isoCode": "LBN",
+      "defaultName": "Libanon",
+      "externalId": "21000205",
+      "unoCode": "422",
+      "uuid": "bdbd36bd-22c9-54e4-923e-1e6e29325dbf",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298222"
+    }
+  },
+  {
+    "key": "4008a466-a159-53cb-8092-5fae2c3b50f8",
+    "value": {
+      "isoCode": "LSO",
+      "defaultName": "Lesotho",
+      "externalId": "21000348",
+      "unoCode": "426",
+      "uuid": "4008a466-a159-53cb-8092-5fae2c3b50f8",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2022-01-03T11:20:43.298223"
+    }
+  },
+  {
+    "key": "b62ca846-5020-5fb2-93fa-dbedbc8b0cd8",
+    "value": {
+      "isoCode": "LVA",
+      "defaultName": "Lettland",
+      "externalId": "21000107",
+      "unoCode": "428",
+      "uuid": "b62ca846-5020-5fb2-93fa-dbedbc8b0cd8",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298224"
+    }
+  },
+  {
+    "key": "413e1fad-943c-530e-9790-b5c9b7023573",
+    "value": {
+      "isoCode": "LBR",
+      "defaultName": "Liberia",
+      "externalId": "21000302",
+      "unoCode": "430",
+      "uuid": "413e1fad-943c-530e-9790-b5c9b7023573",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298225"
+    }
+  },
+  {
+    "key": "57acea0d-bc82-54a5-b46f-b425faaf789b",
+    "value": {
+      "isoCode": "LBY",
+      "defaultName": "Libyen",
+      "externalId": "21000316",
+      "unoCode": "434",
+      "uuid": "57acea0d-bc82-54a5-b46f-b425faaf789b",
+      "subcontinent": {
+        "uuid": "ef835a1c-59f3-5d4b-a5ce-09dd780f2ea9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298226"
+    }
+  },
+  {
+    "key": "804dbbf3-5938-5639-bcc7-4d000ff115b3",
+    "value": {
+      "isoCode": "LIE",
+      "defaultName": "Liechtenstein",
+      "externalId": "21000113",
+      "unoCode": "438",
+      "uuid": "804dbbf3-5938-5639-bcc7-4d000ff115b3",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2022-01-03T11:20:43.298227"
+    }
+  },
+  {
+    "key": "8831304b-9e33-5442-96b3-c121ab12d384",
+    "value": {
+      "isoCode": "LTU",
+      "defaultName": "Litauen",
+      "externalId": "21000108",
+      "unoCode": "440",
+      "uuid": "8831304b-9e33-5442-96b3-c121ab12d384",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298228"
+    }
+  },
+  {
+    "key": "6cf95549-c69f-5f39-b90a-35f58b10227f",
+    "value": {
+      "isoCode": "LUX",
+      "defaultName": "Luxemburg",
+      "externalId": "21000137",
+      "unoCode": "442",
+      "uuid": "6cf95549-c69f-5f39-b90a-35f58b10227f",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298229"
+    }
+  },
+  {
+    "key": "c361e900-2e24-52b0-b328-d61f59875acb",
+    "value": {
+      "isoCode": "MDG",
+      "defaultName": "Madagaskar",
+      "externalId": "21000333",
+      "unoCode": "450",
+      "uuid": "c361e900-2e24-52b0-b328-d61f59875acb",
+      "subcontinent": {
+        "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917"
+      },
+      "changeDate": "2022-01-03T11:20:43.298230"
+    }
+  },
+  {
+    "key": "1c59adef-52d0-5db5-9ee5-86af80e2a33b",
+    "value": {
+      "isoCode": "MWI",
+      "defaultName": "Malawi",
+      "externalId": "21000334",
+      "unoCode": "454",
+      "uuid": "1c59adef-52d0-5db5-9ee5-86af80e2a33b",
+      "subcontinent": {
+        "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917"
+      },
+      "changeDate": "2022-01-03T11:20:43.298231"
+    }
+  },
+  {
+    "key": "b1fb9415-2d65-5f6e-b786-e855df61e086",
+    "value": {
+      "isoCode": "MYS",
+      "defaultName": "Malaysia",
+      "externalId": "21000227",
+      "unoCode": "458",
+      "uuid": "b1fb9415-2d65-5f6e-b786-e855df61e086",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298232"
+    }
+  },
+  {
+    "key": "4dfb10c0-64a5-551c-8fc9-837002b96328",
+    "value": {
+      "isoCode": "MDV",
+      "defaultName": "Malediven",
+      "externalId": "21000229",
+      "unoCode": "462",
+      "uuid": "4dfb10c0-64a5-551c-8fc9-837002b96328",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2022-01-03T11:20:43.298233"
+    }
+  },
+  {
+    "key": "44044f92-e73d-5521-8229-ad65f0b15336",
+    "value": {
+      "isoCode": "MLI",
+      "defaultName": "Mali",
+      "externalId": "21000335",
+      "unoCode": "466",
+      "uuid": "44044f92-e73d-5521-8229-ad65f0b15336",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298235"
+    }
+  },
+  {
+    "key": "77cd73c3-eb0f-5fdf-9ae0-1b21d90fb9f9",
+    "value": {
+      "isoCode": "MLT",
+      "defaultName": "Malta",
+      "externalId": "21000144",
+      "unoCode": "470",
+      "uuid": "77cd73c3-eb0f-5fdf-9ae0-1b21d90fb9f9",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298236"
+    }
+  },
+  {
+    "key": "017c3b68-d27c-5826-a3d7-becd07977da8",
+    "value": {
+      "isoCode": "MRT",
+      "defaultName": "Mauretanien",
+      "externalId": "21000336",
+      "unoCode": "478",
+      "uuid": "017c3b68-d27c-5826-a3d7-becd07977da8",
+      "subcontinent": {
+        "uuid": "01ddf3e1-bbe1-5144-aa70-82dd6e1d5f3a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298237"
+    }
+  },
+  {
+    "key": "1fcd5015-fbcf-5f53-974f-a276c9ad5773",
+    "value": {
+      "isoCode": "MUS",
+      "defaultName": "Mauritius",
+      "externalId": "21000390",
+      "unoCode": "480",
+      "uuid": "1fcd5015-fbcf-5f53-974f-a276c9ad5773",
+      "subcontinent": {
+        "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917"
+      },
+      "changeDate": "2022-01-03T11:20:43.298238"
+    }
+  },
+  {
+    "key": "96ae390f-f287-5fc6-816d-b3a31c865e9b",
+    "value": {
+      "isoCode": "MEX",
+      "defaultName": "Mexiko",
+      "externalId": "21000405",
+      "unoCode": "484",
+      "uuid": "96ae390f-f287-5fc6-816d-b3a31c865e9b",
+      "subcontinent": {
+        "uuid": "924ca0bc-b788-5288-8985-c6150605e394"
+      },
+      "changeDate": "2022-01-03T11:20:43.298239"
+    }
+  },
+  {
+    "key": "45c1c7e5-745f-552b-8306-01f0367bbf02",
+    "value": {
+      "isoCode": "MCO",
+      "defaultName": "Monaco",
+      "externalId": "21000138",
+      "unoCode": "492",
+      "uuid": "45c1c7e5-745f-552b-8306-01f0367bbf02",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298240"
+    }
+  },
+  {
+    "key": "1221c51a-ab04-520c-b900-428dd8337bd5",
+    "value": {
+      "isoCode": "MNG",
+      "defaultName": "Mongolei",
+      "externalId": "21000242",
+      "unoCode": "496",
+      "uuid": "1221c51a-ab04-520c-b900-428dd8337bd5",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2022-01-03T11:20:43.298241"
+    }
+  },
+  {
+    "key": "6b34e2e5-c085-598c-bf0f-50621ba93ba0",
+    "value": {
+      "isoCode": "MDA",
+      "defaultName": "Republik Moldau",
+      "externalId": "21000151",
+      "unoCode": "498",
+      "uuid": "6b34e2e5-c085-598c-bf0f-50621ba93ba0",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298242"
+    }
+  },
+  {
+    "key": "2dc76747-bd69-54f5-a62d-644d15df82d4",
+    "value": {
+      "isoCode": "MNE",
+      "defaultName": "Montenegro",
+      "externalId": "21000158",
+      "unoCode": "499",
+      "uuid": "2dc76747-bd69-54f5-a62d-644d15df82d4",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298243"
+    }
+  },
+  {
+    "key": "996d1006-9423-5f1d-bb23-e5f8bf4537be",
+    "value": {
+      "isoCode": "MAR",
+      "defaultName": "Marokko",
+      "externalId": "21000350",
+      "unoCode": "504",
+      "uuid": "996d1006-9423-5f1d-bb23-e5f8bf4537be",
+      "subcontinent": {
+        "uuid": "01ddf3e1-bbe1-5144-aa70-82dd6e1d5f3a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298244"
+    }
+  },
+  {
+    "key": "cefe3178-6b17-5a29-9a7e-0eec4fc517d8",
+    "value": {
+      "isoCode": "MOZ",
+      "defaultName": "Mosambik",
+      "externalId": "21000393",
+      "unoCode": "508",
+      "uuid": "cefe3178-6b17-5a29-9a7e-0eec4fc517d8",
+      "subcontinent": {
+        "uuid": "56bbaf15-353e-5f35-9b13-cfb14e0ad917"
+      },
+      "changeDate": "2022-01-03T11:20:43.298245"
+    }
+  },
+  {
+    "key": "944fb1f4-fdf8-540e-97d4-cd44c9325c08",
+    "value": {
+      "isoCode": "OMN",
+      "defaultName": "Oman",
+      "externalId": "21000250",
+      "unoCode": "512",
+      "uuid": "944fb1f4-fdf8-540e-97d4-cd44c9325c08",
+      "subcontinent": {
+        "uuid": "6860af27-f596-5a3b-8730-25c09f733ab5"
+      },
+      "changeDate": "2022-01-03T11:20:43.298246"
+    }
+  },
+  {
+    "key": "66c31974-9028-5ff4-adf6-cab71e1eb08f",
+    "value": {
+      "isoCode": "NAM",
+      "defaultName": "Namibia",
+      "externalId": "21000311",
+      "unoCode": "516",
+      "uuid": "66c31974-9028-5ff4-adf6-cab71e1eb08f",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2022-01-03T11:20:43.298247"
+    }
+  },
+  {
+    "key": "30761a8d-ae8e-539f-b462-22ed21bdaa26",
+    "value": {
+      "isoCode": "NRU",
+      "defaultName": "Nauru",
+      "externalId": "21000507",
+      "unoCode": "520",
+      "uuid": "30761a8d-ae8e-539f-b462-22ed21bdaa26",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298248"
+    }
+  },
+  {
+    "key": "89e5e11b-d4c2-5a6e-97d5-438d8cd5f185",
+    "value": {
+      "isoCode": "NPL",
+      "defaultName": "Nepal",
+      "externalId": "21000215",
+      "unoCode": "524",
+      "uuid": "89e5e11b-d4c2-5a6e-97d5-438d8cd5f185",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2022-01-03T11:20:43.298249"
+    }
+  },
+  {
+    "key": "79ba8f52-215e-54fb-91a0-2083b7942c2a",
+    "value": {
+      "isoCode": "NLD",
+      "defaultName": "Niederlande",
+      "externalId": "21000135",
+      "unoCode": "528",
+      "uuid": "79ba8f52-215e-54fb-91a0-2083b7942c2a",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298250"
+    }
+  },
+  {
+    "key": "75edef4b-a7ab-57e3-9efe-fe5ea4724da7",
+    "value": {
+      "isoCode": "NCL",
+      "defaultName": "Neukaledonien",
+      "externalId": "21000518",
+      "unoCode": "540",
+      "uuid": "75edef4b-a7ab-57e3-9efe-fe5ea4724da7",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298251"
+    }
+  },
+  {
+    "key": "2b638f81-494b-5da5-8c69-2b731d5903fc",
+    "value": {
+      "isoCode": "VUT",
+      "defaultName": "Vanuatu",
+      "externalId": "21000514",
+      "unoCode": "548",
+      "uuid": "2b638f81-494b-5da5-8c69-2b731d5903fc",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298252"
+    }
+  },
+  {
+    "key": "4f74a7e6-06f6-50d5-9693-7d9a020c0ced",
+    "value": {
+      "isoCode": "NZL",
+      "defaultName": "Neuseeland",
+      "externalId": "21000502",
+      "unoCode": "554",
+      "uuid": "4f74a7e6-06f6-50d5-9693-7d9a020c0ced",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298253"
+    }
+  },
+  {
+    "key": "9fe8e270-54e1-5fc9-a7d5-b134bee94c81",
+    "value": {
+      "isoCode": "NIC",
+      "defaultName": "Nicaragua",
+      "externalId": "21000412",
+      "unoCode": "558",
+      "uuid": "9fe8e270-54e1-5fc9-a7d5-b134bee94c81",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298254"
+    }
+  },
+  {
+    "key": "e7d41fa2-40c4-59a2-b260-a6f55c2a3b62",
+    "value": {
+      "isoCode": "NER",
+      "defaultName": "Niger",
+      "externalId": "21000337",
+      "unoCode": "562",
+      "uuid": "e7d41fa2-40c4-59a2-b260-a6f55c2a3b62",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298255"
+    }
+  },
+  {
+    "key": "27c50947-a5cf-51b8-93ec-099431047ee4",
+    "value": {
+      "isoCode": "NGA",
+      "defaultName": "Nigeria",
+      "externalId": "21000338",
+      "unoCode": "566",
+      "uuid": "27c50947-a5cf-51b8-93ec-099431047ee4",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298256"
+    }
+  },
+  {
+    "key": "f453f3d8-de0a-5591-98e1-79b7b3aa8e0d",
+    "value": {
+      "isoCode": "NOR",
+      "defaultName": "Norwegen",
+      "externalId": "21000103",
+      "unoCode": "578",
+      "uuid": "f453f3d8-de0a-5591-98e1-79b7b3aa8e0d",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298257"
+    }
+  },
+  {
+    "key": "9dd4c4fe-4069-5bca-b51c-41308a81f48d",
+    "value": {
+      "isoCode": "FSM",
+      "defaultName": "Mikronesien (Föderierte Staaten von)",
+      "externalId": "21000516",
+      "unoCode": "583",
+      "uuid": "9dd4c4fe-4069-5bca-b51c-41308a81f48d",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298258"
+    }
+  },
+  {
+    "key": "9a7a8a0d-229f-5c81-8e34-9deddbba3b22",
+    "value": {
+      "isoCode": "MHL",
+      "defaultName": "Marshallinseln",
+      "externalId": "21000515",
+      "unoCode": "584",
+      "uuid": "9a7a8a0d-229f-5c81-8e34-9deddbba3b22",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298260"
+    }
+  },
+  {
+    "key": "ae8b34c0-92d5-51be-a66f-acc0f881621d",
+    "value": {
+      "isoCode": "PLW",
+      "defaultName": "Palau",
+      "externalId": "21000517",
+      "unoCode": "585",
+      "uuid": "ae8b34c0-92d5-51be-a66f-acc0f881621d",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298261"
+    }
+  },
+  {
+    "key": "1e47755d-53a0-5cf9-9225-39ee1d7d6451",
+    "value": {
+      "isoCode": "PAK",
+      "defaultName": "Pakistan",
+      "externalId": "21000213",
+      "unoCode": "586",
+      "uuid": "1e47755d-53a0-5cf9-9225-39ee1d7d6451",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2022-01-03T11:20:43.298262"
+    }
+  },
+  {
+    "key": "0016cbeb-bff7-514b-bc5c-ccc6deadcbfc",
+    "value": {
+      "isoCode": "PAN",
+      "defaultName": "Panama",
+      "externalId": "21000413",
+      "unoCode": "591",
+      "uuid": "0016cbeb-bff7-514b-bc5c-ccc6deadcbfc",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298263"
+    }
+  },
+  {
+    "key": "b6f7317c-a932-5f06-a72f-7a616ca4fcc5",
+    "value": {
+      "isoCode": "PNG",
+      "defaultName": "Papua-Neuguinea",
+      "externalId": "21000510",
+      "unoCode": "598",
+      "uuid": "b6f7317c-a932-5f06-a72f-7a616ca4fcc5",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298264"
+    }
+  },
+  {
+    "key": "83295d77-2685-5dd9-8803-0cf52f67760d",
+    "value": {
+      "isoCode": "PRY",
+      "defaultName": "Paraguay",
+      "externalId": "21000421",
+      "unoCode": "600",
+      "uuid": "83295d77-2685-5dd9-8803-0cf52f67760d",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298265"
+    }
+  },
+  {
+    "key": "508adc23-4dc0-5ef2-9c49-b84fc2871cef",
+    "value": {
+      "isoCode": "PER",
+      "defaultName": "Peru",
+      "externalId": "21000422",
+      "unoCode": "604",
+      "uuid": "508adc23-4dc0-5ef2-9c49-b84fc2871cef",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298266"
+    }
+  },
+  {
+    "key": "e0501a96-2e45-575a-b3f6-40798370f372",
+    "value": {
+      "isoCode": "PHL",
+      "defaultName": "Philippinen",
+      "externalId": "21000220",
+      "unoCode": "608",
+      "uuid": "e0501a96-2e45-575a-b3f6-40798370f372",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298267"
+    }
+  },
+  {
+    "key": "07a9b739-56db-5012-ab42-9fa96f6afd84",
+    "value": {
+      "isoCode": "POL",
+      "defaultName": "Polen",
+      "externalId": "21000122",
+      "unoCode": "616",
+      "uuid": "07a9b739-56db-5012-ab42-9fa96f6afd84",
+      "subcontinent": {
+        "uuid": "b4b305e3-4712-5cdb-a4f0-d6fc1647ea97"
+      },
+      "changeDate": "2022-01-03T11:20:43.298268"
+    }
+  },
+  {
+    "key": "76e4b9a2-9c47-5bac-b593-a329bf2d0ed3",
+    "value": {
+      "isoCode": "PRT",
+      "defaultName": "Portugal",
+      "externalId": "21000139",
+      "unoCode": "620",
+      "uuid": "76e4b9a2-9c47-5bac-b593-a329bf2d0ed3",
+      "subcontinent": {
+        "uuid": "ad6da763-1194-5419-be74-f3379d3fd4b3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298269"
+    }
+  },
+  {
+    "key": "e8c59841-8966-56c1-81fa-020f8e8fca5a",
+    "value": {
+      "isoCode": "GNB",
+      "defaultName": "Guinea-Bissau",
+      "externalId": "21000392",
+      "unoCode": "624",
+      "uuid": "e8c59841-8966-56c1-81fa-020f8e8fca5a",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298270"
+    }
+  },
+  {
+    "key": "387e4b81-a670-53d4-a50c-95efc457ef84",
+    "value": {
+      "isoCode": "TLS",
+      "defaultName": "Osttimor",
+      "externalId": "21000538",
+      "unoCode": "626",
+      "uuid": "387e4b81-a670-53d4-a50c-95efc457ef84",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298271"
+    }
+  },
+  {
+    "key": "5bc2f0ce-2931-5267-8700-aa5ce349bb19",
+    "value": {
+      "isoCode": "QAT",
+      "defaultName": "Katar",
+      "externalId": "21000248",
+      "unoCode": "634",
+      "uuid": "5bc2f0ce-2931-5267-8700-aa5ce349bb19",
+      "subcontinent": {
+        "uuid": "18edc0bf-0576-5f7f-83a3-ddd5ebd32e84"
+      },
+      "changeDate": "2022-01-03T11:20:43.298272"
+    }
+  },
+  {
+    "key": "08c5d69c-6fac-5ba1-a684-ef47f45544b9",
+    "value": {
+      "isoCode": "ROU",
+      "defaultName": "Rumänien",
+      "externalId": "21000114",
+      "unoCode": "642",
+      "uuid": "08c5d69c-6fac-5ba1-a684-ef47f45544b9",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298273"
+    }
+  },
+  {
+    "key": "aaf2becd-6671-5c2c-b1fb-69be3b5bea2b",
+    "value": {
+      "isoCode": "RUS",
+      "defaultName": "Russische Föderation",
+      "externalId": "21000123",
+      "unoCode": "643",
+      "uuid": "aaf2becd-6671-5c2c-b1fb-69be3b5bea2b",
+      "subcontinent": {
+        "uuid": "b89485cc-d3a8-5459-9af5-5b9549d495a8"
+      },
+      "changeDate": "2022-01-03T11:20:43.298274"
+    }
+  },
+  {
+    "key": "92d399fd-f7c9-58f9-b888-7c767cd82eea",
+    "value": {
+      "isoCode": "RWA",
+      "defaultName": "Ruanda",
+      "externalId": "21000340",
+      "unoCode": "646",
+      "uuid": "92d399fd-f7c9-58f9-b888-7c767cd82eea",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298275"
+    }
+  },
+  {
+    "key": "e06444f4-8c39-5d5f-9cba-2459b75e04d7",
+    "value": {
+      "isoCode": "KNA",
+      "defaultName": "St. Kitts und Nevis",
+      "externalId": "21000442",
+      "unoCode": "659",
+      "uuid": "e06444f4-8c39-5d5f-9cba-2459b75e04d7",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298276"
+    }
+  },
+  {
+    "key": "fd593402-eec6-5c4b-9e4e-022dfaf120cb",
+    "value": {
+      "isoCode": "LCA",
+      "defaultName": "St. Lucia",
+      "externalId": "21000439",
+      "unoCode": "662",
+      "uuid": "fd593402-eec6-5c4b-9e4e-022dfaf120cb",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298277"
+    }
+  },
+  {
+    "key": "a823045d-958c-5dc0-af70-4a5a9585e9be",
+    "value": {
+      "isoCode": "VCT",
+      "defaultName": "St. Vincent und die Grenadinen",
+      "externalId": "21000440",
+      "unoCode": "670",
+      "uuid": "a823045d-958c-5dc0-af70-4a5a9585e9be",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298278"
+    }
+  },
+  {
+    "key": "df71ceb0-0c9f-5e4c-9ff2-b8408e68a30f",
+    "value": {
+      "isoCode": "SMR",
+      "defaultName": "San Marino",
+      "externalId": "21000128",
+      "unoCode": "674",
+      "uuid": "df71ceb0-0c9f-5e4c-9ff2-b8408e68a30f",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298279"
+    }
+  },
+  {
+    "key": "a1bb1844-ff86-5ec3-adee-c21d3ce6350e",
+    "value": {
+      "isoCode": "STP",
+      "defaultName": "São Tomé und Príncipe",
+      "externalId": "21000394",
+      "unoCode": "678",
+      "uuid": "a1bb1844-ff86-5ec3-adee-c21d3ce6350e",
+      "subcontinent": {
+        "uuid": "8118b26f-230f-5d8b-8c76-442e82953264"
+      },
+      "changeDate": "2022-01-03T11:20:43.298280"
+    }
+  },
+  {
+    "key": "6608955f-a7af-5980-9636-deb12be8f00f",
+    "value": {
+      "isoCode": "SAU",
+      "defaultName": "Saudi-Arabien",
+      "externalId": "21000201",
+      "unoCode": "682",
+      "uuid": "6608955f-a7af-5980-9636-deb12be8f00f",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298281"
+    }
+  },
+  {
+    "key": "301816b6-6e3c-5f78-a581-d4610905cf16",
+    "value": {
+      "isoCode": "SEN",
+      "defaultName": "Senegal",
+      "externalId": "21000341",
+      "unoCode": "686",
+      "uuid": "301816b6-6e3c-5f78-a581-d4610905cf16",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298282"
+    }
+  },
+  {
+    "key": "5dbee4b5-53b6-5549-9b40-5406a1ea623a",
+    "value": {
+      "isoCode": "SRB",
+      "defaultName": "Serbien",
+      "externalId": "21000121",
+      "unoCode": "688",
+      "uuid": "5dbee4b5-53b6-5549-9b40-5406a1ea623a",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298284"
+    }
+  },
+  {
+    "key": "59805280-950a-5142-9ad0-f16d2fd5a179",
+    "value": {
+      "isoCode": "SYC",
+      "defaultName": "Seychellen",
+      "externalId": "21000398",
+      "unoCode": "690",
+      "uuid": "59805280-950a-5142-9ad0-f16d2fd5a179",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298285"
+    }
+  },
+  {
+    "key": "d221b5bb-5571-5b6c-bebf-090fc8ea05ef",
+    "value": {
+      "isoCode": "SLE",
+      "defaultName": "Sierra Leone",
+      "externalId": "21000342",
+      "unoCode": "694",
+      "uuid": "d221b5bb-5571-5b6c-bebf-090fc8ea05ef",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298286"
+    }
+  },
+  {
+    "key": "62ecba08-a1e0-5004-955d-e8dcc5e4a116",
+    "value": {
+      "isoCode": "SGP",
+      "defaultName": "Singapur",
+      "externalId": "21000226",
+      "unoCode": "702",
+      "uuid": "62ecba08-a1e0-5004-955d-e8dcc5e4a116",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298287"
+    }
+  },
+  {
+    "key": "4081991e-dcb8-5195-9ee5-de5dbd208aea",
+    "value": {
+      "isoCode": "SVK",
+      "defaultName": "Slowakei",
+      "externalId": "21000117",
+      "unoCode": "703",
+      "uuid": "4081991e-dcb8-5195-9ee5-de5dbd208aea",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2022-01-03T11:20:43.298288"
+    }
+  },
+  {
+    "key": "df4ce338-b648-5257-b1dc-22d2a7f155f5",
+    "value": {
+      "isoCode": "VNM",
+      "defaultName": "Vietnam",
+      "externalId": "21000243",
+      "unoCode": "704",
+      "uuid": "df4ce338-b648-5257-b1dc-22d2a7f155f5",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298289"
+    }
+  },
+  {
+    "key": "97d0ab01-1308-5ac6-b5a3-55df383a62c9",
+    "value": {
+      "isoCode": "SVN",
+      "defaultName": "Slowenien",
+      "externalId": "21000145",
+      "unoCode": "705",
+      "uuid": "97d0ab01-1308-5ac6-b5a3-55df383a62c9",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2022-01-03T11:20:43.298290"
+    }
+  },
+  {
+    "key": "fd136558-eb6f-5f9c-a074-0621496572ef",
+    "value": {
+      "isoCode": "SOM",
+      "defaultName": "Somalia",
+      "externalId": "21000318",
+      "unoCode": "706",
+      "uuid": "fd136558-eb6f-5f9c-a074-0621496572ef",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298291"
+    }
+  },
+  {
+    "key": "dea80f11-3f74-5566-93d0-bf577494ed0e",
+    "value": {
+      "isoCode": "ZAF",
+      "defaultName": "Südafrika",
+      "externalId": "21000303",
+      "unoCode": "710",
+      "uuid": "dea80f11-3f74-5566-93d0-bf577494ed0e",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2022-01-03T11:20:43.298292"
+    }
+  },
+  {
+    "key": "617d73ae-31e0-5f61-b0e3-6f48dcafeaa3",
+    "value": {
+      "isoCode": "ZWE",
+      "defaultName": "Simbabwe",
+      "externalId": "21000310",
+      "unoCode": "716",
+      "uuid": "617d73ae-31e0-5f61-b0e3-6f48dcafeaa3",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2022-01-03T11:20:43.298293"
+    }
+  },
+  {
+    "key": "9ae1a9d4-4f00-58ec-8cb8-947b347aa4fe",
+    "value": {
+      "isoCode": "ESP",
+      "defaultName": "Spanien",
+      "externalId": "21000134",
+      "unoCode": "724",
+      "uuid": "9ae1a9d4-4f00-58ec-8cb8-947b347aa4fe",
+      "subcontinent": {
+        "uuid": "f80571da-74db-58b5-b271-db9e33a724c3"
+      },
+      "changeDate": "2022-01-03T11:20:43.298294"
+    }
+  },
+  {
+    "key": "6da8d95f-79d8-5165-88c7-0e6c58a3d381",
+    "value": {
+      "isoCode": "SSD",
+      "defaultName": "Südsudan",
+      "externalId": "21000389",
+      "unoCode": "728",
+      "uuid": "6da8d95f-79d8-5165-88c7-0e6c58a3d381",
+      "subcontinent": {
+        "uuid": "6bac28c9-f5ae-5791-a366-61f62ec18968"
+      },
+      "changeDate": "2022-01-03T11:20:43.298295"
+    }
+  },
+  {
+    "key": "7eef2685-51b5-54e0-bd5b-191f6a5da2b0",
+    "value": {
+      "isoCode": "SDN",
+      "defaultName": "Sudan",
+      "externalId": "21000343",
+      "unoCode": "729",
+      "uuid": "7eef2685-51b5-54e0-bd5b-191f6a5da2b0",
+      "subcontinent": {
+        "uuid": "b319752a-27f4-5375-a5e4-7c43b8cd9812"
+      },
+      "changeDate": "2022-01-03T11:20:43.298296"
+    }
+  },
+  {
+    "key": "44476929-a269-5d8a-861a-4d7257de60ee",
+    "value": {
+      "isoCode": "SUR",
+      "defaultName": "Suriname",
+      "externalId": "21000437",
+      "unoCode": "740",
+      "uuid": "44476929-a269-5d8a-861a-4d7257de60ee",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298297"
+    }
+  },
+  {
+    "key": "a29ec3a8-e58f-51d0-85a2-356bed25e612",
+    "value": {
+      "isoCode": "SWZ",
+      "defaultName": "Swasiland",
+      "externalId": "21000391",
+      "unoCode": "748",
+      "uuid": "a29ec3a8-e58f-51d0-85a2-356bed25e612",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2022-01-03T11:20:43.298298"
+    }
+  },
+  {
+    "key": "2f2d7d40-c8f7-50a9-9d67-39ccfb0fb1af",
+    "value": {
+      "isoCode": "SWE",
+      "defaultName": "Schweden",
+      "externalId": "21000104",
+      "unoCode": "752",
+      "uuid": "2f2d7d40-c8f7-50a9-9d67-39ccfb0fb1af",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298299"
+    }
+  },
+  {
+    "key": "5dac1206-0d40-5816-88d2-fd5c839820bd",
+    "value": {
+      "isoCode": "CHE",
+      "defaultName": "Schweiz",
+      "externalId": "21000140",
+      "unoCode": "756",
+      "uuid": "5dac1206-0d40-5816-88d2-fd5c839820bd",
+      "subcontinent": {
+        "uuid": "9cc9598b-5e98-525c-a58b-7669e4314344"
+      },
+      "changeDate": "2022-01-03T11:20:43.298300"
+    }
+  },
+  {
+    "key": "1f97d3a5-28e5-5af7-af5b-35861eb008f1",
+    "value": {
+      "isoCode": "SYR",
+      "defaultName": "Syrische Arabische Republik",
+      "externalId": "21000206",
+      "unoCode": "760",
+      "uuid": "1f97d3a5-28e5-5af7-af5b-35861eb008f1",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298301"
+    }
+  },
+  {
+    "key": "2f37884e-d153-5394-9f4a-4f7dfaa802b0",
+    "value": {
+      "isoCode": "TJK",
+      "defaultName": "Tadschikistan",
+      "externalId": "21000254",
+      "unoCode": "762",
+      "uuid": "2f37884e-d153-5394-9f4a-4f7dfaa802b0",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2022-01-03T11:20:43.298302"
+    }
+  },
+  {
+    "key": "78ad3175-a410-5cf3-b419-fbd058f25155",
+    "value": {
+      "isoCode": "THA",
+      "defaultName": "Thailand",
+      "externalId": "21000219",
+      "unoCode": "764",
+      "uuid": "78ad3175-a410-5cf3-b419-fbd058f25155",
+      "subcontinent": {
+        "uuid": "62bf9ca0-1dec-5545-8bee-36dedbfffe2a"
+      },
+      "changeDate": "2022-01-03T11:20:43.298303"
+    }
+  },
+  {
+    "key": "b47cd3a1-d42e-5f94-bff8-330e4adeb78f",
+    "value": {
+      "isoCode": "TGO",
+      "defaultName": "Togo",
+      "externalId": "21000345",
+      "unoCode": "768",
+      "uuid": "b47cd3a1-d42e-5f94-bff8-330e4adeb78f",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298304"
+    }
+  },
+  {
+    "key": "edf22f86-3259-5dd3-bc19-a23999f6280f",
+    "value": {
+      "isoCode": "TON",
+      "defaultName": "Tonga",
+      "externalId": "21000509",
+      "unoCode": "776",
+      "uuid": "edf22f86-3259-5dd3-bc19-a23999f6280f",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298305"
+    }
+  },
+  {
+    "key": "6b846570-05e0-5b92-9f01-11af4229a632",
+    "value": {
+      "isoCode": "TTO",
+      "defaultName": "Trinidad und Tobago",
+      "externalId": "21000433",
+      "unoCode": "780",
+      "uuid": "6b846570-05e0-5b92-9f01-11af4229a632",
+      "subcontinent": {
+        "uuid": "55f98509-307f-51ea-bf85-ec8fa0a25644"
+      },
+      "changeDate": "2022-01-03T11:20:43.298306"
+    }
+  },
+  {
+    "key": "90943fff-cb8d-5a42-abc8-a3e60db801c4",
+    "value": {
+      "isoCode": "ARE",
+      "defaultName": "Vereinigte Arabische Emirate",
+      "externalId": "21000247",
+      "unoCode": "784",
+      "uuid": "90943fff-cb8d-5a42-abc8-a3e60db801c4",
+      "subcontinent": {
+        "uuid": "6860af27-f596-5a3b-8730-25c09f733ab5"
+      },
+      "changeDate": "2022-01-03T11:20:43.298307"
+    }
+  },
+  {
+    "key": "20c24ae3-b54e-5662-9b60-9ed1b4b967dc",
+    "value": {
+      "isoCode": "TUN",
+      "defaultName": "Tunesien",
+      "externalId": "21000351",
+      "unoCode": "788",
+      "uuid": "20c24ae3-b54e-5662-9b60-9ed1b4b967dc",
+      "subcontinent": {
+        "uuid": "ef835a1c-59f3-5d4b-a5ce-09dd780f2ea9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298308"
+    }
+  },
+  {
+    "key": "4922ddd3-9ade-567f-84f5-a5b18b58727e",
+    "value": {
+      "isoCode": "TUR",
+      "defaultName": "Türkei",
+      "externalId": "21000208",
+      "unoCode": "792",
+      "uuid": "4922ddd3-9ade-567f-84f5-a5b18b58727e",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298309"
+    }
+  },
+  {
+    "key": "07291824-bd10-5756-a23a-246c7941f72d",
+    "value": {
+      "isoCode": "TKM",
+      "defaultName": "Turkmenistan",
+      "externalId": "21000260",
+      "unoCode": "795",
+      "uuid": "07291824-bd10-5756-a23a-246c7941f72d",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2022-01-03T11:20:43.298310"
+    }
+  },
+  {
+    "key": "afd36bb7-02bb-5972-a9fe-268f5335e6df",
+    "value": {
+      "isoCode": "TUV",
+      "defaultName": "Tuvalu",
+      "externalId": "21000511",
+      "unoCode": "798",
+      "uuid": "afd36bb7-02bb-5972-a9fe-268f5335e6df",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298311"
+    }
+  },
+  {
+    "key": "7b11857e-8a36-511a-ab46-06e855a35196",
+    "value": {
+      "isoCode": "UGA",
+      "defaultName": "Uganda",
+      "externalId": "21000339",
+      "unoCode": "800",
+      "uuid": "7b11857e-8a36-511a-ab46-06e855a35196",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298312"
+    }
+  },
+  {
+    "key": "76520f2f-93d1-5d3b-8565-39318f712a7c",
+    "value": {
+      "isoCode": "UKR",
+      "defaultName": "Ukraine",
+      "externalId": "21000155",
+      "unoCode": "804",
+      "uuid": "76520f2f-93d1-5d3b-8565-39318f712a7c",
+      "subcontinent": {
+        "uuid": "b4b305e3-4712-5cdb-a4f0-d6fc1647ea97"
+      },
+      "changeDate": "2022-01-03T11:20:43.298313"
+    }
+  },
+  {
+    "key": "76e56737-2b9c-5587-860c-31db0b7c67b3",
+    "value": {
+      "isoCode": "MKD",
+      "defaultName": "Nordmazedonien",
+      "externalId": "21000156",
+      "unoCode": "807",
+      "uuid": "76e56737-2b9c-5587-860c-31db0b7c67b3",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298314"
+    }
+  },
+  {
+    "key": "96f3c36d-ce40-5ce8-b60a-550aa0a5f185",
+    "value": {
+      "isoCode": "EGY",
+      "defaultName": "Ägypten",
+      "externalId": "21000301",
+      "unoCode": "818",
+      "uuid": "96f3c36d-ce40-5ce8-b60a-550aa0a5f185",
+      "subcontinent": {
+        "uuid": "b319752a-27f4-5375-a5e4-7c43b8cd9812"
+      },
+      "changeDate": "2022-01-03T11:20:43.298315"
+    }
+  },
+  {
+    "key": "b364fc6a-9521-5cef-b204-6019ea14d931",
+    "value": {
+      "isoCode": "GBR",
+      "defaultName": "Vereinigtes Königreich von Großbritannien und Nordirland",
+      "externalId": "21000132",
+      "unoCode": "826",
+      "uuid": "b364fc6a-9521-5cef-b204-6019ea14d931",
+      "subcontinent": {
+        "uuid": "da7c878f-c7b1-55f7-9d88-e0db83bae32d"
+      },
+      "changeDate": "2022-01-03T11:20:43.298316"
+    }
+  },
+  {
+    "key": "48a2d745-1bcc-54d2-b180-30561c89ce16",
+    "value": {
+      "isoCode": "TZA",
+      "defaultName": "Vereinigte Republik Tansania",
+      "externalId": "21000309",
+      "unoCode": "834",
+      "uuid": "48a2d745-1bcc-54d2-b180-30561c89ce16",
+      "subcontinent": {
+        "uuid": "7fedac5c-b5ea-538e-821c-cdc4d004e459"
+      },
+      "changeDate": "2022-01-03T11:20:43.298317"
+    }
+  },
+  {
+    "key": "e34863e0-2512-5a55-8c0e-83e35860b307",
+    "value": {
+      "isoCode": "USA",
+      "defaultName": "Vereinigte Staaten von Amerika",
+      "externalId": "21000404",
+      "unoCode": "840",
+      "uuid": "e34863e0-2512-5a55-8c0e-83e35860b307",
+      "subcontinent": {
+        "uuid": "924ca0bc-b788-5288-8985-c6150605e394"
+      },
+      "changeDate": "2022-01-03T11:20:43.298319"
+    }
+  },
+  {
+    "key": "9b125b75-020a-5840-9193-dc53bd7e0e5f",
+    "value": {
+      "isoCode": "BFA",
+      "defaultName": "Burkina Faso",
+      "externalId": "21000331",
+      "unoCode": "854",
+      "uuid": "9b125b75-020a-5840-9193-dc53bd7e0e5f",
+      "subcontinent": {
+        "uuid": "cdc66ec8-f1fb-5a0e-b228-b0a0eaca9792"
+      },
+      "changeDate": "2022-01-03T11:20:43.298320"
+    }
+  },
+  {
+    "key": "83b7fe71-3f66-504d-b5e8-0ca3736765bb",
+    "value": {
+      "isoCode": "URY",
+      "defaultName": "Uruguay",
+      "externalId": "21000423",
+      "unoCode": "858",
+      "uuid": "83b7fe71-3f66-504d-b5e8-0ca3736765bb",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298321"
+    }
+  },
+  {
+    "key": "87070a8c-363a-598e-b1d7-d639ab2c18f4",
+    "value": {
+      "isoCode": "UZB",
+      "defaultName": "Usbekistan",
+      "externalId": "21000258",
+      "unoCode": "860",
+      "uuid": "87070a8c-363a-598e-b1d7-d639ab2c18f4",
+      "subcontinent": {
+        "uuid": "c693e111-3bc2-5411-8691-242a45432b74"
+      },
+      "changeDate": "2022-01-03T11:20:43.298322"
+    }
+  },
+  {
+    "key": "dd6554a9-99d6-52ac-a36d-793eaaf89951",
+    "value": {
+      "isoCode": "VEN",
+      "defaultName": "Venezuela (Bolivarische Republik)",
+      "externalId": "21000424",
+      "unoCode": "862",
+      "uuid": "dd6554a9-99d6-52ac-a36d-793eaaf89951",
+      "subcontinent": {
+        "uuid": "e5f10544-d3a0-59bf-8476-802249055a06"
+      },
+      "changeDate": "2022-01-03T11:20:43.298323"
+    }
+  },
+  {
+    "key": "aae6b7da-f29e-5430-a360-aab587901300",
+    "value": {
+      "isoCode": "WSM",
+      "defaultName": "Samoa",
+      "externalId": "21000506",
+      "unoCode": "882",
+      "uuid": "aae6b7da-f29e-5430-a360-aab587901300",
+      "subcontinent": {
+        "uuid": "e4dbc268-f7ef-5159-b392-7f4e7dca0f7e"
+      },
+      "changeDate": "2022-01-03T11:20:43.298324"
+    }
+  },
+  {
+    "key": "90acb133-19bb-52d7-adfa-d385456b79f1",
+    "value": {
+      "isoCode": "YEM",
+      "defaultName": "Jemen",
+      "externalId": "21000251",
+      "unoCode": "887",
+      "uuid": "90acb133-19bb-52d7-adfa-d385456b79f1",
+      "subcontinent": {
+        "uuid": "9194b955-8edf-52c9-8e81-f6cebed4a3a9"
+      },
+      "changeDate": "2022-01-03T11:20:43.298325"
+    }
+  },
+  {
+    "key": "f993e161-7983-5afd-a964-aa5f3e3f9bc4",
+    "value": {
+      "isoCode": "ZMB",
+      "defaultName": "Sambia",
+      "externalId": "21000346",
+      "unoCode": "894",
+      "uuid": "f993e161-7983-5afd-a964-aa5f3e3f9bc4",
+      "subcontinent": {
+        "uuid": "1e3b5f72-c7cd-5e1f-8ad6-12455aa54764"
+      },
+      "changeDate": "2022-01-03T11:20:43.298326"
+    }
+  },
+  {
+    "key": "8db48812-4a51-52d5-babf-97ff434555cd",
+    "value": {
+      "isoCode": "XXK",
+      "defaultName": "Kosovo",
+      "externalId": "21000159",
+      "unoCode": "-1",
+      "uuid": "8db48812-4a51-52d5-babf-97ff434555cd",
+      "subcontinent": {
+        "uuid": "58ec0d1e-4a8e-5ef1-8460-4fd46d030f71"
+      },
+      "changeDate": "2022-01-03T11:20:43.298327"
+    }
+  }
+]

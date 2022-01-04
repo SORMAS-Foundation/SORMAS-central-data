@@ -1,0 +1,242 @@
+[
+  {
+    "key": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b",
+    "value": {
+      "name": "Baden-Württemberg",
+      "epidCode": "DE-BW",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000008",
+      "uuid": "c555ccae-778d-5b0d-9ebd-8b55fb597e3b",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303461"
+    }
+  },
+  {
+    "key": "e87d5570-0402-51b0-89a1-2ffc901c2eac",
+    "value": {
+      "name": "Bayern",
+      "epidCode": "DE-BY",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000009",
+      "uuid": "e87d5570-0402-51b0-89a1-2ffc901c2eac",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303466"
+    }
+  },
+  {
+    "key": "923da9a1-638d-5d10-9178-7fd377f5dbc4",
+    "value": {
+      "name": "Brandenburg",
+      "epidCode": "DE-BB",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000012",
+      "uuid": "923da9a1-638d-5d10-9178-7fd377f5dbc4",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303468"
+    }
+  },
+  {
+    "key": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf",
+    "value": {
+      "name": "Berlin",
+      "epidCode": "DE-BE",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000011",
+      "uuid": "bfe6b47b-7f9a-50c2-8702-b612877c7dbf",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303469"
+    }
+  },
+  {
+    "key": "582e4191-f5f2-5d92-bea7-d6c72cfbec6d",
+    "value": {
+      "name": "Bremen",
+      "epidCode": "DE-HB",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000004",
+      "uuid": "582e4191-f5f2-5d92-bea7-d6c72cfbec6d",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303470"
+    }
+  },
+  {
+    "key": "325df3bc-9f2a-5978-b1f7-e769ef34c13a",
+    "value": {
+      "name": "Hamburg",
+      "epidCode": "DE-HH",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000002",
+      "uuid": "325df3bc-9f2a-5978-b1f7-e769ef34c13a",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303471"
+    }
+  },
+  {
+    "key": "d033e05d-b207-55a4-9981-197866eef9f9",
+    "value": {
+      "name": "Hessen",
+      "epidCode": "DE-HE",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000006",
+      "uuid": "d033e05d-b207-55a4-9981-197866eef9f9",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303472"
+    }
+  },
+  {
+    "key": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e",
+    "value": {
+      "name": "Mecklenburg-Vorpommern",
+      "epidCode": "DE-MV",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000013",
+      "uuid": "603d552e-6d3e-5d89-b7c7-a40f5f1b228e",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303474"
+    }
+  },
+  {
+    "key": "bd475a45-c27d-5535-a960-d5f2728460c8",
+    "value": {
+      "name": "Niedersachsen",
+      "epidCode": "DE-NI",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000003",
+      "uuid": "bd475a45-c27d-5535-a960-d5f2728460c8",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303475"
+    }
+  },
+  {
+    "key": "7e48e5f1-6104-596b-9b08-47427760c9f5",
+    "value": {
+      "name": "Nordrhein-Westfalen",
+      "epidCode": "DE-NW",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000005",
+      "uuid": "7e48e5f1-6104-596b-9b08-47427760c9f5",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303476"
+    }
+  },
+  {
+    "key": "cc753d47-10c1-521b-b017-71713aa8287d",
+    "value": {
+      "name": "Rheinland-Pfalz",
+      "epidCode": "DE-RP",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000007",
+      "uuid": "cc753d47-10c1-521b-b017-71713aa8287d",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303477"
+    }
+  },
+  {
+    "key": "534162fe-414c-5572-ada4-f0d95b901bdf",
+    "value": {
+      "name": "Saarland",
+      "epidCode": "DE-SL",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000010",
+      "uuid": "534162fe-414c-5572-ada4-f0d95b901bdf",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303478"
+    }
+  },
+  {
+    "key": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc",
+    "value": {
+      "name": "Sachsen",
+      "epidCode": "DE-SN",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000014",
+      "uuid": "8cb01fea-ab0c-5e10-b65f-c3a670a95bdc",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303479"
+    }
+  },
+  {
+    "key": "7f014bce-292e-5bd4-b05a-7ceecaac0302",
+    "value": {
+      "name": "Sachsen-Anhalt",
+      "epidCode": "DE-ST",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000015",
+      "uuid": "7f014bce-292e-5bd4-b05a-7ceecaac0302",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303480"
+    }
+  },
+  {
+    "key": "050ba8d1-6d1e-505c-a548-00b7ac175c55",
+    "value": {
+      "name": "Schleswig-Holstein",
+      "epidCode": "DE-SH",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000001",
+      "uuid": "050ba8d1-6d1e-505c-a548-00b7ac175c55",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303482"
+    }
+  },
+  {
+    "key": "969f5e0a-b0bc-594f-801f-1e999ed60044",
+    "value": {
+      "name": "Thüringen",
+      "epidCode": "DE-TH",
+      "growthRate": "0",
+      "archived": false,
+      "externalID": "13000016",
+      "uuid": "969f5e0a-b0bc-594f-801f-1e999ed60044",
+      "country": {
+        "uuid": "2c5c1849-9d24-5c63-beab-ddb0965c89d8"
+      },
+      "changeDate": "2022-01-03T11:20:43.303483"
+    }
+  }
+]
