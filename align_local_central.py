@@ -37,12 +37,12 @@ def archive_everything(table):
 
 def iterate_central():
     infra_types = {
-        'continent': 'out/international/sormas_import_all_continents.json',
-        'subcontinent': 'out/international/sormas_import_all_subcontinents.json',
-        'country': 'out/germany/countries.json',
-        'region': 'out/germany/regions.json',
-        'district': 'out/germany/districts.json',
-        'community': 'out/germany/communities.json'
+        'continent': 'out/international/continent.json',
+        'subcontinent': 'out/international/subcontinent.json',
+        'country': 'out/germany/country.json',
+        'region': 'out/germany/region.json',
+        'district': 'out/germany/district.json',
+        'community': 'out/germany/community.json'
     }
 
     for table, path in infra_types.items():
