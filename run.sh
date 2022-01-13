@@ -1,6 +1,7 @@
 #!/bin/bash
 source .env
 
+# todo: use registry.netzlink.com / dockerhub when images are pushed to it
 docker run -d --name align-local-central \
   --env host=${host} \
   --env dbname=${dbname} \
