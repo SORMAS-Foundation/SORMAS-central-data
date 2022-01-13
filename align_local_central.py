@@ -1,3 +1,5 @@
+import os
+
 import psycopg
 import json
 import argparse
@@ -14,17 +16,22 @@ FORMAT = '%(message)s'
 logging.basicConfig(encoding='utf-8', level=logging.DEBUG, format=FORMAT)
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-H", "--host", default="localhost",
-        help="database server host or socket directory (default: localhost)", action="store")
-parser.add_argument("-d", "--dbname", default="sormas",
-        help="database name to connect to (default: sormas)", action="store")
-parser.add_argument("-u", "--username", default="postgres",
-        help="database user name (default: postgres)", action="store")
-parser.add_argument("-p", "--password", default="postgres",
-        help="password for user (default: postgres)", action="store")
+parser.add_argument("-H", "--host", default=os.environ.get("host"), help="database server host or socket directory",
+                    action="store")
+parser.add_argument("-d", "--dbname", default=os.environ.get("dbname"), help="database name to connect to)",
+                    action="store")
+parser.add_argument("-u", "--username", default=os.environ.get("username"),
+                    help="database user name",
+                    action="store")
+parser.add_argument("-p", "--password", default=os.environ.get("password"), help="password for user", action="store")
+parser.add_argument("-i", "--input", default=os.environ.get("input"), help="path where to expect the central data", action="store")
 args, unknown = parser.parse_known_args()
 
+assert len(unknown) == 0
+
 CONNECTION = f"host={args.host} dbname={args.dbname} user={args.username} password={args.password}"
+logging.info(f'Connecting to {args.host}')
+PATH = args.input
 
 
 def archive_everything(table):
@@ -37,12 +44,12 @@ def archive_everything(table):
 
 def iterate_central():
     infra_types = {
-        'continent': 'out/international/continent.json',
-        'subcontinent': 'out/international/subcontinent.json',
-        'country': 'out/germany/country.json',
-        'region': 'out/germany/region.json',
-        'district': 'out/germany/district.json',
-        'community': 'out/germany/community.json'
+        'continent': f'{PATH}/international/continent.json',
+        'subcontinent': f'{PATH}/international/subcontinent.json',
+        'country': f'{PATH}/germany/country.json',
+        'region': f'{PATH}/germany/region.json',
+        'district': f'{PATH}/germany/district.json',
+        'community': f'{PATH}/germany/community.json'
     }
 
     for table, path in infra_types.items():
