@@ -1,6 +1,6 @@
 ###
 # USAGE: docker build -t central_aligner .
-# RUN: docker run -it --env-file .env  -v "$(pwd)/out:/srv"  central_aligner
+# RUN: docker run -it --network host --env-file .env  -v "$(pwd)/out:/srv" central_aligner
 FROM alpine:3.15
 
 RUN apk update --no-cache && \
