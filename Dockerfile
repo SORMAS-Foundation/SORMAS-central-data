@@ -5,7 +5,7 @@ FROM alpine:3.15
 
 RUN apk update --no-cache && \
     apk upgrade --no-cache && \
-    apk add --no-cache --upgrade postgresql14 postgresql14-dev py3-pip
+    apk add --no-cache --upgrade postgresql14 py3-pip
 
 COPY requirements.txt /root
 RUN pip3 install -r /root/requirements.txt

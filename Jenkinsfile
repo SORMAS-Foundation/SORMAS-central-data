@@ -19,7 +19,7 @@ node {
         withCredentials([ usernamePassword(credentialsId: 'registry.netzlink.com', usernameVariable: 'MY_SECRET_USER_NLI', passwordVariable: 'MY_SECRET_USER_PASSWORD_NLI' )]) {
         	sh """
         	sudo buildah login -u '$MY_SECRET_USER_NLI' -p '$MY_SECRET_USER_PASSWORD_NLI' registry.netzlink.com
-        	sudo buildah push -f v2s2 align-local-central:${VERSION} registry.netzlink.com/hzibraunschweig/align-local-central:${VERSION}
+        	sudo buildah push -f v2s2 align-local-central:${VERSION} registry.netzlink.com/hzibraunschweig/central_aligner:${VERSION}
         	"""
         }    
 	}
