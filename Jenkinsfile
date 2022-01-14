@@ -4,6 +4,14 @@ node {
         
     stage('checkout') {
         git branch: '${BRANCH}', url: 'https://github.com/hzi-braunschweig/SORMAS-central-data.git'
+        steps {
+            // Use a script block to do custom scripting
+            script {
+                def props = readProperties file: '.env'
+                env.VERSION = props.VERSION
+            }
+
+            sh "echo The version is $VERSION"        
     }
 
     stage('Build container') {
