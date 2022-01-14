@@ -11,7 +11,8 @@ node {
                 env.VERSION = props.VERSION
             }
 
-            sh "echo The version is $VERSION"        
+            sh "echo The version is $VERSION"
+        }
     }
 
     stage('Build container') {
