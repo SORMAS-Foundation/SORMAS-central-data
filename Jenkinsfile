@@ -13,7 +13,7 @@ node {
     stage('Build container') {
     	echo 'Building align-local-central'
     	sh """
-    	sudo buildah rmi \$(buildah images -q localhost/central-aligner)
+    	sudo buildah rmi \$(sudo buildah images -q localhost/central-aligner)
     	sudo buildah bud --pull-always --no-cache -t central-aligner:${VERSION} .
     	"""
     }
