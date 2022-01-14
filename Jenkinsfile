@@ -7,10 +7,10 @@ node {
     }
 
     stage('Build container') {
-    	echo 'Building central-aligner'
+    	echo 'Building align-local-central'
     	sh """
     	source ./.env
-    	sudo docker build --no-cache -t central_aligner:${VERSION} .
+    	sudo buildah bud --pull-always --no-cache -t central-aligner:${VERSION} .
     	"""
     }
       
@@ -18,9 +18,8 @@ node {
     echo 'Deploying....'
         withCredentials([ usernamePassword(credentialsId: 'registry.netzlink.com', usernameVariable: 'MY_SECRET_USER_NLI', passwordVariable: 'MY_SECRET_USER_PASSWORD_NLI' )]) {
         	sh """
-        	sudo docker login -u '$MY_SECRET_USER_NLI' -p '$MY_SECRET_USER_PASSWORD_NLI' registry.netzlink.com
-            sudo docker tag central_aligner:${VERSION} registry.netzlink.com/hzibraunschweig/central-aligner:${VERSION}
-        	sudo docker push registry.netzlink.com/hzibraunschweig/central-aligner:${VERSION}
+        	sudo buildah login -u '$MY_SECRET_USER_NLI' -p '$MY_SECRET_USER_PASSWORD_NLI' registry.netzlink.com
+        	sudo buildah push -f v2s2 central-aligner:${VERSION} registry.netzlink.com/hzibraunschweig/central-aligner:${VERSION}
         	"""
         }    
 	}
