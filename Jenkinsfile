@@ -5,18 +5,15 @@ node {
     }
 
     stage('reading from a file') {
-        // Use a script block to do custom scripting
         script {
             def props = readProperties file: '.env'
             env.VERSION = props.VERSION
         }
-
-        sh "echo The weather is $VERSION"
     }
     stage('Build container') {
     	echo 'Building align-local-central'
     	sh """
-    	source ./.env
+    	sudo buildah rmi $(buildah images -q localhost/central-aligner)
     	sudo buildah bud --pull-always --no-cache -t central-aligner:${VERSION} .
     	"""
     }
