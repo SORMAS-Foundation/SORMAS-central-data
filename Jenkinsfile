@@ -4,6 +4,17 @@ node {
         git branch: '${BRANCH}', url: 'https://github.com/hzi-braunschweig/SORMAS-central-data.git'
     }
 
+    stage('reading from a file') {
+        steps {
+            // Use a script block to do custom scripting
+            script {
+                def props = readProperties file: '.env'
+                env.VERSION = props.VERSION
+            }
+
+            sh "echo The weather is $VERSION"
+        }
+    }
     stage('Build container') {
     	echo 'Building align-local-central'
     	sh """
