@@ -24,7 +24,8 @@ parser.add_argument("-u", "--username", default=os.environ.get("username"),
                     help="database user name",
                     action="store")
 parser.add_argument("-p", "--password", default=os.environ.get("password"), help="password for user", action="store")
-parser.add_argument("-i", "--input", default=os.environ.get("input"), help="path where to expect the central data", action="store")
+parser.add_argument("-i", "--input", default=os.environ.get("input"), help="path where to expect the central data",
+                    action="store")
 args, unknown = parser.parse_known_args()
 
 assert len(unknown) == 0
@@ -66,11 +67,53 @@ def iterate_central():
             id_ = central_value['externalId'] if central_value.get('externalId') else central_value['externalID']
             uuid_ = central_value['uuid']
             logging.info(f"Processing {name}, {id_}, {uuid_}")
-            # STEP 2 check if central item is locally present by uuid
+            # STEP 2: check if central item is locally present by uuid
             if update_by_local_uuid(table, central_value):
                 continue
             if update_by_local_name_and_id(table, central_value):
                 continue
+            if table == "country":
+                update_by_local_iso_and_uno_code(table, central_value)
+
+
+def update_by_local_iso_and_uno_code(table, central_value):
+    with psycopg.connect(CONNECTION) as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            where_ext_id, where_name = get_where_clause(central_value, table)
+            iso_code, uno_code = central_value['isoCode'], central_value['unoCode']
+            local = cur.execute(
+                f"SELECT * FROM {table} WHERE defaultname=%s OR externalid=%s OR isocode=%s OR unocode=%s;",
+                (where_name, where_ext_id, iso_code, uno_code)).fetchone()
+            if local is None:
+                logging.info(f"Could not find {central_value} locally")
+                return
+
+            local_uuid = local['uuid']
+            local_name = get_local_name(local)
+            local_ext_id = local['externalid']
+            central_uuid = central_value['uuid']
+            iso_code, uno_code = central_value['isoCode'], central_value['unoCode']
+
+            try:
+                cur.execute(
+                    f"UPDATE {table} SET uuid=%s,archived=FALSE,defaultname=%s,externalid=%s, isocode=%s, unocode=%s WHERE uuid=%s OR (defaultname=%s OR externalid=%s OR isocode=%s OR unocode=%s);",
+                    (central_uuid, where_name, where_ext_id, iso_code, uno_code, central_uuid, where_name, where_ext_id,
+                     iso_code, uno_code))
+
+                uuid_changed = f"UUID: {local_uuid} -> {central_uuid}" if local_uuid != central_uuid else ""
+                name_changed = f"Name: {local_name} -> {where_name}" if local_name != where_name else ""
+                ext_id_changed = f"Ext. ID: {local_ext_id} -> {where_ext_id}" if local_ext_id != where_ext_id else ""
+                iso_code_changed = f"ISO: {local['isocode']} -> {iso_code}" if local['isocode'] != iso_code else ""
+                uno_code_changed = f"UNO: {local['unocode']} -> {uno_code}" if local['unocode'] != uno_code else ""
+                logging.info(
+                    f"\t\tUpdated local item ({','.join([uuid_changed, name_changed, ext_id_changed, iso_code_changed, uno_code_changed])})")
+                return True
+            except UniqueViolation as e:
+                report_error(
+                    f"\t\tCould not update UUID of {local_uuid}: {where_name}, {where_ext_id}, {local['isocode']},{local['unocode']} "
+                    f"Either the name or external ID are present multiple times in the local DB.")
+                return False
+
 
 
 def update_by_local_uuid(table, central_value):
