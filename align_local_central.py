@@ -13,7 +13,17 @@ error_list = []
 
 FORMAT = '%(message)s'
 
-logging.basicConfig(encoding='utf-8', level=logging.DEBUG, format=FORMAT)
+logFormatter = logging.Formatter(FORMAT)
+rootLogger = logging.getLogger()
+
+fileHandler = logging.FileHandler("output.log")
+fileHandler.setFormatter(logFormatter)
+rootLogger.addHandler(fileHandler)
+
+consoleHandler = logging.StreamHandler()
+consoleHandler.setFormatter(logFormatter)
+rootLogger.addHandler(consoleHandler)
+rootLogger.setLevel(logging.DEBUG)
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-H", "--host", default=os.environ.get("host"), help="database server host or socket directory",
@@ -115,7 +125,6 @@ def update_by_local_iso_and_uno_code(table, central_value):
                 return False
 
 
-
 def update_by_local_uuid(table, central_value):
     with psycopg.connect(CONNECTION) as conn:
         with conn.cursor(row_factory=dict_row) as cur:
@@ -149,6 +158,39 @@ def update_by_local_name_and_id(table, central_value):
                 return False
 
 
+def fix_duplicates(central_value, local, table):
+    local_uuid = local['uuid']
+    local_name = get_local_name(local)
+    local_ext_id = local['externalid']
+    central_uuid = central_value['uuid']
+    where_ext_id, where_name = get_where_clause(central_value, table)
+
+    with psycopg.connect(CONNECTION) as conn:
+        with conn.cursor(row_factory=dict_row) as cur:
+            if has_default_name(table):
+                num_names = cur.execute(f"SELECT count(*) FROM {table} WHERE defaultname=%s;",
+                                        (where_name,)).fetchone()
+
+                cur.execute(
+                    f"UPDATE {table} SET uuid=%s,archived=FALSE,defaultname=%s,externalid=%s WHERE uuid=%s OR (defaultname=%s AND externalid=%s);",
+                    (central_uuid, where_name, where_ext_id, central_uuid, where_name, where_ext_id))
+            else:
+                num_names = cur.execute(f"SELECT count(*) FROM {table} WHERE name=%s;",
+                                        (where_name,)).fetchone()
+
+                cur.execute(
+                    f"UPDATE {table} SET uuid=%s,archived=FALSE,name=%s,externalid=%s WHERE uuid=%s OR (name=%s AND externalid=%s);",
+                    (central_uuid, where_name, where_ext_id, central_uuid, where_name, where_ext_id))
+            logging.info(f"\tfound {num_names} duplicates of {where_name} in {table}")
+            uuid_changed = f"UUID: {local_uuid} -> {central_uuid}" if local_uuid != central_uuid else ""
+            name_changed = f"Name: {local_name} -> {where_name}" if local_name != where_name else ""
+            ext_id_changed = f"Ext. ID: {local_ext_id} -> {where_ext_id}" if local_ext_id != where_ext_id else ""
+
+            logging.info(
+                f"\t\tUpdated local item ({','.join([uuid_changed, name_changed, ext_id_changed])})")
+            return True
+
+
 def perform_update(central_value, local, table, cur):
     if not sanity_check(central_value, local, table):
         return
@@ -160,6 +202,7 @@ def perform_update(central_value, local, table, cur):
     where_ext_id, where_name = get_where_clause(central_value, table)
 
     try:
+
         if has_default_name(table):
             cur.execute(
                 f"UPDATE {table} SET uuid=%s,archived=FALSE,defaultname=%s,externalid=%s WHERE uuid=%s OR (defaultname=%s OR externalid=%s);",
@@ -177,10 +220,7 @@ def perform_update(central_value, local, table, cur):
             f"\t\tUpdated local item ({','.join([uuid_changed, name_changed, ext_id_changed])})")
         return True
     except UniqueViolation as e:
-        report_error(
-            f"\t\tCould not update UUID of {local_uuid}: {where_name}, {where_ext_id}"
-            f"Either the name or external ID are present multiple times in the local DB.")
-        return False
+        return fix_duplicates(central_value, local, table, )
 
 
 def get_local_name(local):
