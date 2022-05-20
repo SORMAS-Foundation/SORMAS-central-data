@@ -47,8 +47,8 @@ def make_ref_dtos(out, key, dtos, filter_expr='name'):
 
         # the data from the HZI are wrong, the defaultName should be English
         # therefore we need to hack...
-        if entity_name == 'Germany':
-            entity_name = 'Deutschland'
+        #if entity_name == 'Germany':
+        #    entity_name = 'Deutschland'
 
         candidate = list(filter(lambda f: f[filter_expr] == entity_name, dtos))
         assert len(candidate) == 1
