@@ -48,7 +48,8 @@ args, unknown = parser.parse_known_args()
 
 assert len(unknown) == 0
 
-fileHandler = logging.FileHandler("/tmp/output.log")
+
+fileHandler = logging.FileHandler(args.output)
 fileHandler.setFormatter(logFormatter)
 rootLogger.addHandler(fileHandler)
 
