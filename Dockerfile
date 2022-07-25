@@ -9,6 +9,6 @@ RUN apk update --no-cache && \
 
 COPY requirements.txt /root
 RUN pip3 install -r /root/requirements.txt
-COPY align_local_central.py /root
+COPY src/alignment/align_local_central.py /root
 WORKDIR /root/
 CMD [ "python3", "/root/align_local_central.py" ]
