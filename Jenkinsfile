@@ -13,12 +13,11 @@ node {
     stage('Build container') {
     	echo 'Building align-local-central'
     	sh """
-    	sudo buildah rmi \$(sudo buildah images -q localhost/central-aligner)
+    	sudo buildah rmi \$(sudo buildah images -q)
     	sudo buildah bud --pull-always --no-cache -t central-aligner:${VERSION} .
     	"""
     	echo 'Building infra-cleaner'
     	sh """
-    	sudo buildah rmi \$(sudo buildah images -q localhost/infra-cleaner)
     	sudo buildah bud --pull-always --no-cache -f Dockerfile-Infra-Cleaner -t infra-cleaner:${VERSION} .
     	"""        
     }
