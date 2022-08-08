@@ -1,5 +1,5 @@
 ###
-# USAGE: docker build -f Dockerfile-Infra_Cleaner -t infra-cleaner .
+# USAGE: docker build -f Dockerfile-Infra-Cleaner -t infra-cleaner .
 # RUN: docker run -it --network host --env-file .env_infra_cleaner  -v "$(pwd)/out:/srv" infra-cleaner
 FROM alpine:3.15
 
@@ -9,6 +9,6 @@ RUN apk update --no-cache && \
 
 COPY requirements.txt /root
 RUN pip3 install -r /root/requirements.txt
-COPY src/bavaria/infra_cleaner_2000.py /root
+COPY src/bavaria/infra_db_cleaner_2000.py /root
 WORKDIR /root/
-CMD [ "python3", "/root/infra_cleaner_2000.py" ]
+CMD [ "python3", "/root/infra_db_cleaner_2000.py" ]

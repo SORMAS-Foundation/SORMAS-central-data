@@ -19,7 +19,7 @@ node {
     	echo 'Building infra-cleaner'
     	sh """
     	sudo buildah rmi \$(sudo buildah images -q localhost/infra-cleaner)
-    	sudo buildah bud --pull-always --no-cache -f Dockerfile-Infra_Cleaner -t infra-cleaner:${VERSION} .
+    	sudo buildah bud --pull-always --no-cache -f Dockerfile-Infra-Cleaner -t infra-cleaner:${VERSION} .
     	"""        
     }
       
