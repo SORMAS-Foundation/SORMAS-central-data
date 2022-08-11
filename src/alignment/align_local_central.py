@@ -252,9 +252,9 @@ def fix_duplicates(central_value, table, conn):
                                           (where_name, where_ext_id)).fetchall()
 
         logging.info(f"\tfound {count} duplicates of {where_name} or {where_ext_id} in {table}")
+        logging.info(f"\tfound true {true_duplicates} duplicates of {where_name} and {where_ext_id} in {table}")
 
         if len(true_duplicates) == 0:
-            logging.info(f"\tfound true {true_duplicates} duplicates of {where_name} and {where_ext_id} in {table}")
             return try_resolve_duplicates(central_value, table, conn)
 
         elif len(true_duplicates) == 1:
@@ -283,7 +283,6 @@ def fix_duplicates(central_value, table, conn):
                 f"\t\tUpdated local item ({','.join([uuid_changed, name_changed, ext_id_changed])})")
             return True
         else:
-            logging.info(f"\tfound true {true_duplicates} duplicates of {where_name} and {where_ext_id} in {table}")
             return try_resolve_duplicates(central_value, table, conn)
 
 
