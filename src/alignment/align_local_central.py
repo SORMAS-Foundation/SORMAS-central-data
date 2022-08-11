@@ -51,6 +51,7 @@ PATH = args.input
 BAVARIAN_MODE = args.bavarian == 'true'
 ARCHIVE_ON_CONFLICT = args.archive == 'true'
 
+
 def archive_everything(table):
     logging.info(f"Archive {table}")
     with psycopg.connect(CONNECTION) as conn:
@@ -252,11 +253,11 @@ def fix_duplicates(central_value, table, conn):
 
         logging.info(f"\tfound {count} duplicates of {where_name} or {where_ext_id} in {table}")
 
-        if len(true_duplicates) > 0 or len(true_duplicates) == 0:
-            logging.info(f"\tfound true {count} duplicates of {where_name} and {where_ext_id} in {table}")
+        if len(true_duplicates) == 0:
+            logging.info(f"\tfound true {true_duplicates} duplicates of {where_name} and {where_ext_id} in {table}")
             return try_resolve_duplicates(central_value, table, conn)
 
-        else:
+        elif len(true_duplicates) == 1:
             # we have one match for name AND external id
             assert len(true_duplicates) == 1
             central_uuid = central_value['uuid']
@@ -281,6 +282,9 @@ def fix_duplicates(central_value, table, conn):
             logging.info(
                 f"\t\tUpdated local item ({','.join([uuid_changed, name_changed, ext_id_changed])})")
             return True
+        else:
+            logging.info(f"\tfound true {true_duplicates} duplicates of {where_name} and {where_ext_id} in {table}")
+            return try_resolve_duplicates(central_value, table, conn)
 
 
 def bavarian_mode(central_value, table, conn):
