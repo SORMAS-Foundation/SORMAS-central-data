@@ -18,6 +18,10 @@ node {
     	echo 'Building infra-cleaner'
     	sh """
     	sudo buildah bud --pull-always --no-cache -f Dockerfile-Infra-Cleaner -t infra-cleaner:${VERSION} .
+    	"""
+    	echo 'Building central-verifier'
+    	sh """
+    	sudo buildah bud --pull-always --no-cache -f Dockerfile-Central-Verifier -t central-verifier:${VERSION} .
     	"""        
     }
       
@@ -30,7 +34,10 @@ node {
             sudo buildah push -f v2s2 central-aligner:${VERSION} registry.netzlink.com/hzibraunschweig/central-aligner:latest
 
         	sudo buildah push -f v2s2 infra-cleaner:${VERSION} registry.netzlink.com/hzibraunschweig/infra-cleaner:${VERSION}
-            sudo buildah push -f v2s2 infra-cleaner:${VERSION} registry.netzlink.com/hzibraunschweig/infra-cleaner:latest            
+            sudo buildah push -f v2s2 infra-cleaner:${VERSION} registry.netzlink.com/hzibraunschweig/infra-cleaner:latest
+
+        	sudo buildah push -f v2s2 central-verifier:${VERSION} registry.netzlink.com/hzibraunschweig/central-verifier:${VERSION}
+            sudo buildah push -f v2s2 central-verifier:${VERSION} registry.netzlink.com/hzibraunschweig/central-verifier:latest            
         	"""
         }    
 	}
