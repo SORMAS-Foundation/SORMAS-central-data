@@ -278,7 +278,7 @@ def perform_update_name_or_id(central_value, local, table, conn):
                 if DRY_RUN:
                     if cur.execute(
                             f"SELECT COUNT(*) FROM {table}  WHERE defaultname=%s OR externalid=%s;",
-                            (central_uuid, where_name, where_ext_id, where_name, where_ext_id)).fetchone()['count'] > 1:
+                            (where_name, where_ext_id)).fetchone()['count'] > 1:
                         report_error(
                             f"\t\tDuplicate in {table} WHERE defaultname={where_name} OR externalid={where_ext_id}")
                         raise UniqueViolation
