@@ -31,13 +31,16 @@ node {
         	sh """
         	sudo buildah login -u '$MY_SECRET_USER_NLI' -p '$MY_SECRET_USER_PASSWORD_NLI' registry.netzlink.com
         	sudo buildah push -f v2s2 central-aligner:${VERSION} registry.netzlink.com/hzibraunschweig/central-aligner:${VERSION}
-            sudo buildah push -f v2s2 central-aligner:${VERSION} registry.netzlink.com/hzibraunschweig/central-aligner:latest
+            	sudo buildah push -f v2s2 central-aligner:${VERSION} registry.netzlink.com/hzibraunschweig/central-aligner:latest
+		sudo buildah push -f v2s2 central-aligner:${VERSION} registry.netzlink.com/hzibraunschweig/central-aligner:stable
 
         	sudo buildah push -f v2s2 infra-cleaner:${VERSION} registry.netzlink.com/hzibraunschweig/infra-cleaner:${VERSION}
-            sudo buildah push -f v2s2 infra-cleaner:${VERSION} registry.netzlink.com/hzibraunschweig/infra-cleaner:latest
+            	sudo buildah push -f v2s2 infra-cleaner:${VERSION} registry.netzlink.com/hzibraunschweig/infra-cleaner:latest
+		sudo buildah push -f v2s2 infra-cleaner:${VERSION} registry.netzlink.com/hzibraunschweig/infra-cleaner:stable
 
         	sudo buildah push -f v2s2 central-verifier:${VERSION} registry.netzlink.com/hzibraunschweig/central-verifier:${VERSION}
-            sudo buildah push -f v2s2 central-verifier:${VERSION} registry.netzlink.com/hzibraunschweig/central-verifier:latest            
+            	sudo buildah push -f v2s2 central-verifier:${VERSION} registry.netzlink.com/hzibraunschweig/central-verifier:latest
+		sudo buildah push -f v2s2 central-verifier:${VERSION} registry.netzlink.com/hzibraunschweig/central-verifier:stable
         	"""
         }    
 	}
