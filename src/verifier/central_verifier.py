@@ -1,8 +1,8 @@
 #
-#usage: central_verifier.py [-h] [-H HOST] [-d DBNAME] [-u USERNAME]
+# usage: central_verifier.py [-h] [-H HOST] [-d DBNAME] [-u USERNAME]
 #                           [-p PASSWORD] [-P PORT] [-i INPUT]
 #
-#options:
+# options:
 #  -h, --help            show this help message and exit
 #  -H HOST, --host HOST  database server host or socket directory
 #  -d DBNAME, --dbname DBNAME
@@ -85,7 +85,6 @@ def insert_entity(table, central_value, conn):
         # force download again
         date = datetime.fromisoformat('2000-01-01').strftime("%Y-%m-%d %H:%M:%S")
 
-
         # fetch the max id from the community table
         max_id = cur.execute(f"SELECT max(id) FROM {table}").fetchone()['max']
 
@@ -98,19 +97,24 @@ def insert_entity(table, central_value, conn):
         insert into public.community 
         (id, changedate, creationdate, name, uuid, district_id, archived, externalid,  centrally_managed, sys_period) 
         values ('{max_id + 1}','{date}', '{date}', %s, '{central_value['uuid']}', {district_id}, false, {external_id},true, '["{date}",)');
-        """,(name,))
+        """, (name,))
         logging.info(f"Inserted central value: {central_value}")
 
 
 def verify_uuid(table, central_value):
     with psycopg.connect(CONNECTION) as conn:
         with conn.cursor(row_factory=dict_row) as cur:
-            local = cur.execute(f"SELECT * FROM {table} WHERE uuid=%s", [central_value['uuid']]).fetchone()
+            central_value_uuid = central_value['uuid']
+            local = cur.execute(f"SELECT * FROM {table} WHERE uuid=%s", [central_value_uuid]).fetchone()
             if local:
                 logging.info(f"\t\tExact local uuid match!")
             else:
                 logging.info(f"\t\tNo exact local uuid match! Inserting {central_value}")
                 insert_entity(table, central_value, conn)
+
+            date = datetime.fromisoformat('2000-01-01').strftime("%Y-%m-%d %H:%M:%S")
+            cur.execute(f"UPDATE {table} SET changedate={date} WHERE uuid={central_value_uuid};")
+            logging.info(f"\t\tUpdated changedate for {central_value_uuid}")
 
 
 def has_default_name(table):
