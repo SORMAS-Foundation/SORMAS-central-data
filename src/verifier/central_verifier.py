@@ -80,8 +80,8 @@ def verify():
 
 def insert_entity(table, central_value, conn):
     with conn.cursor(row_factory=dict_row) as cur:
-        name = central_value['name']
-        external_id = central_value['externalID']
+        name: str = central_value['name']
+        external_id: str = central_value['externalID']
         # force download again
         date = datetime.fromisoformat('2000-01-01').strftime("%Y-%m-%d %H:%M:%S")
 
