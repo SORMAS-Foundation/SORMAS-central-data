@@ -82,7 +82,9 @@ def insert_entity(table, central_value, conn):
     with conn.cursor(row_factory=dict_row) as cur:
         name = central_value['name']
         external_id = central_value['externalID']
-        now = datetime.now().time().strftime('%Y-%m-%d %H:%M:%S')
+        # force download again
+        date = datetime.fromisoformat('2000-01-01').strftime("%Y-%m-%d %H:%M:%S")
+
 
         # fetch the max id from the community table
         max_id = cur.execute(f"SELECT max(id) FROM {table}").fetchone()['max']
@@ -95,7 +97,7 @@ def insert_entity(table, central_value, conn):
         cur.execute(f"""
         insert into public.community 
         (id, changedate, creationdate, name, uuid, district_id, archived, externalid,  centrally_managed, sys_period) 
-        values ('{max_id + 1}','{now}', '{now}', %s, '{central_value['uuid']}', {district_id}, false, {external_id},true, '["{now}",)');
+        values ('{max_id + 1}','{date}', '{date}', %s, '{central_value['uuid']}', {district_id}, false, {external_id},true, '["{date}",)');
         """,(name,))
         logging.info(f"Inserted central value: {central_value}")
 
