@@ -98,13 +98,26 @@ def warn_about_missing_communities(table, central_value: dict[str, str]):
 
 
 def iterate_central():
-    infra_types = {'community': f'{PATH}/germany/community.json'} if HANDLE_COMMUNITIES \
-        else {
+    if DRY_RUN:
+        infra_types = {
             'continent': f'{PATH}/international/continent.json',
             'subcontinent': f'{PATH}/international/subcontinent.json',
             'country': f'{PATH}/germany/country.json',
             'region': f'{PATH}/germany/region.json',
             'district': f'{PATH}/germany/district.json',
+            'community': f'{PATH}/germany/community.json'
+        }
+    elif HANDLE_COMMUNITIES:
+        infra_types = {
+            'community': f'{PATH}/germany/community.json'
+        }
+    else:
+        infra_types = {
+            'continent': f'{PATH}/international/continent.json',
+            'subcontinent': f'{PATH}/international/subcontinent.json',
+            'country': f'{PATH}/germany/country.json',
+            'region': f'{PATH}/germany/region.json',
+            'district': f'{PATH}/germany/district.json'
         }
 
     for table, path in infra_types.items():
