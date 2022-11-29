@@ -42,6 +42,8 @@ parser.add_argument("-B", "--bavarian", default=os.environ.get("bavarian"), help
 parser.add_argument("-a", "--archive", default=os.environ.get("ARCHIVE"), help="archive on conflict",
                     action="store")
 parser.add_argument("-t", "--test", default=os.environ.get("test"), help="test mode/dry run", action="store")
+parser.add_argument("-c", "--community", default=os.environ.get("community"), help="handle communities true/false",
+                    action="store")
 
 args, unknown = parser.parse_known_args()
 
@@ -53,6 +55,7 @@ PATH = args.input
 BAVARIAN_MODE = args.bavarian == 'true'
 ARCHIVE_ON_CONFLICT = args.archive == 'true'
 DRY_RUN = args.test == "true"
+HANDLE_COMMUNITIES = args.community == 'true'
 
 NUMBER_OF_NAMES: dict[str, int] = {}
 
@@ -95,14 +98,14 @@ def warn_about_missing_communities(table, central_value: dict[str, str]):
 
 
 def iterate_central():
-    infra_types = {
-        'continent': f'{PATH}/international/continent.json',
-        'subcontinent': f'{PATH}/international/subcontinent.json',
-        'country': f'{PATH}/germany/country.json',
-        'region': f'{PATH}/germany/region.json',
-        'district': f'{PATH}/germany/district.json',
-        'community': f'{PATH}/germany/community.json'
-    }
+    infra_types = {'community': f'{PATH}/germany/community.json'} if HANDLE_COMMUNITIES \
+        else {
+            'continent': f'{PATH}/international/continent.json',
+            'subcontinent': f'{PATH}/international/subcontinent.json',
+            'country': f'{PATH}/germany/country.json',
+            'region': f'{PATH}/germany/region.json',
+            'district': f'{PATH}/germany/district.json',
+        }
 
     for table, path in infra_types.items():
         logging.info(f"Process table {table}")
