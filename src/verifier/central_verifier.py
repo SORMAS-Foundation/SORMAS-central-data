@@ -113,7 +113,7 @@ def verify_uuid(table, central_value):
                 insert_entity(table, central_value, conn)
 
             date = datetime.fromisoformat('2000-01-01').strftime("%Y-%m-%d %H:%M:%S")
-            cur.execute(f"UPDATE {table} SET changedate={date} WHERE uuid={central_value_uuid};")
+            cur.execute(f"UPDATE {table} SET changedate='{date}' WHERE uuid='{central_value_uuid}';")
             logging.info(f"\t\tUpdated changedate for {central_value_uuid}")
 
 
