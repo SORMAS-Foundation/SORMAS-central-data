@@ -1,0 +1,433 @@
+name;epidCode;growthRate;region;archived;externalID
+SK Flensburg;FL;0;Schleswig-Holstein;0;11001001
+SK Kiel;KI;0;Schleswig-Holstein;0;11001002
+SK Lübeck;HL;0;Schleswig-Holstein;0;11001003
+SK Neumünster;NMS;0;Schleswig-Holstein;0;11001004
+LK Dithmarschen;HEI;0;Schleswig-Holstein;0;11001051
+LK Herzogtum Lauenburg;RZ;0;Schleswig-Holstein;0;11001053
+LK Nordfriesland;NF;0;Schleswig-Holstein;0;11001054
+LK Ostholstein;OLD;0;Schleswig-Holstein;0;11001055
+LK Pinneberg;PI;0;Schleswig-Holstein;0;11001056
+LK Plön;PLÖ;0;Schleswig-Holstein;0;11001057
+LK Rendsburg-Eckernförde;RD;0;Schleswig-Holstein;0;11001058
+LK Schleswig-Flensburg;SL;0;Schleswig-Holstein;0;11001059
+LK Segeberg;SE;0;Schleswig-Holstein;0;11001060
+LK Steinburg;IZ;0;Schleswig-Holstein;0;11001061
+LK Stormarn;OD;0;Schleswig-Holstein;0;11001062
+SK Hamburg;HH;0;Hamburg;0;11002000
+SK Braunschweig;BS;0;Niedersachsen;0;11003101
+SK Salzgitter;SZ;0;Niedersachsen;0;11003102
+SK Wolfsburg;WOB;0;Niedersachsen;0;11003103
+LK Gifhorn;GF;0;Niedersachsen;0;11003151
+LK Göttingen (alt);GÖ;0;Niedersachsen;0;11003152
+LK Goslar;GS;0;Niedersachsen;0;11003153
+LK Helmstedt;HE;0;Niedersachsen;0;11003154
+LK Northeim;NOM;0;Niedersachsen;0;11003155
+LK Osterode am Harz;OHA;0;Niedersachsen;0;11003156
+LK Peine;PE;0;Niedersachsen;0;11003157
+LK Wolfenbüttel;WF;0;Niedersachsen;0;11003158
+LK Göttingen;GÖ;0;Niedersachsen;0;11003159
+Region Hannover;H;0;Niedersachsen;0;11003241
+LK Diepholz;DH;0;Niedersachsen;0;11003251
+LK Hameln-Pyrmont;HM;0;Niedersachsen;0;11003252
+LK Hildesheim;HI;0;Niedersachsen;0;11003254
+LK Holzminden;HOL;0;Niedersachsen;0;11003255
+LK Nienburg (Weser);NI;0;Niedersachsen;0;11003256
+LK Schaumburg;STH;0;Niedersachsen;0;11003257
+LK Celle;CE;0;Niedersachsen;0;11003351
+LK Cuxhaven;WEM;0;Niedersachsen;0;11003352
+LK Harburg;WL;0;Niedersachsen;0;11003353
+LK Lüchow-Dannenberg;DAN;0;Niedersachsen;0;11003354
+LK Lüneburg;LG;0;Niedersachsen;0;11003355
+LK Osterholz;OHZ;0;Niedersachsen;0;11003356
+LK Rotenburg (Wümme);ROW;0;Niedersachsen;0;11003357
+LK Heidekreis;SOL;0;Niedersachsen;0;11003358
+LK Stade;STD;0;Niedersachsen;0;11003359
+LK Uelzen;UE;0;Niedersachsen;0;11003360
+LK Verden;VER;0;Niedersachsen;0;11003361
+SK Delmenhorst;DEL;0;Niedersachsen;0;11003401
+SK Emden;EMD;0;Niedersachsen;0;11003402
+SK Oldenburg;OL;0;Niedersachsen;0;11003403
+SK Osnabrück;OS;0;Niedersachsen;0;11003404
+SK Wilhelmshaven;WHV;0;Niedersachsen;0;11003405
+LK Ammerland;WST;0;Niedersachsen;0;11003451
+LK Aurich;AUR;0;Niedersachsen;0;11003452
+LK Cloppenburg;CLP;0;Niedersachsen;0;11003453
+LK Emsland;MEP;0;Niedersachsen;0;11003454
+LK Friesland;JEV;0;Niedersachsen;0;11003455
+LK Grafschaft Bentheim;NOH;0;Niedersachsen;0;11003456
+LK Leer;LER;0;Niedersachsen;0;11003457
+LK Oldenburg;OL;0;Niedersachsen;0;11003458
+LK Osnabrück;OS;0;Niedersachsen;0;11003459
+LK Vechta;VEC;0;Niedersachsen;0;11003460
+LK Wesermarsch;BRA;0;Niedersachsen;0;11003461
+LK Wittmund;WTM;0;Niedersachsen;0;11003462
+SK Bremen;HB;0;Bremen;0;11004011
+SK Bremerhaven;HB;0;Bremen;0;11004012
+SK Düsseldorf;D;0;Nordrhein-Westfalen;0;11005111
+SK Duisburg;DU;0;Nordrhein-Westfalen;0;11005112
+SK Essen;E;0;Nordrhein-Westfalen;0;11005113
+SK Krefeld;KR;0;Nordrhein-Westfalen;0;11005114
+SK Mönchengladbach;MG;0;Nordrhein-Westfalen;0;11005116
+SK Mülheim a.d.Ruhr;MH;0;Nordrhein-Westfalen;0;11005117
+SK Oberhausen;OB;0;Nordrhein-Westfalen;0;11005119
+SK Remscheid;RS;0;Nordrhein-Westfalen;0;11005120
+SK Solingen;SG;0;Nordrhein-Westfalen;0;11005122
+SK Wuppertal;W;0;Nordrhein-Westfalen;0;11005124
+LK Kleve;KLE;0;Nordrhein-Westfalen;0;11005154
+LK Mettmann;ME;0;Nordrhein-Westfalen;0;11005158
+LK Rhein-Kreis Neuss;NE;0;Nordrhein-Westfalen;0;11005162
+LK Viersen;VIE;0;Nordrhein-Westfalen;0;11005166
+LK Wesel;WES;0;Nordrhein-Westfalen;0;11005170
+SK Aachen;AC;0;Nordrhein-Westfalen;0;11005313
+SK Bonn;BN;0;Nordrhein-Westfalen;0;11005314
+SK Köln;K;0;Nordrhein-Westfalen;0;11005315
+SK Leverkusen;LEV;0;Nordrhein-Westfalen;0;11005316
+StadtRegion Aachen;AC;0;Nordrhein-Westfalen;0;11005334
+LK Aachen;AC;0;Nordrhein-Westfalen;0;11005354
+LK Düren;DN;0;Nordrhein-Westfalen;0;11005358
+LK Rhein-Erft-Kreis;BM;0;Nordrhein-Westfalen;0;11005362
+LK Euskirchen;EU;0;Nordrhein-Westfalen;0;11005366
+LK Heinsberg;HS;0;Nordrhein-Westfalen;0;11005370
+LK Oberbergischer Kreis;GM;0;Nordrhein-Westfalen;0;11005374
+LK Rheinisch-Bergischer Kreis;GL;0;Nordrhein-Westfalen;0;11005378
+LK Rhein-Sieg-Kreis;SU;0;Nordrhein-Westfalen;0;11005382
+SK Bottrop;BOT;0;Nordrhein-Westfalen;0;11005512
+SK Gelsenkirchen;GE;0;Nordrhein-Westfalen;0;11005513
+SK Münster;MS;0;Nordrhein-Westfalen;0;11005515
+LK Borken;BOR;0;Nordrhein-Westfalen;0;11005554
+LK Coesfeld;COE;0;Nordrhein-Westfalen;0;11005558
+LK Recklinghausen;RE;0;Nordrhein-Westfalen;0;11005562
+LK Steinfurt;ST;0;Nordrhein-Westfalen;0;11005566
+LK Warendorf;WAF;0;Nordrhein-Westfalen;0;11005570
+SK Bielefeld;BI;0;Nordrhein-Westfalen;0;11005711
+LK Gütersloh;GT;0;Nordrhein-Westfalen;0;11005754
+LK Herford;HF;0;Nordrhein-Westfalen;0;11005758
+LK Höxter;HX;0;Nordrhein-Westfalen;0;11005762
+LK Lippe;LIP;0;Nordrhein-Westfalen;0;11005766
+LK Minden-Lübbecke;MI;0;Nordrhein-Westfalen;0;11005770
+LK Paderborn;PB;0;Nordrhein-Westfalen;0;11005774
+SK Bochum;BO;0;Nordrhein-Westfalen;0;11005911
+SK Dortmund;DO;0;Nordrhein-Westfalen;0;11005913
+SK Hagen;HA;0;Nordrhein-Westfalen;0;11005914
+SK Hamm;HAM;0;Nordrhein-Westfalen;0;11005915
+SK Herne;HER;0;Nordrhein-Westfalen;0;11005916
+LK Ennepe-Ruhr-Kreis;EN;0;Nordrhein-Westfalen;0;11005954
+LK Hochsauerlandkreis;MES;0;Nordrhein-Westfalen;0;11005958
+LK Märkischer Kreis;MK;0;Nordrhein-Westfalen;0;11005962
+LK Olpe;OE;0;Nordrhein-Westfalen;0;11005966
+LK Siegen-Wittgenstein;SI;0;Nordrhein-Westfalen;0;11005970
+LK Soest;SO;0;Nordrhein-Westfalen;0;11005974
+LK Unna;UN;0;Nordrhein-Westfalen;0;11005978
+SK Darmstadt;DA;0;Hessen;0;11006411
+SK Frankfurt am Main;F;0;Hessen;0;11006412
+SK Offenbach;OF;0;Hessen;0;11006413
+SK Wiesbaden;WI;0;Hessen;0;11006414
+LK Bergstraße;HP;0;Hessen;0;11006431
+LK Darmstadt-Dieburg;DI;0;Hessen;0;11006432
+LK Groß-Gerau;GG;0;Hessen;0;11006433
+LK Hochtaunuskreis;HG;0;Hessen;0;11006434
+LK Main-Kinzig-Kreis;HU;0;Hessen;0;11006435
+LK Main-Taunus-Kreis;MTK;0;Hessen;0;11006436
+LK Odenwaldkreis;ERB;0;Hessen;0;11006437
+LK Offenbach;OF;0;Hessen;0;11006438
+LK Rheingau-Taunus-Kreis;SWA;0;Hessen;0;11006439
+LK Wetteraukreis;FB;0;Hessen;0;11006440
+LK Gießen;GI;0;Hessen;0;11006531
+LK Lahn-Dill-Kreis;LDK;0;Hessen;0;11006532
+LK Limburg-Weilburg;LM;0;Hessen;0;11006533
+LK Marburg-Biedenkopf;MR;0;Hessen;0;11006534
+LK Vogelsbergkreis;VB;0;Hessen;0;11006535
+SK Kassel;KS;0;Hessen;0;11006611
+LK Fulda;FD;0;Hessen;0;11006631
+LK Hersfeld-Rotenburg;HEF;0;Hessen;0;11006632
+LK Kassel;WOH;0;Hessen;0;11006633
+LK Schwalm-Eder-Kreis;HR;0;Hessen;0;11006634
+LK Waldeck-Frankenberg;WA;0;Hessen;0;11006635
+LK Werra-Meißner-Kreis;ESW;0;Hessen;0;11006636
+SK Koblenz;KO;0;Rheinland-Pfalz;0;11007111
+LK Ahrweiler;AW;0;Rheinland-Pfalz;0;11007131
+LK Altenkirchen;AK;0;Rheinland-Pfalz;0;11007132
+LK Bad Kreuznach;KH;0;Rheinland-Pfalz;0;11007133
+LK Birkenfeld;BIR;0;Rheinland-Pfalz;0;11007134
+LK Cochem-Zell;COC;0;Rheinland-Pfalz;0;11007135
+LK Mayen-Koblenz;MYK;0;Rheinland-Pfalz;0;11007137
+LK Neuwied;NR;0;Rheinland-Pfalz;0;11007138
+LK Rhein-Hunsrück-Kreis;SIM;0;Rheinland-Pfalz;0;11007140
+LK Rhein-Lahn-Kreis;EMS;0;Rheinland-Pfalz;0;11007141
+LK Westerwaldkreis;WW;0;Rheinland-Pfalz;0;11007143
+SK Trier;TR;0;Rheinland-Pfalz;0;11007211
+LK Bernkastel-Wittlich;WIL;0;Rheinland-Pfalz;0;11007231
+LK Bitburg-Prüm;BIT;0;Rheinland-Pfalz;0;11007232
+LK Vulkaneifel;DAU;0;Rheinland-Pfalz;0;11007233
+LK Trier-Saarburg;TR;0;Rheinland-Pfalz;0;11007235
+SK Frankenthal;FT;0;Rheinland-Pfalz;0;11007311
+SK Kaiserslautern;KL;0;Rheinland-Pfalz;0;11007312
+SK Landau i.d.Pfalz;LD;0;Rheinland-Pfalz;0;11007313
+SK Ludwigshafen;LU;0;Rheinland-Pfalz;0;11007314
+SK Mainz;MZ;0;Rheinland-Pfalz;0;11007315
+SK Neustadt a.d.Weinstraße;NW;0;Rheinland-Pfalz;0;11007316
+SK Pirmasens;PS;0;Rheinland-Pfalz;0;11007317
+SK Speyer;SP;0;Rheinland-Pfalz;0;11007318
+SK Worms;WO;0;Rheinland-Pfalz;0;11007319
+SK Zweibrücken;ZW;0;Rheinland-Pfalz;0;11007320
+LK Alzey-Worms;AZ;0;Rheinland-Pfalz;0;11007331
+LK Bad Dürkheim;DÜW;0;Rheinland-Pfalz;0;11007332
+LK Donnersbergkreis;KIB;0;Rheinland-Pfalz;0;11007333
+LK Germersheim;GER;0;Rheinland-Pfalz;0;11007334
+LK Kaiserslautern;KL;0;Rheinland-Pfalz;0;11007335
+LK Kusel;KUS;0;Rheinland-Pfalz;0;11007336
+LK Südliche Weinstraße;SÜW;0;Rheinland-Pfalz;0;11007337
+LK Rhein-Pfalz-Kreis;LU;0;Rheinland-Pfalz;0;11007338
+LK Mainz-Bingen;MZ;0;Rheinland-Pfalz;0;11007339
+LK Südwestpfalz;PS;0;Rheinland-Pfalz;0;11007340
+SK Stuttgart;S;0;Baden-Württemberg;0;11008111
+LK Böblingen;BB;0;Baden-Württemberg;0;11008115
+LK Esslingen;ES;0;Baden-Württemberg;0;11008116
+LK Göppingen;GP;0;Baden-Württemberg;0;11008117
+LK Ludwigsburg;LB;0;Baden-Württemberg;0;11008118
+LK Rems-Murr-Kreis;WN;0;Baden-Württemberg;0;11008119
+SK Heilbronn;HN;0;Baden-Württemberg;0;11008121
+LK Heilbronn;HN;0;Baden-Württemberg;0;11008125
+LK Hohenlohekreis;KÜN;0;Baden-Württemberg;0;11008126
+LK Schwäbisch Hall;SHA;0;Baden-Württemberg;0;11008127
+LK Main-Tauber-Kreis;TBB;0;Baden-Württemberg;0;11008128
+LK Heidenheim;HDH;0;Baden-Württemberg;0;11008135
+LK Ostalbkreis;AA;0;Baden-Württemberg;0;11008136
+SK Baden-Baden;BAD;0;Baden-Württemberg;0;11008211
+SK Karlsruhe;KA;0;Baden-Württemberg;0;11008212
+LK Karlsruhe;KA;0;Baden-Württemberg;0;11008215
+LK Rastatt;RA;0;Baden-Württemberg;0;11008216
+SK Heidelberg;HD;0;Baden-Württemberg;0;11008221
+SK Mannheim;MA;0;Baden-Württemberg;0;11008222
+LK Neckar-Odenwald-Kreis;MOS;0;Baden-Württemberg;0;11008225
+LK Rhein-Neckar-Kreis;HD;0;Baden-Württemberg;0;11008226
+SK Pforzheim;PF;0;Baden-Württemberg;0;11008231
+LK Calw;CW;0;Baden-Württemberg;0;11008235
+LK Enzkreis;PF;0;Baden-Württemberg;0;11008236
+LK Freudenstadt;FDS;0;Baden-Württemberg;0;11008237
+SK Freiburg i.Breisgau;FR;0;Baden-Württemberg;0;11008311
+LK Breisgau-Hochschwarzwald;FR;0;Baden-Württemberg;0;11008315
+LK Emmendingen;EM;0;Baden-Württemberg;0;11008316
+LK Ortenaukreis;OG;0;Baden-Württemberg;0;11008317
+LK Rottweil;RW;0;Baden-Württemberg;0;11008325
+LK Schwarzwald-Baar-Kreis;VS;0;Baden-Württemberg;0;11008326
+LK Tuttlingen;TUT;0;Baden-Württemberg;0;11008327
+LK Konstanz;KN;0;Baden-Württemberg;0;11008335
+LK Lörrach;LÖ;0;Baden-Württemberg;0;11008336
+LK Waldshut;WT;0;Baden-Württemberg;0;11008337
+LK Reutlingen;RT;0;Baden-Württemberg;0;11008415
+LK Tübingen;TÜ;0;Baden-Württemberg;0;11008416
+LK Zollernalbkreis;BL;0;Baden-Württemberg;0;11008417
+SK Ulm;UL;0;Baden-Württemberg;0;11008421
+LK Alb-Donau-Kreis;UL;0;Baden-Württemberg;0;11008425
+LK Biberach;BC;0;Baden-Württemberg;0;11008426
+LK Bodenseekreis;FN;0;Baden-Württemberg;0;11008435
+LK Ravensburg;RV;0;Baden-Württemberg;0;11008436
+LK Sigmaringen;SIG;0;Baden-Württemberg;0;11008437
+SK Ingolstadt;IN;0;Bayern;0;11009161
+SK München;M;0;Bayern;0;11009162
+SK Rosenheim;RO;0;Bayern;0;11009163
+LK Altötting;AÖ;0;Bayern;0;11009171
+LK Berchtesgadener Land;REI;0;Bayern;0;11009172
+LK Bad Tölz-Wolfratshausen;TÖL;0;Bayern;0;11009173
+LK Dachau;DAH;0;Bayern;0;11009174
+LK Ebersberg;EBE;0;Bayern;0;11009175
+LK Eichstätt;EIH;0;Bayern;0;11009176
+LK Erding;ED;0;Bayern;0;11009177
+LK Freising;FS;0;Bayern;0;11009178
+LK Fürstenfeldbruck;FFB;0;Bayern;0;11009179
+LK Garmisch-Partenkirchen;GAP;0;Bayern;0;11009180
+LK Landsberg a.Lech;LL;0;Bayern;0;11009181
+LK Miesbach;MB;0;Bayern;0;11009182
+LK Mühldorf a.Inn;MÜ;0;Bayern;0;11009183
+LK München;M;0;Bayern;0;11009184
+LK Neuburg-Schrobenhausen;ND;0;Bayern;0;11009185
+LK Pfaffenhofen a.d.Ilm;PAF;0;Bayern;0;11009186
+LK Rosenheim;RO;0;Bayern;0;11009187
+LK Starnberg;STA;0;Bayern;0;11009188
+LK Traunstein;TS;0;Bayern;0;11009189
+LK Weilheim-Schongau;WM;0;Bayern;0;11009190
+SK Landshut;LA;0;Bayern;0;11009261
+SK Passau;PA;0;Bayern;0;11009262
+SK Straubing;SR;0;Bayern;0;11009263
+LK Deggendorf;DEG;0;Bayern;0;11009271
+LK Freyung-Grafenau;WOS;0;Bayern;0;11009272
+LK Kelheim;KEH;0;Bayern;0;11009273
+LK Landshut;LA;0;Bayern;0;11009274
+LK Passau;PA;0;Bayern;0;11009275
+LK Regen;REG;0;Bayern;0;11009276
+LK Rottal-Inn;PAN;0;Bayern;0;11009277
+LK Straubing-Bogen;SR;0;Bayern;0;11009278
+LK Dingolfing-Landau;LAN;0;Bayern;0;11009279
+SK Amberg;AM;0;Bayern;0;11009361
+SK Regensburg;R;0;Bayern;0;11009362
+SK Weiden i.d.OPf.;WEN;0;Bayern;0;11009363
+LK Amberg-Sulzbach;AS;0;Bayern;0;11009371
+LK Cham;CHA;0;Bayern;0;11009372
+LK Neumarkt i.d.OPf.;NM;0;Bayern;0;11009373
+LK Neustadt a.d.Waldnaab;NEW;0;Bayern;0;11009374
+LK Regensburg;R;0;Bayern;0;11009375
+LK Schwandorf;SAD;0;Bayern;0;11009376
+LK Tirschenreuth;TIR;0;Bayern;0;11009377
+SK Bamberg;BA;0;Bayern;0;11009461
+SK Bayreuth;BT;0;Bayern;0;11009462
+SK Coburg;CO;0;Bayern;0;11009463
+SK Hof;HO;0;Bayern;0;11009464
+LK Bamberg;BA;0;Bayern;0;11009471
+LK Bayreuth;BT;0;Bayern;0;11009472
+LK Coburg;NEC;0;Bayern;0;11009473
+LK Forchheim;FO;0;Bayern;0;11009474
+LK Hof;HO;0;Bayern;0;11009475
+LK Kronach;KC;0;Bayern;0;11009476
+LK Kulmbach;KU;0;Bayern;0;11009477
+LK Lichtenfels;LIF;0;Bayern;0;11009478
+LK Wunsiedel i.Fichtelgebirge;WUN;0;Bayern;0;11009479
+SK Ansbach;AN;0;Bayern;0;11009561
+SK Erlangen;ER;0;Bayern;0;11009562
+SK Fürth;FÜ;0;Bayern;0;11009563
+SK Nürnberg;N;0;Bayern;0;11009564
+SK Schwabach;SC;0;Bayern;0;11009565
+LK Ansbach;AN;0;Bayern;0;11009571
+LK Erlangen-Höchstadt;ERL;0;Bayern;0;11009572
+LK Fürth;FÜ;0;Bayern;0;11009573
+LK Nürnberger Land;LAU;0;Bayern;0;11009574
+LK Neustadt a.d.Aisch-Bad Windsheim;NEA;0;Bayern;0;11009575
+LK Roth;RH;0;Bayern;0;11009576
+LK Weißenburg-Gunzenhausen;WUG;0;Bayern;0;11009577
+SK Aschaffenburg;AB;0;Bayern;0;11009661
+SK Schweinfurt;SW;0;Bayern;0;11009662
+SK Würzburg;WÜ;0;Bayern;0;11009663
+LK Aschaffenburg;AB;0;Bayern;0;11009671
+LK Bad Kissingen;KG;0;Bayern;0;11009672
+LK Rhön-Grabfeld;NES;0;Bayern;0;11009673
+LK Haßberge;HAS;0;Bayern;0;11009674
+LK Kitzingen;KT;0;Bayern;0;11009675
+LK Miltenberg;MIL;0;Bayern;0;11009676
+LK Main-Spessart;MSP;0;Bayern;0;11009677
+LK Schweinfurt;SW;0;Bayern;0;11009678
+LK Würzburg;WÜ;0;Bayern;0;11009679
+SK Augsburg;A;0;Bayern;0;11009761
+SK Kaufbeuren;KF;0;Bayern;0;11009762
+SK Kempten;KE;0;Bayern;0;11009763
+SK Memmingen;MM;0;Bayern;0;11009764
+LK Aichach-Friedberg;AIC;0;Bayern;0;11009771
+LK Augsburg;A;0;Bayern;0;11009772
+LK Dillingen a.d.Donau;DLG;0;Bayern;0;11009773
+LK Günzburg;GZ;0;Bayern;0;11009774
+LK Neu-Ulm;NU;0;Bayern;0;11009775
+LK Lindau;LI;0;Bayern;0;11009776
+LK Ostallgäu;OAL;0;Bayern;0;11009777
+LK Unterallgäu;MN;0;Bayern;0;11009778
+LK Donau-Ries;DON;0;Bayern;0;11009779
+LK Oberallgäu;SF;0;Bayern;0;11009780
+LK Stadtverband Saarbrücken;SB;0;Saarland;0;11010041
+LK Merzig-Wadern;MZG;0;Saarland;0;11010042
+LK Neunkirchen;NK;0;Saarland;0;11010043
+LK Saarlouis;SLS;0;Saarland;0;11010044
+LK Saarpfalz-Kreis;HOM;0;Saarland;0;11010045
+LK Sankt Wendel;WND;0;Saarland;0;11010046
+SK Berlin Mitte;B;0;Berlin;0;11011001
+SK Berlin Friedrichshain-Kreuzberg;B;0;Berlin;0;11011002
+SK Berlin Pankow;B;0;Berlin;0;11011003
+SK Berlin Charlottenburg-Wilmersdorf;B;0;Berlin;0;11011004
+SK Berlin Spandau;B;0;Berlin;0;11011005
+SK Berlin Steglitz-Zehlendorf;B;0;Berlin;0;11011006
+SK Berlin Tempelhof-Schöneberg;B;0;Berlin;0;11011007
+SK Berlin Neukölln;B;0;Berlin;0;11011008
+SK Berlin Treptow-Köpenick;B;0;Berlin;0;11011009
+SK Berlin Marzahn-Hellersdorf;B;0;Berlin;0;11011010
+SK Berlin Lichtenberg;B;0;Berlin;0;11011011
+SK Berlin Reinickendorf;B;0;Berlin;0;11011012
+SK Brandenburg a.d.Havel;BRB;0;Brandenburg;0;11012051
+SK Cottbus;CB;0;Brandenburg;0;11012052
+SK Frankfurt (Oder);FF;0;Brandenburg;0;11012053
+SK Potsdam;P;0;Brandenburg;0;11012054
+LK Barnim;BAR;0;Brandenburg;0;11012060
+LK Dahme-Spreewald;LDS;0;Brandenburg;0;11012061
+LK Elbe-Elster;EE;0;Brandenburg;0;11012062
+LK Havelland;HVL;0;Brandenburg;0;11012063
+LK Märkisch-Oderland;MOL;0;Brandenburg;0;11012064
+LK Oberhavel;OHV;0;Brandenburg;0;11012065
+LK Oberspreewald-Lausitz;OSL;0;Brandenburg;0;11012066
+LK Oder-Spree;LOS;0;Brandenburg;0;11012067
+LK Ostprignitz-Ruppin;OPR;0;Brandenburg;0;11012068
+LK Potsdam-Mittelmark;PM;0;Brandenburg;0;11012069
+LK Prignitz;PR;0;Brandenburg;0;11012070
+LK Spree-Neiße;SPN;0;Brandenburg;0;11012071
+LK Teltow-Fläming;TF;0;Brandenburg;0;11012072
+LK Uckermark;UM;0;Brandenburg;0;11012073
+SK Greifswald;HGW;0;Mecklenburg-Vorpommern;0;11013001
+SK Neubrandenburg;NB;0;Mecklenburg-Vorpommern;0;11013002
+SK Rostock;HRO;0;Mecklenburg-Vorpommern;0;11013003
+SK Schwerin;SN;0;Mecklenburg-Vorpommern;0;11013004
+SK Stralsund;HST;0;Mecklenburg-Vorpommern;0;11013005
+SK Wismar;HWI;0;Mecklenburg-Vorpommern;0;11013006
+LK Bad Doberan;ROS;0;Mecklenburg-Vorpommern;0;11013051
+LK Demmin;DM;0;Mecklenburg-Vorpommern;0;11013052
+LK Güstrow;GÜ;0;Mecklenburg-Vorpommern;0;11013053
+LK Ludwigslust;SN;0;Mecklenburg-Vorpommern;0;11013054
+LK Mecklenburg-Strelitz;NB;0;Mecklenburg-Vorpommern;0;11013055
+LK Müritz;RM;0;Mecklenburg-Vorpommern;0;11013056
+LK Nordvorpommern;NVP;0;Mecklenburg-Vorpommern;0;11013057
+LK Nordwestmecklenburg (alt);WIS;0;Mecklenburg-Vorpommern;0;11013058
+LK Ostvorpommern;OVP;0;Mecklenburg-Vorpommern;0;11013059
+LK Parchim;SN;0;Mecklenburg-Vorpommern;0;11013060
+LK Rügen;RÜG;0;Mecklenburg-Vorpommern;0;11013061
+LK Uecker-Randow;UER;0;Mecklenburg-Vorpommern;0;11013062
+LK Mecklenburgische Seenplatte;MSE;0;Mecklenburg-Vorpommern;0;11013071
+LK Rostock;LRO;0;Mecklenburg-Vorpommern;0;11013072
+LK Vorpommern-Rügen;VR;0;Mecklenburg-Vorpommern;0;11013073
+LK Nordwestmecklenburg;NWM;0;Mecklenburg-Vorpommern;0;11013074
+LK Vorpommern-Greifswald;VG;0;Mecklenburg-Vorpommern;0;11013075
+LK Ludwigslust-Parchim;LUP;0;Mecklenburg-Vorpommern;0;11013076
+SK Chemnitz;C;0;Sachsen;0;11014511
+LK Erzgebirgskreis;ERZ;0;Sachsen;0;11014521
+LK Mittelsachsen;FG;0;Sachsen;0;11014522
+LK Vogtlandkreis;V;0;Sachsen;0;11014523
+LK Zwickau;Z;0;Sachsen;0;11014524
+SK Dresden;DD;0;Sachsen;0;11014612
+LK Bautzen;BZ;0;Sachsen;0;11014625
+LK Görlitz;GR;0;Sachsen;0;11014626
+LK Meißen;MEI;0;Sachsen;0;11014627
+LK Sächsische Schweiz-Osterzgebirge;PIR;0;Sachsen;0;11014628
+SK Leipzig;L;0;Sachsen;0;11014713
+LK Leipzig;L;0;Sachsen;0;11014729
+LK Nordsachsen;TDO;0;Sachsen;0;11014730
+SK Dessau-Roßlau;DE;0;Sachsen-Anhalt;0;11015001
+SK Halle;HAL;0;Sachsen-Anhalt;0;11015002
+SK Magdeburg;MD;0;Sachsen-Anhalt;0;11015003
+LK Altmarkkreis Salzwedel;SAW;0;Sachsen-Anhalt;0;11015081
+LK Anhalt-Bitterfeld;BTF;0;Sachsen-Anhalt;0;11015082
+LK Börde;BÖ;0;Sachsen-Anhalt;0;11015083
+LK Burgenlandkreis;BLK;0;Sachsen-Anhalt;0;11015084
+LK Harz;HZ;0;Sachsen-Anhalt;0;11015085
+LK Jerichower Land;JL;0;Sachsen-Anhalt;0;11015086
+LK Mansfeld-Südharz;MSH;0;Sachsen-Anhalt;0;11015087
+LK Saalekreis;SK;0;Sachsen-Anhalt;0;11015088
+LK Salzlandkreis;SLK;0;Sachsen-Anhalt;0;11015089
+LK Stendal;SDL;0;Sachsen-Anhalt;0;11015090
+LK Wittenberg;WB;0;Sachsen-Anhalt;0;11015091
+SK Erfurt;EF;0;Thüringen;0;11016051
+SK Gera;G;0;Thüringen;0;11016052
+SK Jena;J;0;Thüringen;0;11016053
+SK Suhl;SHL;0;Thüringen;0;11016054
+SK Weimar;WE;0;Thüringen;0;11016055
+SK Eisenach;EA;0;Thüringen;0;11016056
+LK Eichsfeld;EIC;0;Thüringen;0;11016061
+LK Nordhausen;NDH;0;Thüringen;0;11016062
+LK Wartburgkreis;WAK;0;Thüringen;0;11016063
+LK Unstrut-Hainich-Kreis;UH;0;Thüringen;0;11016064
+LK Kyffhäuserkreis;KYF;0;Thüringen;0;11016065
+LK Schmalkalden-Meiningen;SM;0;Thüringen;0;11016066
+LK Gotha;GTH;0;Thüringen;0;11016067
+LK Sömmerda;SÖM;0;Thüringen;0;11016068
+LK Hildburghausen;SHL;0;Thüringen;0;11016069
+LK Ilm-Kreis;SHL;0;Thüringen;0;11016070
+LK Weimarer Land;WE;0;Thüringen;0;11016071
+LK Sonneberg;SON;0;Thüringen;0;11016072
+LK Saalfeld-Rudolstadt;SLF;0;Thüringen;0;11016073
+LK Saale-Holzland-Kreis;SHK;0;Thüringen;0;11016074
+LK Saale-Orla-Kreis;SOK;0;Thüringen;0;11016075
+LK Greiz;GRZ;0;Thüringen;0;11016076
+LK Altenburger Land;ABG;0;Thüringen;0;11016077

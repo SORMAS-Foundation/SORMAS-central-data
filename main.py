@@ -103,35 +103,35 @@ def main():
     #os.mkdir("./out/")
     #os.mkdir("./out/international")
     #os.mkdir("./out/germany")
-    int_continents = read_csv('./import/csv/international/sormas_import_all_continents.csv', ',')
+    int_continents = read_csv('./in/international/sormas_import_all_continents.csv', ',')
     global continent_dtos
     continent_dtos = int_continents[0]
     store(int_continents, './out/international/continent')
 
-    int_subcontinents = read_csv('./import/csv/international/sormas_import_all_subcontinents.csv', ',')
+    int_subcontinents = read_csv('./in/international/sormas_import_all_subcontinents.csv', ',')
     global subcontinent_dtos
     subcontinent_dtos = int_subcontinents[0]
     store(int_subcontinents, './out/international/subcontinent')
 
-    int_countries = read_csv('./import/csv/international/sormas_import_all_countries.csv', ',')
+    int_countries = read_csv('./in/international/sormas_import_all_countries.csv', ',')
     store(int_countries, './out/international/sormas_import_all_countries')
 
-    int_countries = read_csv('./import/csv/germany/sormas_laender_survnet.csv', ';')
+    int_countries = read_csv('./in/germany/sormas_laender_survnet.csv', ';')
     global country_dtos
     country_dtos = int_countries[0]
     store(int_countries, './out/germany/country')
 
-    int_regions = read_csv('./import/csv/germany/sormas_bundeslaender_master.csv', ';')
+    int_regions = read_csv('./in/germany/sormas_bundeslaender_master.csv', ';')
     global region_dtos
     region_dtos = int_regions[0]
     store(int_regions, './out/germany/region')
 
-    int_districts = read_csv('./import/csv/germany/sormas_landkreise_master.csv', ';')
+    int_districts = read_csv('./in/germany/sormas_landkreise_master.csv', ';')
     global district_dtos
     district_dtos = int_districts[0]
     store(int_districts, './out/germany/district')
 
-    int_communities = read_csv('./import/csv/germany/sormas_gemeinden_master.csv', ';')
+    int_communities = read_csv('./in/germany/sormas_gemeinden_master.csv', ';')
     store(int_communities, './out/germany/community')
     pass
 
